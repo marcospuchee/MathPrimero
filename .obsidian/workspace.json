@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 Análisis/Conjunto Real.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e0dd84eb296dc65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Estadística básica/Aprendizaje estadístico.md",
+                "file": "100 Análisis/Diferencias entre los reales y los racionales.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Estadística básica/Aprendizaje estadístico.md",
+                "file": "100 Análisis/Diferencias entre los reales y los racionales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Estadística básica/Aprendizaje estadístico.md",
+                "file": "100 Análisis/Diferencias entre los reales y los racionales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Estadística básica/Aprendizaje estadístico.md"
+                "file": "100 Análisis/Diferencias entre los reales y los racionales.md"
               }
             }
           },
@@ -169,10 +156,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e0dd84eb296dc65",
+  "active": "968955a1c805df12",
   "lastOpenFiles": [
     "100 Análisis/Conjunto Real.md",
+    "100 Análisis/Diferencias entre los reales y los racionales.md",
     "100 Análisis/Axiomas de Peano (Conjunto Natural).md",
+    "000 Estadística básica/Aprendizaje estadístico.md",
     "200 Álgebra lineal y geometría/Sistema de ecuaciones.md",
     "200 Álgebra lineal y geometría/Equivalencias entre sistemas de ecuaciones.md",
     "100 Análisis/Principio de inducción matemática.md",
@@ -189,7 +178,6 @@
     "100 Análisis",
     "000 Estadística básica/Aprendizaje semi-supervisado.md",
     "Reference notes/James.md",
-    "000 Estadística básica/Aprendizaje estadístico.md",
     "000 Estadística básica/Aprendizaje no supervisado.md",
     "Attachements/Pasted image 20230912193436.png",
     "000 Estadística básica/Diferencias entre aprendizaje supervisado y no supervisado.md",
@@ -200,7 +188,6 @@
     "000 Estadística básica/Errores en la predictibilidad.md",
     "000 Estadística básica/Overfitting.md",
     "000 Estadística básica/Métodos paramétricos.md",
-    "000 Estadística básica/Métodos para predecir cantidades.md",
     "Attachements",
     "Reference notes",
     "Templates",
