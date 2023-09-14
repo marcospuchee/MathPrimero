@@ -18,7 +18,7 @@ Existe un conjunto $\mathbb{R}$ cuyos elementos se denominan números reales dot
 - OR2: Propiedad transitiva. Si $x, y, z \in \mathbb{R}, x<y, y<z$ entonces, $x<z$
 - OR3: Monotonía respecto de la suma. Si $x,y,z \in \mathbb{R}$ con $x<y$ entonces $x+z < y+z$
 - OR4: Monotonía respecto del producto por un número positivo. Si $x,y,z \in \mathbb{R}$ con $x<y$ y $0<z$ entonces $xz < yz$
-- OR5: Axioma del supremo. Si $A \subset \mathbb{R}$ es no vacío y está acotado superiormente, entonces existe una cota superior de $A$ que es la menor de todas. Dicha cota se llama supremo de $A$.
+- OR5: Axioma del supremo. Si $A \subset \mathbb{R}$ es no vacío y está acotado superiormente, entonces existe una cota superior de $A$ que es la menor de todas. Dicha cota se llama supremo de $A$. Este axioma desencadena en teoremas como el [[Teorema del ínfimo de un subconjunto]].
 
 
 --- 

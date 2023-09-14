@@ -1,6 +1,6 @@
 ### Contenido principal
 
-Estas son las posibles soluciones a un sistema de ecuaciones lineales (ver [[Sistema de ecuaciones]]).
+Estas son las posibles soluciones a un sistema de ecuaciones lineales (ver [[Sistemas de ecuaciones lineales]]).
 
 Dado un sistema de ecuaciones, puede pasar:
 1. Tiene solución (sistema compatible (SC)).
