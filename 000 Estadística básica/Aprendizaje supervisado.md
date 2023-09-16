@@ -6,7 +6,6 @@ Ejemplos de problemas dentro del dominio del aprendizaje supervisado hemos visto
 
 Ejemplos de métodos ('herramientas') dentro del dominio del aprendizaje supervisado hemos vista los [[Métodos paramétricos]] y los [[Métodos no paramétricos]].
 
-
 --- 
 ### Referencias
 [[James#Aprendizaje estadístico]]

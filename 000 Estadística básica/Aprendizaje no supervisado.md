@@ -6,6 +6,7 @@ Este tipo de problemas se tratan de resolver principalmente con el fin de encont
 
 ![[Pasted image 20230912193436.png]]
 
+Un ejemplo de aprendizaje no supervisado es la [[Inferencia estadística]]
 
 --- 
 ### Referencias

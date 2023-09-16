@@ -5,8 +5,10 @@ Los métodos paramétricos, al igual que los [[Métodos no paramétricos]], son 
 2. Encontrar una forma que aproxime los valores de $\beta 0, \beta1, \beta2$… Existen algunos métodos como el de *mínimos cuadrados ordinarios* que sirven para esto.
 
 Se llaman paramétricos porque el problema se reduce a tener que estimar el valor de ciertos parámetros.
- 
+
 Sin embargo este tipo de métodos plantean un problema y es que el modelo linear que se escoja puede no llegar a dar un resultado cercano a el valor real de $f(X)$. Una forma de resolver este problema es utilizar modelos flexibles, que permiten distintas formas de $f$, pero esto puede desencadenar en otro problema que es el *[[Overfitting]]* de la información.
+
+Un ejemplo de método paramétrico es la *regresión lineal*
 
 --- 
 ### Referencias

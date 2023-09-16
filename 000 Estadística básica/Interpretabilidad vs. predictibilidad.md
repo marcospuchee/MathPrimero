@@ -10,3 +10,4 @@ A pesar de esto, en algunos problemas de predictibilidad se utilizarán modelos 
 
 --- 
 ### Referencias
+[[James#Aprendizaje estadístico]]

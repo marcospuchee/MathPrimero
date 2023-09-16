@@ -6,6 +6,7 @@ Por otro lado, en la [[Predictibilidad en el aprendizaje estadístico]], se extr
 
 Dependiendo de si la tarea es de inferencia o de predictibilidad, se utilizarán métodos, como los [[Métodos paramétricos]] y los [[Métodos no paramétricos]] para estimar $f$. En el caso de la inferencia estadística, se buscan modelos más restrictivos como puedes ver en [[Interpretabilidad vs. predictibilidad]].
 
+La inferencia estadística forma parte del [[Aprendizaje no supervisado]]
 
 --- 
 ### Referencias

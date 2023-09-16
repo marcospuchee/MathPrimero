@@ -13,3 +13,5 @@
 - [[Aprendizaje supervisado]]
 - [[Aprendizaje no supervisado]]
 - [[Aprendizaje semi-supervisado]]
+- [[Interpretabilidad vs. predictibilidad]]
+- [[Error cuadrático medio]]

@@ -16,4 +16,3 @@ Estas son las formas de [[Representación gráfica de los valores de variables]]
 
 --- 
 ### Referencias
-[[variables]]

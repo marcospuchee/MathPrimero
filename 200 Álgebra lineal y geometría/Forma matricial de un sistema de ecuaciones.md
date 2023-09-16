@@ -42,7 +42,7 @@ sea B la matriz de términos independientes; entonces se llama forma matricial d
 $$
 A la matriz ampliada del sistema $AX = B$.
 
-
+Esta es la [[Forma normal de una matriz]]
 
 --- 
 ### Referencias

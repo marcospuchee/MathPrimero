@@ -5,7 +5,7 @@ Sea $A \in M_{mxn} (k)$ se llama transformación elemental de filas a cualquiera
 2. Multiplicar una fila por un escalar no nulo.
 3. Sumar a una fila un múltiplo de otra.
 
-Ver [[Matrices equivalentes por filas]].
+Ver [[Equivalencia por filas de matrices]].
 
 --- 
 ### Referencias
