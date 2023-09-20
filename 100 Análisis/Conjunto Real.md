@@ -1,13 +1,13 @@
 ### Contenido principal
 
 Existe un conjunto $\mathbb{R}$ cuyos elementos se denominan números reales dotados de dos operaciones $+$ (suma) y $*$ (producto) y una relación binaria $<$. El conjunto $\mathbb{R}$ verifica los siguientes axiomas:
-- S1. La suma es una l.c.i: si $x, y \in \mathbb{R}$ entonces $x + y \in \mathbb{R}$.
+- S1. La suma es una l.c.i ([[Ley de composición interna (lci)]]): si $x, y \in \mathbb{R}$ entonces $x + y \in \mathbb{R}$.
 - S2. Propiedad asociativa: $(x+y)+z = x+(y+z), \forall x,y,z \in \mathbb{R}$
 - S3. Existencia elemento neutro: $\exists 0 \in \mathbb{R} : x + 0 = 0 + x = x, \forall x \in \mathbb{R}$
 - S4. Existencia elemento opuesto: $\forall x \in \mathbb{R}, \exists -x \in \mathbb{R}$ tal que $x + (-x) = (-x) + x = 0$
 - S5. Propiedad conmutativa: $x+y=y+x, \forall x,y \in \mathbb{R}$
 
-- P1. El producto es una l.c.i: $\forall x,y \in \mathbb{R}, x*y \in \mathbb{R}$
+- P1. El producto es una l.c.i ([[Ley de composición interna (lci)]]): $\forall x,y \in \mathbb{R}, x*y \in \mathbb{R}$
 - P2. Propiedad asociativa: $(x*y)*z = x*(y*z), \forall x,y,z \in \mathbb{R}$
 - P3. Existencia elemento unidad: $\exists 1 \in \mathbb{R}: x1 = 1x = x, \forall x \in \mathbb{R}$
 - P4: Existencia elemento inverso: $\forall x \in \mathbb{R} - \{0\}, \exists x^{-1} \in \mathbb{R}$ tal que $xx^{-1} = x^{-1}x =1$
@@ -23,4 +23,4 @@ Existe un conjunto $\mathbb{R}$ cuyos elementos se denominan números reales dot
 
 --- 
 ### Referencias
-
+[[El supremo y el ínfimo son únicos, cuando existen]]

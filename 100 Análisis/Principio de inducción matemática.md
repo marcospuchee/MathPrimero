@@ -6,8 +6,7 @@ Sea $A \subset \mathbb{N}$ que verifica una cierta propiedad $P$. Suponemos dos 
 
 Si ambas hipótesis se cumplen, $A=\mathbb{N}$; todo natural cumple $P$.
 
-Ejemplo en uso: ![[Ejemplo principio de inducción.pdf]]
-El principio de inducción matemática parte del quinto axioma de Peano ([[Axiomas de Peano (Conjunto Natural)]]).
+El principio de inducción matemática parte del quinto axioma de Peano ([[Axiomas de Peano (Conjunto Natural)]]) y es un  [[Tipos de demostraciones]]
 
 --- 
 ### Referencias

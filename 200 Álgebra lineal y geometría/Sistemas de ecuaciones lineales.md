@@ -33,3 +33,4 @@ Estas son las [[Posibles soluciones de un sistema de ecuaciones]].
 - [[Discusión de sistemas de ecuaciones]]
 - [[Teorema Rouche-Frobenius]]
 - [[Rango de una matriz]]
+- [[Teorema Rouche-Frobenius]]

@@ -7,3 +7,4 @@ El principio de buena ordenación explica que no existe un subconjunto no vacío
 
 --- 
 ### Referencias
+[[Parte entera]]

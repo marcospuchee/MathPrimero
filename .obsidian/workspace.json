@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6258dbba904e944a",
+        "id": "c1a2d59c0a96874a",
         "type": "tabs",
         "children": [
           {
-            "id": "0d9e0a84ab22e32a",
+            "id": "7bc58401ba9aa73c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300 Matemática básica/Implicación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62300d1942796325",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "l.c.i",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Matemática básica/Implicación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300 Matemática básica/Implicación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "300 Matemática básica/Implicación.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,35 +149,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62300d1942796325",
+  "active": "7bc58401ba9aa73c",
   "lastOpenFiles": [
-    "Reference notes/Eccles.md",
-    "300 Matemática básica/Implicación.md",
-    "300 Matemática básica/Tipos de demostración.md",
-    "300 Matemática básica/Tablas de verdad.md",
-    "300 Matemática básica/Definiciones básicas.md",
-    "300 Matemática básica/Sentencias universales.md",
-    "200 Álgebra lineal y geometría/Teorema Rouche-Frobenius.md",
+    "200 Álgebra lineal y geometría/Grupos.md",
+    "200 Álgebra lineal y geometría/Espacio vectorial.md",
+    "200 Álgebra lineal y geometría/Ley de composición interna (lci).md",
+    "Aplicaciones.md",
+    "200 Álgebra lineal y geometría/Ley de composición externa (lce).md",
+    "200 Álgebra lineal y geometría/Producto cartesiano.md",
+    "100 Análisis/Conjunto Real.md",
     "200 Álgebra lineal y geometría/Sistemas de ecuaciones lineales.md",
-    "200 Álgebra lineal y geometría/Rango de una matriz.md",
-    "200 Álgebra lineal y geometría/Forma matricial de un sistema de ecuaciones.md",
-    "200 Álgebra lineal y geometría/Discusión de sistemas de ecuaciones.md",
-    "200 Álgebra lineal y geometría/Matriz escalonada reducida por filas.md",
-    "200 Álgebra lineal y geometría/Matriz escalonada por filas.md",
-    "200 Álgebra lineal y geometría/Forma normal de una matriz.md",
-    "200 Álgebra lineal y geometría/Pivote de una matriz.md",
-    "200 Álgebra lineal y geometría/Método Gauss-Jordan.md",
-    "100 Análisis/Principio de inducción matemática.md",
     "Reference notes/Matemática Básica I.md",
-    "100 Análisis/Algoritmo de la división.md",
-    "200 Álgebra lineal y geometría/Teorema existencia singular de matriz escalonada reducida por filas equivalente.md",
-    "200 Álgebra lineal y geometría/Equivalencia por filas de matrices.md",
-    "200 Álgebra lineal y geometría/Transformación elemental de filas.md",
-    "000 Estadística básica/Error cuadrático medio.md",
-    "Reference notes/James.md",
-    "Templates/Teorema.md",
+    "000 Estadística básica/Diagramas de cajas.md",
+    "200 Álgebra lineal y geometría/Teorema Rouche-Frobenius.md",
+    "300 Matemática básica/Principio de inducción fuerte.md",
+    "100 Análisis/Principio de inducción matemática.md",
+    "300 Matemática básica/Tipos de demostraciones.md",
+    "000 Estadística básica/Cálculo diagrama de cajas.md",
+    "000 Estadística básica/Representación gráfica de los valores de variables.md",
+    "000 Estadística básica/Desarrollo varianza !!!.md",
+    "000 Estadística básica/Histograma.md",
+    "000 Estadística básica/Coeficiente de variación.md",
+    "000 Estadística básica/Medidas de tendencia central.md",
+    "000 Estadística básica/Medidas de posición.md",
+    "000 Estadística básica/Medidas de dispersión.md",
+    "100 Análisis/Propiedades del valor absoluto.md",
+    "100 Análisis/Valor absoluto.md",
+    "100 Análisis/Teorema de los intervalos encajados de Cantor.md",
+    "100 Análisis/Familia de intervalos encajados.md",
+    "Attachments/Pasted image 20230912193436.png",
+    "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
     "300 Matemática básica",
-    "000 Estadística básica/Muestreo aleatorio simple.md",
     "Attachments/Ejemplo principio de inducción.pdf",
     "Attachments/Ejercicios demostración 14-09-23.pdf",
     "200 Álgebra lineal y geometría",
@@ -205,7 +188,6 @@
     "Attachements/Pasted image 20230912193436.png",
     "Attachements",
     "Reference notes",
-    "Templates",
-    "000 Estadística básica"
+    "Templates"
   ]
 }

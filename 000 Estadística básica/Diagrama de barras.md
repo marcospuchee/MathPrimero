@@ -1,6 +1,6 @@
 ### Contenido principal
 
-El diagrama de barras se utiliza con las variables cualitativas o cuantitativas discretas con pocos valores (ver [[Tipos de variables]]). De todas formas, también se puede usar con las cuantitativas continuas, pero a intervalos ([[histograma]]).
+El diagrama de barras se utiliza con las variables cualitativas o cuantitativas discretas con pocos valores (ver [[Tipos de variables]]). De todas formas, también se puede usar con las cuantitativas continuas, pero a intervalos ([[Histograma]]).
 
 Para realizar un diagrama de barras se efectúa primero una [[Tabla de frecuencias]].
 

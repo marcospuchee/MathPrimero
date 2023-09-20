@@ -6,3 +6,6 @@
 - ##### 2.1 Implicaciones
 	- [[Sentencias universales]]
 	- [[Implicación]]
+
+### 3. Demostraciones
+- [[Tipos de demostraciones]]

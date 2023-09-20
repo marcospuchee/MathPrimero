@@ -12,7 +12,7 @@ Estas son las tablas de verdad para conocer si un enunciado ([[Definiciones bás
 En caso de que el enunciado sea todo 1 (todo cierto), se considera una tautología.
 En caso de que el enunciado sea todo 0 (todo falso), se considera una contradicción.
 
-De cualquier modo, hay ciertas afirmaciones que no se pueden demostrar que sean ciertas tan simplemente. Por esta razón, existen distintos [[Tipos de demostración]]
+De cualquier modo, hay ciertas afirmaciones que no se pueden demostrar que sean ciertas tan simplemente. Por esta razón, existen distintos [[Tipos de demostraciones]]
 
 --- 
 ### Referencias

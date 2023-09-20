@@ -12,4 +12,5 @@ Llamamos $-A = \{-a \in \mathbb{R} : a \in A \}$. Por el axioma del supremo (OR5
 
 ---
 ### Referencias
-
+[[Conjunto Real]]
+[[El supremo y el ínfimo son únicos, cuando existen]]
