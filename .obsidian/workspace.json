@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a2d59c0a96874a",
+        "id": "1a48e9563d743dee",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc58401ba9aa73c",
+            "id": "c72af611e899b7bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "300 Matemática básica/Producto cartesiano en matemática básica.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "300 Matemática básica/Producto cartesiano en matemática básica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "300 Matemática básica/Producto cartesiano en matemática básica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "300 Matemática básica/Producto cartesiano en matemática básica.md"
+              }
             }
           },
           {
@@ -149,34 +157,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7bc58401ba9aa73c",
+  "active": "c72af611e899b7bd",
   "lastOpenFiles": [
+    "200 Álgebra lineal y geometría/Producto cartesiano en álgebra lineal.md",
+    "300 Matemática básica/Producto cartesiano en matemática básica.md",
+    "200 Álgebra lineal y geometría/Forma matricial de un sistema de ecuaciones.md",
+    "200 Álgebra lineal y geometría/Sistemas de ecuaciones lineales.md",
+    "000 Estadística básica/Interpretabilidad vs. predictibilidad.md",
+    "000 Estadística básica/Gráfica de sectores.md",
+    "300 Matemática básica/Propiedades de un conjunto universal.md",
+    "300 Matemática básica/Conjunto potencia.md",
+    "300 Matemática básica/Complemento de un conjunto.md",
+    "300 Matemática básica/Conjunto universal.md",
+    "100 Análisis/Sucesión geométrica.md",
+    "100 Análisis/Sumatorio de una sucesión geométrica.md",
+    "100 Análisis/Sucesión.md",
+    "100 Análisis/Sucesión aritmética.md",
+    "100 Análisis/Sumatorio de una sucesión aritmética.md",
     "200 Álgebra lineal y geometría/Grupos.md",
     "200 Álgebra lineal y geometría/Espacio vectorial.md",
     "200 Álgebra lineal y geometría/Ley de composición interna (lci).md",
-    "Aplicaciones.md",
+    "200 Álgebra lineal y geometría/Aplicaciones.md",
     "200 Álgebra lineal y geometría/Ley de composición externa (lce).md",
-    "200 Álgebra lineal y geometría/Producto cartesiano.md",
     "100 Análisis/Conjunto Real.md",
-    "200 Álgebra lineal y geometría/Sistemas de ecuaciones lineales.md",
     "Reference notes/Matemática Básica I.md",
     "000 Estadística básica/Diagramas de cajas.md",
     "200 Álgebra lineal y geometría/Teorema Rouche-Frobenius.md",
     "300 Matemática básica/Principio de inducción fuerte.md",
     "100 Análisis/Principio de inducción matemática.md",
-    "300 Matemática básica/Tipos de demostraciones.md",
-    "000 Estadística básica/Cálculo diagrama de cajas.md",
-    "000 Estadística básica/Representación gráfica de los valores de variables.md",
-    "000 Estadística básica/Desarrollo varianza !!!.md",
-    "000 Estadística básica/Histograma.md",
-    "000 Estadística básica/Coeficiente de variación.md",
-    "000 Estadística básica/Medidas de tendencia central.md",
-    "000 Estadística básica/Medidas de posición.md",
-    "000 Estadística básica/Medidas de dispersión.md",
-    "100 Análisis/Propiedades del valor absoluto.md",
-    "100 Análisis/Valor absoluto.md",
-    "100 Análisis/Teorema de los intervalos encajados de Cantor.md",
-    "100 Análisis/Familia de intervalos encajados.md",
     "Attachments/Pasted image 20230912193436.png",
     "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
     "300 Matemática básica",
