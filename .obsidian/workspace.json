@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a48e9563d743dee",
+        "id": "28acc302ac83bff8",
         "type": "tabs",
         "children": [
           {
-            "id": "c72af611e899b7bd",
+            "id": "852bf5ea8c8c1aeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Matemática básica/Producto cartesiano en matemática básica.md",
+                "file": "200 Álgebra lineal y geometría/Espacio vectorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Matemática básica/Producto cartesiano en matemática básica.md",
+                "file": "200 Álgebra lineal y geometría/Espacio vectorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300 Matemática básica/Producto cartesiano en matemática básica.md",
+                "file": "200 Álgebra lineal y geometría/Espacio vectorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300 Matemática básica/Producto cartesiano en matemática básica.md"
+                "file": "200 Álgebra lineal y geometría/Espacio vectorial.md"
               }
             }
           },
@@ -157,34 +157,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c72af611e899b7bd",
+  "active": "852bf5ea8c8c1aeb",
   "lastOpenFiles": [
-    "200 Álgebra lineal y geometría/Producto cartesiano en álgebra lineal.md",
-    "300 Matemática básica/Producto cartesiano en matemática básica.md",
-    "200 Álgebra lineal y geometría/Forma matricial de un sistema de ecuaciones.md",
-    "200 Álgebra lineal y geometría/Sistemas de ecuaciones lineales.md",
-    "000 Estadística básica/Interpretabilidad vs. predictibilidad.md",
-    "000 Estadística básica/Gráfica de sectores.md",
-    "300 Matemática básica/Propiedades de un conjunto universal.md",
-    "300 Matemática básica/Conjunto potencia.md",
-    "300 Matemática básica/Complemento de un conjunto.md",
-    "300 Matemática básica/Conjunto universal.md",
-    "100 Análisis/Sucesión geométrica.md",
-    "100 Análisis/Sumatorio de una sucesión geométrica.md",
-    "100 Análisis/Sucesión.md",
-    "100 Análisis/Sucesión aritmética.md",
-    "100 Análisis/Sumatorio de una sucesión aritmética.md",
-    "200 Álgebra lineal y geometría/Grupos.md",
+    "Proposiciones espacios vectoriales.md",
+    "Reference notes/James.md",
     "200 Álgebra lineal y geometría/Espacio vectorial.md",
-    "200 Álgebra lineal y geometría/Ley de composición interna (lci).md",
-    "200 Álgebra lineal y geometría/Aplicaciones.md",
-    "200 Álgebra lineal y geometría/Ley de composición externa (lce).md",
-    "100 Análisis/Conjunto Real.md",
-    "Reference notes/Matemática Básica I.md",
-    "000 Estadística básica/Diagramas de cajas.md",
-    "200 Álgebra lineal y geometría/Teorema Rouche-Frobenius.md",
-    "300 Matemática básica/Principio de inducción fuerte.md",
-    "100 Análisis/Principio de inducción matemática.md",
+    "200 Álgebra lineal y geometría/Subespacio vectorial.md",
+    "200 Álgebra lineal y geometría/Sistema de generadores de un espacio vectorial.md",
+    "300 Matemática básica/Conjunto potencia.md",
+    "300 Matemática básica/Leyes De Morgan.md",
+    "200 Álgebra lineal y geometría/Proposiciones dependencia lineal.md",
+    "300 Matemática básica/Propiedades de la unión e intersección de conjuntos.md",
+    "200 Álgebra lineal y geometría/Dependencia lineal.md",
+    "200 Álgebra lineal y geometría/Independencia lineal.md",
+    "200 Álgebra lineal y geometría/Combinación lineal.md",
+    "100 Análisis/Sucesiones acotadas.md",
+    "000 Estadística básica/Probabilidad condicional.md",
+    "000 Estadística básica/Probabilidad.md",
+    "000 Estadística básica/Teorema de LaPlace sobre el cálculo probabilístico.md",
+    "100 Análisis/Sucesión.md",
+    "100 Análisis/Subsucesión.md",
+    "100 Análisis/Sucesión monótona.md",
+    "100 Análisis/Operaciones con sucesiones.md",
+    "200 Álgebra lineal y geometría/Suma de subespacios.md",
+    "200 Álgebra lineal y geometría/Teorema de la suma de los subespacios.md",
+    "000 Estadística básica/Transformación lineal de una muestra.md",
+    "000 Estadística básica/Medidas de posición.md",
+    "000 Estadística básica/Medidas de tendencia central.md",
+    "000 Estadística básica/Error cuadrático medio.md",
     "Attachments/Pasted image 20230912193436.png",
     "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
     "300 Matemática básica",
