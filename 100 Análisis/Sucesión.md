@@ -23,3 +23,6 @@ Una sucesión puede comenzar por cualquier número natural.
 - [[Sucesión monótona]]
 - [[Subsucesión]]
 - [[Sucesiones acotadas]]
+- [[La suma de dos sucesiones acotadas también está acotada]]
+- [[El producto de dos sucesiones acotadas también está acotado]]
+- [[Límite de una sucesión]]

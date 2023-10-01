@@ -6,3 +6,4 @@ El conjunto universal se denota $U$.
 
 --- 
 ### Referencias
+[[Teoría de conjuntos y aplicaciones]]

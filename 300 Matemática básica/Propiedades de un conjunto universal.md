@@ -10,4 +10,5 @@ Sean $A, B, C$ subconjuntos de un conjunto universal $U$, estas son las propieda
 
 --- 
 ### Referencias
+[[Teoría de conjuntos y aplicaciones]]
 [[Conjunto universal]]
