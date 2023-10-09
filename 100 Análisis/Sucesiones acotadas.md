@@ -7,3 +7,4 @@ Una sucesión $(a_n)_{n=1}^\infty$ se dice que es acotada si lo está superior e
 --- 
 ### Referencias
 [[Sucesión]]
+[[Teorema si una sucesión es de Cauchy, está acotada]]

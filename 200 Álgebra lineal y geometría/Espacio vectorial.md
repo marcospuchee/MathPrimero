@@ -29,3 +29,4 @@ Sea $k$ un cuerpo y $V$ un conjunto no vacío, diremos que $V$ es un espacio vec
 - [[Bases de un espacio vectorial]]
 - [[Combinación lineal]]
 - [[Subespacio generado]]
+- [[(POR DEMOSTRAR) Teorema subespacio generado]]

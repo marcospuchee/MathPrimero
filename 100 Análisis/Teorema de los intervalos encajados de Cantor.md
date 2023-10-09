@@ -14,7 +14,7 @@ Como $[a_{n+1}, b_{n+1} ] \subset [a_n, b_n] \forall n \in \mathbb{N}$, se puede
 
 Luego $A$ está acotado superiormente y $B$ está acotado inferiormente, luego existen el $supA = a$ y existe el $infB = b$. Además $a \le b$.
 Veamos que $[a, b] = \cap_{n\in\mathbb{N}} I_n$: en efecto, $x \in [a,b] \iff a \le x \le b$. (??? [[Teorema de la densidad de Q en R]]).
-Como $a = supA$ y $b = infB$, $a_n \le x \le b_n \forall n \in \mathbb{N}$, por lo que $x \in [a_n, b_n]$ y $x \in \cap_{n \in \mathbb{N}} [a_n, b_n]$.ç
+Como $a = supA$ y $b = infB$, $a_n \le x \le b_n \forall n \in \mathbb{N}$, por lo que $x \in [a_n, b_n]$ y $x \in \cap_{n \in \mathbb{N}} [a_n, b_n]$.
 En conclusión $[a,b] \subset \cap I_n$.
 
 ##### Demostración de que se reduce a un único punto (si se cumplen las condiciones necesarias)

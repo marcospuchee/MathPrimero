@@ -14,3 +14,5 @@ Un experimento aleatorio es aleatorio porque no conozco que va a suceder. Sin em
 ### Índice
 - [[Teorema de LaPlace sobre el cálculo probabilístico]].
 - [[Probabilidad condicional]]
+- [[Variable aleatoria]]
+- [[Soporte de una variable aleatoria]]
