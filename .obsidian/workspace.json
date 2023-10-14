@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ce080f8841d2fd90",
+        "id": "d2ad3561752b3fad",
         "type": "tabs",
         "children": [
           {
-            "id": "e6384297f3c8c703",
+            "id": "b59b9c142a243fa0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "100 Análisis/Propiedades para el cálculo de límites infinitos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100 Análisis/Propiedades para el cálculo de límites infinitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 Análisis/Propiedades para el cálculo de límites infinitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100 Análisis/Propiedades para el cálculo de límites infinitos.md"
+              }
             }
           },
           {
@@ -149,34 +157,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e6384297f3c8c703",
+  "active": "5e6eb8f7956acf1a",
   "lastOpenFiles": [
-    "100 Análisis/Teorema de Bolzano-Weierstrass.md",
-    "100 Análisis/Índice cumbre.md",
+    "Attachments/Pasted image 20231014120505.png",
+    "Attachments/Pasted image 20231014120448.png",
+    "Attachments/Pasted image 20231014120434.png",
     "100 Análisis/Sucesión.md",
-    "100 Análisis/Teorema si una sucesión es de Cauchy, está acotada.md",
-    "Índice.md",
-    "100 Análisis/El límite, cuando existe, es único.md",
-    "100 Análisis/Sucesiones acotadas.md",
-    "100 Análisis/Sucesión de Cauchy.md",
-    "100 Análisis/Teorema toda sucesión convergente es de Cauchy.md",
-    "200 Álgebra lineal y geometría/Independencia lineal.md",
-    "200 Álgebra lineal y geometría/Sistema de generadores de un espacio vectorial.md",
-    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Teorema subespacio generado.md",
+    "100 Análisis/Propiedades para el cálculo de límites infinitos.md",
+    "100 Análisis/Sucesión divergente.md",
+    "100 Análisis/Propiedades para el cálculo de límites.md",
+    "100 Análisis/Sucesión finitamente oscilante.md",
+    "100 Análisis/Sucesión infinitamente oscilante.md",
+    "100 Análisis/Sucesión oscilante.md",
+    "200 Álgebra lineal y geometría/Teorema equivalencia entre base, sg minimal y sl maximal.md",
     "200 Álgebra lineal y geometría/Espacio vectorial.md",
+    "200 Álgebra lineal y geometría/Base de un espacio vectorial.md",
+    "200 Álgebra lineal y geometría/Sistema libre maximal.md",
+    "200 Álgebra lineal y geometría/Sistema generador minimal.md",
+    "200 Álgebra lineal y geometría/Sistema generador de un espacio vectorial.md",
+    "200 Álgebra lineal y geometría/Independencia lineal.md",
+    "200 Álgebra lineal y geometría/Proposiciones dependencia lineal.md",
+    "200 Álgebra lineal y geometría/Espacio vectorial finitamente generado.md",
+    "200 Álgebra lineal y geometría/S base de V sii todo vector de V se puede expresar de forma única como c.l. de vectores de S.md",
     "200 Álgebra lineal y geometría/Bases de un espacio vectorial.md",
-    "300 Matemática básica/La composición de aplicaciones es asociativa.md",
-    "200 Álgebra lineal y geometría/Subespacio vectorial.md",
-    "200 Álgebra lineal y geometría/Subespacio generado.md",
-    "300 Matemática básica/Aplicaciones inyectivas, sobreyectivas y biyectivas.md",
+    "200 Álgebra lineal y geometría/Grupos.md",
+    "300 Matemática básica/Estructuras algebraicas elementales.md",
+    "200 Álgebra lineal y geometría/Ley de composición interna (lci).md",
+    "300 Matemática básica/Propiedades de las leyes de composición interna.md",
     "300 Matemática básica/Antimagen de una aplicación.md",
-    "300 Matemática básica/Composición de aplicaciones.md",
-    "200 Álgebra lineal y geometría/Aplicaciones.md",
-    "300 Matemática básica/Partición de un conjunto.md",
-    "Teoría de conjuntos y aplicaciones.md",
-    "100 Análisis/Toda sucesión creciente y acotada superiormente es convergente.md",
-    "100 Análisis/Toda sucesión decreciente y acotada inferiormente es convergente.md",
-    "100 Análisis/Una subsucesión de una sucesión convergente converge al mismo límite.md",
+    "300 Matemática básica/Aplicaciones inyectivas, sobreyectivas y biyectivas.md",
+    "300 Matemática básica/Complemento de un conjunto.md",
+    "Attachments/Pasted image 20231014103637.png",
     "Attachments/Pasted image 20230912193436.png",
     "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
     "300 Matemática básica",

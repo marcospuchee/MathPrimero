@@ -1,0 +1,8 @@
+### Contenido principal
+
+Sea $V$ un $k$-ev, decimos que $V$ es finitamente generado (f.g.) si posee un sistema generador ([[Sistema generador de un espacio vectorial]]) finito.
+
+
+--- 
+### Referencias
+[[Espacio vectorial]]

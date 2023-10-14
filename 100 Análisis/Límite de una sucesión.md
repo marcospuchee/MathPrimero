@@ -12,3 +12,4 @@ $$
 ### Referencias
 [[Sucesión]]
 [[El límite, cuando existe, es único]]
+[[Propiedades cálculo de límites]]

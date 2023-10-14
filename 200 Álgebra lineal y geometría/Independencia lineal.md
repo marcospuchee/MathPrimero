@@ -6,6 +6,7 @@ $$
 	a_1v_1 + \dots + a_nv_n = 0; a_i = 0, \forall i \in k
 \end{equation}
 $$
+Si $0 \in S = \{0, v_1, \dots, v_n\}$, entonces $S$ no puede ser linealmente independiente ([[Proposiciones dependencia lineal]]).
 
 Lo contrario a independencia lineal es [[Dependencia lineal]].
 
@@ -13,3 +14,4 @@ Lo contrario a independencia lineal es [[Dependencia lineal]].
 ### Referencias
 [[Combinación lineal]]
 [[Proposiciones dependencia lineal]]
+[[Sistema libre maximal]]

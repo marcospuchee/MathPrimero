@@ -9,3 +9,4 @@ Sean $V$ un $k$-ev y $S \subseteq V$, decimos que $S$ es un sistema generador de
 ### Referencias
 [[Espacio vectorial]]
 [[Combinación lineal]]
+[[Sistema generador minimal]]

@@ -19,3 +19,4 @@ La diferencia entre una LCI y una [[Ley de composición externa (lce)]] es que e
 --- 
 ### Referencias
 [[Espacio vectorial]]
+[[Propiedades de las leyes de composición interna]]

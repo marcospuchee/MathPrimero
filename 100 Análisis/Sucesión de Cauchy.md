@@ -14,3 +14,5 @@ $$
 [[Sucesión]]
 [[Teorema toda sucesión convergente es de Cauchy]]
 [[Teorema si una sucesión es de Cauchy, está acotada]]
+[[Si una sucesión a de Cauchy contiene una subsucesión convergente, entonces a converge]]
+[[Teorema de completitud de R]]
