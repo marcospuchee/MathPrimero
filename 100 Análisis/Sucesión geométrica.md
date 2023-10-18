@@ -6,6 +6,7 @@ $(a_n)^{+\infty}_{n=1} = (a_1, a_1r, a_1r^2, \dots, a_1r^{n-1}, \dots)$
 
 Este es el [[Sumatorio de una sucesión geométrica]].
 
+La analogía en las series numéricas son las [[Series geométricas]]
 
 --- 
 ### Referencias

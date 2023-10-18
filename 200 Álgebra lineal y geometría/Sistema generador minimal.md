@@ -7,4 +7,5 @@ Sean $V$ un $k$-ev y $S \subseteq V$, decimos que $S$ es un sistema generador mi
 ### Referencias
 [[Espacio vectorial]]
 [[Sistema generador de un espacio vectorial]]
-[[Teorema equivalencia entre base, sg minimal y sl maximal]]
+[[(POR DEMOSTRAR) Teorema equivalencia entre base, sg minimal y sl maximal]]
+[[Teorema de la existencia de las bases]]

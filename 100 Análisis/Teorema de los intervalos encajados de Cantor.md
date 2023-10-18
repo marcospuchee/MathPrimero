@@ -1,10 +1,12 @@
 ### Enunciado Teorema
 
-Si $\{I_n\}_{n \in \mathbb{N}}$ es un sistema de intervalos ([[Familia de intervalos encajados]]) CERRADOS encajados, entonces $\cap_{n \in \mathbb{{N}}} I_n \not = \phi$ (la intersección de los intervalos $\not = \phi$).
+Si $\{I_n\}_{n \in \mathbb{N}}$ es un sistema de intervalos ([[Familia de intervalos encajados]]) CERRADOS encajados, entonces $\cap_{n \in \mathbb{{N}}} I_n \not = \emptyset$ (la intersección de los intervalos $\not = \emptyset$).
 
 Además, si se cumple para cada $\epsilon > 0, \exists n \in \mathbb{N}$ tal que $diamI_n < \epsilon$, (épsilon es la longitud del intervalo) entonces $\cap_{n \in \mathbb{N}} I_n$ se reduce a un único punto.
 
 Si $I_n = [a_n, b_n], diamI_n = b_n - a_n$.
+
+Si $\{I_n\}_{n \in \mathbb{N}}$ es un sistema de intervalos ([[Familia de intervalos encajados]]) CERRADOS encajados, entonces $\cap_{n \in \mathbb{N}} I_n \not = \phi$ (la intersección de los intervalos $\not = \phi$).
  
 ---
 ### Demostración

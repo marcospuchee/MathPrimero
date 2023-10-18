@@ -6,4 +6,4 @@ Sean $V$ un $k$-ev y $S \subseteq V$, decimos que $S$ es un sistema libre ([[Ind
 ### Referencias
 [[Espacio vectorial]]
 [[Independencia lineal]]
-[[Teorema equivalencia entre base, sg minimal y sl maximal]]
+[[(POR DEMOSTRAR) Teorema equivalencia entre base, sg minimal y sl maximal]]

@@ -42,3 +42,4 @@ Una sucesión puede comenzar por cualquier número natural.
 - [[Sucesión finitamente oscilante]]
 - [[Sucesión infinitamente oscilante]]
 - [[Propiedades para el cálculo de límites infinitos]]
+- [[Serie numérica]]
