@@ -12,3 +12,4 @@ Decimos que el grupo $(G,+)$ es abeliano si cumple:
 ### Referencias
 [[Espacio vectorial]]
 [[Estructuras algebraicas elementales]]
+[[Anillo]]

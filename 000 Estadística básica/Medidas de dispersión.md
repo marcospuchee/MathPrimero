@@ -14,3 +14,4 @@ $$
 
 --- 
 ### Referencias
+[[Varianza de una variable aleatoria]]

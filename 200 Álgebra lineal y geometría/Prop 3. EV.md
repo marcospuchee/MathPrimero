@@ -16,6 +16,6 @@ Tenemos que $S$ es sistema generador. Hay que ver que también sea linealmente i
 ---
 ### Referencias
 [[Espacio vectorial]]
-[[Base de un espacio vectorial]]
+[[Base]]
 
 11-10-23 Álgebra

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "889703bdc7fd93cc",
+        "id": "f4aa73f7d8bc5eb0",
         "type": "tabs",
         "children": [
           {
-            "id": "4d1ad00dbf5e294a",
+            "id": "a305f9996870dda8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Análisis/Series geométricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Análisis/Series geométricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100 Análisis/Series geométricas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,34 +149,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e6eb8f7956acf1a",
+  "active": "a305f9996870dda8",
   "lastOpenFiles": [
-    "100 Análisis/Proposición convergencia de una serie numérica.md",
-    "100 Análisis/Serie numérica.md",
-    "100 Análisis/Series geométricas.md",
-    "100 Análisis/Sucesión geométrica.md",
-    "100 Análisis/Propiedad suma de series numéricas convergentes.md",
-    "100 Análisis/Propiedades para el cálculo de límites.md",
-    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Equivalencia entre base, sg y li.md",
+    "300 Matemática básica/Máximo común divisor.md",
+    "300 Matemática básica/Teorema de Bezout.md",
+    "300 Matemática básica/Teorema equivalencia LBO y PID.md",
+    "300 Matemática básica/Proposición cuando dos números se dividen simultáneamente son iguales.md",
+    "300 Matemática básica/Divisibilidad.md",
+    "100 Análisis/Principio de inducción débil.md",
+    "100 Análisis/Ley de buena ordenación.md",
+    "300 Matemática básica/Número primo.md",
+    "200 Álgebra lineal y geometría/Corolario suma de dimensiones sii suma directa.md",
+    "300 Matemática básica/A divide a B.md",
+    "300 Matemática básica/Teorema de la división euclídea.md",
+    "100 Análisis/Algoritmo de la división.md",
+    "300 Matemática básica/Estructuras algebraicas elementales.md",
+    "300 Matemática básica/Dominio de integridad.md",
+    "300 Matemática básica/Anillo unitario.md",
+    "300 Matemática básica/Divisores de cero.md",
+    "200 Álgebra lineal y geometría/Teorema existencia de un subespacio que forma la suma directa de un espacio vectorial.md",
+    "200 Álgebra lineal y geometría/Subespacio generado.md",
+    "300 Matemática básica/Conjunto potencia.md",
     "200 Álgebra lineal y geometría/Espacio vectorial.md",
-    "200 Álgebra lineal y geometría/De todo sistema generador finito se puede extraer una base..md",
-    "200 Álgebra lineal y geometría/Corolario de los cardinales.md",
-    "200 Álgebra lineal y geometría/Teorema de la existencia de las bases.md",
-    "200 Álgebra lineal y geometría/Dimensión de un espacio vectorial.md",
-    "100 Análisis/El límite, cuando existe, es único.md",
-    "100 Análisis/Límite de una sucesión.md",
-    "100 Análisis/Toda sucesión creciente y acotada superiormente es convergente.md",
-    "100 Análisis/Teorema de Bolzano-Weierstrass.md",
-    "100 Análisis/Teorema de completitud de R.md",
-    "100 Análisis/Sucesión.md",
-    "100 Análisis/Índice cumbre.md",
-    "200 Álgebra lineal y geometría/Teorema de la finitud de las bases e igualdad de cardinal.md",
-    "200 Álgebra lineal y geometría/Espacio vectorial finitamente generado.md",
-    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Lema de sustitución.md",
-    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Teorema equivalencia entre base, sg minimal y sl maximal.md",
-    "100 Análisis/Divergencia de una serie numérica.md",
-    "100 Análisis/Convergencia de una serie numérica.md",
-    "100 Análisis/Suma parcial n-ésima de una serie numérica.md",
+    "200 Álgebra lineal y geometría/Teorema equivalencia suma directa.md",
+    "200 Álgebra lineal y geometría/Teorema suma de dimensiones.md",
+    "200 Álgebra lineal y geometría/Suma directa.md",
+    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Prop 4. EV..md",
+    "200 Álgebra lineal y geometría/Prop 5. EV.md",
+    "200 Álgebra lineal y geometría/Prop 2. EV.md",
     "Attachments/Pasted image 20231014120505.png",
     "Attachments/Pasted image 20231014120448.png",
     "Attachments/Pasted image 20231014120434.png",

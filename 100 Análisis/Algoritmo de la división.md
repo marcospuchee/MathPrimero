@@ -15,3 +15,5 @@ En efecto:
 
 --- 
 ### Referencias
+
+[[Teorema de la división euclídea]]

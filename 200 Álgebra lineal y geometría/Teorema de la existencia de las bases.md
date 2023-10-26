@@ -12,5 +12,5 @@ Como $V$ es un espacio vectorial finitamente generado, $\exists S \subseteq V$ q
 ---
 ### Referencias
 [[Espacio vectorial]]
-[[Base de un espacio vectorial]]
+[[Base]]
 [[Sistema generador minimal]]

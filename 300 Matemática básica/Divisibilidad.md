@@ -1,0 +1,6 @@
+- [[Algoritmo de la división]]
+- [[Teorema de la división euclídea]]
+- [[A divide a B]]
+- [[Número primo]]
+- [[Proposición cuando dos números se dividen simultáneamente son iguales]]
+- [[Teorema equivalencia LBO y PID]]

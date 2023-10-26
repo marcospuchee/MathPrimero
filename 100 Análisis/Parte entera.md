@@ -6,7 +6,7 @@ Si $x \in \mathbb{R}, \exists z \in \mathbb{Z}$ tal que $z \le x < z +1$. A $z$ 
 ### Demostración
 
 ##### Caso 1. $x \ge 0$
-Como $\mathbb{N}$ no está acotado ([[N no está acotado en R]]), $\exists m \in \mathbb{N} : x \le m$. Considero $A = \{n \in \mathbb{N}: x < n\}$. Por el [[Principio de buena ordenación]], $\exists n \in \mathbb{N}$ que es el primer elemento de $A.$ Entonces $n-1 \not \in A$; esto es, $x \ge n-1$.
+Como $\mathbb{N}$ no está acotado ([[N no está acotado en R]]), $\exists m \in \mathbb{N} : x \le m$. Considero $A = \{n \in \mathbb{N}: x < n\}$. Por el [[Ley de buena ordenación]], $\exists n \in \mathbb{N}$ que es el primer elemento de $A.$ Entonces $n-1 \not \in A$; esto es, $x \ge n-1$.
 $n-1 \le x < n$. Por este caso, $z = n-1$.
 
 ##### Caso 2. $x < 0$
@@ -18,4 +18,4 @@ Si $x < -m$, entonces $-m-1 < x < -m, z = -m-1$.
 ---
 ### Referencias
 [[N no está acotado en R]]
-[[Principio de buena ordenación]]
+[[Ley de buena ordenación]]

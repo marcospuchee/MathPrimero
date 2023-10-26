@@ -8,3 +8,6 @@ Se dice que la serie $\sum_{n=1}^\infty a_n$ converge si la sucesión $(S_N)^{+\
 [[Suma parcial n-ésima de una serie numérica]]
 [[Serie numérica]]
 [[Sucesión]]
+[[Proposición convergencia de una serie numérica]]
+[[Teorema criterio general de convergencia de Cauchy]]
+[[Corolario relación entre convergencia y límite de una serie]]

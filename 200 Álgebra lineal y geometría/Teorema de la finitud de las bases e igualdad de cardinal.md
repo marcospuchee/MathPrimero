@@ -1,6 +1,6 @@
 ### Enunciado Teorema
 
-Sea $V$ un $k$-ev finitamente generado ([[Espacio vectorial finitamente generado]]), entonces, todas las bases ([[Base de un espacio vectorial]]) son finitas y tienen el mismo cardinal.
+Sea $V$ un $k$-ev finitamente generado ([[Espacio vectorial finitamente generado]]), entonces, todas las bases ([[Base]]) son finitas y tienen el mismo cardinal.
 
 ---
 ### Demostración

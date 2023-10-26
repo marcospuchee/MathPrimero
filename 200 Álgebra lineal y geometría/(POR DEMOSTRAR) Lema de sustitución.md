@@ -22,7 +22,7 @@ Se tiene que $\{u_1, \dots, u_m, v_{m+1}, \dots, v_n\}$ es base de $V$ (POR DEMO
 
 ---
 ### Referencias
-[[Base de un espacio vectorial]]
+[[Base]]
 [[Espacio vectorial]]
 [[Independencia lineal]]
 [[Sistema generador de un espacio vectorial]]

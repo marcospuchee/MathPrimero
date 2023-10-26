@@ -16,3 +16,5 @@ $$
 [[Propiedad suma de series numéricas convergentes]]
 [[Series geométricas]]
 [[Proposición convergencia de una serie numérica]]
+[[Teorema criterio general de convergencia de Cauchy]]
+[[Corolario relación entre convergencia y límite de una serie]]

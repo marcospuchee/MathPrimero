@@ -16,3 +16,8 @@ Un experimento aleatorio es aleatorio porque no conozco que va a suceder. Sin em
 - [[Probabilidad condicional]]
 - [[Variable aleatoria]]
 - [[Soporte de una variable aleatoria]]
+- [[Curva de densidad]]
+- [[Media de una variable aleatoria]]
+- [[Varianza de una variable aleatoria]]
+- [[Distribución binomial]]
+- [[Modelo de pruebas independientes]]

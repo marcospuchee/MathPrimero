@@ -9,6 +9,7 @@ Sea $(a_{n_k})^\infty_{k=1}$ una subsucesión de $(a_n)^\infty_{n=1}$ convergent
 
 Tomamos $n_0 := max\{n_1, k_0\}$. Si $k\ge n_0, n_k \ge k \ge n_0$:
 $|a_k - l| = |(a_k - a_{n_k}) + (a_{n_k} - l)| \le |a_k - a_{n_k}| + |a_{n_k} - l| < \frac{\epsilon}{2} + \frac{\epsilon}{2} = \epsilon$.
+$|a_k - l| < \epsilon$.
 
 ---
 ### Referencias

@@ -1,6 +1,6 @@
 ### Contenido principal
 
-Sea $V$ un $k$ [[Espacio vectorial finitamente generado]], se llama dimensión de $V$ al cardinal de cualesquiera de sus bases ([[Base de un espacio vectorial]]).
+Sea $V$ un $k$ [[Espacio vectorial finitamente generado]], se llama dimensión de $V$ al cardinal de cualesquiera de sus bases ([[Base]]).
 
 
 --- 

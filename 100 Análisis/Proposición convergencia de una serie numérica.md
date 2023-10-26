@@ -1,6 +1,6 @@
 ### Proposición
 
-Sea $p \in \mathbb{N}, \sum_{n=1}^{+\infty} a_n$ converge $\iff \sum_{n=1p}^{+\infty} a_n$ converge.
+Sea $p \in \mathbb{N}, \sum_{n=1}^{+\infty} a_n$ converge $\iff \sum_{n=p}^{+\infty} a_n$ converge.
 
 $\sum_{n=1}^{+\infty} a_n = a_1 + a_2 + \dots + a_{p-1} + \sum_{n=p}^{+\infty} a_n$.
 

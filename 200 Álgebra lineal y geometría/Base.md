@@ -7,7 +7,7 @@ Sin embargo, no está claro que todo [[Espacio vectorial]] tenga bases. Además 
 --- 
 ### Referencias
 [[Espacio vectorial]]
-[[S base de V sii todo vector de V se puede expresar de forma única como c.l. de vectores de S]]
+[[Prop 3. EV]]
 [[(POR DEMOSTRAR) Teorema equivalencia entre base, sg minimal y sl maximal]]
 [[Teorema de la existencia de las bases]]
 

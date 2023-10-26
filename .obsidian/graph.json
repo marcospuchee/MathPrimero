@@ -5,8 +5,23 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "section:(Proposición), line:(Espacio vectorial)",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -1.3,
@@ -17,6 +32,6 @@
   "repelStrength": 12.3284823284823,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2152782106475935,
+  "scale": 0.2062053267358483,
   "close": true
 }
