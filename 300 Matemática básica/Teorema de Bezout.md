@@ -1,4 +1,4 @@
-### Enunciado Teorema
+	### Enunciado Teorema
 
 Sean $a,b \in \mathbb{Z}$ con $a \not = 0$ o $b \not = 0$. Entonces, $\Omega = \{ax + by \in \mathbb{N}: x,y \in \mathbb{Z}\}$. Sea $d = min\Omega$, entonces $d$ verifica:
 1. $d > 0$
@@ -19,5 +19,6 @@ Para demostrar que $\Omega \not = \emptyset$, sean $x = a, y = b$, entonces $ax 
 ### Referencias
 
 [[Divisibilidad]]
+[[Identidad de Bezout]]
 
 24-10-23. Básica

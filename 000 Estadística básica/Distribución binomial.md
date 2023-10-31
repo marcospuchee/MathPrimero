@@ -12,5 +12,6 @@ La distribución binomial debe cumplir con las cuatro condiciones abreviadas com
 ### Referencias
 
 [[Probabilidad]]
+[[Fórmula de la distribución binomial]]
 
 3.5. La distribución binomial - Samuels.

@@ -25,7 +25,7 @@ Sea $k$ un cuerpo y $V$ un conjunto no vacío, diremos que $V$ es un espacio vec
 - [[Suma de subespacios]]
 - [[Teorema de la suma de los subespacios]]
 - [[Sistema generador de un espacio vectorial]]
-- [[Prop 2. EV]]
+- [[(POR DEMOSTRAR) Prop 2. EV]]
 - [[Combinación lineal]]
 - [[Subespacio generado]]
 - [[(POR DEMOSTRAR) Teorema subespacio generado]]
@@ -47,3 +47,4 @@ Sea $k$ un cuerpo y $V$ un conjunto no vacío, diremos que $V$ es un espacio vec
 - [[Suma directa]]
 - [[Teorema equivalencia suma directa]]
 - [[Corolario suma de dimensiones sii suma directa]]
+- [[Aplicación lineal]]

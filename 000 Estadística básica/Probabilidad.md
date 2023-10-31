@@ -21,3 +21,4 @@ Un experimento aleatorio es aleatorio porque no conozco que va a suceder. Sin em
 - [[Varianza de una variable aleatoria]]
 - [[Distribución binomial]]
 - [[Modelo de pruebas independientes]]
+- [[Fórmula de la distribución binomial]]
