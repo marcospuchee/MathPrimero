@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb0f1f3409150736",
+        "id": "0b9e54595ee05395",
         "type": "tabs",
         "children": [
           {
-            "id": "bc48dcf89cba5d7d",
+            "id": "b3969401c399959e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,31 +16,15 @@
             }
           },
           {
-            "id": "a9b3367d962223b5",
+            "id": "2f711c5af65a26a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 Análisis/Criterio de D'Alembert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8801eb6bbeefa82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 Análisis/Divergencia de una serie numérica.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -107,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Análisis/Divergencia de una serie numérica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 Análisis/Divergencia de una serie numérica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100 Análisis/Divergencia de una serie numérica.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,15 +158,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8801eb6bbeefa82",
+  "active": "2f711c5af65a26a5",
   "lastOpenFiles": [
-    "100 Análisis/Criterio de D'Alembert.md",
     "Untitled.md",
-    "Algoritmo de Euclídes.md",
-    "Lema mcd de un entero y otro obtenido a partir de este.md",
+    "100 Análisis/Corolario relación entre convergencia y límite de una serie.md",
+    "100 Análisis/Serie numérica.md",
+    "100 Análisis/(POR DEMOSTRAR) Criterio de Condensación de Cauchy.md",
+    "100 Análisis/Serie de términos positivos.md",
+    "100 Análisis/Criterio de Raabe.md",
+    "100 Análisis/Criterio de D'Alembert.md",
+    "100 Análisis/Teorema criterio general de convergencia de Cauchy.md",
+    "100 Análisis/Proposición convergencia de una serie numérica.md",
+    "100 Análisis/Propiedad suma de series numéricas convergentes.md",
+    "100 Análisis/Divergencia de una serie numérica.md",
+    "300 Matemática básica/Algoritmo de Euclídes.md",
+    "300 Matemática básica/Lema mcd de un entero y otro obtenido a partir de este.md",
     "300 Matemática básica/Divisibilidad.md",
-    "Lema divisibilidad a,b,c.md",
-    "Máximo común divisor de 0 con otro entero.md",
+    "300 Matemática básica/Lema divisibilidad a,b,c.md",
+    "300 Matemática básica/Máximo común divisor de 0 con otro entero.md",
     "300 Matemática básica/Proposiciones de anillos y sus elementos neutros y simétricos.md",
     "300 Matemática básica/Proposiciones de anillos con más de un elemento y unitarios..md",
     "300 Matemática básica/Proposición existencia de los cocientes coprimos.md",
@@ -198,15 +186,6 @@
     "300 Matemática básica/Identidad de Bezout.md",
     "Has dejado estadística en el 06-10-23.md",
     "000 Estadística básica/Fórmula de la distribución binomial.md",
-    "Coprimos.md",
-    "000 Estadística básica/Modelo de pruebas independientes.md",
-    "000 Estadística básica/Distribución binomial.md",
-    "000 Estadística básica/Probabilidad.md",
-    "200 Álgebra lineal y geometría/Transformación elemental de filas.md",
-    "200 Álgebra lineal y geometría/Teorema suma de dimensiones.md",
-    "200 Álgebra lineal y geometría/Teorema Rouche-Frobenius.md",
-    "200 Álgebra lineal y geometría/Teorema existencia singular de matriz escalonada reducida por filas equivalente.md",
-    "200 Álgebra lineal y geometría/Teorema existencia de un subespacio que forma la suma directa de un espacio vectorial.md",
     "Attachments/Pasted image 20231014120505.png",
     "Attachments/Pasted image 20231014120448.png",
     "Attachments/Pasted image 20231014120434.png",
