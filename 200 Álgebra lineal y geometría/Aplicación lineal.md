@@ -6,5 +6,7 @@ Sean $V, V'$ dos $k$-ev. Decimos que una aplicación ([[Aplicaciones]]) $f: V \r
 ### Índice
 [[Prop 1. AL]]
 [[Núcleo]]
+[[(POR DEMOSTRAR) Proposición aplicación inyectiva núcleo 0]]
+[[Teorema suma de dimensiones de núcleo e imagen]]
 
 

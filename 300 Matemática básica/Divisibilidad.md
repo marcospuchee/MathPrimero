@@ -15,4 +15,12 @@
 - [[Lema divisibilidad a,b,c]]
 - [[Lema mcd de un entero y otro obtenido a partir de este]]
 - [[Máximo común divisor de 0 con otro entero]]
-- [[Algoritmo de Euclídes]]
+- [[Algoritmo de Euclides]]
+Anki por aquí.
+- [[Proposición existencia de mínimo común múltiplo]]
+- [[Proposición existencia de mínimo común múltiplo]]
+- [[Proposición multiplicación mcd y mcm]]
+- [[Teorema fundamental de la aritmética]]
+- [[Corolario diferencia factorización entre dos números, uno divisor del otro]]
+- [[Proposición fórmula MCD]]
+- [[Proposición fórmula MCM]]

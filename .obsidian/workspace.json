@@ -4,27 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0b9e54595ee05395",
+        "id": "b8634e6bed0e151a",
         "type": "tabs",
         "children": [
           {
-            "id": "b3969401c399959e",
+            "id": "108a4066fa14af96",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "2f711c5af65a26a5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -158,34 +150,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f711c5af65a26a5",
+  "active": "108a4066fa14af96",
   "lastOpenFiles": [
-    "Untitled.md",
-    "100 Análisis/Corolario relación entre convergencia y límite de una serie.md",
-    "100 Análisis/Serie numérica.md",
-    "100 Análisis/(POR DEMOSTRAR) Criterio de Condensación de Cauchy.md",
-    "100 Análisis/Serie de términos positivos.md",
-    "100 Análisis/Criterio de Raabe.md",
-    "100 Análisis/Criterio de D'Alembert.md",
-    "100 Análisis/Teorema criterio general de convergencia de Cauchy.md",
-    "100 Análisis/Proposición convergencia de una serie numérica.md",
-    "100 Análisis/Propiedad suma de series numéricas convergentes.md",
-    "100 Análisis/Divergencia de una serie numérica.md",
-    "300 Matemática básica/Algoritmo de Euclídes.md",
-    "300 Matemática básica/Lema mcd de un entero y otro obtenido a partir de este.md",
+    "Estimador.md",
+    "000 Estadística básica/Inferencia estadística.md",
+    "Población.md",
+    "Muestreo aleatorio.md",
+    "000 Estadística básica/Muestreo aleatorio simple.md",
+    "Parámetros de la población.md",
+    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Proposición aplicación inyectiva núcleo 0.md",
+    "Fórmula de tipificación.md",
+    "000 Estadística básica/Probabilidad.md",
+    "200 Álgebra lineal y geometría/Teorema suma de dimensiones de núcleo e imagen.md",
+    "300 Matemática básica/Teorema fundamental de la aritmética.md",
+    "300 Matemática básica/Proposición multiplicación mcd y mcm.md",
+    "300 Matemática básica/Proposición fórmula MCD.md",
+    "200 Álgebra lineal y geometría/Aplicación lineal.md",
+    "200 Álgebra lineal y geometría/Prop 1. AL.md",
+    "300 Matemática básica/Proposición fórmula MCM.md",
     "300 Matemática básica/Divisibilidad.md",
-    "300 Matemática básica/Lema divisibilidad a,b,c.md",
-    "300 Matemática básica/Máximo común divisor de 0 con otro entero.md",
-    "300 Matemática básica/Proposiciones de anillos y sus elementos neutros y simétricos.md",
-    "300 Matemática básica/Proposiciones de anillos con más de un elemento y unitarios..md",
+    "300 Matemática básica/Proposición existencia de mínimo común múltiplo.md",
+    "300 Matemática básica/Corolario diferencia factorización entre dos números, uno divisor del otro.md",
     "300 Matemática básica/Proposición existencia de los cocientes coprimos.md",
-    "300 Matemática básica/Proposición equivalencia coprimos, bezout y divisores comunes.md",
     "300 Matemática básica/Proposición divisibilidad de un producto.md",
     "300 Matemática básica/Proposición divisibilidad de un divisor.md",
-    "300 Matemática básica/Proposición cuando dos números se dividen simultáneamente son iguales.md",
-    "300 Matemática básica/Identidad de Bezout.md",
-    "Has dejado estadística en el 06-10-23.md",
-    "000 Estadística básica/Fórmula de la distribución binomial.md",
+    "300 Matemática básica/Lema divisibilidad a,b,c.md",
+    "000 Estadística básica/Fórmula de la distribución normal.md",
+    "000 Estadística básica/Distribución normal.md",
+    "000 Estadística básica/Curva de densidad.md",
     "Attachments/Pasted image 20231014120505.png",
     "Attachments/Pasted image 20231014120448.png",
     "Attachments/Pasted image 20231014120434.png",

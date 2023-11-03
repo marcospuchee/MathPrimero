@@ -22,3 +22,6 @@ Un experimento aleatorio es aleatorio porque no conozco que va a suceder. Sin em
 - [[Distribución binomial]]
 - [[Modelo de pruebas independientes]]
 - [[Fórmula de la distribución binomial]]
+- [[Distribución normal]]
+- [[Fórmula de la distribución normal]]
+- [[Fórmula de tipificación]]
