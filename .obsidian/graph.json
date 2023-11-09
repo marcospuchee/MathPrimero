@@ -6,32 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "section:(Proposición), line:(Espacio vectorial)",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.837543252595156,
+  "lineSizeMultiplier": 0.97318339100346,
   "collapse-forces": false,
-  "centerStrength": 0.441787941787942,
-  "repelStrength": 12.3284823284823,
-  "linkStrength": 1,
+  "centerStrength": 0.524221453287197,
+  "repelStrength": 15.2595155709343,
+  "linkStrength": 0.807958477508651,
   "linkDistance": 250,
-  "scale": 0.12447019863725592,
+  "scale": 0.30147669014869866,
   "close": true
 }

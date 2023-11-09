@@ -7,6 +7,8 @@ Así, un estimador es un estadístico (función de la muestra) utilizado para es
 - La varianza muestral $s^2$ es un estimador de la varianza poblacional $\sigma^2$.
 - La proporción muestral $\hat{\pi}$ es un estimador de la proporción poblacional $\pi$.
 
+Estos tres son estimadores puntuales ([[Estimación puntual]])
+
 --- 
 ### Referencias
 

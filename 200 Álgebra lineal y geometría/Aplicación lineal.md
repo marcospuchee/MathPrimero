@@ -8,5 +8,11 @@ Sean $V, V'$ dos $k$-ev. Decimos que una aplicación ([[Aplicaciones]]) $f: V \r
 [[Núcleo]]
 [[(POR DEMOSTRAR) Proposición aplicación inyectiva núcleo 0]]
 [[Teorema suma de dimensiones de núcleo e imagen]]
+[[Corolario equivalencia biyectiva, inyectiva, sobreyectiva]]
+[[Isomorfismo]]
+[[Ser isomorfos es una relación de equivalencia]]
+[[Lema función inversa isomorfismo de un isomorfismo]]
+[[Lema composición de aplicaciones lineales es lineal]]
+
 
 

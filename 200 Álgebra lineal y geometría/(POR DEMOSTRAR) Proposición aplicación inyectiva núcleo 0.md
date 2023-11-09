@@ -31,6 +31,7 @@ Sabemos que $U = <u_1, \dots, u_m>$ ([[Subespacio generado]]) = $\{\lambda_1 u_1
 ### Referencias
 
 [[Aplicación lineal]]
+[[Aplicaciones inyectivas, sobreyectivas y biyectivas]]
 [[Núcleo]]
 
 https://youtu.be/G1cNClFU4_Y?si=POuwbd2bHoRhRnpx

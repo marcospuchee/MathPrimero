@@ -4,18 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "b8634e6bed0e151a",
+        "id": "499c800a2c3b291f",
         "type": "tabs",
         "children": [
           {
-            "id": "108a4066fa14af96",
+            "id": "781c80f27fa435e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "000 Estadística básica/Nivel de significación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "571f24939c8d3a06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Álgebra lineal y geometría/Ser isomorfos es una relación de equivalencia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86e20210596f64c9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -150,34 +174,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "108a4066fa14af96",
+  "active": "86e20210596f64c9",
   "lastOpenFiles": [
-    "Estimador.md",
-    "000 Estadística básica/Inferencia estadística.md",
-    "Población.md",
-    "Muestreo aleatorio.md",
-    "000 Estadística básica/Muestreo aleatorio simple.md",
-    "Parámetros de la población.md",
-    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Proposición aplicación inyectiva núcleo 0.md",
-    "Fórmula de tipificación.md",
-    "000 Estadística básica/Probabilidad.md",
-    "200 Álgebra lineal y geometría/Teorema suma de dimensiones de núcleo e imagen.md",
-    "300 Matemática básica/Teorema fundamental de la aritmética.md",
-    "300 Matemática básica/Proposición multiplicación mcd y mcm.md",
-    "300 Matemática básica/Proposición fórmula MCD.md",
+    "200 Álgebra lineal y geometría/Ser isomorfos es una relación de equivalencia.md",
+    "200 Álgebra lineal y geometría/Lema función inversa isomorfismo de un isomorfismo.md",
+    "200 Álgebra lineal y geometría/Lema composición de aplicaciones lineales es lineal.md",
+    "200 Álgebra lineal y geometría/Corolario equivalencia biyectiva, inyectiva, sobreyectiva.md",
+    "200 Álgebra lineal y geometría/Teorema equivalencia suma directa.md",
+    "200 Álgebra lineal y geometría/Teorema existencia singular de matriz escalonada reducida por filas equivalente.md",
+    "000 Estadística básica/Nivel de significación.md",
+    "000 Estadística básica/p-valor.md",
+    "000 Estadística básica/Sesgadez.md",
+    "000 Estadística básica/Intervalo de confianza para la media de una población Normal (varianza conocida).md",
+    "000 Estadística básica/Intervalo de confianza.md",
+    "000 Estadística básica/Fórmula de la distribución binomial.md",
+    "000 Estadística básica/Distribución binomial.md",
+    "300 Matemática básica/Teorema de Bezout.md",
+    "200 Álgebra lineal y geometría/Grupos.md",
+    "200 Álgebra lineal y geometría/Teorema suma de dimensiones.md",
+    "200 Álgebra lineal y geometría/Isomorfismo.md",
     "200 Álgebra lineal y geometría/Aplicación lineal.md",
-    "200 Álgebra lineal y geometría/Prop 1. AL.md",
-    "300 Matemática básica/Proposición fórmula MCM.md",
-    "300 Matemática básica/Divisibilidad.md",
-    "300 Matemática básica/Proposición existencia de mínimo común múltiplo.md",
-    "300 Matemática básica/Corolario diferencia factorización entre dos números, uno divisor del otro.md",
-    "300 Matemática básica/Proposición existencia de los cocientes coprimos.md",
-    "300 Matemática básica/Proposición divisibilidad de un producto.md",
-    "300 Matemática básica/Proposición divisibilidad de un divisor.md",
-    "300 Matemática básica/Lema divisibilidad a,b,c.md",
-    "000 Estadística básica/Fórmula de la distribución normal.md",
-    "000 Estadística básica/Distribución normal.md",
-    "000 Estadística básica/Curva de densidad.md",
+    "300 Matemática básica/Aplicaciones inyectivas, sobreyectivas y biyectivas.md",
+    "300 Matemática básica/Composición de aplicaciones.md",
+    "100 Análisis/Serie numérica.md",
+    "200 Álgebra lineal y geometría/Teorema suma de dimensiones de núcleo e imagen.md",
+    "200 Álgebra lineal y geometría/Transformación elemental de filas.md",
+    "200 Álgebra lineal y geometría/Prop 5. EV.md",
+    "000 Estadística básica/Inferencia estadística.md",
+    "200 Álgebra lineal y geometría/Espacio vectorial.md",
     "Attachments/Pasted image 20231014120505.png",
     "Attachments/Pasted image 20231014120448.png",
     "Attachments/Pasted image 20231014120434.png",
