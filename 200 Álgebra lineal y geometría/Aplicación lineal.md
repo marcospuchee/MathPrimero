@@ -13,6 +13,8 @@ Sean $V, V'$ dos $k$-ev. Decimos que una aplicación ([[Aplicaciones]]) $f: V \r
 [[Ser isomorfos es una relación de equivalencia]]
 [[Lema función inversa isomorfismo de un isomorfismo]]
 [[Lema composición de aplicaciones lineales es lineal]]
+[[Proposición sg, sl y base con aplicaciones lineales]]
+[[(POR DEMOSTRAR) Teorema de existencia y unicidad de aplicaciones lineales]]
 
 
 

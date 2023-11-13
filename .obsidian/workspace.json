@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "499c800a2c3b291f",
+        "id": "c49158b68c2f2d8e",
         "type": "tabs",
         "children": [
           {
-            "id": "781c80f27fa435e0",
+            "id": "844fa9578502c352",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Estadística básica/Nivel de significación.md",
+                "file": "Serie absolutamente convergente.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "571f24939c8d3a06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Álgebra lineal y geometría/Ser isomorfos es una relación de equivalencia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86e20210596f64c9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Serie absolutamente convergente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Serie absolutamente convergente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Serie absolutamente convergente.md"
+              }
             }
           },
           {
@@ -174,34 +157,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86e20210596f64c9",
+  "active": "844fa9578502c352",
   "lastOpenFiles": [
+    "Serie absolutamente convergente.md",
+    "100 Análisis/Serie numérica.md",
+    "100 Análisis/Criterio de Leibnitz.md",
+    "Proposición sg, sl y base con aplicaciones lineales.md",
+    "100 Análisis/Convergencia de una serie numérica.md",
+    "(POR DEMOSTRAR) Teorema de existencia y unicidad de aplicaciones lineales.md",
+    "200 Álgebra lineal y geometría/Aplicación lineal.md",
+    "200 Álgebra lineal y geometría/Prop 1. AL.md",
+    "100 Análisis/Serie alternada.md",
+    "200 Álgebra lineal y geometría/Discusión de sistemas de ecuaciones.md",
+    "200 Álgebra lineal y geometría/Combinación lineal.md",
+    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Prop 4. EV..md",
+    "Criterio de Leibnitz.md",
+    "100 Análisis/Convergencia de la serie armónica generalizada.md",
+    "100 Análisis/Criterio de Condensación de Cauchy.md",
+    "000 Estadística básica/Nivel de significación.md",
     "200 Álgebra lineal y geometría/Ser isomorfos es una relación de equivalencia.md",
     "200 Álgebra lineal y geometría/Lema función inversa isomorfismo de un isomorfismo.md",
     "200 Álgebra lineal y geometría/Lema composición de aplicaciones lineales es lineal.md",
     "200 Álgebra lineal y geometría/Corolario equivalencia biyectiva, inyectiva, sobreyectiva.md",
     "200 Álgebra lineal y geometría/Teorema equivalencia suma directa.md",
     "200 Álgebra lineal y geometría/Teorema existencia singular de matriz escalonada reducida por filas equivalente.md",
-    "000 Estadística básica/Nivel de significación.md",
     "000 Estadística básica/p-valor.md",
     "000 Estadística básica/Sesgadez.md",
     "000 Estadística básica/Intervalo de confianza para la media de una población Normal (varianza conocida).md",
     "000 Estadística básica/Intervalo de confianza.md",
-    "000 Estadística básica/Fórmula de la distribución binomial.md",
-    "000 Estadística básica/Distribución binomial.md",
-    "300 Matemática básica/Teorema de Bezout.md",
-    "200 Álgebra lineal y geometría/Grupos.md",
-    "200 Álgebra lineal y geometría/Teorema suma de dimensiones.md",
-    "200 Álgebra lineal y geometría/Isomorfismo.md",
-    "200 Álgebra lineal y geometría/Aplicación lineal.md",
-    "300 Matemática básica/Aplicaciones inyectivas, sobreyectivas y biyectivas.md",
-    "300 Matemática básica/Composición de aplicaciones.md",
-    "100 Análisis/Serie numérica.md",
-    "200 Álgebra lineal y geometría/Teorema suma de dimensiones de núcleo e imagen.md",
-    "200 Álgebra lineal y geometría/Transformación elemental de filas.md",
-    "200 Álgebra lineal y geometría/Prop 5. EV.md",
-    "000 Estadística básica/Inferencia estadística.md",
-    "200 Álgebra lineal y geometría/Espacio vectorial.md",
     "Attachments/Pasted image 20231014120505.png",
     "Attachments/Pasted image 20231014120448.png",
     "Attachments/Pasted image 20231014120434.png",
