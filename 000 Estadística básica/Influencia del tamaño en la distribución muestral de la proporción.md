@@ -8,3 +8,5 @@ Conclusiones extraídas de [[Distribución muestral de la proporción]]
 
 --- 
 ### Referencias
+
+[[Inferencia estadística]]

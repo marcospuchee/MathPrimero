@@ -14,7 +14,13 @@ Sean $V, V'$ dos $k$-ev. Decimos que una aplicación ([[Aplicaciones]]) $f: V \r
 [[Lema función inversa isomorfismo de un isomorfismo]]
 [[Lema composición de aplicaciones lineales es lineal]]
 [[Proposición sg, sl y base con aplicaciones lineales]]
-[[(POR DEMOSTRAR) Teorema de existencia y unicidad de aplicaciones lineales]]
+[[Teorema de existencia y unicidad de aplicaciones lineales]]
+[[Corolario clasificación de los espacios vectoriales finitamente generados]]
+[[Corolario relación entre dimensiones en aplicaciones lineales]]
+[[Teorema clasificación aplicaciones lineales]]
+[[Matriz asociada a una aplicación lineal]]
+[[La matriz asociada a una aplicación lineal determina la aplicación lineal]]
+[[Cálculo de una imagen mediante una aplicación lineal dada la matriz asociada]]
 
 
 

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c49158b68c2f2d8e",
+        "id": "c6210b71b92a8114",
         "type": "tabs",
         "children": [
           {
-            "id": "844fa9578502c352",
+            "id": "ddcc40613d94466e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Serie absolutamente convergente.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serie absolutamente convergente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serie absolutamente convergente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Serie absolutamente convergente.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,43 +149,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "844fa9578502c352",
+  "active": "ddcc40613d94466e",
   "lastOpenFiles": [
-    "Serie absolutamente convergente.md",
-    "100 Análisis/Serie numérica.md",
-    "100 Análisis/Criterio de Leibnitz.md",
-    "Proposición sg, sl y base con aplicaciones lineales.md",
-    "100 Análisis/Convergencia de una serie numérica.md",
-    "(POR DEMOSTRAR) Teorema de existencia y unicidad de aplicaciones lineales.md",
-    "200 Álgebra lineal y geometría/Aplicación lineal.md",
-    "200 Álgebra lineal y geometría/Prop 1. AL.md",
-    "100 Análisis/Serie alternada.md",
-    "200 Álgebra lineal y geometría/Discusión de sistemas de ecuaciones.md",
-    "200 Álgebra lineal y geometría/Combinación lineal.md",
-    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Prop 4. EV..md",
-    "Criterio de Leibnitz.md",
-    "100 Análisis/Convergencia de la serie armónica generalizada.md",
-    "100 Análisis/Criterio de Condensación de Cauchy.md",
-    "000 Estadística básica/Nivel de significación.md",
-    "200 Álgebra lineal y geometría/Ser isomorfos es una relación de equivalencia.md",
-    "200 Álgebra lineal y geometría/Lema función inversa isomorfismo de un isomorfismo.md",
-    "200 Álgebra lineal y geometría/Lema composición de aplicaciones lineales es lineal.md",
-    "200 Álgebra lineal y geometría/Corolario equivalencia biyectiva, inyectiva, sobreyectiva.md",
-    "200 Álgebra lineal y geometría/Teorema equivalencia suma directa.md",
-    "200 Álgebra lineal y geometría/Teorema existencia singular de matriz escalonada reducida por filas equivalente.md",
-    "000 Estadística básica/p-valor.md",
-    "000 Estadística básica/Sesgadez.md",
-    "000 Estadística básica/Intervalo de confianza para la media de una población Normal (varianza conocida).md",
-    "000 Estadística básica/Intervalo de confianza.md",
+    "300 Matemática básica/Proposición relación binaria equipotencia.md",
+    "Lema producto matriz asociada y coordenadas.md",
+    "300 Matemática básica/Numerabilidad.md",
+    "300 Matemática básica/Teorema de Cantor.md",
+    "300 Matemática básica/Notación numerabilidad 2.md",
+    "300 Matemática básica/Notación numerabilidad.md",
+    "300 Matemática básica/Aplicaciones inyectivas en numerabilidad.md",
+    "300 Matemática básica/Z es numerable.md",
+    "300 Matemática básica/Conjunto numerable.md",
+    "300 Matemática básica/Propiedades de las relaciones binarias.md",
+    "300 Matemática básica/Conjuntos equipotentes.md",
+    "300 Matemática básica/Conjunto finito.md",
+    "100 Análisis/Teorema caracterización sucesional de límite.md",
+    "100 Análisis/Punto de acumulación.md",
+    "100 Análisis/Proposición punto acumulación límite.md",
+    "300 Matemática básica/Proposición producto números complejos.md",
+    "300 Matemática básica/Proposición desigualdad triangular.md",
     "Attachments/Pasted image 20231014120505.png",
+    "Attachments/Pasted image 20231130112321.png",
     "Attachments/Pasted image 20231014120448.png",
     "Attachments/Pasted image 20231014120434.png",
     "Attachments/Pasted image 20231014103637.png",
     "Attachments/Pasted image 20230912193436.png",
-    "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
-    "300 Matemática básica",
-    "Attachments/Ejemplo principio de inducción.pdf",
     "Attachments/Ejercicios demostración 14-09-23.pdf",
+    "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
+    "Attachments/Ejemplo principio de inducción.pdf",
+    "Attachments/Pasted image 20231130112345.png",
+    "300 Matemática básica/Corolario inverso de complejo.md",
+    "300 Matemática básica/Números complejos y polinomios.md",
+    "300 Matemática básica/Proposición números complejos.md",
+    "300 Matemática básica/Formas de expresar los número complejos.md",
+    "100 Análisis/Límite funcional.md",
+    "100 Análisis/Función.md",
+    "100 Análisis/Función inversa.md",
+    "100 Análisis/Toda función biyectiva tiene inversa.md",
+    "200 Álgebra lineal y geometría/Espacio vectorial.md",
+    "300 Matemática básica",
     "200 Álgebra lineal y geometría",
     "Attachements/Ejemplo principio de inducción.pdf",
     "100 Análisis",

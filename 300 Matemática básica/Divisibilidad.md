@@ -18,7 +18,6 @@
 - [[Algoritmo de Euclides]]
 Anki por aquí.
 - [[Proposición existencia de mínimo común múltiplo]]
-- [[Proposición existencia de mínimo común múltiplo]]
 - [[Proposición multiplicación mcd y mcm]]
 - [[Teorema fundamental de la aritmética]]
 - [[Corolario diferencia factorización entre dos números, uno divisor del otro]]

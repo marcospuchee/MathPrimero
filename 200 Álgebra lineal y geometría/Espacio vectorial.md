@@ -48,3 +48,4 @@ Sea $k$ un cuerpo y $V$ un conjunto no vacío, diremos que $V$ es un espacio vec
 - [[Teorema equivalencia suma directa]]
 - [[Corolario suma de dimensiones sii suma directa]]
 - [[Aplicación lineal]]
+- [[Coordenadas]]
