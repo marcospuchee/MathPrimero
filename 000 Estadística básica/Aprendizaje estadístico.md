@@ -3,7 +3,7 @@
 En general, el campo de aprendizaje estadístico se basa en encontrar la relación entre las variables (inputs) y las respuestas (outputs). Para conocer más sobre variables mira [[Tipos de variables]].
 
 Por ejemplo, si $Y$ es una respuesta cuantitativa y $X$ son las diferentes variables, asumimos que:
-## $Y = f(X) + \epsilon$ 
+$$Y = f(X) + \epsilon$$
 
 Donde la función $f$ es la relación entre inputs y outputs y $\epsilon$ es el margen de error. Sin embargo, cuando $Y$ no se obtiene fácilmente pero están claras las variables, la fórmula cambia, como se puede comprobar en [[Predictibilidad en el aprendizaje estadístico]] o [[Inferencia estadística]].
 

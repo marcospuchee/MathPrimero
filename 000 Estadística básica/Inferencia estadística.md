@@ -10,6 +10,7 @@ La inferencia estadística forma parte del [[Aprendizaje no supervisado]]
 
 --- 
 ### Contenido principal clase
+
 La inferencia estadística nos proporciona los procedimientos para analizar los datos de la muestra y las reglas para extender nuestras conclusiones a la población de la que procede la muestra.
 
 --- 

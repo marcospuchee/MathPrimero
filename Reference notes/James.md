@@ -1,6 +1,5 @@
 #### Intro
 - [[Diferencias entre aprendizaje supervisado y no supervisado]]
-- [[Métodos para predecir cantidades]]
 
 #### Aprendizaje estadístico
 - [[Aprendizaje estadístico]]
@@ -14,4 +13,7 @@
 - [[Aprendizaje no supervisado]]
 - [[Aprendizaje semi-supervisado]]
 - [[Interpretabilidad vs. predictibilidad]]
+- [[Métodos para predecir cantidades]]
 - [[Error cuadrático medio]]
+- [[Esperanza del error cuadrático medio]]
+- [[Tasa de error]]

@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c6210b71b92a8114",
+        "id": "6869ceb04ea02c59",
         "type": "tabs",
         "children": [
           {
-            "id": "ddcc40613d94466e",
+            "id": "cdb19e87aa0f2597",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "200 Álgebra lineal y geometría/Núcleo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "897df8b455246c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Matemática básica/Formas de expresar los número complejos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -81,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "300 Matemática básica/Formas de expresar los número complejos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "300 Matemática básica/Formas de expresar los número complejos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "300 Matemática básica/Formas de expresar los número complejos.md"
+              }
             }
           },
           {
@@ -131,7 +153,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -149,25 +172,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ddcc40613d94466e",
+  "active": "897df8b455246c61",
   "lastOpenFiles": [
-    "300 Matemática básica/Proposición relación binaria equipotencia.md",
-    "Lema producto matriz asociada y coordenadas.md",
-    "300 Matemática básica/Numerabilidad.md",
-    "300 Matemática básica/Teorema de Cantor.md",
-    "300 Matemática básica/Notación numerabilidad 2.md",
-    "300 Matemática básica/Notación numerabilidad.md",
-    "300 Matemática básica/Aplicaciones inyectivas en numerabilidad.md",
-    "300 Matemática básica/Z es numerable.md",
-    "300 Matemática básica/Conjunto numerable.md",
-    "300 Matemática básica/Propiedades de las relaciones binarias.md",
-    "300 Matemática básica/Conjuntos equipotentes.md",
-    "300 Matemática básica/Conjunto finito.md",
-    "100 Análisis/Teorema caracterización sucesional de límite.md",
-    "100 Análisis/Punto de acumulación.md",
-    "100 Análisis/Proposición punto acumulación límite.md",
-    "300 Matemática básica/Proposición producto números complejos.md",
+    "300 Matemática básica/Números complejos y polinomios.md",
+    "300 Matemática básica/Proposición números complejos.md",
     "300 Matemática básica/Proposición desigualdad triangular.md",
+    "300 Matemática básica/Corolario inverso de complejo.md",
+    "300 Matemática básica/Proposición producto números complejos.md",
+    "200 Álgebra lineal y geometría/Núcleo.md",
+    "Tasa de error.md",
+    "Reference notes/James.md",
+    "000 Estadística básica/Esperanza del error cuadrático medio.md",
+    "000 Estadística básica/Error cuadrático medio.md",
+    "000 Estadística básica/Métodos para predecir cantidades.md",
+    "000 Estadística básica/Sesgadez.md",
+    "000 Estadística básica/Aprendizaje estadístico.md",
+    "Attachments/Pasted image 20231203174827.png",
+    "000 Estadística básica/Medidas de dispersión.md",
+    "000 Estadística básica/Diferencias entre aprendizaje supervisado y no supervisado.md",
+    "000 Estadística básica/Interpretabilidad vs. predictibilidad.md",
+    "000 Estadística básica/Aprendizaje semi-supervisado.md",
+    "000 Estadística básica/Aprendizaje no supervisado.md",
+    "000 Estadística básica/Aprendizaje supervisado.md",
+    "000 Estadística básica/Métodos no paramétricos.md",
+    "000 Estadística básica/Métodos paramétricos.md",
+    "000 Estadística básica/Predictibilidad en el aprendizaje estadístico.md",
+    "000 Estadística básica/Inferencia estadística.md",
+    "000 Estadística básica/Errores en la predictibilidad.md",
+    "100 Análisis/Función.md",
+    "100 Análisis/Equivalencia de infinitésimos.md",
     "Attachments/Pasted image 20231014120505.png",
     "Attachments/Pasted image 20231130112321.png",
     "Attachments/Pasted image 20231014120448.png",
@@ -178,15 +211,6 @@
     "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
     "Attachments/Ejemplo principio de inducción.pdf",
     "Attachments/Pasted image 20231130112345.png",
-    "300 Matemática básica/Corolario inverso de complejo.md",
-    "300 Matemática básica/Números complejos y polinomios.md",
-    "300 Matemática básica/Proposición números complejos.md",
-    "300 Matemática básica/Formas de expresar los número complejos.md",
-    "100 Análisis/Límite funcional.md",
-    "100 Análisis/Función.md",
-    "100 Análisis/Función inversa.md",
-    "100 Análisis/Toda función biyectiva tiene inversa.md",
-    "200 Álgebra lineal y geometría/Espacio vectorial.md",
     "300 Matemática básica",
     "200 Álgebra lineal y geometría",
     "Attachements/Ejemplo principio de inducción.pdf",

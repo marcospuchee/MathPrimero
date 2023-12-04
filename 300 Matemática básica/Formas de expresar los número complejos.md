@@ -5,6 +5,7 @@
 ![[Pasted image 20231130112345.png]]
 - Forma exponencial: $z = |z|(\cos(\phi) + i\sin(\phi))$, entonces $z = |z|e^{i \phi} = |z|e^{i(\phi + 2k\pi)}$.
 - Forma polar: $|z|_{\phi}$.
+- Forma exponencial de $z$: $z = |z| e^{i \theta} = |z| e^{i(\theta + 2k\pi)}$ donde $\theta$ es el argumento principal de $z$ y $k \in \mathbb Z$.
 
 
 --- 
