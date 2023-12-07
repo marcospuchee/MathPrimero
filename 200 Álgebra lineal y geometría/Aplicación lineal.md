@@ -21,6 +21,15 @@ Sean $V, V'$ dos $k$-ev. Decimos que una aplicación ([[Aplicaciones]]) $f: V \r
 [[Matriz asociada a una aplicación lineal]]
 [[La matriz asociada a una aplicación lineal determina la aplicación lineal]]
 [[Cálculo de una imagen mediante una aplicación lineal dada la matriz asociada]]
+[[Lema producto matriz asociada y coordenadas]]
+[[Proposición matriz asociada a la composición de aplicaciones lineales]]
+Sección 6. Matriz Cambio de base
+[[Matriz cambio de base]]
+[[Corolario producto cambio de base por base]]
+[[Corolario producto de matriz cambio de base]]
+[[Matriz invertible]]
+[[Corolario matriz invertible de la matriz cambio de base]]
+[[Proposición toda matriz invertible es de cambio de base]]
 
 
 

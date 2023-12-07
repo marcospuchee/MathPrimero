@@ -1,7 +1,7 @@
 ### Proposición
 
 Sea $f: V \rightarrow V'$ lineal, entonces:
-1. Sea $\{v_1, \dots, v_n\}$ un [[Sistema generador de un espacio vectorial]] de $V$, $f$ es sobreyectiva $\iff \{f(v_1), \dots, f(v_n)\}$ es sistema generador de $V'$.
+1. Sea $\{v_1, \dots, v_n\}$ un [[Sistema generador]] de $V$, $f$ es sobreyectiva $\iff \{f(v_1), \dots, f(v_n)\}$ es sistema generador de $V'$.
 2. Sea $\{v_1, \dots, v_n\}$ una [[Base]] de $V$, entonces $f$ es inyectiva $\iff \{f(v_1), \dots, f(v_n)\}$ es linealmente independiente ([[Independencia lineal]]).
 3. Sea $\{v_1, \dots, v_n\}$ una base de $V$, entonces $f$ es biyectiva $\iff \{f(v_1), \dots, f(v_n) \}$ es base de $V'$.
 

@@ -3,7 +3,7 @@
 Sea $V$ un $k$-[[Espacio vectorial]] de dimensión ([[Dimensión de un espacio vectorial]]) $n$. Sea $S = \{v_1, \dots, v_n\} \subseteq V$, $|S|=n = dimV$, son equivalentes:
 1) $S$ es base [[Base]]
 2) $S$ es linealmente independiente [[Independencia lineal]].
-3) $S$ es sistema generador [[Sistema generador de un espacio vectorial]].
+3) $S$ es sistema generador [[Sistema generador]].
 
 ---
 ### Demostración

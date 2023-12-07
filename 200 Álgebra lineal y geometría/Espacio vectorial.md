@@ -24,7 +24,7 @@ Sea $k$ un cuerpo y $V$ un conjunto no vacío, diremos que $V$ es un espacio vec
 - [[Prop 1. EV]]
 - [[Suma de subespacios]]
 - [[Teorema de la suma de los subespacios]]
-- [[Sistema generador de un espacio vectorial]]
+- [[Sistema generador]]
 - [[(POR DEMOSTRAR) Prop 2. EV]]
 - [[Combinación lineal]]
 - [[Subespacio generado]]

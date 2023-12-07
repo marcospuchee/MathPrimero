@@ -1,6 +1,6 @@
 ### Contenido principal
 
-Sea $V$ un $k$-ev, decimos que $S \subseteq V$ es base de $V$ si $S$ es linealmente independiente ([[Independencia lineal]]) y sistema generador ([[Sistema generador de un espacio vectorial]]).
+Sea $V$ un $k$-ev, decimos que $S \subseteq V$ es base de $V$ si $S$ es linealmente independiente ([[Independencia lineal]]) y sistema generador ([[Sistema generador]]).
 
 Sin embargo, no está claro que todo [[Espacio vectorial]] tenga bases. Además también existen espacios vectoriales que tienen bases de cardinal infinito.
 

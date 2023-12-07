@@ -4,35 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "6869ceb04ea02c59",
+        "id": "9e67ae27ca1c99a5",
         "type": "tabs",
         "children": [
           {
-            "id": "cdb19e87aa0f2597",
+            "id": "6f724b2417b7f510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Álgebra lineal y geometría/Núcleo.md",
+                "file": "200 Álgebra lineal y geometría/Aplicación lineal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "897df8b455246c61",
+            "id": "e7c9ab395be33b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Matemática básica/Formas de expresar los número complejos.md",
+                "file": "200 Álgebra lineal y geometría/Aplicación lineal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "110bd9930d59046a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c20df1188920648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -99,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Matemática básica/Formas de expresar los número complejos.md",
+                "file": "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300 Matemática básica/Formas de expresar los número complejos.md",
+                "file": "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300 Matemática básica/Formas de expresar los número complejos.md"
+                "file": "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md"
               }
             }
           },
@@ -172,35 +191,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "897df8b455246c61",
+  "active": "2c20df1188920648",
   "lastOpenFiles": [
-    "300 Matemática básica/Números complejos y polinomios.md",
-    "300 Matemática básica/Proposición números complejos.md",
-    "300 Matemática básica/Proposición desigualdad triangular.md",
-    "300 Matemática básica/Corolario inverso de complejo.md",
-    "300 Matemática básica/Proposición producto números complejos.md",
-    "200 Álgebra lineal y geometría/Núcleo.md",
-    "Tasa de error.md",
-    "Reference notes/James.md",
-    "000 Estadística básica/Esperanza del error cuadrático medio.md",
-    "000 Estadística básica/Error cuadrático medio.md",
+    "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md",
+    "200 Álgebra lineal y geometría/Corolario producto cambio de base por base.md",
+    "200 Álgebra lineal y geometría/Corolario producto de matriz cambio de base.md",
+    "200 Álgebra lineal y geometría/Equivalencia de matrices.md",
+    "200 Álgebra lineal y geometría/Aplicación lineal.md",
+    "200 Álgebra lineal y geometría/Proposición toda matriz invertible es de cambio de base.md",
+    "200 Álgebra lineal y geometría/Matriz invertible.md",
+    "200 Álgebra lineal y geometría/Coordenadas.md",
+    "200 Álgebra lineal y geometría/Espacio vectorial.md",
+    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Prop 4. EV..md",
+    "200 Álgebra lineal y geometría/Teorema de la existencia de las bases.md",
+    "200 Álgebra lineal y geometría/Sistema generador minimal.md",
+    "200 Álgebra lineal y geometría/Sistema generador.md",
+    "200 Álgebra lineal y geometría/Cálculo de una imagen mediante una aplicación lineal dada la matriz asociada.md",
+    "200 Álgebra lineal y geometría/Matriz cambio de base.md",
+    "200 Álgebra lineal y geometría/Proposición matriz asociada a la composición de aplicaciones lineales.md",
+    "200 Álgebra lineal y geometría/Lema producto matriz asociada y coordenadas.md",
+    "200 Álgebra lineal y geometría/Matriz asociada a una aplicación lineal.md",
+    "000 Estadística básica/Problemas de clasificación.md",
+    "000 Estadística básica/K vecinos más próximos.md",
     "000 Estadística básica/Métodos para predecir cantidades.md",
-    "000 Estadística básica/Sesgadez.md",
-    "000 Estadística básica/Aprendizaje estadístico.md",
+    "000 Estadística básica/Error cuadrático medio.md",
+    "Reference notes/James.md",
+    "000 Estadística básica/Tasa de error.md",
+    "000 Estadística básica/Clasificador bayesiano ingenuo.md",
+    "Attachments/Pasted image 20231205191327.png",
+    "100 Análisis/Teorema de reordenación de Riemann.md",
     "Attachments/Pasted image 20231203174827.png",
-    "000 Estadística básica/Medidas de dispersión.md",
-    "000 Estadística básica/Diferencias entre aprendizaje supervisado y no supervisado.md",
-    "000 Estadística básica/Interpretabilidad vs. predictibilidad.md",
-    "000 Estadística básica/Aprendizaje semi-supervisado.md",
-    "000 Estadística básica/Aprendizaje no supervisado.md",
-    "000 Estadística básica/Aprendizaje supervisado.md",
-    "000 Estadística básica/Métodos no paramétricos.md",
-    "000 Estadística básica/Métodos paramétricos.md",
-    "000 Estadística básica/Predictibilidad en el aprendizaje estadístico.md",
-    "000 Estadística básica/Inferencia estadística.md",
-    "000 Estadística básica/Errores en la predictibilidad.md",
-    "100 Análisis/Función.md",
-    "100 Análisis/Equivalencia de infinitésimos.md",
     "Attachments/Pasted image 20231014120505.png",
     "Attachments/Pasted image 20231130112321.png",
     "Attachments/Pasted image 20231014120448.png",

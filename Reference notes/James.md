@@ -17,3 +17,6 @@
 - [[Error cuadrático medio]]
 - [[Esperanza del error cuadrático medio]]
 - [[Tasa de error]]
+- [[Problemas de clasificación]]
+- [[Clasificador bayesiano ingenuo]]
+- [[K vecinos más próximos]]
