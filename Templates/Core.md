@@ -1,3 +1,4 @@
+{{date}}, {{time}}
 ### Contenido principal
 
 

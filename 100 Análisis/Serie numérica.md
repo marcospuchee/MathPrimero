@@ -16,7 +16,7 @@ $$
 [[Propiedad suma de series numéricas convergentes]]
 [[Series geométricas]]
 [[Proposición convergencia de una serie numérica]]
-[[Teorema criterio general de convergencia de Cauchy]]
+[[Criterio general de convergencia de Cauchy]]
 [[Corolario relación entre convergencia y límite de una serie]]
 [[Serie de términos positivos]]
 [[Criterio de Mayoración de Weierstrass]]

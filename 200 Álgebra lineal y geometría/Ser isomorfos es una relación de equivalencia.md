@@ -1,6 +1,6 @@
 ### Proposición
 
-$\cong$ es una relación de equivalencia.
+$\cong$ es una [[relación de equivalencia]].
 
 ---
 ### Demostración

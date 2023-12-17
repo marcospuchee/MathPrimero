@@ -9,5 +9,5 @@ Se dice que la serie $\sum_{n=1}^\infty a_n$ converge si la sucesión $(S_N)^{+\
 [[Serie numérica]]
 [[Sucesión]]
 [[Proposición convergencia de una serie numérica]]
-[[Teorema criterio general de convergencia de Cauchy]]
+[[Criterio general de convergencia de Cauchy]]
 [[Corolario relación entre convergencia y límite de una serie]]

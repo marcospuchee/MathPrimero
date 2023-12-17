@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9e67ae27ca1c99a5",
+        "id": "8b0eb66a68ba0430",
         "type": "tabs",
         "children": [
           {
-            "id": "6f724b2417b7f510",
+            "id": "9a7c686b681c12a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Álgebra lineal y geometría/Aplicación lineal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7c9ab395be33b4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Álgebra lineal y geometría/Aplicación lineal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "110bd9930d59046a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "2c20df1188920648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,51 +150,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c20df1188920648",
+  "active": "9a7c686b681c12a3",
   "lastOpenFiles": [
-    "200 Álgebra lineal y geometría/Corolario matriz invertible de la matriz cambio de base.md",
-    "200 Álgebra lineal y geometría/Corolario producto cambio de base por base.md",
-    "200 Álgebra lineal y geometría/Corolario producto de matriz cambio de base.md",
-    "200 Álgebra lineal y geometría/Equivalencia de matrices.md",
+    "200 Álgebra lineal y geometría/Corolario matriz invertible iff producto de matrices elementales.md",
+    "200 Álgebra lineal y geometría/Matrices equivalentes.md",
+    "300 Matemática básica/Relación de equivalencia.md",
+    "Reference notes/Equivalencia de matrices.md",
+    "200 Álgebra lineal y geometría/Teorema producto por matrices invertibles matriz sencilla (demostración 2).md",
+    "200 Álgebra lineal y geometría/Teorema producto por matrices invertibles matriz sencilla.md",
+    "200 Álgebra lineal y geometría/Matriz elemental de tipo III.md",
+    "200 Álgebra lineal y geometría/Transformación elemental de filas.md",
+    "200 Álgebra lineal y geometría/Matriz elemental de tipo I.md",
+    "200 Álgebra lineal y geometría/Matriz elemental de tipo II.md",
+    "200 Álgebra lineal y geometría/Notación matrices elementales.md",
+    "200 Álgebra lineal y geometría/Equivalencia matriz invertible, rango máximo y existencia matrices invertibles producto identidad.md",
+    "200 Álgebra lineal y geometría/El rango de una matriz es menor que el número de filas y que el número de columnas.md",
+    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Lema de sustitución.md",
     "200 Álgebra lineal y geometría/Aplicación lineal.md",
-    "200 Álgebra lineal y geometría/Proposición toda matriz invertible es de cambio de base.md",
-    "200 Álgebra lineal y geometría/Matriz invertible.md",
-    "200 Álgebra lineal y geometría/Coordenadas.md",
-    "200 Álgebra lineal y geometría/Espacio vectorial.md",
-    "200 Álgebra lineal y geometría/(POR DEMOSTRAR) Prop 4. EV..md",
-    "200 Álgebra lineal y geometría/Teorema de la existencia de las bases.md",
-    "200 Álgebra lineal y geometría/Sistema generador minimal.md",
-    "200 Álgebra lineal y geometría/Sistema generador.md",
-    "200 Álgebra lineal y geometría/Cálculo de una imagen mediante una aplicación lineal dada la matriz asociada.md",
-    "200 Álgebra lineal y geometría/Matriz cambio de base.md",
-    "200 Álgebra lineal y geometría/Proposición matriz asociada a la composición de aplicaciones lineales.md",
-    "200 Álgebra lineal y geometría/Lema producto matriz asociada y coordenadas.md",
-    "200 Álgebra lineal y geometría/Matriz asociada a una aplicación lineal.md",
-    "000 Estadística básica/Problemas de clasificación.md",
-    "000 Estadística básica/K vecinos más próximos.md",
-    "000 Estadística básica/Métodos para predecir cantidades.md",
-    "000 Estadística básica/Error cuadrático medio.md",
-    "Reference notes/James.md",
-    "000 Estadística básica/Tasa de error.md",
-    "000 Estadística básica/Clasificador bayesiano ingenuo.md",
+    "200 Álgebra lineal y geometría/Ejemplo práctico del cálculo de Kerf sin utilizar la expresión analítica de f.md",
+    "200 Álgebra lineal y geometría/Teorema clasificación aplicaciones lineales.md",
+    "200 Álgebra lineal y geometría/Corolario relación entre dimensiones en aplicaciones lineales.md",
+    "200 Álgebra lineal y geometría/Corolario clasificación de los espacios vectoriales finitamente generados.md",
+    "200 Álgebra lineal y geometría/Teorema de existencia y unicidad de aplicaciones lineales.md",
+    "200 Álgebra lineal y geometría/Proposición sg, sl y base con aplicaciones lineales.md",
+    "200 Álgebra lineal y geometría/Lema composición de aplicaciones lineales es lineal.md",
+    "200 Álgebra lineal y geometría/Lema función inversa isomorfismo de un isomorfismo.md",
+    "200 Álgebra lineal y geometría/Ser isomorfos es una relación de equivalencia.md",
+    "200 Álgebra lineal y geometría/Isomorfismo.md",
+    "200 Álgebra lineal y geometría/Corolario equivalencia biyectiva, inyectiva, sobreyectiva.md",
+    "Attachments/Pasted image 20231209140831.png",
+    "Attachments/Pasted image 20231209133548.png",
+    "Attachments/Pasted image 20231208205647.png",
     "Attachments/Pasted image 20231205191327.png",
-    "100 Análisis/Teorema de reordenación de Riemann.md",
     "Attachments/Pasted image 20231203174827.png",
     "Attachments/Pasted image 20231014120505.png",
     "Attachments/Pasted image 20231130112321.png",
     "Attachments/Pasted image 20231014120448.png",
     "Attachments/Pasted image 20231014120434.png",
     "Attachments/Pasted image 20231014103637.png",
-    "Attachments/Pasted image 20230912193436.png",
     "Attachments/Ejercicios demostración 14-09-23.pdf",
     "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
     "Attachments/Ejemplo principio de inducción.pdf",
-    "Attachments/Pasted image 20231130112345.png",
     "300 Matemática básica",
     "200 Álgebra lineal y geometría",
     "Attachements/Ejemplo principio de inducción.pdf",
     "100 Análisis",
-    "Attachements/Pasted image 20230912193436.png",
     "Attachements",
     "Reference notes",
     "Templates"

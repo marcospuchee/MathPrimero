@@ -31,3 +31,4 @@
 [[Comparación del orden de infinitésimos]]
 [[Orden de un infinitésimo]]
 [[Equivalencia de infinitésimos]]
+anki por aquí

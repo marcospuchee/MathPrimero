@@ -6,7 +6,7 @@ Sean $V, V'$ dos $k$-ev. Decimos que una aplicación ([[Aplicaciones]]) $f: V \r
 ### Índice
 [[Prop 1. AL]]
 [[Núcleo]]
-[[(POR DEMOSTRAR) Proposición aplicación inyectiva núcleo 0]]
+[[Proposiciones aplicación lineal espacios vectoriales]]
 [[Teorema suma de dimensiones de núcleo e imagen]]
 [[Corolario equivalencia biyectiva, inyectiva, sobreyectiva]]
 [[Isomorfismo]]
@@ -30,6 +30,11 @@ Sección 6. Matriz Cambio de base
 [[Matriz invertible]]
 [[Corolario matriz invertible de la matriz cambio de base]]
 [[Proposición toda matriz invertible es de cambio de base]]
+Apéndice
+[[Espacio vectorial de aplicaciones lineales]]
+[[El espacio vectorial de aplicaciones lineales es isomorfo al de matrices]]
+[[Endomorfismo]]
+[[Endomorfismo biyectivo]]
 
 
 
