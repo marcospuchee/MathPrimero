@@ -1,0 +1,14 @@
+2023-12-20, 07:09
+### Contenido principal
+
+Para poder aplicar el [[Test Chi-cuadrado para tablas de contingencia]], se debe cumplir:
+- Los datos deben ser de uno de estos dos tipos:
+	- Dos o más muestras independientes observadas respecto a una variable categórica.
+	- Una muestra aleatoria observada respecto a dos variables categóricas.
+- Todas las frecuencias esperadas deben ser mayores o iguales a 5.
+
+
+--- 
+### Referencias
+
+[[Análisis de datos categóricos]]

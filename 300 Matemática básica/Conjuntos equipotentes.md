@@ -6,3 +6,13 @@ Dos conjuntos $A$ y $B$ se dicen equipotentes o que tienen el mismo cardinal si 
 ### Referencias
 
 [[Numerabilidad]]
+
+
+---
+### Anki
+START
+KaTeX and Markdown Basic
+Front: 
+Back:
+Tags:
+END

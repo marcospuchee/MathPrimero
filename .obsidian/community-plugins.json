@@ -1,4 +1,8 @@
 [
   "table-editor-obsidian",
-  "obsidian-to-anki-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-tikzjax",
+  "omnisearch",
+  "obsidian-to-anki-plugin",
+  "url-into-selection"
 ]

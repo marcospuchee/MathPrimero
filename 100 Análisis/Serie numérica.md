@@ -17,7 +17,7 @@ $$
 [[Series geométricas]]
 [[Proposición convergencia de una serie numérica]]
 [[Criterio general de convergencia de Cauchy]]
-[[Corolario relación entre convergencia y límite de una serie]]
+[[Corolario relación entre convergencia y límite de una serie y sucesión]]
 [[Serie de términos positivos]]
 [[Criterio de Mayoración de Weierstrass]]
 [[Criterio de Comparación del Cociente]]

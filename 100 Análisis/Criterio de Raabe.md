@@ -19,7 +19,7 @@ Hasta que para $n$ y $n+1$:
 5. $ka_n < (n-1) a_{n-1} - n  a_{n} + a_n \iff k_{a_{n+1}} < na_n - (n+1)a_{n+1} + a_{n+1}$.
 
 Todo esto es igual a: $k(S_{n+1} - S_{n_0}) < n_0 a_{n_0} - (n+1)a_{n+1} + (S_{n+1} - S_{n_0})$ dado que todo lo demás se cancela.
-$(k-1)(S_{n+1}-S_{n_0}) < n_0a_{n_0} - (n+1)a_{n+1} < n_0 a_{n_0}$. Como sabemos que $k > 1$, $S_{n+1} - S_{n_0} < \frac{n_0 a_{n_0}}{k+1}$ $\iff S_{n+1} < \frac{k_0 a_{n_0}}{k-1} + S_{n_0}$. Así, tenemos que $(S_{n+1})_{n=n_0}^{+\infty}$ está acotada superiormente por una constante. Como $a_n > 0, \forall n \in \mathbb{N}, (S_{n+1})_{n=n_0}^{+\infty}$ es estrictamente creciente. [[Toda sucesión creciente y acotada superiormente es convergente]].
+$(k-1)(S_{n+1}-S_{n_0}) < n_0a_{n_0} - (n+1)a_{n+1} < n_0 a_{n_0}$. Como sabemos que $k > 1$, $S_{n+1} - S_{n_0} < \frac{n_0 a_{n_0}}{k-1}$ $\iff S_{n+1} < \frac{k_0 a_{n_0}}{k-1} + S_{n_0}$. Así, tenemos que $(S_{n+1})_{n=n_0}^{+\infty}$ está acotada superiormente por una constante. Como $a_n > 0, \forall n \in \mathbb{N}, (S_{n+1})_{n=n_0}^{+\infty}$ es estrictamente creciente. [[Toda sucesión creciente y acotada superiormente es convergente]].
 
 ### 2.
 $l < 1, \exists n_00 \in \mathbb{N}$ tal que $n(\frac{a_n}{a_{n+1}} - 1) < 1, \forall n \ge n_0$. De aquí tenemos que $\frac{a_n}{a_{n+1}} < \frac{1}{n} + 1 = \frac{1+n}{n}, \forall n \ge n_0$. Esto nos lleva a que $na_n < (n+1)a_{n+1}, \forall n \ge n_0 \iff n_0 a_{n_0} < na_n, \forall n>n_0 \iff \frac{n_0 a_{n_0}}{n} < a_n, \forall n>n_0$. Como la serie armónica $\sum_{n=1}^{+\infty} \frac{1}{n}$ diverge, por el [[Criterio de Mayoración de Weierstrass]], $\sum_{n=1}^{+\infty} a_n$ diverge.

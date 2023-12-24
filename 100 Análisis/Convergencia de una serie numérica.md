@@ -10,4 +10,4 @@ Se dice que la serie $\sum_{n=1}^\infty a_n$ converge si la sucesión $(S_N)^{+\
 [[Sucesión]]
 [[Proposición convergencia de una serie numérica]]
 [[Criterio general de convergencia de Cauchy]]
-[[Corolario relación entre convergencia y límite de una serie]]
+[[Corolario relación entre convergencia y límite de una serie y sucesión]]
