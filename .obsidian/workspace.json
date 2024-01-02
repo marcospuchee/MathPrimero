@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c9026cf15d82ea7e",
+        "id": "8190668e0eec68f8",
         "type": "tabs",
         "children": [
           {
-            "id": "05eb0d6f8949920e",
+            "id": "03cc2459e9a499d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Templates/Anki.md",
-                "mode": "source",
-                "source": false
+                "file": "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md"
               }
             }
-          },
-          {
-            "id": "6aeec4f02b3e33e7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -94,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md"
+              }
             }
           },
           {
@@ -140,7 +134,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -153,11 +149,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,57 +167,57 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "smart-random-note:Open Random Note from Search": false
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "6aeec4f02b3e33e7",
+  "active": "03cc2459e9a499d3",
   "lastOpenFiles": [
-    "Templates/Anki.md",
-    "Untitled.md",
-    "000 Estadística básica/Medidas de dispersión.md",
-    "Templates/Día.md",
-    "Calendar/2023-12-24.md",
-    "Calendar/2023-12-23.md",
-    "Tareas.md",
-    "1000 Deep Learning/Conceptos de Deep Learning/ANN.md",
-    "Reference notes/Conceptos de Deep Learning.md",
-    "100 Análisis/Serie absolutamente convergente.md",
-    "100 Análisis/Teorema caracterización sucesional de límite.md",
-    "100 Análisis/Criterio de Leibnitz.md",
-    "100 Análisis/Prácticas Análisis/Práctica 4/Análisis P.4.5.md",
+    "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.8.md",
+    "000 Estadística básica/Variable en el análisis estadístico de dos muestras.md",
+    "100 Análisis/Serie numérica.md",
+    "100 Análisis/Sucesión.md",
+    "100 Análisis/Suma parcial n-ésima de una serie numérica.md",
+    "000 Estadística básica/Análisis estadístico de dos muestras.md",
+    "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md",
+    "Attachements/Pasted Image 20240101170842_390.png",
+    "100 Análisis/Criterio de Comparación del Cociente.md",
+    "100 Análisis/Criterio de D'Alembert.md",
+    "Attachements/Pasted Image 20240101160914_024.png",
+    "000 Estadística básica/Tablas de contingencia (independencia).md",
+    "000 Estadística básica/Tablas de contingencia (homogeneidad).md",
+    "000 Estadística básica/Distribución muestral de la proporción.md",
+    "000 Estadística básica/Análisis de datos categóricos.md",
+    "000 Estadística básica/Variables dicotómicas.md",
+    "000 Estadística básica/Condiciones de aplicabilidad del test Chi-cuadrado.md",
+    "000 Estadística básica/Contraste de hipótesis para una proporción.md",
+    "000 Estadística básica/Test Chi-cuadrado para tablas de contingencia.md",
+    "000 Estadística básica/Intervalo de confianza para una proporción.md",
+    "000 Estadística básica/Contrastes unilaterales en el test de bondad de ajuste.md",
+    "000 Estadística básica/Distribución Chi-Cuadrado.md",
+    "000 Estadística básica/Test de Bondad de Ajuste.md",
+    "000 Estadística básica/Error estándar de la proporción.md",
+    "000 Estadística básica/Objetivo del análisis de datos categóricos.md",
+    "000 Estadística básica/Influencia del tamaño en la distribución muestral de la proporción.md",
+    "000 Estadística básica/Test de rangos con signo de Wilcoxon para dos muestras independientes.md",
+    "000 Estadística básica/Test t para la comparación de dos medias poblacionales independientes.md",
+    "Attachements/Pasted Image 20231230211822_066.png",
+    "Attachements/Pasted Image 20231230211621_048.png",
+    "Attachements/Pasted Image 20231230210156_863.png",
+    "Attachements/Pasted Image 20231228164323_137.png",
+    "Attachements/Pasted Image 20231228163936_054.png",
+    "Attachements/Pasted Image 20231228163042_911.png",
+    "Attachements/Pasted Image 20231228162505_826.png",
+    "Attachements/Pasted Image 20231228161422_620.png",
+    "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas",
+    "100 Análisis/Prácticas Análisis/Práctica 4",
     "1000 Deep Learning/Conceptos de Deep Learning",
     "1000 Deep Learning/1100 Conceptos del Deep Learning",
     "1000 Deep Learning",
-    "100 Análisis/Prácticas Análisis/Práctica 4/Análisis P.4.7.md",
-    "100 Análisis/Prácticas Análisis/Práctica 4/Análisis P.4.6.md",
-    "Attachements/Pasted Image 20231223191143_949.png",
-    "100 Análisis/Criterio de Raabe.md",
-    "100 Análisis/Criterio de D'Alembert.md",
-    "100 Análisis/Serie de términos positivos.md",
-    "100 Análisis/Criterio de Cauchy.md",
-    "Attachements/Pasted Image 20231223175744_640.png",
-    "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.md",
-    "Attachements/Pasted Image 20231223173719_342.png",
-    "100 Análisis/Prácticas Análisis/Práctica 4",
-    "100 Análisis/Criterio general de convergencia de Cauchy.md",
-    "100 Análisis/Criterio de Mayoración de Weierstrass.md",
-    "Excalidraw/Drawing 2023-12-23 15.34.43.excalidraw.md",
-    "100 Análisis/Serie numérica.md",
-    "100 Análisis/Proposición convergencia de una serie numérica.md",
-    "100 Análisis/Serie incondicionalmente convergente.md",
+    "100 Análisis/Prácticas Análisis/Práctica 3",
     "Calendar",
-    "Attachements/Pasted Image 20231222183934_214.png",
     "100 Análisis/Prácticas Análisis",
     "Attachements",
     "Attachments/Ejemplo principio de inducción.pdf",
-    "Excalidraw",
-    "Attachments/Pasted image 20231220064324.png",
-    "Attachments/Pasted image 20231209140831.png",
-    "Attachments/Pasted image 20231209133548.png",
-    "Attachments/Pasted image 20231208205647.png",
-    "Attachments/Pasted image 20231205191327.png",
-    "Attachments/Pasted image 20231203174827.png",
-    "Attachments/Ejercicios demostración 14-09-23.pdf"
+    "Excalidraw"
   ]
 }

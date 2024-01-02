@@ -9,3 +9,15 @@ $$SE_{\hat \pi} = \sqrt{\frac{\hat \pi(1 - \hat \pi)}{n}} $$
 
 [[Error estándar de la media muestral]]
 [[Análisis de datos categóricos]]
+
+---
+### Anki
+
+START
+KaTeX and Markdown Basic
+Front: Cuál es el error estándar de la proporción?
+Back: Es el resultado de la fórmula de la desviación típica de la proporción, pero con su estimador.
+$$SE_{\hat \pi} = \sqrt{\frac{\hat \pi(1 - \hat \pi)}{n}} $$
+Tags: definición
+<!--ID: 1704111672924-->
+END

@@ -11,3 +11,30 @@ Además, la media de la variable $X$ es $\pi$ y la varianza es $\pi(1- \pi)$.
 ### Referencias
 
 [[Análisis de datos categóricos]]
+
+---
+### Anki
+
+START
+KaTeX and Markdown Basic
+Front: A qué llamamos variables dicotómicas?
+Back: Las variables que solo pueden pertenecer a dos categorías se dicen variables dicotómicas. Pueden representarse utilizando los valores $\{0, 1\}$, de manera que $X = 1$ si se cumple la propiedad que nos interesa y $X = 0$ si no se cumple.
+Tags: definición
+<!--ID: 1704111672883-->
+END
+
+START
+KaTeX and Markdown Basic
+Front: Distribución de una variable dicotómica
+Back: Las variables dicotómicas siguen una distribución Bernoulli: $X \sim Ber(\pi)$ donde $\pi$ es la probabilidad de éxito, y se caracteriza por la siguiente función de probabilidad: $P(X = 1) = \pi$ y $P(X = 0) = 1 - \pi$. Destacar que la Bernoulli coincide con la [[Distribución binomial]]: $Bi(1, \pi)$.
+Tags: definición
+<!--ID: 1704111672888-->
+END
+
+START
+KaTeX and Markdown Basic
+Front: Media y varianza de una variable dicotómica
+Back: La media de la variable $X$ es $\pi$ y la varianza es $\pi(1- \pi)$.  Donde $\pi$ es la probabilidad de éxito, dado que $X \sim Ber(\pi)$.
+Tags: definición
+<!--ID: 1704111672892-->
+END

@@ -15,3 +15,26 @@ $$ P(\pi \in IC) = 1- \alpha \textrm{ con } IC = [\hat \pi \pm t_{1-\alpha, n-1}
 ### Referencias
 
 [[Análisis de datos categóricos]]
+
+---
+### Anki
+
+START
+KaTeX and Markdown Basic
+Front: Qué relación tiene el intervalo de confianza para la proporción $\pi$ con la distribución normal?
+Back: La construcción de un [[Intervalo de confianza]] para la proporción $\pi$ se basa en la aproximación de la [[Distribución binomial]] mediante la [[Distribución normal]]:
+- Si $Y \sim Bi(n, \pi)$ y $n$ es grande, $Y \sim N(n\pi, \sqrt{n\pi (1- \pi)})$ (si $n\pi \ge 5$ y $n(1-\pi) \ge 5$).
+
+Ahora, la proporción $\hat \pi = Y/n$, y siendo $n$ grande, $\hat \pi \sim N(\pi, \sqrt{\pi(1-\pi)/n})$
+Tags: definición
+<!--ID: 1704111672917-->
+END
+
+START
+KaTeX and Markdown Basic
+Front: Cómo se calcula el intervalo de confianza para una proporción?
+Back: El intervalo de confianza del $100(1- \alpha)\%$ para una proporción $\pi$ desconocida es:
+$$ P(\pi \in IC) = 1- \alpha \textrm{ con } IC = [\hat \pi \pm t_{1-\alpha, n-1} SE_{\hat \pi}]$$
+Tags: definición
+<!--ID: 1704111672920-->
+END

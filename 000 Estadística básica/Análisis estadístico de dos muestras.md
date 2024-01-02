@@ -13,7 +13,7 @@ Las unidades observacionales de cada pareja de datos $(x_1, x_2)$ tienen alguna 
 [[Test t para la comparación de medias poblacionales relacionadas]]
 [[Test de rangos con signo de Wilcoxon para dos muestras relacionadas]]
 [[Independencia de las muestras en el análisis de dos muestras relacionadas]]
-EXAMEN HASTA AQUÍ
+
 [[Métodos paramétricos y no paramétricos en el análisis de dos muestras independientes]]
 [[Error estándar para la diferencia de dos medias muestrales independientes]]
 [[Test de Levene]]
@@ -21,7 +21,5 @@ EXAMEN HASTA AQUÍ
 [[Test t para la comparación de dos medias poblacionales independientes]]
 [[Contraste de hipótesis para dos medias poblacionales independientes]]
 [[Test de rangos con signo de Wilcoxon para dos muestras independientes]]
-POR ACABAR Y REPASAR QUE TODO ESTÉ BIEN
-
 
 

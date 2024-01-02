@@ -11,3 +11,5 @@ Sabemos que $Y \sim B(n,p)$, su media y varianza valdrán $\mu_Y = np$ y $\sigma
 
 [[Inferencia estadística]]
 [[Análisis de datos categóricos]]
+
+

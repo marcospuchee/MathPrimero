@@ -3,6 +3,7 @@
 - [[Objetivo del análisis de datos categóricos]]
 - [[Distribución muestral de la proporción]]
 - [[Influencia del tamaño en la distribución muestral de la proporción]]
+- [[Error estándar de la proporción]]
 - [[Intervalo de confianza para una proporción]]
 - [[Contraste de hipótesis para una proporción]]
 - [[Test de Bondad de Ajuste]]
