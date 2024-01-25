@@ -4,20 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8190668e0eec68f8",
+        "id": "baf5d41027b90e61",
         "type": "tabs",
         "children": [
           {
-            "id": "03cc2459e9a499d3",
+            "id": "d0d23eb1db7a9e31",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md"
+                "file": "1er Cuatri/102 Álgebra Lineal y Geometría I/(POR DEMOSTRAR) Lema de sustitución.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -46,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 242.5
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -77,6 +80,7 @@
       {
         "id": "a1bb4fccfb7dfc83",
         "type": "tabs",
+        "dimension": 33.24074074074074,
         "children": [
           {
             "id": "e471fcb64a8ed389",
@@ -84,25 +88,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "c1ba5ef42ced8c57",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -123,9 +114,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md"
-              }
+              "state": {}
             }
           },
           {
@@ -147,14 +136,39 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "07a8540e9f040911",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
+      },
+      {
+        "id": "6cfdabfe3ebd98bf",
+        "type": "tabs",
+        "dimension": 66.75925925925927,
+        "children": [
+          {
+            "id": "c1ba5ef42ced8c57",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,54 +184,54 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "03cc2459e9a499d3",
+  "active": "5e6eb8f7956acf1a",
   "lastOpenFiles": [
-    "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.8.md",
-    "000 Estadística básica/Variable en el análisis estadístico de dos muestras.md",
-    "100 Análisis/Serie numérica.md",
-    "100 Análisis/Sucesión.md",
-    "100 Análisis/Suma parcial n-ésima de una serie numérica.md",
-    "000 Estadística básica/Análisis estadístico de dos muestras.md",
-    "100 Análisis/Prácticas Análisis/Práctica 3/Análisis P.3.9.md",
-    "Attachements/Pasted Image 20240101170842_390.png",
-    "100 Análisis/Criterio de Comparación del Cociente.md",
-    "100 Análisis/Criterio de D'Alembert.md",
-    "Attachements/Pasted Image 20240101160914_024.png",
-    "000 Estadística básica/Tablas de contingencia (independencia).md",
-    "000 Estadística básica/Tablas de contingencia (homogeneidad).md",
-    "000 Estadística básica/Distribución muestral de la proporción.md",
-    "000 Estadística básica/Análisis de datos categóricos.md",
-    "000 Estadística básica/Variables dicotómicas.md",
-    "000 Estadística básica/Condiciones de aplicabilidad del test Chi-cuadrado.md",
-    "000 Estadística básica/Contraste de hipótesis para una proporción.md",
-    "000 Estadística básica/Test Chi-cuadrado para tablas de contingencia.md",
-    "000 Estadística básica/Intervalo de confianza para una proporción.md",
-    "000 Estadística básica/Contrastes unilaterales en el test de bondad de ajuste.md",
-    "000 Estadística básica/Distribución Chi-Cuadrado.md",
-    "000 Estadística básica/Test de Bondad de Ajuste.md",
-    "000 Estadística básica/Error estándar de la proporción.md",
-    "000 Estadística básica/Objetivo del análisis de datos categóricos.md",
-    "000 Estadística básica/Influencia del tamaño en la distribución muestral de la proporción.md",
-    "000 Estadística básica/Test de rangos con signo de Wilcoxon para dos muestras independientes.md",
-    "000 Estadística básica/Test t para la comparación de dos medias poblacionales independientes.md",
-    "Attachements/Pasted Image 20231230211822_066.png",
-    "Attachements/Pasted Image 20231230211621_048.png",
-    "Attachements/Pasted Image 20231230210156_863.png",
-    "Attachements/Pasted Image 20231228164323_137.png",
-    "Attachements/Pasted Image 20231228163936_054.png",
-    "Attachements/Pasted Image 20231228163042_911.png",
-    "Attachements/Pasted Image 20231228162505_826.png",
-    "Attachements/Pasted Image 20231228161422_620.png",
-    "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas",
-    "100 Análisis/Prácticas Análisis/Práctica 4",
+    "1er Cuatri/102 Álgebra Lineal y Geometría I/(POR DEMOSTRAR) Lema de sustitución.md",
+    "Reference notes/Neural Networks and Deep Learning.md",
+    "1er Cuatri/102 Álgebra Lineal y Geometría I/(POR DEMOSTRAR) Prop 2. EV.md",
+    "Attachements/Pasted Image 20231223191143_949.png",
+    "Attachements/Pasted Image 20231223175744_640.png",
+    "Attachements/Pasted Image 20231222183934_214.png",
+    "2o Cuatri/205 Herramientas informáticas",
+    "2o Cuatri/204 Física",
+    "2o Cuatri/203 Matemática Discreta",
+    "2o Cuatri/202 Álgebra Lineal y Geometría",
+    "2o Cuatri/201 Análisis",
+    "2o Cuatri",
+    "1er Cuatri",
+    "Excalidraw/Drawing 2024-01-24 16.38.55.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-24 15.10.51.excalidraw.md",
+    "1er Cuatri/103 Matemática Básica/Prácticas Básica/Tema 7. Polinomios.md",
+    "Excalidraw/Drawing 2024-01-23 15.35.04.excalidraw.md",
+    "Attachements/Pasted Image 20240124133244_428.png",
+    "Attachements/Pasted Image 20240124132647_332.png",
+    "Attachements/Pasted Image 20240124131112_133.png",
+    "Attachements/Pasted Image 20240124130554_102.png",
+    "1er Cuatri/103 Matemática Básica/Prácticas Básica/Tema 7. Complejos.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.28.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.26.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.25.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.24.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.23.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.22.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.13.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.11.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.10.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.9.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.8.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.7.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.6.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.5.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 2/EXTRA.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 2/Análisis P.2.35.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 2/Análisis P.2.27.md",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 2/Análisis P.2.24.md",
+    "Attachements/Pasted Image 20240124104941_527.png",
+    "Attachements/Pasted Image 20240124102447_252.png",
+    "Attachements/Pasted Image 20240124095301_011.png",
+    "1er Cuatri/103 Matemática Básica/Prácticas Básica",
+    "200 Álgebra lineal y geometría/Práctica Álgebra/Tema 3",
     "1000 Deep Learning/Conceptos de Deep Learning",
-    "1000 Deep Learning/1100 Conceptos del Deep Learning",
-    "1000 Deep Learning",
-    "100 Análisis/Prácticas Análisis/Práctica 3",
-    "Calendar",
-    "100 Análisis/Prácticas Análisis",
-    "Attachements",
-    "Attachments/Ejemplo principio de inducción.pdf",
-    "Excalidraw"
+    "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas"
   ]
 }

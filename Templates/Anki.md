@@ -1,6 +1,6 @@
 START
-KaTeX and Markdown Basic
-Front: 
-Back:
+Básico
+Anverso: 
+Reverso:
 Tags:
 ENaD

@@ -21,4 +21,6 @@
 - [[Corolario matriz invertible iff producto de matrices elementales]]
 ### 3. Matrices equivalentes
 - [[Matrices equivalentes]]
+- [[Teorema producto por matrices invertibles matriz sencilla con matrices equivalentes]]
+- [[Teorema equivalencia de matrices equivalentes, mismo rango y A y C representan la misma aplicación lineal]]
 
