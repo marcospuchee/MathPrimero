@@ -12,3 +12,4 @@ Esta proposición, [[El espacio vectorial de aplicaciones lineales es isomorfo a
 ### Referencias
 
 [[Aplicación lineal]]
+[[Diagonalización]]

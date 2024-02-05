@@ -2,7 +2,7 @@
   "attachmentFolderPath": "Attachements",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showLineNumber": false,
   "rightToLeft": false
 }

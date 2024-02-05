@@ -1,7 +1,10 @@
 {
-  "accentColor": "",
-  "baseFontSize": 16,
+  "accentColor": "#74a4d8",
+  "baseFontSize": 18,
   "cssTheme": "",
   "theme": "obsidian",
-  "translucency": true
+  "translucency": true,
+  "enabledCssSnippets": [
+    "styles"
+  ]
 }

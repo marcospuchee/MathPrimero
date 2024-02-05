@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "baf5d41027b90e61",
+        "id": "ae6e25f16cba83a5",
         "type": "tabs",
         "children": [
           {
-            "id": "d0d23eb1db7a9e31",
+            "id": "83bdc0d68c4ac4c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1er Cuatri/102 Álgebra Lineal y Geometría I/(POR DEMOSTRAR) Lema de sustitución.md",
+                "file": "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -88,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md"
+              }
             }
           },
           {
@@ -138,7 +140,7 @@
             }
           },
           {
-            "id": "07a8540e9f040911",
+            "id": "206951e68480b901",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -159,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +188,44 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "5e6eb8f7956acf1a",
+  "active": "83bdc0d68c4ac4c9",
   "lastOpenFiles": [
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/(POR DEMOSTRAR) Lema de sustitución.md",
-    "Reference notes/Neural Networks and Deep Learning.md",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/(POR DEMOSTRAR) Prop 2. EV.md",
+    "2o Cuatri/201 Análisis I/Teorema de caracterización de la continuidad por sucesiones.md",
+    "2o Cuatri/201 Análisis I/Práctica/Práctica 1. 05-02-2024.md",
+    "Attachements/Pasted Image 20240205123745_766.png",
+    "Attachements/Pasted Image 20240205120725_867.png",
+    "1er Cuatri/101 Análisis I/Criterio del emparedado.md",
+    "Attachements/Pasted Image 20240205113729_036.png",
+    "Attachements/Pasted Image 20240205112938_846.png",
+    "Attachements/Pasted Image 20240205111009_844.png",
+    "2o Cuatri/201 Análisis I/Clases/2024-02-05.md",
+    "2o Cuatri/201 Análisis I/Práctica",
+    "2o Cuatri/201 Análisis I/Clases/2024-02-01.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Clases/2024-02-05.md",
+    "1er Cuatri/102 Álgebra Lineal y Geometría I/Rango de filas de una matriz.md",
+    "Reference notes/Equivalencia de matrices.md",
+    "1er Cuatri/102 Álgebra Lineal y Geometría I/Aplicación lineal.md",
+    "2o Cuatri/203 Matemática Discreta/Clases/2024-02-01.md",
+    "2o Cuatri/203 Matemática Discreta/Número de permutaciones.md",
+    "2o Cuatri/203 Matemática Discreta/Número de permutaciones con repetición.md",
+    "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md",
+    "(POR DEMOSTRAR) Propiedades de los coeficientes binómicos.md",
+    "2 elevado a n es el sumatorio de los binomios hasta n.md",
+    "1er Cuatri/102 Álgebra Lineal y Geometría I/Proposición toda matriz invertible es de cambio de base.md",
+    "2o Cuatri/201 Análisis I/Clases/2024-01-29.md",
+    "2o Cuatri/201 Análisis I/Funciones continuas.md",
+    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Suma de funciones continuas es continua.md",
+    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Producto de funciones continuas es continua.md",
+    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Intersección intervalos es no vacía.md",
+    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Ejercicio conjuntos no compactos.md",
+    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Ejercicio 1.28.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Diagonalización.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Valor propio de una matriz.md",
+    "Attachements/Pasted Image 20240201113958_951.png",
+    "2o Cuatri/204 Física/Clases",
+    "2o Cuatri/203 Matemática Discreta/Clases",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Clases",
+    "2o Cuatri/201 Análisis I/Clases",
     "Attachements/Pasted Image 20231223191143_949.png",
     "Attachements/Pasted Image 20231223175744_640.png",
     "Attachements/Pasted Image 20231222183934_214.png",
@@ -196,42 +233,8 @@
     "2o Cuatri/204 Física",
     "2o Cuatri/203 Matemática Discreta",
     "2o Cuatri/202 Álgebra Lineal y Geometría",
-    "2o Cuatri/201 Análisis",
-    "2o Cuatri",
-    "1er Cuatri",
-    "Excalidraw/Drawing 2024-01-24 16.38.55.excalidraw.md",
-    "Excalidraw/Drawing 2024-01-24 15.10.51.excalidraw.md",
-    "1er Cuatri/103 Matemática Básica/Prácticas Básica/Tema 7. Polinomios.md",
-    "Excalidraw/Drawing 2024-01-23 15.35.04.excalidraw.md",
+    "2o Cuatri/201 Análisis I",
     "Attachements/Pasted Image 20240124133244_428.png",
-    "Attachements/Pasted Image 20240124132647_332.png",
-    "Attachements/Pasted Image 20240124131112_133.png",
-    "Attachements/Pasted Image 20240124130554_102.png",
-    "1er Cuatri/103 Matemática Básica/Prácticas Básica/Tema 7. Complejos.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.28.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.26.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.25.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.24.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.23.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/Análisis P.4.22.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.13.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.11.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.10.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.9.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.8.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.7.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.6.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/Análisis P.3.5.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 2/EXTRA.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 2/Análisis P.2.35.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 2/Análisis P.2.27.md",
-    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 2/Análisis P.2.24.md",
-    "Attachements/Pasted Image 20240124104941_527.png",
-    "Attachements/Pasted Image 20240124102447_252.png",
-    "Attachements/Pasted Image 20240124095301_011.png",
-    "1er Cuatri/103 Matemática Básica/Prácticas Básica",
-    "200 Álgebra lineal y geometría/Práctica Álgebra/Tema 3",
-    "1000 Deep Learning/Conceptos de Deep Learning",
     "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas"
   ]
 }

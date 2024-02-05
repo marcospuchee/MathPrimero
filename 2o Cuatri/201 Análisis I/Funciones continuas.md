@@ -1,0 +1,37 @@
+# Índice
+
+### 1. Funciones continuas en un punto
+- 1.1 [[Función continua en un punto]]
+- 1.3 [[Composición de funciones continuas es continua]]
+- 1.5.1 [[Si a no es punto de acumulación de A, entonces f es continua]]
+- 1.5.2 [[Función continua en un punto que es punto de acumulación]]
+- 1.6 [[Teorema de caracterización de la continuidad por sucesiones]]
+- 1.7.1 [[(POR DEMOSTRAR) Suma de funciones continuas es continua]]
+- 1.7.2 [[(POR DEMOSTRAR) Producto de funciones continuas es continua]]
+- 1.7.3 [[(POR DEMOSTRAR)División de funciones continuas es continua]]
+- 1.8 [[Continuidad de los polinomios]]
+### 2. Funciones continuas en ciertos conjuntos
+- 1.9 [[Función continua en un conjunto]]
+- 1.11 [[Subconjunto sucesionalmente compacto]]
+- 1.13 [[Conjunto a,b es compacto]]
+- 1.14 [[(POR DEMOSTRAR) Ejercicio conjuntos no compactos]]
+- 1.15 [[Función acotada]]
+- 1.17 [[Teorema de Weierstrass]]
+- 1.19 [[Teorema principal de Weierstrass (1861)]]
+- 1.21 [[Intervalo]]
+- 1.22 [[(POR DEMOSTRAR) Posibilidades de intervalos]]
+- 1.23 [[Teorema de Bolzano (1817)]]
+- 1.25 [[Lema valor del límite en un punto a]]
+- 1.26 [[(POR DEMOSTRAR) Intersección intervalos es no vacía]]
+- 1.28 [[(POR DEMOSTRAR) Ejercicio 1.28]]
+### 3. Funciones uniformemente continuas
+- 1.29 [[Función uniformemente continua]]
+- 1.31 [[Definición alternativa de función uniformemente continua]]
+- 1.32 [[Teorema de Heine (1872)]]
+### 4. Funciones monótonas
+- 1.33 [[Función monótona]]
+- 1.34 [[Función continua e inyectiva es un intervalo es estrictamente monótona]]
+- 1.35 [[Lema subintervalo con el mínimo]]
+- 1.36 [[Definición función continua en un punto con supremo e ínfimo]]
+- 1.38 [[f no es continua en A, f(A) no es un intervalo]]
+- 1.40 [[Teorema función inversa mantiene continuidad y monotonía]]

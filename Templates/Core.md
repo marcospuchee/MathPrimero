@@ -1,13 +1,10 @@
-{{date}}, {{time}}
 ### Contenido principal
 
+Fecha: {{date}}, {{time}}
 
 
 
---- 
-### Referencias
-
-
+**Referencias:**
 
 ---
 ### Anki
