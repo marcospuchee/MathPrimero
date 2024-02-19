@@ -12,7 +12,7 @@ donde $|A|$ es el cardinal (número de elementos de $A$).
 
 **Tema:** [[Métodos de enumeración y combinatoria#1. Técnicas de conteo]]
 **Proposiciones:** _No aplicable_
-**Teoremas:** _No aplicable_
+**Teoremas:** [[Principio de inclusión-exclusión]]
 
 ---
 ### Anki

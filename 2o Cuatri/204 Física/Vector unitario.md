@@ -16,3 +16,11 @@ Decimos que $\vec a$ es unitario si $|\vec a| = 1 \quad (\vec a^2 = 1)$
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cuándo decimos que un vector es unitario?
+Reverso: Sea $\vec a$ un vector, decimos que $\vec a$ es unitario si $|\vec a| = 1 \quad (\vec a^2 = 1)$
+Tags: definición
+<!--ID: 1707241941318-->
+END

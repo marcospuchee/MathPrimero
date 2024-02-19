@@ -14,3 +14,11 @@ Decimos que $\vec a$ y $\vec b$ son colineales si $\alpha = 0 \lor \alpha = \pi$
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cuándo decimos que dos vectores son ortogonales?
+Reverso: Sean $\vec a, \vec b$ dos vectores, entonces eecimos que $\vec a$ y $\vec b$ son colineales si $\alpha = 0 \lor \alpha = \pi$. Y del mismo sentido si $\alpha = 0$, o del sentido opuesto si $\alpha = \pi$.
+Tags: definición
+<!--ID: 1707241941331-->
+END

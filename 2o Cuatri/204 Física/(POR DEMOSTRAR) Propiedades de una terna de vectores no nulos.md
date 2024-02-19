@@ -25,3 +25,13 @@ Sea $\{\vec a, \vec b, \vec c \}$ una terna de vectores no nulos. Entonces,
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Qué propiedades cumple una terna de vectores no nulos?
+Reverso: Sea $\{\vec a, \vec b, \vec c \}$ una terna de vectores no nulos. Entonces,
+- $\vec a · \vec b = \vec b · \vec c = \vec c · \vec a = 0$ ([[Vectores ortogonales]] dos a dos), entonces $\{\vec a, \vec b, \vec c\}$ es [[Base]].
+- Si $\{\vec a, \vec b\}$ son linealmente independientes ([[Independencia lineal]]) y $\vec a · \vec c = \vec b · \vec c = 0$, entonces $\{\vec a, \vec b, \vec c\}$ es [[Base]].
+Tags: proposición/teorema
+<!--ID: 1707241941357-->
+END

@@ -25,3 +25,19 @@ Consecuencia directa de [[Teorema obtención valores propios]]
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Qué relación hay entre un valor propio y  una raíz del polinomio característico?
+Reverso: Sea $f \in End(V)$ y sea $\lambda \in K$, entonces $\lambda$ es [[Valor propio de un endomorfismo]] $\iff \lambda$ es raíz de $p_f(x)$ ([[Polinomio característico de un endomorfismo]]) ([[Notación polinomios]]).
+Tags: proposición/teorema
+<!--ID: 1707247432450-->
+END
+
+START
+Básico
+Anverso: Demostración de que sea $f \in End(V)$ y sea $\lambda \in K$, entonces $\lambda$ es [[Valor propio de un endomorfismo]] $\iff \lambda$ es raíz de $p_f(x)$ ([[Polinomio característico de un endomorfismo]]) ([[Notación polinomios]]).
+Reverso: Consecuencia directa de [[Teorema obtención valores propios]].
+Tags: demostración
+<!--ID: 1707247432460-->
+END

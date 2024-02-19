@@ -15,31 +15,59 @@
       }
     },
     {
-      "query": "path:\"1er Cuatri/102 Álgebra Lineal y Geometría I\"  ",
+      "query": "path:\"2o Cuatri/201 Análisis I\"  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14711890
       }
     },
     {
-      "query": "path:\"1er Cuatri/103 Matemática Básica\"  ",
+      "query": "path:\"1er Cuatri/102 Álgebra Lineal y Geometría I\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14724178
+      }
+    },
+    {
+      "query": "path: \"2o Cuatri/202 Álgebra Lineal y Geometría\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14606418
       }
     },
     {
       "query": "path:\"1er Cuatri/104 Estadística Básica\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 11788370
       }
     },
     {
-      "query": "path:\"2o Cuatri/201 Análisis I\"  ",
+      "query": "path:\"1er Cuatri/103 Matemática Básica\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6021202
+      }
+    },
+    {
+      "query": "path:\"2o Cuatri/204 Física\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"2o Cuatri/203 Matemática Discreta\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5420768
+      }
+    },
+    {
+      "query": "path:\"2o Cuatri/205 Herramientas informáticas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5405920
       }
     }
   ],
@@ -53,6 +81,6 @@
   "repelStrength": 15.5728051391863,
   "linkStrength": 0.653015703069236,
   "linkDistance": 366,
-  "scale": 0.016702075165245918,
+  "scale": 0.06681647932903557,
   "close": true
 }

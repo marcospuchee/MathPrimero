@@ -14,6 +14,7 @@ donde $|\vec a|$ es el módulo del vector $\vec a$.
 Estas son las [[Propiedades del módulo de un vector]]
 
 **Tema:** [[Cinemática clásica#1. El espacio y el tiempo de la física clásica. Cálculo vectorial.]]
+**Referencias:** [[Movimiento de una partícula]]
 **Proposiciones:**
 **Teoremas:**
 

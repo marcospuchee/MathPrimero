@@ -14,7 +14,7 @@ $A$ y $C$ son semejantes.
 
 
 ```ad-proof
-Sea $B = \{v_1, \dots, v_n\} [[Base]] de $V$. Sea $A \in M_n (K)$ la matriz coordenada de $f$ con respecto a la base $B$, es decir, $[f(v_j)]_B \in K^n$ ([[Coordenadas]]) es la columna j-ésima de $A, \forall j \in \{1, \dots, n\}$.
+Sea $B = \{v_1, \dots, v_n\}$ [[Base]] de $V$. Sea $A \in M_n (K)$ la matriz coordenada de $f$ con respecto a la base $B$, es decir, $[f(v_j)]_B \in K^n$ ([[Coordenadas]]) es la columna j-ésima de $A, \forall j \in \{1, \dots, n\}$.
 Sabemos por [[Cálculo de las coordenadas una imagen dada la matriz asociada]] que $\forall v \in V, [f(v)]_B = A[v]_B$.
 Consideremos $B'$ una base de $V$, y sea $C$ la matriz coordenada de $f$ con respecto a $B'$. Sea $P$ la [[Matriz cambio de base]] de $B$ a $B'$, tenemos que $[f(v)]_{B'} = C[v]_{B'}$.
 
@@ -26,7 +26,7 @@ Así, hemos llegado a que $A = P^{-1}CP$, luego $A$ y $C$ son matrices semejante
 
 
 **Tema:** [[Diagonalización]]
-**Corolarios:** [[Dos matrices coordenadas de f respecto a bases distintas poseen el mismo polinomio característico]]
+**Consecuencias:** [[Dos matrices coordenadas de f respecto a bases distintas poseen el mismo polinomio característico]], [[Teorema relación matriz diagonalizable endomorfismo diagonalizable]]
 
 ---
 ### Anki

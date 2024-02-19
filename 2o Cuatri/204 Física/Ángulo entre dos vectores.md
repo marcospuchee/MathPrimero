@@ -16,3 +16,12 @@ $$\alpha \in [0, \pi] : \cos \alpha = \frac{\vec a · \vec b}{|\vec a| | \vec b|
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cómo definimos al ángulo que forman dos vectores?
+Reverso: Sean $\vec a, \vec b$ dos vectores, entonces definimos el ángulo $\alpha \equiv \angle (\vec a, \vec b)$ como
+$$\alpha \in [0, \pi] : \cos \alpha = \frac{\vec a · \vec b}{|\vec a| | \vec b|}$$
+Tags: definición
+<!--ID: 1707241941305-->
+END

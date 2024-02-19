@@ -8,6 +8,7 @@ title: Formal definition
 ```
 
 **Tema:**
+**Referencias:**
 **Proposiciones:**
 **Teoremas:**
 

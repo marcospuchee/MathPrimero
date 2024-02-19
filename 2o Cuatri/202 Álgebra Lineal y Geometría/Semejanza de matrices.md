@@ -9,6 +9,7 @@ Decimos que $A$ y $C$ son semejantes si $\exists P \in GL_n (K)$ ([[Matriz inver
 ```
 
 **Tema:** [[Diagonalización]]
+**Referencias:** [[Matriz diagonalizable]]
 **Proposiciones:** [[Matrices asociadas a endomorfismos son semejantes]], [[Semejanza de matrices es relación de equivalencia]]
 **Teoremas:**
 

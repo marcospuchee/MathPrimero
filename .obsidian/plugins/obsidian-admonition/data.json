@@ -63,6 +63,19 @@
       "title": "Lemma",
       "injectColor": true,
       "noTitle": false
+    },
+    "cor": {
+      "type": "cor",
+      "color": "143, 221, 255",
+      "icon": {
+        "type": "obsidian",
+        "name": "lucide-bookmark"
+      },
+      "command": false,
+      "title": "Corollarium",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
     }
   },
   "syntaxHighlight": false,

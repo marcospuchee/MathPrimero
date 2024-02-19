@@ -14,3 +14,11 @@ El [[Polinomio]] característico de $A$ es $p_A(x) = \det(xI_n -a) \in K[x]$
 
 ---
 ### Anki
+
+START
+Básico
+Anverso:  Cuál es el polinomio característico de una matriz?
+Reverso: Sea $A \in M_n (K)$, el [[Polinomio]] característico de $A$ es $p_A(x) = \det(xI_n -a) \in K[x]$
+Tags: definición
+<!--ID: 1707247432441-->
+END

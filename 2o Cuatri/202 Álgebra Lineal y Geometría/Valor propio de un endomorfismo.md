@@ -13,8 +13,9 @@ En este caso se dice que $v$ es vector propio de $f$ asociado al valor propio $\
 Existe una definición alternativa de valor propio: [[Valor propio de una matriz]]
 
 **Tema:** [[Diagonalización]]
-**Proposiciones:** [[Relación valor propio de endomorfismo y matriz]], [[Obtención de valores propios a través del polinomio característico de un endomorfismo]], [[Ejercicio 1 (por hacer)]]
-**Teoremas:**
+**Referencias:** [[Multiplicidad algebraica]]
+**Proposiciones:** [[Relación valor propio de endomorfismo y matriz]], [[Obtención de valores propios a través del polinomio característico de un endomorfismo]], [[Ejercicio 1 diagonalización (por hacer)]], [[Corolario suma de subespacios propios directa y unión de bases es base de la suma]], [[Corolario f diagonalizable si f tiene n valores propios distintos]], [[Multiplicidad algebraica es mayor o igual que multiplicidad geométrica]], [[f diagonalizable sii la suma directa de espacios propios es V]]
+**Teoremas:** [[Teorema vectores propios nulos]], [[f diagonalizable sii la suma directa de espacios propios es V]]
 
 ---
 ### Anki

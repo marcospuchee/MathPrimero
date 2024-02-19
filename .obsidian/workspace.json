@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae6e25f16cba83a5",
+        "id": "095a830c11a367d7",
         "type": "tabs",
         "children": [
           {
-            "id": "83bdc0d68c4ac4c9",
+            "id": "77fef26441813257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "2o Cuatri/201 Análisis I/Práctica/Práctica 3. 19-02-2024.md"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md",
+                "file": "2o Cuatri/201 Análisis I/Práctica/Práctica 3. 19-02-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md"
+                "file": "2o Cuatri/201 Análisis I/Práctica/Práctica 3. 19-02-2024.md"
               }
             }
           },
@@ -161,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md",
+                "file": "2o Cuatri/201 Análisis I/Práctica/Práctica 3. 19-02-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,53 +186,54 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "83bdc0d68c4ac4c9",
+  "active": "77fef26441813257",
   "lastOpenFiles": [
-    "2o Cuatri/201 Análisis I/Teorema de caracterización de la continuidad por sucesiones.md",
-    "2o Cuatri/201 Análisis I/Práctica/Práctica 1. 05-02-2024.md",
-    "Attachements/Pasted Image 20240205123745_766.png",
-    "Attachements/Pasted Image 20240205120725_867.png",
-    "1er Cuatri/101 Análisis I/Criterio del emparedado.md",
-    "Attachements/Pasted Image 20240205113729_036.png",
-    "Attachements/Pasted Image 20240205112938_846.png",
-    "Attachements/Pasted Image 20240205111009_844.png",
-    "2o Cuatri/201 Análisis I/Clases/2024-02-05.md",
+    "Attachements/Pasted Image 20240219122257_704.png",
+    "Attachements/Pasted Image 20240219122242_693.png",
+    "Attachements/Pasted Image 20240219120351_702.png",
+    "Attachements/Pasted Image 20240219114609_697.png",
+    "2o Cuatri/201 Análisis I/Práctica/Práctica 2. 16-02-2024.md",
+    "2o Cuatri/201 Análisis I/Práctica/Práctica 3. 19-02-2024.md",
+    "Attachements/Pasted Image 20240219112707_708.png",
+    "Attachements/Pasted Image 20240219110725_690.png",
+    "2o Cuatri/201 Análisis I/Clases/2024-02-19.md",
+    "2o Cuatri/201 Análisis I/Clases/2024-02-15.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Clases/2024-02-19.md",
+    "2o Cuatri/204 Física/Clases/2024-02-16.md",
+    "Velocidad.md",
+    "Movimiento de una partícula.md",
+    "2o Cuatri/204 Física/Vector de posición.md",
+    "Función vectorial.md",
+    "2o Cuatri/204 Física/Cinemática clásica.md",
+    "2o Cuatri/204 Física/Módulo de un vector.md",
+    "2o Cuatri/204 Física/Tiempo.md",
+    "2o Cuatri/204 Física/Curva.md",
+    "Integral definida.md",
+    "Función primitiva de una función vectorial.md",
+    "Funciones coordenadas.md",
+    "Función vectorial derivable.md",
+    "Regla de la cadena.md",
+    "2o Cuatri/204 Física/Clases/2024-02-13.md",
+    "2o Cuatri/204 Física/Vectores ortogonales.md",
+    "Función vectorial de módulo constante es ortogonal a su derivada.md",
+    "Operaciones de funciones vectoriales.md",
+    "Fórmulas de derivación.md",
+    "Límite de una función vectorial.md",
+    "2o Cuatri/201 Análisis I/Práctica/Continuidad",
+    "Attachements/Pasted Image 20240216121542_235.png",
+    "Attachements/Pasted Image 20240216113606_225.png",
+    "Attachements/Pasted Image 20240216112632_417.png",
+    "Attachements/Pasted Image 20240216112159_243.png",
+    "Attachements/Pasted Image 20240216111125_249.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas",
+    "2o Cuatri/204 Física/Prácticas",
+    "2o Cuatri/203 Matemática Discreta/Práctica",
     "2o Cuatri/201 Análisis I/Práctica",
-    "2o Cuatri/201 Análisis I/Clases/2024-02-01.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Clases/2024-02-05.md",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/Rango de filas de una matriz.md",
-    "Reference notes/Equivalencia de matrices.md",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/Aplicación lineal.md",
-    "2o Cuatri/203 Matemática Discreta/Clases/2024-02-01.md",
-    "2o Cuatri/203 Matemática Discreta/Número de permutaciones.md",
-    "2o Cuatri/203 Matemática Discreta/Número de permutaciones con repetición.md",
-    "2o Cuatri/203 Matemática Discreta/Métodos de enumeración y combinatoria.md",
-    "(POR DEMOSTRAR) Propiedades de los coeficientes binómicos.md",
-    "2 elevado a n es el sumatorio de los binomios hasta n.md",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/Proposición toda matriz invertible es de cambio de base.md",
-    "2o Cuatri/201 Análisis I/Clases/2024-01-29.md",
-    "2o Cuatri/201 Análisis I/Funciones continuas.md",
-    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Suma de funciones continuas es continua.md",
-    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Producto de funciones continuas es continua.md",
-    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Intersección intervalos es no vacía.md",
-    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Ejercicio conjuntos no compactos.md",
-    "2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Ejercicio 1.28.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Diagonalización.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Valor propio de una matriz.md",
-    "Attachements/Pasted Image 20240201113958_951.png",
     "2o Cuatri/204 Física/Clases",
     "2o Cuatri/203 Matemática Discreta/Clases",
     "2o Cuatri/202 Álgebra Lineal y Geometría/Clases",
     "2o Cuatri/201 Análisis I/Clases",
-    "Attachements/Pasted Image 20231223191143_949.png",
-    "Attachements/Pasted Image 20231223175744_640.png",
-    "Attachements/Pasted Image 20231222183934_214.png",
     "2o Cuatri/205 Herramientas informáticas",
-    "2o Cuatri/204 Física",
-    "2o Cuatri/203 Matemática Discreta",
-    "2o Cuatri/202 Álgebra Lineal y Geometría",
-    "2o Cuatri/201 Análisis I",
-    "Attachements/Pasted Image 20240124133244_428.png",
     "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas"
   ]
 }

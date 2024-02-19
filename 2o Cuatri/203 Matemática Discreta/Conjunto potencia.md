@@ -16,3 +16,12 @@ $$\mathcal X^{\mathcal Y} = \{f : \mathcal Y \to \mathcal X\}$$
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: A qué llamamos conjunto potencia?
+Reverso: Sean $\mathcal X, \mathcal Y$ dos conjuntos, llamamos conjunto potencia al conjunto de todas las aplicaciones de $\mathcal Y$ en $\mathcal X$, lo denotamos por:
+$$\mathcal X^{\mathcal Y} = \{f : \mathcal Y \to \mathcal X\}$$
+Tags: definición
+<!--ID: 1707170512647-->
+END

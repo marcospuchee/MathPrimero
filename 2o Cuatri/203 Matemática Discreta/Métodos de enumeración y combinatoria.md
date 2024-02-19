@@ -22,4 +22,15 @@ El número de subconjuntos de $k$ elementos de un conjunto de $n$ elementos es e
 - [[Teorema igualdad 2 elevado a A con partes de A]]
 ### 3. El binomio de Newton. Fórmula de Leibniz para la potencia de un polinomio.
 - [[(POR DEMOSTRAR) Propiedades de los coeficientes binómicos]]
-- 
+- [[Fórmula de Leibniz]]
+### 4. Principio de inclusión-exclusión
+- [[Principio de inclusión-exclusión]]
+- [[Variaciones del principio de inclusión-exclusión]]
+### 5. Funciones generatrices.
+- [[Número binomial generalizado]]
+- [[Número binomial negativo]]
+- [[Desarrollo de Taylor]]
+- [[Función generatriz]]
+- [[Función generatriz de 1+x elevado a -n]]
+
+
