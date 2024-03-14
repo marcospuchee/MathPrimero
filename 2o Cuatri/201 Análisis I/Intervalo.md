@@ -8,7 +8,8 @@ Sea $I \subset \mathbb R$ un subconjunto,
 > $$  \forall a,b,u \in \mathbb R \textrm{ con } a < u < b \land a,b \in I \implies u \in I$$ 
 
 **Tema:** [[Funciones continuas#2. Funciones continuas en ciertos conjuntos]]
-**Proposiciones:** [[(POR DEMOSTRAR) Posibilidades de intervalos]], [[(POR DEMOSTRAR) Ejercicio 1.28]], [[f no es continua en A, f(A) no es un intervalo]]
+**Referencias:** [[Interior]]
+**Proposiciones:** [[(POR DEMOSTRAR) Posibilidades de intervalos]], [[(POR DEMOSTRAR) Ejercicio 1.28]], [[f no es continua en A, f(A) no es un intervalo]], [[Función derivable en el interior de un intervalo monótona]]
 **Teoremas:** [[Teorema de Bolzano (1817)]]
 
 ---

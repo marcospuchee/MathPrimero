@@ -17,7 +17,7 @@ $|\vec x(t)| =$ constante $\implies \vec x(t) · \vec x'(t) = 0$ ([[Vectores ort
 ```
 
 **Tema:** [[Cinemática clásica#2.c Funciones vectoriales]]
-**Corolarios:**
+**Corolarios:** [[El vector curvatura y el vector tangente unitario son ortogonales]], [[La derivada del binormal unitario y el normal principal unitario son colineales sii el producto vectorial es 0]], [[La velocidad areolar es constante sii la aceleración es radial]]
 
 ---
 ### Anki

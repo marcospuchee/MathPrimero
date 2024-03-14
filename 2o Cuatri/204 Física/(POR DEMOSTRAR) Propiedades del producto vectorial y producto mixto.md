@@ -33,7 +33,7 @@ _Añadidas tras el producto mixto:_
 ```
 
 **Tema:** [[Cinemática clásica#1. El espacio y el tiempo de la física clásica. Cálculo vectorial.]]
-**Corolarios:**
+**Corolarios:** [[La derivada del binormal unitario y el normal principal unitario son colineales sii el producto vectorial es 0]]
 
 ---
 ### Anki

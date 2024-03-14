@@ -19,8 +19,8 @@ $$
 
 
 **Tema:** [[Cinemática clásica#3.a Elementos básicos de cinemática]]
-**Referencias:** 
-**Proposiciones:**
+**Referencias:** [[Cinemática en coordenadas polares]]
+**Proposiciones:** [[Fórmula aceleración a partir de curvatura y tangente unitaria]], [[Fórmula curvatura a partir de la velocidad y aceleración]]
 **Teoremas:**
 
 ---

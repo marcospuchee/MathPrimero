@@ -20,9 +20,9 @@ Sea $A \in M_n(\mathbb K)$, consideramos $F_A: \mathbb K^n \times \mathbb K^n \t
 
 
 **Tema:** [[Formas bilineales]]
-**Referencias:**
-**Proposiciones:**
-**Teoremas:**
+**Referencias:** [[Matriz coordenada de F]], [[Rango de una forma bilineal]], [[Forma bilineal invertible]], [[Forma bilineal simétrica]], [[Subespacio regular]]
+**Proposiciones:** [[Lema cálculo forma bilineal a partir de matriz coordenada]], [[Matriz coordenada de F simétrica sii F simétrica]]
+**Teoremas:** [[Toda matriz simétrica es congruente a una matriz diagonal]]
 
 ---
 ### Anki

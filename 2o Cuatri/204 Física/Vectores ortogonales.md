@@ -11,7 +11,7 @@ Decimos que son ortogonales si $\vec a · \vec b = 0 \quad (\alpha$ ([[Ángulo e
 
 **Tema:** [[Cinemática clásica#1. El espacio y el tiempo de la física clásica. Cálculo vectorial.]]
 **Referencias:** [[Base ortonormal]]
-**Proposiciones:** [[(POR DEMOSTRAR) Propiedades de una terna de vectores no nulos]], [[Función vectorial de módulo constante es ortogonal a su derivada]]
+**Proposiciones:** [[(POR DEMOSTRAR) Propiedades de una terna de vectores no nulos]], [[Función vectorial de módulo constante es ortogonal a su derivada]], [[El vector curvatura y el vector tangente unitario son ortogonales]]
 **Teoremas:**
 
 ---

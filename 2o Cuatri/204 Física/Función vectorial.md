@@ -14,7 +14,7 @@ La imagen de la función, $\{\vec x(t) \in V_3 : t \in [a,b]\}$ es una [[Curva]]
 
 **Tema:** [[Cinemática clásica#2.c Funciones vectoriales]]
 **Referencias:** [[Funciones coordenadas]], [[Operaciones de funciones vectoriales]], [[Límite de una función vectorial]], [[Continuidad de una función vectorial]], [[Función vectorial derivable]], [[Fórmulas de derivación]], [[Función primitiva de una función vectorial]], [[Integral definida]], [[Movimiento de una partícula]], [[Velocidad]], [[Camino recorrido]]
-**Proposiciones:** [[Función vectorial de módulo constante es ortogonal a su derivada]], [[Regla de la cadena]]
+**Proposiciones:** [[Función vectorial de módulo constante es ortogonal a su derivada]], [[Regla de la cadena con funciones vectoriales]], [[La trayectoria es rectilínea sii la curvatura es nula]]
 **Teoremas:**
 
 ---

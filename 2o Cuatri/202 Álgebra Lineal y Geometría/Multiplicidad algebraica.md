@@ -11,7 +11,7 @@ Llamamos multiplicidad algebraica $\alpha$ de $\lambda$ a la multiplicidad de $\
 
 **Tema:** [[Diagonalización]]
 **Proposiciones:** [[Multiplicidad algebraica es mayor o igual que multiplicidad geométrica]]
-**Teoremas:** [[Criterio de diagonalización]]
+**Teoremas:** [[Criterio de diagonalización]], [[Teorema solución ley de recurrencia]]
 
 ---
 ### Anki

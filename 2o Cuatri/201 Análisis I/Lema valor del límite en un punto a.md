@@ -19,7 +19,7 @@ Sean $A \subset \mathbb R, a \in ac(A)$ ([[Punto de acumulación]]) y $f : A \to
 > $$f(x) = l-(l-f(x)) \ge l-|f(x) - l| > l-l > 0$$
 
 **Tema:** [[Funciones continuas#2. Funciones continuas en ciertos conjuntos]]
-**Corolarios:** [[Teorema de Bolzano (1817)]]
+**Corolarios:** [[Teorema de Bolzano (1817)]], [[Teorema derivada de un extremo relativo]]
 
 ---
 ### Anki

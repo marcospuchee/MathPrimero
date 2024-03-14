@@ -20,8 +20,10 @@ Si $f$ no es continua en $a$, diremos que es discontinua en $a$.
 - [[(POR DEMOSTRAR) Ejercicio 1.28]]
 - [[Definición función continua en un punto con supremo e ínfimo]]
 - [[f no es continua en A, f(A) no es un intervalo]]
+- [[Toda función derivable en un punto es continua en ese punto]]
 ##### Teoremas
 - [[Teorema de caracterización de la continuidad por sucesiones]]
+- [[Regla de la cadena]]
 
 ---
 ### Anki

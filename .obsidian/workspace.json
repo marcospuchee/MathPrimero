@@ -4,39 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "a7cc8ecb8f639ca2",
+        "id": "783bd61df5e2e76a",
         "type": "tabs",
         "children": [
           {
-            "id": "c3a994ddddad4dc7",
+            "id": "aed6c4d676bb08b6",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2o Cuatri/204 Física/Prácticas/Tema 1/P1.1.md"
+                "file": "2o Cuatri/203 Matemática Discreta/Clases/2024-03-13.md"
               }
             }
           },
           {
-            "id": "128da0bb2cc6f173",
+            "id": "d89e8a1d6baae4eb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2o Cuatri/204 Física/Prácticas/Tema 1/P1.2.md"
+                "file": "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md"
               }
             }
           },
           {
-            "id": "3dd1a835df3fec3c",
+            "id": "700978b9a51b71e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2o Cuatri/204 Física/Movimientos circulares.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -103,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md"
+              }
             }
           },
           {
@@ -153,7 +162,7 @@
             }
           },
           {
-            "id": "206951e68480b901",
+            "id": "f18f5192c2fb4e56",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -174,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +199,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "omnisearch:Omnisearch": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -197,56 +206,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "3dd1a835df3fec3c",
+  "active": "d89e8a1d6baae4eb",
   "lastOpenFiles": [
-    "2o Cuatri/204 Física/Prácticas/Tema 1/P1.1.md",
-    "2o Cuatri/204 Física/Prácticas/Tema 1/P1.2.md",
-    "2o Cuatri/204 Física/Prácticas/Práctica 1. 2024-02-07.md",
-    "Attachements/Pasted Image 20240220193051_963.png",
-    "2o Cuatri/204 Física/Ángulo entre dos vectores.md",
-    "Attachements/Pasted Image 20240220190231_064.png",
+    "2o Cuatri/203 Matemática Discreta/Clases/2024-03-13.md",
+    "2o Cuatri/204 Física/Movimientos circulares.md",
+    "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md",
+    "2o Cuatri/204 Física/(POR DEMOSTRAR) Propiedades del producto vectorial y producto mixto.md",
+    "Attachements/Pasted Image 20240313182316_348.png",
+    "2o Cuatri/204 Física/La base intrínseca es ortonormal orientada.md",
+    "Attachements/Pasted Image 20240313175447_257.png",
+    "Attachements/Pasted Image 20240313174628_223.png",
+    "Attachements/Pasted Image 20240313174205_073.png",
+    "1er Cuatri/101 Análisis I/Propiedad arquimediana.md",
+    "Attachements/Pasted Image 20240313173819_216.png",
+    "Attachements/Pasted Image 20240313173447_211.png",
+    "2o Cuatri/204 Física/Cinemática clásica.md",
+    "2o Cuatri/204 Física/Vectores unitarios coordenados en coordenadas polares.md",
+    "Attachements/Pasted Image 20240313173159_852.png",
+    "Attachements/Pasted Image 20240313102426_245.png",
+    "2o Cuatri/205 Herramientas informáticas/Clases/2024-03-13.md",
+    "2o Cuatri/205 Herramientas informáticas/Clases/2024-03-08.md",
+    "2o Cuatri/205 Herramientas informáticas/Drawing 2024-02-09 09.40.06.excalidraw.md",
+    "2o Cuatri/204 Física/Prácticas/Práctica 5. 06-03-2024.md",
+    "2o Cuatri/204 Física/Prácticas/Tema 1/P4.6.md",
+    "Attachements/Pasted Image 20240312193904_779.png",
+    "2o Cuatri/204 Física/Prácticas/Tema 1/P4.7.md",
+    "2o Cuatri/204 Física/Vector curvatura.md",
+    "2o Cuatri/204 Física/Aceleración.md",
+    "2o Cuatri/204 Física/Velocidad.md",
+    "2o Cuatri/204 Física/Vector de posición.md",
+    "Attachements/Pasted Image 20240312190553_973.png",
+    "2o Cuatri/204 Física/Prácticas/Tema 1/P4.5.md",
+    "2o Cuatri/203 Matemática Discreta/Práctica/Práctica 5. 05-03-2024.md",
+    "2o Cuatri/203 Matemática Discreta/Teorema solución EDF lineales de primer orden.md",
+    "2o Cuatri/203 Matemática Discreta/Práctica/Práctica 6. 12-03-2024.md",
+    "2o Cuatri/203 Matemática Discreta/Clases/2024-03-12.md",
+    "2o Cuatri/204 Física/Clases/2024-03-12.md",
+    "2o Cuatri/201 Análisis I/Clases/2024-02-22.md",
+    "2o Cuatri/205 Herramientas informáticas/Clases",
+    "2o Cuatri/203 Matemática Discreta/Práctica/Enumeración y recuento",
+    "2o Cuatri/201 Análisis I/Práctica/Derivabilidad",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Diagonalización",
     "2o Cuatri/204 Física/Prácticas/Tema 1",
-    "2o Cuatri/203 Matemática Discreta/Práctica/Práctica 3. 20-02-2024.md",
-    "Excalidraw/Drawing 2024-02-20 18.00.06.excalidraw.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Diagonalización.md",
-    "Attachements/Pasted Image 20240220125233_961.png",
-    "Attachements/Pasted Image 20240220125203_955.png",
-    "Attachements/Pasted Image 20240220123812_601.png",
-    "Attachements/Pasted Image 20240220122538_144.png",
-    "Untitled.md",
-    "Attachements/Pasted Image 20240220120731_625.png",
-    "2o Cuatri/203 Matemática Discreta/Práctica/Práctica 2. 2024-02-13.md",
-    "2o Cuatri/203 Matemática Discreta/Clases/2024-02-20.md",
-    "2o Cuatri/204 Física/Clases/2024-02-20.md",
-    "2o Cuatri/203 Matemática Discreta/Clases/2024-02-01.md",
-    "2o Cuatri/203 Matemática Discreta/Clases/2024-02-06.md",
-    "2o Cuatri/203 Matemática Discreta/Clases/2024-02-07.md",
-    "Attachements/Pasted Image 20240220112548_016.png",
-    "Attachements/Pasted Image 20240220111816_911.png",
-    "Attachements/Pasted Image 20240220111130_672.png",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/Endomorfismo.md",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/Espacio vectorial.md",
-    "1er Cuatri/103 Matemática Básica/Espacio vectorial cociente.md",
-    "Excalidraw/Drawing 2024-02-19 20.31.06.excalidraw.md",
-    "Excalidraw/Drawing 2024-02-19 19.27.49.excalidraw.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Formas bilineales.md",
-    "2o Cuatri/201 Análisis I/Funciones continuas.md",
-    "2o Cuatri/201 Análisis I/Práctica/Práctica 3. 19-02-2024.md",
-    "Excalidraw/Drawing 2024-02-19 19.03.17.excalidraw.md",
-    "2o Cuatri/201 Análisis I/Función continua en un punto.md",
-    "2o Cuatri/201 Análisis I/Práctica/Práctica 2. 16-02-2024.md",
     "2o Cuatri/201 Análisis I/Práctica/Continuidad",
     "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas",
     "2o Cuatri/204 Física/Prácticas",
     "2o Cuatri/203 Matemática Discreta/Práctica",
     "2o Cuatri/201 Análisis I/Práctica",
-    "2o Cuatri/204 Física/Clases",
-    "2o Cuatri/203 Matemática Discreta/Clases",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Clases",
-    "2o Cuatri/201 Análisis I/Clases",
     "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas"
   ]
 }

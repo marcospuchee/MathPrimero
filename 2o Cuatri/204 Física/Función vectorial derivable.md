@@ -21,7 +21,7 @@ $$x'(t) = {x^{i}} ' (t) \vec e_i$$
 
 **Tema:** [[Cinemática clásica#2.c Funciones vectoriales]]
 **Referencias:** [[Fórmulas de derivación]], [[Función primitiva de una función vectorial]]
-**Proposiciones:** [[Regla de la cadena]], [[Velocidad]], [[Aceleración]]
+**Proposiciones:** [[Regla de la cadena con funciones vectoriales]], [[Velocidad]], [[Aceleración]]
 **Teoremas:**
 
 ---

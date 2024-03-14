@@ -22,7 +22,7 @@ Sea $f: A \to \mathbb R$ estrictamente monótona, necesariamente ha de ser inyec
 
 **Tema:** [[Funciones continuas#4. Funciones monótonas]]
 **Proposiciones:** [[Función continua e inyectiva es un intervalo es estrictamente monótona]], [[Definición función continua en un punto con supremo e ínfimo]], [[f no es continua en A, f(A) no es un intervalo]]
-**Teoremas:** 
+**Teoremas:** [[Teorema de la función inversa]]
 
 ---
 ### Anki

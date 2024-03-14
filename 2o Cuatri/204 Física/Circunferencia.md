@@ -15,6 +15,7 @@ $$ \left\{ \begin{array}{lcc} x = x_0 + R \cos \theta \\ y = y_0 + R\sin \theta 
 ```
 
 **Tema:** [[Cinemática clásica#1.b Ejemplos de curvas. Forma paramétrica]]
+**Referencias:** [[Circunferencia en coordenadas polares]]
 **Proposiciones:**
 **Teoremas:**
 

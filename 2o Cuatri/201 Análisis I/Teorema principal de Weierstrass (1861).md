@@ -18,7 +18,7 @@ Sean $C$ un [[Subconjunto sucesionalmente compacto]] de $\mathbb R$ y $f: C \to 
 
 **Tema:** [[Funciones continuas#2. Funciones continuas en ciertos conjuntos]]
 **Demostrado por:** [[Teorema de Weierstrass]]
-**Corolarios:**
+**Corolarios:** [[Teorema de Rolle (1690)]], [[Teorema de Darboux]]
 
 ---
 ### Anki

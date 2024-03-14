@@ -20,7 +20,7 @@ Es fácil probar por reducción al absurdo que $g$ es estrictamente monótona. O
 
 **Tema:** [[Funciones continuas#4. Funciones monótonas]].
 **Demostrado por:** [[f no es continua en A, f(A) no es un intervalo]].
-**Consecuencias:**
+**Consecuencias:** [[Teorema de la función inversa]]
 
 ---
 ### Anki

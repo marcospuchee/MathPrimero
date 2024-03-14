@@ -9,7 +9,7 @@ Decimos que $\vec a$ y $\vec b$ son colineales si $\alpha = 0 \lor \alpha = \pi$
 ```
 
 **Tema:** [[Cinemática clásica#1. El espacio y el tiempo de la física clásica. Cálculo vectorial.]]
-**Proposiciones:**
+**Proposiciones:** [[La derivada del binormal unitario y el normal principal unitario son colineales sii el producto vectorial es 0]]
 **Teoremas:**
 
 ---

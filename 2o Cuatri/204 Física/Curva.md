@@ -8,7 +8,7 @@ $$\mathcal C \equiv \{(x,y,z) \in \mathbb R^3 : f(x,y,z) = 0 \}$$
 ```
 
 **Tema:** [[Cinemática clásica#2.b Ejemplos de curvas. Forma paramétrica]]
-**Referencias:** [[Función vectorial]], [[Movimiento de una partícula]]
+**Referencias:** [[Función vectorial]], [[Movimiento de una partícula]], [[Área de un sector definido por una curva]]
 **Proposiciones:**
 **Teoremas:**
 

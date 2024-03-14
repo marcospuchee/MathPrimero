@@ -14,7 +14,7 @@ $$
 
 **Tema:** [[Cinemática clásica#1. El espacio y el tiempo de la física clásica. Cálculo vectorial.]]
 **Referencias:** [[Producto mixto de tres vectores]]
-**Proposiciones:** [[(POR DEMOSTRAR) Propiedades del producto vectorial y producto mixto]]
+**Proposiciones:** [[(POR DEMOSTRAR) Propiedades del producto vectorial y producto mixto]], [[La derivada del binormal unitario y el normal principal unitario son colineales sii el producto vectorial es 0]]
 **Teoremas:**
 
 ---

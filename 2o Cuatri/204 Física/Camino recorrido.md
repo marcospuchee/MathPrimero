@@ -12,8 +12,8 @@ Además, si $s(t)$ es una [[Función vectorial]] inyectiva, podemos expresar $s^
 ```
 
 **Tema:** [[Cinemática clásica#3.a Elementos básicos de cinemática]]
-**Referencias:**
-**Proposiciones:**
+**Referencias:** [[Vector tangente unitario]]
+**Proposiciones:** [[El vector tangente unitario es unitario]], [[Fórmula aceleración a partir de curvatura y tangente unitaria]], [[La trayectoria es rectilínea sii la curvatura es nula]]
 **Teoremas:**
 
 ---

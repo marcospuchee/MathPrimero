@@ -17,7 +17,7 @@ title: Formal definition
 
 **Tema:** [[Cinemática clásica#2.c Funciones vectoriales]]
 **Referencias:**
-**Proposiciones:**
+**Proposiciones:** [[El vector tangente unitario es unitario]]
 **Teoremas:**
 
 ---

@@ -14,8 +14,8 @@ donde $|\vec a|$ es el módulo del vector $\vec a$.
 Estas son las [[Propiedades del módulo de un vector]]
 
 **Tema:** [[Cinemática clásica#1. El espacio y el tiempo de la física clásica. Cálculo vectorial.]]
-**Referencias:** [[Movimiento de una partícula]]
-**Proposiciones:**
+**Referencias:** [[Movimiento de una partícula]], [[Vector curvatura]], [[Vector normal principal unitario]]
+**Proposiciones:** [[El vector curvatura y el vector tangente unitario son ortogonales]], [[Fórmula aceleración a partir de curvatura y tangente unitaria]]
 **Teoremas:**
 
 ---
