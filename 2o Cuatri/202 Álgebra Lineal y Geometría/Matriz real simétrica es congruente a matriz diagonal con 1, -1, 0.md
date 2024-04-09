@@ -23,13 +23,17 @@ Sin embargo, tenemos:
 - $\forall 1 \le i \le s', \quad F(u_i, u_i) = \displaystyle F(\frac{1}{\sqrt{F(v_i, v_i)}} v_i, \frac{1}{\sqrt{F(v_i, v_i)}} v_i) = 1.$
 - $\forall s'+1 \le i \le r', \quad F(u_i, u_i) = \displaystyle F(\frac{1}{\sqrt{|F(v_i, v_i)|}} v_i, \frac{1}{\sqrt{|F(v_i, v_i)|}} v_i) = -1.$
 - $\forall r'+1 \le i \le n, \quad F(u_i, u_i) = F(v_i, v_i) = 0.$
-Por tanto, la matriz coordenada de $F$ respecto a $B'$ será la matriz $M = Diag(1, \dots, 1, -1, \dots, -1, 0, \dots 0)$, donde la signatura de $A$ será $s'$, y el rango de $A$ será $r'$.
+
+Por tanto, la matriz coordenada de $F$ respecto a $B'$ será la matriz $M = Diag(1, \dots, 1, -1, \dots, -1, 0, \dots 0)$, donde la signatura de $A$ será $s'$, y el rango de $A$ será $r'$. $A$ es congruente a $M$. 
+
+Veamos ahora que $s' = sig(A)$. Tenemos:
+$sig(A)$ (por definición de [[Signatura de una matriz simétrica]]) $= sig(F_A)$ (por definición de [[Signatura de una forma bilineal simétrica]]) $= sig(B') = s'$.
 ```
 
 
 **Tema:** [[Formas bilineales]]
 **Demostrado por:** [[Teorema existencia base F-ortogonal]]
-**Consecuencias:**
+**Consecuencias:** [[Dos matrices reales son congruentes si rangos y signaturas coinciden]]
 
 ---
 ### Anki

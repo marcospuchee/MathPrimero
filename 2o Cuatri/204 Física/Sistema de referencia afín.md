@@ -11,7 +11,7 @@ $$\mathcal R \equiv \{O, \{ \vec e_i \}\}$$
 ```
 
 **Tema:** [[Cinemática clásica#1. El espacio y el tiempo de la física clásica. Cálculo vectorial.]]
-**Referencias:** [[Coordenadas de un punto en un sistema de referencia afín]]
+**Referencias:** [[Coordenadas de un punto en un sistema de referencia afín]], [[Sistema de referencia (mecánica newtoniana)]]
 **Proposiciones:**
 **Teoremas:**
 

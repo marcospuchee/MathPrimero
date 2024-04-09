@@ -8,7 +8,7 @@ title: Formal definition
 El módulo de un vector es la raíz cuadrada del producto escalar del vector por sí mismo, es decir
 $$|\vec a| = \sqrt{\vec a^2}$$
 
-donde $|\vec a|$ es el módulo del vector $\vec a$.
+donde $|\vec a|$ es el módulo del vector $\vec a$. Equivalente a [[Norma de un vector]]
 ```
 
 Estas son las [[Propiedades del módulo de un vector]]

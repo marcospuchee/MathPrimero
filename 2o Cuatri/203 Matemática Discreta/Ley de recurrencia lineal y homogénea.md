@@ -12,8 +12,8 @@ $$a_{n+k} = \lambda_{k-1} a_{n+k-1} + \dots + \lambda_1 a_{n+1} + \lambda_0 a_n$
 
 **Tema:** [[Ecuaciones de recurrencia#1. Sucesiones definidas por ecuaciones de recurrencia]]
 **Referencias:**
-**Proposiciones:** [[El conjunto de todas las sucesiones definidas por una misma ley de recurrencia es espacio vectorial]], [[El polinomio característico de una ley de recurrencia tiene k raíces simples]]
-**Teoremas:** 
+**Proposiciones:** [[El conjunto de todas las sucesiones definidas por una misma ley de recurrencia es espacio vectorial]], [[El polinomio característico de una ley de recurrencia tiene k raíces simples]], [[Resta de soluciones de una EDF es solución la ley de recurrencia que define la EDF]]
+**Teoremas:** [[Cualquier solución de una EDF se escribe como solución de EDF + solución de ley de recurrencia]]
 
 ---
 ### Anki

@@ -11,7 +11,7 @@ $$sig(A) = sig(F_A),$$
 
 **Tema:** [[Formas bilineales]]
 **Referencias:**
-**Proposiciones:**
+**Proposiciones:** [[Dos matrices reales son congruentes si rangos y signaturas coinciden]]
 **Teoremas:**
 
 ---

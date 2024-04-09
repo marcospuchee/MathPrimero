@@ -11,7 +11,7 @@ $$\vec v = \vec{AB}$$
 ```
 
 **Tema:** [[Cinemática clásica#1. El espacio y el tiempo de la física clásica. Cálculo vectorial.]]
-**Referencias:** [[Espacio afín]], [[Coordenadas de un punto en un sistema de referencia afín]], [[Función vectorial]], [[Movimiento de una partícula]], [[Velocidad]], [[Vector tangente unitario]], [[Área de un sector definido por una curva]], [[Cinemática en coordenadas polares]]
+**Referencias:** [[Espacio afín]], [[Coordenadas de un punto en un sistema de referencia afín]], [[Función vectorial]], [[Movimiento de una partícula]], [[Velocidad]], [[Vector tangente unitario]], [[Área de un sector definido por una curva]], [[Cinemática en coordenadas polares]], [[Momento lineal de una partícula]]
 **Proposiciones:** [[(POR HACER) Ejercicio física 1]], [[La trayectoria es rectilínea sii la curvatura es nula]]
 **Teoremas:**
 

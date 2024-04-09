@@ -1,0 +1,13 @@
+# Índice
+- [[Forma bilineal simétrica definida positiva]]
+- [[Matriz simétrica definida positiva]]
+- [[Forma bilineal definida positiva sii matriz coordenadas definida positiva]]
+- [[Producto escalar]]
+- [[Espacio vectorial euclídeo]]
+- [[Teorema rango y signatura de un producto escalar]]
+- [[Lema determinante matriz coordenada de un producto escalar]]
+- [[Criterio de Sylvester]]
+- [[Norma de un vector]]
+- [[Vector unitario]]
+- [[Lema vectores ortogonales son linealmente independientes]]
+- [[Método de Gram-Schmidt]]

@@ -28,3 +28,4 @@ De ahora en adelante, suponemos que $\mathbb K$ es un [[Cuerpo]] de característ
 - [[Signatura de una forma bilineal simétrica]]
 - [[Signatura de una matriz simétrica]]
 - [[Matriz real simétrica es congruente a matriz diagonal con 1, -1, 0]]
+- [[Dos matrices reales son congruentes si rangos y signaturas coinciden]]

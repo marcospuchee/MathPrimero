@@ -14,7 +14,7 @@ Una base ortonormal es [[Base]].
 **Tema:** [[Cinemática clásica#1. El espacio y el tiempo de la física clásica. Cálculo vectorial.]]
 **Referencias**: [[Producto vectorial]], [[Producto mixto de tres vectores]], [[Vectores unitarios coordenados en coordenadas polares]]
 **Proposiciones:** [[La base intrínseca es ortonormal orientada]]
-**Teoremas:**
+**Teoremas:** [[Método de Gram-Schmidt]]
 
 ---
 ### Anki

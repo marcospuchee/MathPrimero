@@ -11,7 +11,7 @@ $$F(x,y) = F(y,x).$$
 ```
 
 **Tema:** [[Formas bilineales]]
-**Referencias:** [[Vectores F-ortogonales]], [[Subespacio ortogonal a un subespacio]], [[Subespacio regular]], [[Conjunto F-ortogonal]], [[Signatura]], [[Signatura de una forma bilineal simétrica]]
+**Referencias:** [[Vectores F-ortogonales]], [[Subespacio ortogonal a un subespacio]], [[Subespacio regular]], [[Conjunto F-ortogonal]], [[Signatura]], [[Signatura de una forma bilineal simétrica]], [[Forma bilineal simétrica definida positiva]], 
 **Proposiciones:** [[Matriz coordenada de F simétrica sii F simétrica]], [[Lema subespacio ortogonal es subespacio de V]], [[Subespacio ortogonal a subespacio generado]], [[Corolario F es regular sii su subespacio ortogonal es el 0]]
 **Teoremas:** [[Teorema dimensión subespacio ortogonal]]
 

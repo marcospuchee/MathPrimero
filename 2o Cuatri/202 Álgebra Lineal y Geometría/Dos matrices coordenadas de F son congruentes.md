@@ -22,7 +22,7 @@ Así, $A' = P^t AP$ luego son congruentes.
 
 
 **Tema:** [[Formas bilineales]]
-**Corolarios:** [[Toda matriz simétrica es congruente a una matriz diagonal]]
+**Corolarios:** [[Toda matriz simétrica es congruente a una matriz diagonal]], [[Criterio de Sylvester]]
 
 ---
 ### Anki

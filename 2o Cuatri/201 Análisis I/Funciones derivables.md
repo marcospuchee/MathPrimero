@@ -1,4 +1,4 @@
-# Índice
+3# Índice
 ### 1. Derivabilidad y continuidad
 - [[Función derivable en un punto]]
 - [[Formulación de Weierstrass (1861)]]
@@ -27,4 +27,15 @@
 - [[Interior]]
 - [[Función derivable en el interior de un intervalo monótona]]
 - [[Teorema de Darboux]]
-- [[Propiedad de Darboux]]
+- [[Teorema de la función inversa (II)]]
+### 6. Reglas de L'Hôpital
+- [[Reglas de L'Hôpital]]
+### 7. El polinomio de Taylor
+- [[Polinomio de Taylor]]
+- [[Resto de Taylor]]
+- [[Orden del infinitésimo f - polinomio de Taylor]]
+- [[Lema no existe polinomio de orden menor que m infinitésimo de orden mayor que m]]
+- [[Teorema infinitésimo f - Q de grado mayor que n sii Q es el polinomio de taylor]]
+- [[Teorema de Lagrange (1797)]]
+- [[Proposición existencia límite del infinitésimo f - polinomio de Taylor de grado n+1]]
+- [[Teorema aproximación de una función mediante el desarrollo de Taylor]]

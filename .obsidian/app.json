@@ -4,5 +4,23 @@
   "promptDelete": false,
   "readableLineLength": true,
   "showLineNumber": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "userIgnoreFilters": [
+    "2o Cuatri/204 Física/Clases/",
+    "2o Cuatri/204 Física/Prácticas/",
+    "2o Cuatri/201 Análisis I/Práctica/",
+    "2o Cuatri/201 Análisis I/Clases/",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Clases/",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/",
+    "2o Cuatri/205 Herramientas informáticas/Clases/",
+    "2o Cuatri/203 Matemática Discreta/Práctica/",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 2/",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 3/",
+    "1er Cuatri/101 Análisis I/Prácticas Análisis/Práctica 4/",
+    "2o Cuatri/204 Física/Prácticas/Tema 1/",
+    "2o Cuatri/201 Análisis I/Práctica/Continuidad/",
+    "2o Cuatri/201 Análisis I/Práctica/Derivabilidad/",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Diagonalización/",
+    "2o Cuatri/203 Matemática Discreta/Práctica/Enumeración y recuento/"
+  ]
 }

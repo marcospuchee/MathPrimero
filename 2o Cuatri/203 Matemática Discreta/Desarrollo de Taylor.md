@@ -11,9 +11,10 @@ $$\sum_{n=0}^{+\infty} \frac{f^{(n)} (x_0)}{n!} (x-x_0)^n$$
 Se utiliza para aproximar funciones.
 ```
 
+[[Polinomio de Taylor]]
 **Tema:** [[Métodos de enumeración y combinatoria#5. Funciones generatrices.]]
 **Proposiciones:** [[Función generatriz de 1+x elevado a -n]]
-**Teoremas:**
+**Teoremas:** [[Teorema aproximación de una función mediante el desarrollo de Taylor]]
 
 ---
 ### Anki

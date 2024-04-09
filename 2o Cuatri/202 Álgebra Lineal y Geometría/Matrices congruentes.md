@@ -17,7 +17,7 @@ Está claro que si $A, A'$ son congruentes, entonces $A, A'$ son equivalentes (e
 
 **Tema:** [[Formas bilineales]]
 **Referencias:**
-**Proposiciones:** [[La relación de congruencia es de equivalencia]]
+**Proposiciones:** [[La relación de congruencia es de equivalencia]], [[Dos matrices reales son congruentes si rangos y signaturas coinciden]]
 **Teoremas:** [[Toda matriz simétrica es congruente a una matriz diagonal]], [[Matriz compleja simétrica es congruente a matriz con 0 y la identidad]], [[Matriz real simétrica es congruente a matriz diagonal con 1, -1, 0]]
 
 ---

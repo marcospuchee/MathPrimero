@@ -4,44 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "783bd61df5e2e76a",
+        "id": "d64c1653805aa17e",
         "type": "tabs",
         "children": [
           {
-            "id": "aed6c4d676bb08b6",
+            "id": "744b5204e5b1f9ae",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2o Cuatri/203 Matemática Discreta/Clases/2024-03-13.md"
-              }
-            }
-          },
-          {
-            "id": "d89e8a1d6baae4eb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "700978b9a51b71e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Cuatri/204 Física/Movimientos circulares.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -101,7 +76,7 @@
       {
         "id": "a1bb4fccfb7dfc83",
         "type": "tabs",
-        "dimension": 33.24074074074074,
+        "dimension": 19.93337034980566,
         "children": [
           {
             "id": "e471fcb64a8ed389",
@@ -109,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md",
+                "file": "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md"
+                "file": "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md"
               }
             }
           },
@@ -162,20 +137,19 @@
             }
           },
           {
-            "id": "f18f5192c2fb4e56",
+            "id": "3c10ab461a8d3887",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "6cfdabfe3ebd98bf",
         "type": "tabs",
-        "dimension": 66.75925925925927,
+        "dimension": 80.06662965019434,
         "children": [
           {
             "id": "c1ba5ef42ced8c57",
@@ -183,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md",
+                "file": "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,60 +167,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d89e8a1d6baae4eb",
+  "active": "5e6eb8f7956acf1a",
   "lastOpenFiles": [
-    "2o Cuatri/203 Matemática Discreta/Clases/2024-03-13.md",
-    "2o Cuatri/204 Física/Movimientos circulares.md",
-    "Excalidraw/Drawing 2024-03-13 17.31.32.excalidraw.md",
-    "2o Cuatri/204 Física/(POR DEMOSTRAR) Propiedades del producto vectorial y producto mixto.md",
-    "Attachements/Pasted Image 20240313182316_348.png",
-    "2o Cuatri/204 Física/La base intrínseca es ortonormal orientada.md",
-    "Attachements/Pasted Image 20240313175447_257.png",
-    "Attachements/Pasted Image 20240313174628_223.png",
-    "Attachements/Pasted Image 20240313174205_073.png",
-    "1er Cuatri/101 Análisis I/Propiedad arquimediana.md",
-    "Attachements/Pasted Image 20240313173819_216.png",
-    "Attachements/Pasted Image 20240313173447_211.png",
-    "2o Cuatri/204 Física/Cinemática clásica.md",
-    "2o Cuatri/204 Física/Vectores unitarios coordenados en coordenadas polares.md",
-    "Attachements/Pasted Image 20240313173159_852.png",
-    "Attachements/Pasted Image 20240313102426_245.png",
-    "2o Cuatri/205 Herramientas informáticas/Clases/2024-03-13.md",
-    "2o Cuatri/205 Herramientas informáticas/Clases/2024-03-08.md",
-    "2o Cuatri/205 Herramientas informáticas/Drawing 2024-02-09 09.40.06.excalidraw.md",
-    "2o Cuatri/204 Física/Prácticas/Práctica 5. 06-03-2024.md",
-    "2o Cuatri/204 Física/Prácticas/Tema 1/P4.6.md",
-    "Attachements/Pasted Image 20240312193904_779.png",
-    "2o Cuatri/204 Física/Prácticas/Tema 1/P4.7.md",
-    "2o Cuatri/204 Física/Vector curvatura.md",
-    "2o Cuatri/204 Física/Aceleración.md",
-    "2o Cuatri/204 Física/Velocidad.md",
-    "2o Cuatri/204 Física/Vector de posición.md",
-    "Attachements/Pasted Image 20240312190553_973.png",
-    "2o Cuatri/204 Física/Prácticas/Tema 1/P4.5.md",
-    "2o Cuatri/203 Matemática Discreta/Práctica/Práctica 5. 05-03-2024.md",
-    "2o Cuatri/203 Matemática Discreta/Teorema solución EDF lineales de primer orden.md",
-    "2o Cuatri/203 Matemática Discreta/Práctica/Práctica 6. 12-03-2024.md",
-    "2o Cuatri/203 Matemática Discreta/Clases/2024-03-12.md",
-    "2o Cuatri/204 Física/Clases/2024-03-12.md",
-    "2o Cuatri/201 Análisis I/Clases/2024-02-22.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Espacios vectoriales euclídeos.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Producto escalar.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Práctica 7. 21-02-2024.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Forma bilineal simétrica definida positiva.md",
+    "Attachements/Pasted Image 20240408193247_193.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 2.md",
+    "Attachements/Pasted Image 20240408192042_556.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 1.md",
+    "Attachements/Pasted Image 20240408191020_195.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 14.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 16.md",
+    "Attachements/Pasted Image 20240408190342_862.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 15.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Método de Gram-Schmidt.md",
+    "Attachements/Pasted Image 20240408185520_375.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Práctica 5. 07-03-2024.md",
+    "Attachements/Pasted Image 20240408184157_139.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Drawing 2024-04-08 18.40.43.excalidraw.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 13.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Diagonalización.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Criterio de diagonalización.md",
+    "1er Cuatri/102 Álgebra Lineal y Geometría I/Espacio vectorial.md",
+    "1er Cuatri/102 Álgebra Lineal y Geometría I/Corolario suma de dimensiones sii suma directa.md",
+    "1er Cuatri/102 Álgebra Lineal y Geometría I/Teorema equivalencia suma directa.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Suma directa de t subespacios.md",
+    "1er Cuatri/102 Álgebra Lineal y Geometría I/Suma directa.md",
+    "Attachements/Pasted Image 20240408182711_614.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Drawing 2024-04-08 15.06.47.excalidraw.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 11.2.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Rango de una forma bilineal.md",
+    "Attachements/Pasted Image 20240408150702_894.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 11.1.md",
+    "Attachements/Pasted Image 20240408143043_671.png",
+    "Attachements/Pasted Image 20240408143028_658.png",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Dos matrices reales son congruentes si rangos y signaturas coinciden.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales",
+    "2o Cuatri/203 Matemática Discreta/Práctica/Funciones generatrices",
     "2o Cuatri/205 Herramientas informáticas/Clases",
     "2o Cuatri/203 Matemática Discreta/Práctica/Enumeración y recuento",
     "2o Cuatri/201 Análisis I/Práctica/Derivabilidad",
@@ -254,9 +231,6 @@
     "2o Cuatri/204 Física/Prácticas/Tema 1",
     "2o Cuatri/201 Análisis I/Práctica/Continuidad",
     "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas",
-    "2o Cuatri/204 Física/Prácticas",
-    "2o Cuatri/203 Matemática Discreta/Práctica",
-    "2o Cuatri/201 Análisis I/Práctica",
     "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas"
   ]
 }
