@@ -1,4 +1,4 @@
-3# Índice
+# Índice
 ### 1. Derivabilidad y continuidad
 - [[Función derivable en un punto]]
 - [[Formulación de Weierstrass (1861)]]
@@ -39,3 +39,14 @@
 - [[Teorema de Lagrange (1797)]]
 - [[Proposición existencia límite del infinitésimo f - polinomio de Taylor de grado n+1]]
 - [[Teorema aproximación de una función mediante el desarrollo de Taylor]]
+### 8. Concavidad, convexidad, inflexión, máximos y mínimos
+- [[Segmento que une dos puntos]]
+- [[Función convexa]]
+- [[Función cóncava]]
+- [[Lema desigualdades de una función convexa]]
+- [[Convexidad de f sii derivada de f creciente]]
+- [[Convexidad de f sii segunda derivada mayor o igual que 0]]
+- [[Suma de función convexa y función afín es convexa]]
+- [[Existencia máximo y mínimo del conjunto de imagenes de una función con un valor]]
+- [[Teorema función es convexa sii la gráfica de f está por encima de su tangente]]
+- [[Proposición máximo (o mín) relativo según valor derivada n-ésima]]

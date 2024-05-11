@@ -62,8 +62,8 @@ En el último paso hemos hecho valer la hipótesis de inducción.
 ```
 
 **Tema:** [[Métodos de enumeración y combinatoria#4. Principio de inclusión-exclusión]]
-**Demostrado por:**
-**Consecuencias:**
+**Demostrado por:** 
+**Consecuencias:** [[Teorema cálculo función de Euler]]
 
 ---
 ### Anki

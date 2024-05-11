@@ -3,6 +3,6 @@
   "excludedPaths": [],
   "blockPrefix": "^",
   "enableFileNameBlockLinks": true,
-  "enableInSourceMode": false,
+  "enableInSourceMode": true,
   "renderOutline": true
 }

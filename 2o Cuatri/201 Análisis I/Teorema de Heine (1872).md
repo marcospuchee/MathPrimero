@@ -16,7 +16,7 @@ Si $K$ es compacto ([[Subconjunto sucesionalmente compacto]]) y $f \in C(K)$ ([[
 ```ad-proof
 Razonaremos por reducción al absurdo, suponiendo la existencia de un compacto $C$ y una función $f: C \to \mathbb R$ continua en $C$, que no es uniformemente continua. 
 
-De acuerdo con [[Definición alternativa de función uniformemente continua]], $\exists \epsilon_0 > 0$ y sucesiones $(x_n)_{n=1}^\infty$ y $(y_n)_{n=1}^\infty$ verificando que $\forall n \in \mathbb N$ se cumple que  $|f(x_n) - f(y_n)| \ge \epsilon_0 \land |x_n - y_n < 1/n|$. Puesto que $C$ es compacto, ha de existir una subsucesión $(x_{n_k})_{k=1}^\infty$ estrictamente creciente, convergente a un $x_0 \in C$. Observemos que
+De acuerdo con [[Definición alternativa de función uniformemente continua]], $\exists \epsilon_0 > 0$ y sucesiones $(x_n)_{n=1}^\infty$ y $(y_n)_{n=1}^\infty$ verificando que $\forall n \in \mathbb N$ se cumple que  $|f(x_n) - f(y_n)| \ge \epsilon_0 \land |x_n - y_n| < 1/n$. Puesto que $C$ es compacto, ha de existir una subsucesión $(x_{n_k})_{k=1}^\infty$ estrictamente creciente, convergente a un $x_0 \in C$. Observemos que
 $$0 \le |y_{n_k}- x_0| \le |y_{n_k} - x_{n_k}| + |x_{n_k} - x_0| \le 1/n_k + |x_{n_k} - x_0|$$
 Puesto que $1/n$ es convergente a cero, la subsucesión $(1/n_k)_{n=1}^\infty$ ha de converger también a cero; además $(x_{n_k})_{n=1}^\infty$ es convergente a $x_0$, por tanto $|x_{n_k} - x_0|$ converge a cero. De acuerdo con el criterio del emparedado, de la observación deducimos que $|y_{n_k} - x_0|$ converge también a cero, es decir, $(y_{n_k})_{k=1}^\infty$ es convergente a $x_0$.
 
@@ -29,7 +29,7 @@ Puesto que $f$ es continua, según el [[Teorema de caracterización de la contin
 
 **Tema:** [[Funciones continuas#3. Funciones uniformemente continuas]]
 **Demostrado por:** [[Definición alternativa de función uniformemente continua]], [[Teorema de caracterización de la continuidad por sucesiones]].
-**Consecuencias:**
+**Consecuencias:** [[Teorema continuidad implica integrabilidad]]
 
 ---
 ### Anki

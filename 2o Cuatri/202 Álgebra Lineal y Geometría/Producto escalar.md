@@ -10,7 +10,7 @@ Sea $V$ un $\mathbb R$-espacio vectorial (de dimensión finita), un producto esc
 **Tema:**[[Espacios vectoriales euclídeos]]
 **Referencias:** [[Espacio vectorial euclídeo]]
 **Proposiciones:** [[Lema determinante matriz coordenada de un producto escalar]]
-**Teoremas:** [[Teorema rango y signatura de un producto escalar]], [[Criterio de Sylvester]]
+**Teoremas:** [[Teorema rango y signatura de un producto escalar sobre los reales]], [[Criterio de Sylvester]]
 
 ---
 ### Anki

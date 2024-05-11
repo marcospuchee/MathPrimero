@@ -30,7 +30,7 @@ Sean $I \subset \mathbb R$ un [[Intervalo]] no vacío, y $f : I \to \mathbb R$ u
 
 **Tema:** [[Funciones continuas#2. Funciones continuas en ciertos conjuntos]]
 **Demostrado por:** [[Lema valor del límite en un punto a]], [[Función continua en un punto que es punto de acumulación]]
-**Consecuencias:** Como consecuencia del teorema de Bolzano, es fácil deducir, por ejemplo, que existe un número real $x \in \mathbb R$ tal que $x^2 = 2$.
+**Consecuencias:** Como consecuencia del teorema de Bolzano, es fácil deducir, por ejemplo, que existe un número real $x \in \mathbb R$ tal que $x^2 = 2$. [[Teorema función es convexa sii la gráfica de f está por encima de su tangente]]
 
 ---
 ### Anki

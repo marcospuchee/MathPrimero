@@ -29,7 +29,7 @@ $$[f(b)-f(a)]g'(\xi) = [g(b)-g(a)]f'(\xi).$$
 
 **Tema:** [[Funciones derivables#5. El teorema fundamental del cálculo diferencial]]
 **Demostrado por:** [[Teorema de Rolle (1690)]]
-**Consecuencias:** [[Teorema fundamental del cálculo diferencial]], [[Función derivable en el interior de un intervalo monótona]], [[Teorema de Lagrange (1797)]]
+**Consecuencias:** [[Teorema fundamental del cálculo diferencial]], [[Función derivable en el interior de un intervalo monótona]], [[Teorema de Lagrange (1797)]], [[Convexidad de f sii derivada de f creciente]]
 
 ---
 ### Anki

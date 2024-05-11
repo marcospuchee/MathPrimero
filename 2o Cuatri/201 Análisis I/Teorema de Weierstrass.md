@@ -19,7 +19,7 @@ Sea $C$ un [[Subconjunto sucesionalmente compacto]] de $\mathbb R$
 
 **Tema:** [[Funciones continuas#2. Funciones continuas en ciertos conjuntos]]
 **Demostrado por:** [[Teorema de caracterización de la continuidad por sucesiones]]
-**Consecuencias:** [[Teorema principal de Weierstrass (1861)]]
+**Consecuencias:** [[Teorema principal de Weierstrass (1861)]], [[Teorema continuidad implica integrabilidad]]
 
 ---
 ### Anki

@@ -9,8 +9,8 @@ Dados un [[Grafo]] $G = (V,A)$ y un vértice $u \in V$, el grado de $u$ es la ca
 
 **Tema:** [[Teoría elemental de grafos#1. Noción de grafo. Isomorfismo. Grafos completos]]
 **Referencias:**
-**Proposiciones:** [[Lema del apretón de manos]]
-**Teoremas:**
+**Proposiciones:** [[Lema del apretón de manos]], [[Corolario existe un camino euleriano sii G es conexo y hay sólo dos vértices de grado impar]]
+**Teoremas:** [[Teorema de Euler]]
 
 ---
 ### Anki

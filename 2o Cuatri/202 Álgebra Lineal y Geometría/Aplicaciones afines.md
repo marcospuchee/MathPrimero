@@ -1,0 +1,10 @@
+# Índice
+- [[Aplicación afín]]
+- [[Lema unicidad aplicación lineal subyacente]]
+- [[Teorema aplicación afín a partir de aplicación lineal]]
+- [[Composición de aplicaciones afines es afín]]
+- [[Inyectividad, sobreyectividad y biyectividad de aplicaciones afines respecto sus subyacentes]]
+- [[Isomorfismo afín]]
+- [[Inversa de isomorfismo afín es isomorfismo afín]]
+- [[Translación de un vector]]
+- [[Homotecia de un vector]]

@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d64c1653805aa17e",
+        "id": "41c4b7d1b6d729b0",
         "type": "tabs",
         "children": [
           {
-            "id": "744b5204e5b1f9ae",
+            "id": "2cfedbe160b8888f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,54 +177,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e6eb8f7956acf1a",
+  "active": "2cfedbe160b8888f",
   "lastOpenFiles": [
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 3.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Espacios vectoriales euclídeos.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Producto escalar.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Práctica 7. 21-02-2024.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Forma bilineal simétrica definida positiva.md",
-    "Attachements/Pasted Image 20240408193247_193.png",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 2.md",
-    "Attachements/Pasted Image 20240408192042_556.png",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos/Ejercicio 1.md",
-    "Attachements/Pasted Image 20240408191020_195.png",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 14.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 16.md",
-    "Attachements/Pasted Image 20240408190342_862.png",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 15.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Método de Gram-Schmidt.md",
-    "Attachements/Pasted Image 20240408185520_375.png",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Práctica 5. 07-03-2024.md",
-    "Attachements/Pasted Image 20240408184157_139.png",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Drawing 2024-04-08 18.40.43.excalidraw.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 13.md",
+    "2o Cuatri/205 Herramientas informáticas/Clases/2024-03-08.md",
+    "Excalidraw/Drawing 2024-05-11 12.13.55.excalidraw.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Teorema igualdad signaturas entre bases ortogonales.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Formas bilineales.md",
     "2o Cuatri/202 Álgebra Lineal y Geometría/Diagonalización.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Criterio de diagonalización.md",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/Espacio vectorial.md",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/Corolario suma de dimensiones sii suma directa.md",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/Teorema equivalencia suma directa.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Suma directa de t subespacios.md",
-    "1er Cuatri/102 Álgebra Lineal y Geometría I/Suma directa.md",
-    "Attachements/Pasted Image 20240408182711_614.png",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Drawing 2024-04-08 15.06.47.excalidraw.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 11.2.md",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Rango de una forma bilineal.md",
-    "Attachements/Pasted Image 20240408150702_894.png",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales/Ejercicio 11.1.md",
-    "Attachements/Pasted Image 20240408143043_671.png",
-    "Attachements/Pasted Image 20240408143028_658.png",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Dos matrices reales son congruentes si rangos y signaturas coinciden.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Semejanza de matrices.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Matrices asociadas a endomorfismos son semejantes.md",
+    "2o Cuatri/205 Herramientas informáticas/Clases/2024-03-13.md",
+    "2o Cuatri/205 Herramientas informáticas/Prácticas/Práctica 9.md",
+    "2o Cuatri/205 Herramientas informáticas/Drawing 2024-02-09 09.40.06.excalidraw.md",
+    "2o Cuatri/205 Herramientas informáticas/Errores absoluto y relativo de una aproximación.md",
+    "2o Cuatri/205 Herramientas informáticas/Parámetros de un sistema numérico de punto flotante.md",
+    "Attachements/Pasted Image 20240510183432_502.png",
+    "Attachements/Pasted Image 20240510174556_102.png",
+    "Attachements/Pasted Image 20240510171307_098.png",
+    "2o Cuatri/205 Herramientas informáticas/Prácticas",
+    "2o Cuatri/205 Herramientas informáticas/Sistemas numéricos y fuentes de error.md",
+    "2o Cuatri/205 Herramientas informáticas/Representación de punto flotante a partir de unidad de redondeo.md",
+    "2o Cuatri/205 Herramientas informáticas/Proposición error relativo de una aproximación mediante truncamiento o redondeo.md",
+    "2o Cuatri/205 Herramientas informáticas/Sistema numérico de punto flotante.md",
+    "Excalidraw/Cuestionario IV Discreta.md",
+    "Excalidraw/Drawing 2024-05-10 10.15.10.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-10 09.11.32.excalidraw.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Teorema de Cauchy-Schwartz.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Ecuación cambio de sistema de referencia.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Conjunto F-ortogonal.md",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Lema subespacio ortogonal es subespacio de V.md",
+    "Excalidraw/Drawing 2024-05-06 16.39.19.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-06 16.39.17.excalidraw.md",
+    "Excalidraw/Drawing 2024-04-27 20.41.41.excalidraw.md",
+    "Attachements/Pasted Image 20240509161655_608.png",
+    "Attachements/Pasted Image 20240509160119_875.png",
+    "Attachements/Pasted Image 20240509143514_958.png",
+    "Attachements/Pasted Image 20240509123443_448.png",
+    "Attachements/Pasted Image 20240509122320_458.png",
+    "Attachements/Pasted Image 20240509121645_476.png",
+    "Attachements/Pasted Image 20240509111236_330.png",
+    "2o Cuatri/203 Matemática Discreta/Práctica/Aritmética modular",
+    "2o Cuatri/201 Análisis I/Práctica/Untitled 1",
+    "2o Cuatri/201 Análisis I/Práctica/Integrabilidad",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacio afín",
+    "2o Cuatri/203 Matemática Discreta/Práctica/Grafos 2",
+    "2o Cuatri/203 Matemática Discreta/Práctica/Grafos/Untitled",
+    "2o Cuatri/203 Matemática Discreta/Práctica/Grafos",
+    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Espacios vectoriales euclídeos",
     "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Formas bilineales",
-    "2o Cuatri/203 Matemática Discreta/Práctica/Funciones generatrices",
-    "2o Cuatri/205 Herramientas informáticas/Clases",
-    "2o Cuatri/203 Matemática Discreta/Práctica/Enumeración y recuento",
-    "2o Cuatri/201 Análisis I/Práctica/Derivabilidad",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Diagonalización",
-    "2o Cuatri/204 Física/Prácticas/Tema 1",
-    "2o Cuatri/201 Análisis I/Práctica/Continuidad",
-    "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas",
     "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas"
   ]
 }

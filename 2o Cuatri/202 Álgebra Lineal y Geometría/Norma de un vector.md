@@ -12,7 +12,7 @@ Equivalente a [[Módulo de un vector]]
 **Tema:** [[Espacios vectoriales euclídeos]]
 **Referencias:**
 **Proposiciones:**
-**Teoremas:**
+**Teoremas:** [[Teorema de Cauchy-Schwartz]]
 
 ---
 ### Anki

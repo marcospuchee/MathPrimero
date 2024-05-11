@@ -1,6 +1,7 @@
 ### Contenido principal
 
-Sea $n \in \mathbb{N}$, definimos en $\mathbb Z$ la relación $a \mathcal{R} b$ si $n | a-b$. Esta relación se llama relación de congruencia módulo $n$.
+Sea $n \in \mathbb{N}$, definimos en $\mathbb Z$ la relación $a \mathcal{R} b$ si $n | a-b$. Esta relación se llama relación de congruencia módulo $n$. Si $a$ es congruente con $b$ módulo $n$, escribiremos:
+$$a \equiv b \pmod{n}$$
 
 [[Propiedades de las relaciones de congruencia]].
 

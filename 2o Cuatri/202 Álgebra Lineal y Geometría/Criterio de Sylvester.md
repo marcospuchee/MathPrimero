@@ -60,7 +60,7 @@ Observamos que $A, D$ son [[Matrices congruentes]], por ser matrices coordenadas
 
 
 **Tema:** [[Espacios vectoriales euclídeos]]
-**Demostrado por:** [[Lema determinante matriz coordenada de un producto escalar]], [[Teorema rango y signatura de un producto escalar]]
+**Demostrado por:** [[Lema determinante matriz coordenada de un producto escalar]], [[Teorema rango y signatura de un producto escalar sobre los reales]]
 **Consecuencias:**
 
 ---
@@ -119,7 +119,7 @@ F(w_1, w_1) = G(w_1, w_1) > 0 \\
 F(w_{n-1}, w_{n-1}) = G(w_{n-1}, w_{n-1}) > 0.
 \end{array}
 $$
-Además, la [[Matriz coordenada de F]] con respecto a la base $\{w_1, w_2, \dots, w_{n-1}, z \}$ es $D = Diag(F(w_1, w_1), \dots, F(w_{n-1}, w_{n-1}), F(z,z))$. Tenemos que $\det (D) =$ $F(w_1, w_1) \dots F(w_{n-1}, w_{n-1}) · F(z,z)$. Basta ver que $\det (D) > 0$, ya que en este caso, $F(z,z) > 0$, y por tanto $sig(F) = n$, y por [[Teorema rango y signatura de un producto escalar]], tendríamos que $F$ es producto escalar.
+Además, la [[Matriz coordenada de F]] con respecto a la base $\{w_1, w_2, \dots, w_{n-1}, z \}$ es $D = Diag(F(w_1, w_1), \dots, F(w_{n-1}, w_{n-1}), F(z,z))$. Tenemos que $\det (D) =$ $F(w_1, w_1) \dots F(w_{n-1}, w_{n-1}) · F(z,z)$. Basta ver que $\det (D) > 0$, ya que en este caso, $F(z,z) > 0$, y por tanto $sig(F) = n$, y por [[Teorema rango y signatura de un producto escalar sobre los reales]], tendríamos que $F$ es producto escalar.
 Observamos que $A, D$ son [[Matrices congruentes]], por ser matrices coordenadas de $F$ ([[Dos matrices coordenadas de F son congruentes]]), de modo que $D = P^t A P$ para $P \in GL_n(\mathbb R)$, lo que implica que $\det (D) = \det(P)^2 · \det(A) > 0$, porque ambos determinantes son mayores que $0$. Luego $F$ es producto escalar.
 Tags: demostración ÁlgebraI
 <!--ID: 1712235233714-->
