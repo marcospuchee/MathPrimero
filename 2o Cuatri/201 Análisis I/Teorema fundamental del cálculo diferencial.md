@@ -18,7 +18,7 @@ $$f'(\xi) = \frac{f(b)-f(a)}{b-a}$$
 del [[Teorema del valor medio de Cauchy (1821)]] a $h:=f-g$.
 ```
 
-**Tema:** [[Funciones derivables#5. El teorema fundamental del cálculo diferencial]]
+**Tema:** [[Funciones derivables#5. El teoremteorema fundamental del cálculo diferencial]]
 **Demostrado por:** [[Teorema del valor medio de Cauchy (1821)]]
 **Consecuencias:**
 
