@@ -1,0 +1,21 @@
+# Índice
+### 1. Producto escalar.
+- [[Forma bilineal simétrica definida positiva]]
+- [[Matriz simétrica definida positiva]]
+- [[Forma bilineal definida positiva sii matriz coordenadas definida positiva]]
+- [[Producto escalar]]
+- [[Espacio vectorial euclídeo]]
+- [[Teorema rango y signatura de un producto escalar sobre los reales]]
+- [[Lema determinante matriz coordenada de un producto escalar]]
+- [[Criterio de Sylvester]]
+- [[Norma de un vector]]
+- [[Vector unitario]]
+- [[Lema vectores ortogonales son linealmente independientes]]
+- [[Método de Gram-Schmidt]]
+- [[Proyección ortogonal]]
+- [[Matriz ortogonal]]
+- [[Matriz cambio de base entre bases ortonormales es ortogonal]]
+### 2. Norma de un vector.
+- [[Teorema de Cauchy-Schwartz]]
+- [[Propiedades de la norma]]
+- [[Ángulo entre dos vectores]]

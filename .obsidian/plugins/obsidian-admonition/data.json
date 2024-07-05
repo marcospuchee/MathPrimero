@@ -11,7 +11,7 @@
       "title": "Formal definition",
       "injectColor": true,
       "noTitle": false,
-      "copy": false
+      "copy": true
     },
     "proposition": {
       "type": "proposition",
