@@ -6,7 +6,7 @@ Sea $f: A \to B$ una aplicación, decimos que $f$ es:
 - Biyectiva si $f$ es inyectiva y sobreyectiva: $\forall b \in B, \exists ! a \in A$ tal que $f(a) = b$.
 
 Si $f$ es biyectiva, definimos $f^{-1}: B \to A$ tal que $b \to a (f(a)=b)$.
-Si no es biyectiva, $f^{-1}$ es el conjunto antimagen ([[Antimagen de una aplicación]]), no la inversa.
+Si no es biyectiva, $f^{-1}$ es el conjunto antimagen ([[Antiimagen]]), no la inversa.
 
 
 --- 

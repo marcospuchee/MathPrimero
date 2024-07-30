@@ -19,7 +19,7 @@ Sea $k$ un cuerpo y $V$ un conjunto no vacío, diremos que $V$ es un espacio vec
 - [[Ley de composición interna (lci)]]
 - [[Ley de composición externa (lce)]]
 - [[Aplicaciones]]
-- [[Grupos]]
+- [[Grupo]]
 - [[Subespacio vectorial]]
 - [[Prop 1. EV]]
 - [[Suma de subespacios]]

@@ -8,7 +8,7 @@ Un anillo es $(A, +, ·)$ con $A$ conjunto, $+, ·$ leyes de composición intern
 
 --- 
 ### Referencias
-[[Grupos]]
+[[Grupo]]
 [[Estructuras algebraicas elementales]]
 [[Anillo unitario]]
 [[Anillo conmutativo]]

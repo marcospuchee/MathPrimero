@@ -1,6 +1,6 @@
 - [[Ley de composición interna (lci)]]
 - [[Propiedades de las leyes de composición interna]]
-- [[Grupos]]
+- [[Grupo]]
 - [[Anillo]]
 - [[Anillo unitario]]
 - [[Anillo conmutativo]]

@@ -15,5 +15,5 @@ $$
 [[Espacio vectorial]]
 [[Ley de composición interna (lci)]]
 [[Ley de composición externa (lce)]]
-[[Imagen de una aplicación]]
-[[Antimagen de una aplicación]]
+[[Imagen]]
+[[Antiimagen]]

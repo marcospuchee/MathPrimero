@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "db0ed6b85356a265",
+        "id": "66b05306948236a6",
         "type": "tabs",
         "children": [
           {
-            "id": "273bd48338ead3d6",
+            "id": "1122f4e05e4b57a8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -181,36 +178,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "273bd48338ead3d6",
+  "active": "1122f4e05e4b57a8",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-24 17.18.44.excalidraw.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Ciclo hamiltoniano.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Grafo hamiltoniano.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Camino euleriano.md",
-    "Excalidraw/Drawing 2024-06-21 13.02.48.excalidraw.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Práctica/Exámenes/2022.Junio.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Teoría elemental de grafos.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Grupos.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Teorema grupo cíclico de orden m isomorfo a Zm.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Teorema grupo cíclico infinito isomorfo a Z.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Teorema forma de todo subgrupo del grupo aditivo Z.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Grupo cíclico.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.5.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.4.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.3.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Subgrupo generado.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.2.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.1.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Teorema índice entre varios subgrupos.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Proposición índice intersección menor o igual que producto índices de la intersección.md",
+    "2o Mates/Marcos/Hungerford - Algebra/(POR DEMOSTRAR) Proposición índice intersección de subgrupos menor o igual que índice subgrupo.md",
+    "2o Mates/Marcos/Hungerford - Algebra/0. Desarrollo.md",
+    "Excalidraw/Seminario II Álgebra.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Propiedades congruencia por la derecha (resp. izquierda).md",
+    "2o Mates/Marcos/Hungerford - Algebra/Clase lateral.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Índice de un subgrupo.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Teorema cardinal producto de subgrupos de un grupo.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Corolario cardinal de un grupo a partir del índice de un subgrupo (Lagrange).md",
+    "2o Mates/Marcos/Hungerford - Algebra/Teorema condición necesaria y suficiente de subgrupo.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Congruente por la izquierda.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Congruente por la derecha.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Teorema forma generadores de un grupo cíclico.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Propiedades elemento de orden infinito.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/Untitled",
+    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos",
+    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios",
+    "2o Mates/Marcos/Hungerford - Algebra/Teoría/1. Grupos/3. Anillos cíclicos",
+    "2o Mates/Marcos/Hungerford - Algebra/Teoría/1. Grupos",
+    "2o Mates/Marcos/Hungerford - Algebra/Teoría",
+    "2o Mates/Marcos/Hungerford - Algebra",
     "Attachements/Pasted Image 20240624125815_296.png",
     "1ero Mates/2o Cuatri/203 Matemática Discreta/Práctica/Exámenes",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Solución particular de una EDF con un polinomio como término independiente.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Ecuaciones de recurrencia.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Cualquier solución de una EDF se escribe como solución de EDF + solución de ley de recurrencia.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Clasificación ecuaciones definidas por leyes de recurrencia de orden 1.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Teorema condición necesaria para que un grafo sea hamiltoniano.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Combinaciones con repetición.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Grafo.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Práctica/Práctica 6. 12-03-2024.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Práctica/Práctica 8. 16-04-2024.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Práctica/Práctica 5. 05-03-2024.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Práctica/Práctica 4. 2024-02-27.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Solución particular de una EDF  con el término independiente multiplicado por un escalar elevado a n.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Teorema solución EDF lineales de orden k.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Propiedades de las relaciones de congruencia (ii).md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Teorema de euler congruencia entero elevado a la función de euler del módulo.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Práctica/Práctica 11. 15-05-2024.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Aritmética modular.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Primer teorema de Fermat.md",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Teorema cálculo función de Euler.md",
     "Attachements/Pasted Image 20240611194514_169.png",
     "Attachements/Pasted Image 20240611184047_743.png",
     "Attachements/Pasted Image 20240611181943_797.png",
@@ -221,14 +225,7 @@
     "Attachements/Pasted Image 20240609182540_912.png",
     "Attachements/Pasted Image 20240609180624_202.png",
     "Attachements/Pasted Image 20240609173208_410.png",
-    "1ero Mates/2o Cuatri/204 Física/Prácticas/Práctica 5",
     "Attachements/Pasted Image 20240608121415_288.png",
-    "1ero Mates/2o Cuatri/204 Física/Prácticas/Práctica 4",
-    "1ero Mates/2o Cuatri/204 Física/Prácticas/Práctica 3",
-    "2o Mates/Marcos/Munkres - Topología",
-    "1ero Mates/2o Cuatri/204 Física/Prácticas/Práctica 1",
-    "2o Mates/Marcos/Topology without tears/Ejercicios/1.1",
-    "2o Mates/Marcos/Topology without tears/Ejercicios",
     "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas"
   ]
 }

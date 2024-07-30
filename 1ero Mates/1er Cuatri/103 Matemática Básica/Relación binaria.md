@@ -7,7 +7,6 @@ Dado un conjunto $A$, decimos que $R$ es una relación binaria en $A$ si es un s
 
 ### 1. Relaciones binarias
 [[Propiedades de las relaciones binarias]]
-
 ### 2. Relaciones de equivalencia
 [[Relación de equivalencia]]
 [[Relación de congruencia]]
