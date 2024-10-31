@@ -10,6 +10,8 @@ mathLink:
 Si $G$ es un [[semigrupo]] y $a_1, \dots, a_n \in G$, entonces dos productos significativos de $a_1, \dots, a_n$ en este orden son iguales. 
 ```
 
+^8ff382
+
 ```ad-proof
 Vamso a proceder por inducción fuerte ([[principio de inducción fuerte]]). Veamos que $\forall n \in \mathbb N$, cualquier producto significativo $a_1 \dots a_n$ es igual al $n$-producto estándar $\displaystyle \prod_{i = 1}^n a_i$.
 

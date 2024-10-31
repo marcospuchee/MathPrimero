@@ -27,7 +27,7 @@ Veamos ahora que $H = \langle X \rangle$.
 
 
 **Tema:** [[Grupos#2. Homomorfismos y subgrupos.]]
-**Demostrado por:** [[Teorema condición necesaria y suficiente de subgrupo]], [[Intersección de subgrupos es subgrupo]]
+**Demostrado por:** [[Caracterización de subgrupo]], [[Intersección de subgrupos es subgrupo]]
 **Consecuencias:**
 
 ---

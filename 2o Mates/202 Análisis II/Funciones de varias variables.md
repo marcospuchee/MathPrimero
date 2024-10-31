@@ -1,0 +1,23 @@
+### 1. Introducción.
+- [[Función de varias variables]]
+- [[Límite de una función de varias variables]]
+- [[(ejercicio) Teorema caracterización sucesional de límite multivariable]]
+- [[(ejercicio) Límite función vectorial igual al límite de cada vector]]
+- [[(ejercicio) Propiedades cálculo de límites multivariables]]
+### 2. Dos variables.
+- [[Límites por curvas]]
+- [[Límite de una función con función que tiende a 0 como epsilon]]
+- [[Límites iterados]]
+- [[(ejercicio) Límite de una función a través de coordenadas polares]]
+### 3. Continuidad.
+- [[Función multivariable continua]]
+- [[(por hacer) Operaciones sobre funciones continuas son continuas]]
+- [[(por hacer) La composición de funciones continuas es continua]]
+- [[Caracterización continuidad función multivariable con entornos]]
+- [[Caracterización continuidad función multivariable con antiimagen abierta y cerrada]]
+- [[Función continua sobre conjunto compacto entonces imagen compacta]]
+- [[Teorema de Weierstrass (R^n)]]
+- [[Función uniformemente continua]]
+- [[Teorema de Heine (R^n)]]
+- [[Función lipschitziana]]
+- [[Aplicación lineal es uniformemente continua (lipschitziana)]]

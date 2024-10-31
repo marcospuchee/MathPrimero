@@ -22,7 +22,7 @@ Por el [[Teorema principal de Weierstrass (1861)]], $\exists x_1, x_2 \in [a,b]$
 
 **Tema:** [[Funciones derivables#5. El teorema fundamental del cálculo diferencial]]
 **Demostrado por:** [[Teorema principal de Weierstrass (1861)]], [[Teorema derivada de un extremo relativo]]
-**Consecuencias:** [[Teorema del valor medio de Cauchy (1821)]], [[Teorema función es convexa sii la gráfica de f está por encima de su tangente]]
+**Consecuencias:** [[Teorema del valor medio]], [[Teorema función es convexa sii la gráfica de f está por encima de su tangente]]
 
 ---
 ### Anki

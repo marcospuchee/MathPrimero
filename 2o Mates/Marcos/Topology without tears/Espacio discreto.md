@@ -7,7 +7,7 @@ title: Formal definition
 Sea $X \neq \emptyset$ y $\mathcal T$ su [[topología discreta]], entonces definimos al par $(X, \mathcal T)$ como espacio discreto.
 ```
 
-**Tema:** [[Espacios topológicos#1. Topología]]
+**Tema:** [[2o Mates/Marcos/Topology without tears/Espacios topológicos#1. Topología]]
 **Referencias:**
 **Proposiciones:**
 **Teoremas:**

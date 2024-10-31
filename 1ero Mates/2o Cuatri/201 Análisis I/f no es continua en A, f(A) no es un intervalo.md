@@ -2,6 +2,7 @@
 ---
 mathLink: $f \notin C(A) \implies f(A)$ no es intervalo
 ---
+
 ### Contenido Principal
 
 **Fecha:** 2024-01-27, 17:16

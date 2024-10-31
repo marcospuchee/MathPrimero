@@ -1,30 +1,17 @@
 {
   "userAdmonitions": {
-    "formal": {
-      "type": "formal",
+    "Formal": {
+      "type": "Formal",
       "color": "143, 221, 255",
       "icon": {
         "name": "pen-nib",
         "type": "font-awesome"
       },
       "command": false,
-      "title": "Formal definition",
+      "title": "Formal",
       "injectColor": true,
       "noTitle": false,
       "copy": true
-    },
-    "proposition": {
-      "type": "proposition",
-      "color": "143, 221, 255",
-      "icon": {
-        "name": "book",
-        "type": "font-awesome"
-      },
-      "command": false,
-      "title": "Proposition",
-      "injectColor": true,
-      "noTitle": false,
-      "copy": false
     },
     "proof": {
       "type": "proof",
@@ -37,7 +24,7 @@
       "title": "Proof",
       "injectColor": true,
       "noTitle": false,
-      "copy": false
+      "copy": true
     },
     "theorem": {
       "type": "theorem",
@@ -76,11 +63,47 @@
       "injectColor": true,
       "noTitle": false,
       "copy": true
+    },
+    "formal": {
+      "type": "formal",
+      "color": "143, 221, 255",
+      "icon": {
+        "name": "lucide-pen-tool",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "Algorithm": {
+      "type": "Algorithm",
+      "color": "143, 221, 255",
+      "icon": {
+        "name": "lucide-step-forward",
+        "type": "obsidian"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "proposition": {
+      "type": "proposition",
+      "color": "143, 221, 255",
+      "icon": {
+        "name": "readme",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
     }
   },
   "syntaxHighlight": false,
   "copyButton": true,
-  "version": "10.2.0",
+  "version": "10.3.2",
   "autoCollapse": false,
   "defaultCollapseType": "open",
   "injectColor": true,

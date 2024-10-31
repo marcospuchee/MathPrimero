@@ -4,13 +4,15 @@
 
 ```ad-formal
 title: Formal definition
-Sea $G$ un [[grupo]] y $\emptyset \neq H \subset G$ cerrado bajo la [[relación binaria]] de $G$ ([[conjunto cerrado bajo una relación binaria]]). Si $H$ es un [[grupo]] bajo la relación binaria en $G$, entonces se dice que $H$ es un subgrupo. Se denota $H < G$.
+Sea $G$ un [[grupo]] y $H \subseteq G$. Diremos que $H$ es un subgrupo de $G$, denotado $H \le G$, si
+1. $H \neq \emptyset$.
+2. $\forall x,y \in H$, $xy \in H$.
+3. $\forall x \in H, x^{-1} \in H$.
 ```
 
-**Tema:** [[Grupos#2. Homomorfismos y subgrupos.]]
-**Referencias:** [[Subgrupo generado]]
-**Proposiciones:** [[Intersección de subgrupos es subgrupo]]
-**Teoremas:** [[Teorema condición necesaria y suficiente de subgrupo]]
+^81803b
+
+**Tema:** [[Teoría de grupos#5. Subgrupo.]]
 
 ---
 ### Anki
@@ -18,7 +20,11 @@ Sea $G$ un [[grupo]] y $\emptyset \neq H \subset G$ cerrado bajo la [[relación 
 START
 Básico
 Anverso: Definición de subgrupo
-Reverso: Sea $G$ un [[grupo]] y $\emptyset \neq H \subset G$ cerrado bajo la [[relación binaria]] de $G$ ([[conjunto cerrado bajo una relación binaria]]). Si $H$ es un [[grupo]] bajo la relación binaria en $G$, entonces se dice que $H$ es un subgrupo. Se denota $H < G$.
-Tags: definición hungerford
-<!--ID: 1721211802903-->
+Reverso: Sea $G$ un [[grupo]] y $H \subseteq G$. Diremos que $H$ es un subgrupo de $G$, denotado $H \le G$, si
+1. $H \neq \emptyset$.
+2. $\forall x,y \in H$, $xy \in H$.
+3. $\forall x \in H, x^{-1} \in H$.
+Tags:
+<!--ID: 1727339263699-->
 END
+

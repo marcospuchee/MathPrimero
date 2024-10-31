@@ -21,7 +21,7 @@ Si tomamos $H = \langle a \rangle$, hemos visto que $|G| = [G:H]|H| = [G:H]|a|$.
 
 
 **Tema:** [[Grupos#4. Clases laterales y conteo.]]
-**Corolarios:** [[Teorema condición necesaria y suficiente de subgrupo]]
+**Corolarios:** [[Caracterización de subgrupo]]
 
 ---
 ### Anki

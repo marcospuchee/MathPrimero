@@ -25,7 +25,7 @@ lo que nos lleva a que $|HK| = |H|n = |H||K| / |H \cap K|$.
 ```
 
 **Tema:** [[Grupos#4. Clases laterales y conteo.]]
-**Demostrado por:** [[Corolario cardinal de un grupo a partir del índice de un subgrupo (Lagrange)]], [[Teorema condición necesaria y suficiente de subgrupo]]
+**Demostrado por:** [[Corolario cardinal de un grupo a partir del índice de un subgrupo (Lagrange)]], [[Caracterización de subgrupo]]
 **Consecuencias:**
 
 ---

@@ -10,7 +10,7 @@ Sea $G$ un [[semigrupo]], $a \in G$ y $n \in \mathbb N^*$. El elemento $a^n \in 
 **Tema:** [[Grupos#1. Semigrupos, monoides y grupos]]
 **Referencias:**
 **Proposiciones:**
-**Teoremas:** [[Producto de n-productos y n-producto de un m-producto]]
+**Teoremas:** [[Leyes de exponenciación]]
 
 ---
 ### Anki

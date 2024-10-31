@@ -17,7 +17,7 @@ $$S = \bigcup_{x \in S} \{x\}.$$
 Gracias a esto, a la hipótesis de que $\forall x \in X, \{x\} \in \mathcal T$, y a la definición de [[topología]], tenemos que $S \in \mathcal T$. Como $S$ es arbitrario, tenemos que $\mathcal T$ es la [[topología discreta]].
 ```
 
-**Tema:** [[Espacios topológicos#1. Topología]]
+**Tema:** [[2o Mates/Marcos/Topology without tears/Espacios topológicos#1. Topología]]
 **Corolarios:**
 
 ---

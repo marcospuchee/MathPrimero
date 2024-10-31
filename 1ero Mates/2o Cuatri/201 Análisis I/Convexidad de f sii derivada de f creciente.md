@@ -37,7 +37,7 @@ Según el [[Lema desigualdades de una función convexa]], tenemos que $f'(\xi) >
 
 
 **Tema:** [[Funciones derivables#8. Concavidad, convexidad, inflexión, máximos y mínimos]]
-**Demostrado por:** [[Lema desigualdades de una función convexa]], [[Teorema del valor medio de Cauchy (1821)]]
+**Demostrado por:** [[Lema desigualdades de una función convexa]], [[Teorema del valor medio]]
 **Consecuencias:**
 
 ---
@@ -73,7 +73,7 @@ Supongamos que $f$ no es convexa, por la nota del [[Lema desigualdades de una fu
 $$f(\lambda b_0 + (1-\lambda)a_0) > \lambda f(b_0) + (1-\lambda)f(a_0)$$
 y
 $$\frac{f(c_0) - f(a_0)}{c_0 - a_0} > \frac{f(b_0) - f(a_0)}{b_0 - a_0} > \frac{f(b_0) - f(c_0)}{b_0 - c_0}.$$
-Según el [[Teorema del valor medio de Cauchy (1821)]], $\exists \xi \in ]a_0, c_0[$ y $\zeta \in ]c_0, b_0[$ (por tanto $\xi < \zeta$) tales que
+Según el [[Teorema del valor medio]], $\exists \xi \in ]a_0, c_0[$ y $\zeta \in ]c_0, b_0[$ (por tanto $\xi < \zeta$) tales que
 $$f'(\xi) = \frac{f(c_0)-f(a_0)}{c_0 - a_0}; \quad f'(\zeta) = \frac{f(b_0) - f(c_0)}{b_0 - c_0}.$$
 Según el [[Lema desigualdades de una función convexa]], tenemos que $f'(\xi) > f'(\zeta)$, lo que muestra que $f'$ no es creciente.
 

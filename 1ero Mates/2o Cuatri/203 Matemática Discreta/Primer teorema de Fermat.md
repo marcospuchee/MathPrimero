@@ -15,7 +15,7 @@ $$a^{p-1} \equiv 1 \pmod p.$$
 
 
 ```ad-proof
-Suponemos primero que $p \nmid a$. En $\mathbb Z / p \mathbb bZ$ consideramos las clases de congruencia:
+Suponemos primero que $p \nmid a$. En $\mathbb Z / p \mathbb Z$ consideramos las clases de congruencia:
 $$\overline{0a}, \overline{1a}, \overline{2a}, \dots, \overline{(p-1)a}$$
 y demostremos que todas ellas son diferentes. Como $a$ y $p$ son [[coprimos]], $\exists u,v \in \mathbb Z$, tal que $au + pv = 1$ ([[identidad de Bezout]]), luego $au \equiv 1 \pmod p$, por la proposición [[elemento de congruencia invertible]], $a$ es invertible en $\mathbb Z / p \mathbb Z$, es decir $a^{-1} \in \mathbb Z / p \mathbb Z$. Ahora si $\overline{ia} = \overline{ja}$ con $i \neq j$, entonces $ia = ja$ en $\mathbb Z / p \mathbb Z$, por tanto $iaa^{-1} = jaa^{-1}$, implica que $i = j$, lo que es una contradicción.
 

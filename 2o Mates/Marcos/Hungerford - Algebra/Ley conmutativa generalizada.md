@@ -10,6 +10,8 @@ mathLink:
 Si $G$ es un [[semigrupo abeliano]] y $a_1, \dots, a_n \in G$, entonces para cualquier permutación $i_1, \dots, i_n$ de $1,2, \dots, n$, $a_1 a_2 \dots a_n = a_{i_1} a_{i_2} \dots a_{i_n}$.
 ```
 
+^3f6a43
+
 
 ```ad-proof
 Vamos a proceder por el [[principio de inducción fuerte]].

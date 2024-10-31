@@ -28,7 +28,7 @@ $$X \textrm{\\} (S_1 \cup S_2 \cup \dots \cup S_n) = (X \textrm{\\} S_1) \cap (X
 Como a la derecha tenemos una intersección finita de conjuntos abiertos, es un conjunto abierto. Por tanto, $X \textrm{\\} (S_1 \cup S_2 \cup \dots \cup S_n)$ es un conjunto abierto. Así, $S_1 \cup S_2 \cup \dots \cup S_n$ es un conjunto cerrado.
 ```
 
-**Tema:** [[Espacios topológicos#2. Conjuntos abiertos, conjuntos cerrados y conjuntos clopen]]
+**Tema:** [[2o Mates/Marcos/Topology without tears/Espacios topológicos#2. Conjuntos abiertos, conjuntos cerrados y conjuntos clopen]]
 **Corolarios:**
 
 ---

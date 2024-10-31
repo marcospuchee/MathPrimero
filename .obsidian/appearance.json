@@ -6,5 +6,7 @@
   "translucency": true,
   "enabledCssSnippets": [
     "styles"
-  ]
+  ],
+  "textFontFamily": "American Typewriter",
+  "interfaceFontFamily": "American Typewriter"
 }

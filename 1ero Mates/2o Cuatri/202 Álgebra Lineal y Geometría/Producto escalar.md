@@ -4,7 +4,7 @@
 
 ```ad-formal
 title: Formal definition
-Sea $V$ un $\mathbb R$-espacio vectorial (de dimensión finita), un producto escalar sobre $V$ es una [[Forma bilineal simétrica definida positiva]].
+Sea $V$ un $\mathbb R$-espacio vectorial (de dimensión finita), un producto escalar sobre $V$ es una [[forma bilineal simétrica definida positiva]].
 ```
 
 **Tema:**[[Espacios vectoriales euclídeos]]
@@ -18,7 +18,7 @@ Sea $V$ un $\mathbb R$-espacio vectorial (de dimensión finita), un producto esc
 START
 Básico
 Anverso: Definición de producto escalar
-Reverso: Sea $V$ un $\mathbb R$-espacio vectorial (de dimensión finita), un producto escalar sobre $V$ es una [[Forma bilineal simétrica definida positiva]].
-Tags: definición ÁlgebraI
-<!--ID: 1712235233579-->
+Reverso: Sea $V$ un $\mathbb R$-espacio vectorial (de dimensión finita), un producto escalar sobre $V$ es una [[forma bilineal simétrica definida positiva]].
+Tags:
+<!--ID: 1727083428019-->
 END

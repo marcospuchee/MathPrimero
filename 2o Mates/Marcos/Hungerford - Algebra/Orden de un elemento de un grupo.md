@@ -4,21 +4,22 @@
 
 ```ad-formal
 title: Formal definition
-Sea $G$ un [[grupo]] y $a \in G$. El orden de $a$ es el orden del [[grupo cíclico]] $\langle a \rangle$ y se denota $|a|$.
+Sea $G$ un [[grupo]] y $x \in G$. Diremos que $x$ tiene orden finito si $\exists n \in \mathbb Z^+$ tal que $x^n = 1_G$. En ese caso, el orden de $x$, denotado $o(x)$, es
+$$o(x) = \min \{n \in \mathbb Z^+ \, | \, x^n = 1_G\}.$$
 ```
 
-**Tema:** [[Grupos#3. Grupos cíclicos.]]
-**Referencias:**
-**Proposiciones:**
-**Teoremas:** [[Propiedades elemento de orden infinito]]
+^a23c6a
+
+**Tema:** [[Teoría de grupos#4. Exponenciales y orden de un elemento.]]
 
 ---
 ### Anki
 
 START
 Básico
-Anverso: Definición del orden de un elemento de un grupo
-Reverso: Sea $G$ un [[grupo]] y $a \in G$. El orden de $a$ es el orden del [[grupo cíclico]] $\langle a \rangle$ y se denota $|a|$.
-Tags: definición hungerford
-<!--ID: 1721211802925-->
+Anverso: Cuál es el orden de un elemento de un grupo
+Reverso: Sea $G$ un [[grupo]] y $x \in G$. Diremos que $x$ tiene orden finito si $\exists n \in \mathbb Z^+$ tal que $x^n = 1_G$. En ese caso, el orden de $x$, denotado $o(x)$, es
+$$o(x) = \min \{n \in \mathbb Z^+ \, | \, x^n = 1_G\}.$$
+Tags:
+<!--ID: 1727083427897-->
 END

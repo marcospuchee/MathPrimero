@@ -25,7 +25,7 @@ $$\left | \frac{f(x)}{g(x)} - L \right | = \left | \frac{f'(\xi)}{g'(\xi)} - L \
 
 
 **Tema:** [[Funciones derivables#6. Reglas de L'Hôpital]]
-**Demostrado por:** [[Teorema del valor medio de Cauchy (1821)]]
+**Demostrado por:** [[Teorema del valor medio]]
 **Consecuencias:**
 
 ---
@@ -43,11 +43,11 @@ END
 START
 Básico
 Anverso: Demostración de las reglas de l'Hôpital
-Reverso: Observemos que la función $f'/g'$ se considera definida en los puntos donde $g'(x) \neq 0$. ¿Hay muchos puntos cumpliendo esta condición? Sí los hay. En efecto, sea $\delta, 0 < \delta < b-a$, según el [[Teorema del valor medio de Cauchy (1821)]], resulta
+Reverso: Observemos que la función $f'/g'$ se considera definida en los puntos donde $g'(x) \neq 0$. ¿Hay muchos puntos cumpliendo esta condición? Sí los hay. En efecto, sea $\delta, 0 < \delta < b-a$, según el [[Teorema del valor medio]], resulta
 $$g'(\xi) f(a+\delta) = g'(\xi)(f(a + \delta) - f(a)) = f'(\xi)(g(a+\delta) - g(a)) = f'(\xi)g(a+\delta).$$
 Como $g$ no se anula, si $g'(\xi) = 0$ esto implica que $f'(\xi) = 0$ lo que por hipótesis es falso. Tenemos pues que el punto $a$ es de acumulación del dominio $f'/g'$.
 
-Supongamos pues que $\displaystyle \exists \lim_{x \to a+} \frac{f'(x)}{g'(x)} = L$. Escribamos el dominio de $f'/g'$ como $D := \{x \in ]a,b[: g'(x) \neq 0\}$. Fijemos $\varepsilon > 0$. Debe existir un $\delta, 0 < \delta < b-a$, tal que $\forall x \in ]a, a+ \delta] \cap D$ tengamos $\displaystyle \left | \frac{f'(x)}{g'(x)} - L \right | < \varepsilon$. Sea $x \in ]a, a+\delta]$, el [[Teorema del valor medio de Cauchy (1821)]] nos da un $\xi \in ]a, a+\delta[$ tal que
+Supongamos pues que $\displaystyle \exists \lim_{x \to a+} \frac{f'(x)}{g'(x)} = L$. Escribamos el dominio de $f'/g'$ como $D := \{x \in ]a,b[: g'(x) \neq 0\}$. Fijemos $\varepsilon > 0$. Debe existir un $\delta, 0 < \delta < b-a$, tal que $\forall x \in ]a, a+ \delta] \cap D$ tengamos $\displaystyle \left | \frac{f'(x)}{g'(x)} - L \right | < \varepsilon$. Sea $x \in ]a, a+\delta]$, el [[Teorema del valor medio]] nos da un $\xi \in ]a, a+\delta[$ tal que
 $$f'(\xi)g(x) = f'(\xi)(g(x) - g(a)) = g'(\xi)(f(x) - f(a)) = g'(\xi) f(x).$$
 Si fuera $g'(\xi) = 0$, tendríamos $f'(\xi) = 0$, lo que es imposible, luego $\xi \in D \cap ]a, a+ \delta[$, la elección de $\delta$ nos da que
 $$\left | \frac{f(x)}{g(x)} - L \right | = \left | \frac{f'(\xi)}{g'(\xi)} - L \right | < \varepsilon.$$

@@ -1,4 +1,14 @@
-### Contenido principal
+### Conjunto abierto (espacio métrico).
+
+```ad-formal
+title: Formal definition
+Sea $(X,d)$ [[espacio métrico]]. $A \subset X$ es abierto si $\forall x \in A$ $\exists \varepsilon > 0$ tal que $B(x;\varepsilon) \le A$.
+```
+
+**Tema:** [[Espacios métricos]]
+
+---
+### Conjunto abierto (espacio topológico).
 
 **Fecha:** 2024-06-04, 21:02
 
@@ -7,18 +17,23 @@ title: Formal definition
 Sea $(X, \mathcal T)$ un [[espacio topológico]]. Definimos conjunto abierto de $X$ a cualquier elemento de $\mathcal T$.
 ```
 
-**Tema:** [[Espacios topológicos y funciones continuas#1. Espacios topológicos.]]
-**Referencias:** [[Conjunto cerrado]]
-**Proposiciones:**
-**Teoremas:**
+**Tema:** [[2o Mates/201 Topología/Espacios topológicos]]
 
 ---
 ### Anki
 
 START
 Básico
-Anverso: Definición de conjunto abierto
+Anverso: Definición de conjunto abierto (espacio métrico)
+Reverso: Sea $(X,d)$ [[espacio métrico]]. $A \subset X$ es abierto si $\forall x \in A$ $\exists \varepsilon > 0$ tal que $B(x;\varepsilon) \le A$.
+Tags:
+<!--ID: 1727083427888-->
+END
+
+START
+Básico
+Anverso: Definición de conjunto abierto (espacio topológico)
 Reverso: Sea $(X, \mathcal T)$ un [[espacio topológico]]. Definimos conjunto abierto de $X$ a cualquier elemento de $\mathcal T$.
-Tags: definición top
-<!--ID: 1718723532002-->
+Tags:
+<!--ID: 1727083427890-->
 END

@@ -7,7 +7,7 @@ title: Formal definition
 Sea $X \neq \emptyset$ y $\mathcal T$ la [[topología trivial]] sobre $X$. Definimos al par $(X, \mathcal T)$ como espacio trivial.
 ```
 
-**Tema:** [[Espacios topológicos#1. Topología]]
+**Tema:** [[2o Mates/Marcos/Topology without tears/Espacios topológicos#1. Topología]]
 **Referencias:**
 **Proposiciones:**
 **Teoremas:**

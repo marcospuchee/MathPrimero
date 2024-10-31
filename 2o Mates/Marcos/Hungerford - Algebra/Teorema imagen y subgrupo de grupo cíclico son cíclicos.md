@@ -22,7 +22,7 @@ Por el [[teorema condición necesaria y suficiente de subgrupo]], está claro qu
 
 
 **Tema:** [[Grupos#3. Grupos cíclicos.]]
-**Demostrado por:** [[Teorema condición necesaria y suficiente de subgrupo]]
+**Demostrado por:** [[Caracterización de subgrupo]]
 **Consecuencias:**
 
 ---

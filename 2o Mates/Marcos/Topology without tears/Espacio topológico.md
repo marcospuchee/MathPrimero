@@ -1,16 +1,10 @@
 ### Contenido principal
 
-**Fecha:** 2024-06-04, 15:50
-
-```ad-formal
-title: Formal definition
-Dado un conjunto $X \neq \emptyset$, $\mathcal T$ [[topología]] sobre $X$, al par $(X, \mathcal T)$ se le llama espacio topológico.
+```ad-Formal
+Un espacio topológico es un par $(X, \mathcal T)$ donde $X$ es un conjunto y $\mathcal T$ una [[topología]]
 ```
 
-**Tema:** [[Espacios topológicos y funciones continuas#1. Espacios topológicos.]]
-**Referencias:**
-**Proposiciones:** [[Condiciones necesarias de un espacio topológico respecto a sus conjuntos abiertos]]
-**Teoremas:**
+**Tema:** [[2o Mates/201 Topología/Espacios topológicos]]
 
 ---
 ### Anki
@@ -18,7 +12,7 @@ Dado un conjunto $X \neq \emptyset$, $\mathcal T$ [[topología]] sobre $X$, al p
 START
 Básico
 Anverso: Definición de espacio topológico
-Reverso: Dado un conjunto $X \neq \emptyset$, $\mathcal T$ [[topología]] sobre $X$, al par $(X, \mathcal T)$ se le llama espacio topológico.
-Tags: definición top
-<!--ID: 1718723531991-->
+Reverso: Un espacio topológico es un par $(X, \mathcal T)$ donde $X$ es un conjunto y $\mathcal T$ una [[topología]]
+Tags: 
+<!--ID: 1727083427885-->
 END

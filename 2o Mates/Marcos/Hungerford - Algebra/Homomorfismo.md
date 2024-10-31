@@ -1,24 +1,23 @@
 ### Contenido principal
 
-**Fecha:** 2024-07-09, 18:28
-
 ```ad-formal
 title: Formal definition
-Sean $G$ y $H$ [[semigrupo]]s. Una función $f: G \to H$ es un homomorfismo si $f(ab) = f(a)f(b), \, \forall a,b \in G$.
+Sean $G$ y $H$ dos [[grupo]]s. Un homomorfismo (de grupos) de $G$ en $H$ es una aplicación $f: G \to H$ tal que, $\forall x,y \in G$, se cumple que
+$$f(xy) = f(x) f(y).$$
 ```
 
-**Tema:** [[Grupos#2. Homomorfismos y subgrupos.]]
-**Referencias:** [[Monomorfismo]], [[Epimorfismo]], [[Isomorfismo]], [[Endomorfismo]], [[Automorfismo]], [[Núcleo]], [[Imagen]], [[Antiimagen]]
-**Proposiciones:**
-**Teoremas:**
+^c3dc2a
+
+**Tema:** [[Teoría de grupos#9. Homomorfismos.]]
+
 
 ---
 ### Anki
 
 START
 Básico
-Anverso: Definición de homomorfismo
-Reverso: Sean $G$ y $H$ [[semigrupo]]s. Una función $f: G \to H$ es un homomorfismo si $f(ab) = f(a)f(b), \, \forall a,b \in G$.
-Tags: definición hungerford
-<!--ID: 1721211802986-->
+Anverso: Definición de homomorfismo de grupos
+Reverso: Sean $G$ y $H$ dos [[grupo]]s. Un homomorfismo (de grupos) de $G$ en $H$ es una aplicación $f: G \to H$ tal que, $\forall x,y \in G$, se cumple que
+$$f(xy) = f(x) f(y).$$
+<!--ID: 1727966478220-->
 END

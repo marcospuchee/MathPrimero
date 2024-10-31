@@ -4,18 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "66b05306948236a6",
+        "id": "10e33981b049c57d",
         "type": "tabs",
         "children": [
           {
-            "id": "1122f4e05e4b57a8",
+            "id": "30de2d3d5174a081",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/202 Análisis II/Funciones de varias variables.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Funciones de varias variables"
+            }
+          },
+          {
+            "id": "8d6651afa8199e54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/201 Topología/Caracterización de punto frontera en espacios métricos (convergencia).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caracterización de punto frontera en espacios métricos (convergencia)"
+            }
+          },
+          {
+            "id": "ad659076f917cc60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/201 Topología/Caracterización de punto frontera en espacios métricos (convergencia).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Caracterización de punto frontera en espacios métricos (convergencia)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -35,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +90,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -58,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -82,14 +126,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teorema del grupo alternado.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Teorema del grupo alternado"
             }
           },
           {
@@ -100,7 +147,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -108,7 +157,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teorema del grupo alternado.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Teorema del grupo alternado"
             }
           },
           {
@@ -120,7 +173,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           },
           {
@@ -128,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -136,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -152,9 +211,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teorema del grupo alternado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Teorema del grupo alternado"
             }
           }
         ]
@@ -172,57 +234,63 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1122f4e05e4b57a8",
+  "active": "ad659076f917cc60",
   "lastOpenFiles": [
-    "2o Mates/Marcos/Hungerford - Algebra/Grupos.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Teorema grupo cíclico de orden m isomorfo a Zm.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Teorema grupo cíclico infinito isomorfo a Z.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Teorema forma de todo subgrupo del grupo aditivo Z.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Grupo cíclico.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.5.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.4.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.3.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Subgrupo generado.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.2.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/4.1.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Teorema índice entre varios subgrupos.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Proposición índice intersección menor o igual que producto índices de la intersección.md",
-    "2o Mates/Marcos/Hungerford - Algebra/(POR DEMOSTRAR) Proposición índice intersección de subgrupos menor o igual que índice subgrupo.md",
-    "2o Mates/Marcos/Hungerford - Algebra/0. Desarrollo.md",
-    "Excalidraw/Seminario II Álgebra.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Propiedades congruencia por la derecha (resp. izquierda).md",
-    "2o Mates/Marcos/Hungerford - Algebra/Clase lateral.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Índice de un subgrupo.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Teorema cardinal producto de subgrupos de un grupo.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Corolario cardinal de un grupo a partir del índice de un subgrupo (Lagrange).md",
-    "2o Mates/Marcos/Hungerford - Algebra/Teorema condición necesaria y suficiente de subgrupo.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Congruente por la izquierda.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Congruente por la derecha.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Teorema forma generadores de un grupo cíclico.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Propiedades elemento de orden infinito.md",
+    "2o Mates/201 Topología/Puntos especiales.md",
+    "2o Mates/201 Topología/Caracterización de conjunto denso en espacios métricos (convergencia).md",
+    "2o Mates/201 Topología/Caracterización de punto frontera en espacios métricos (convergencia).md",
+    "Canvas/Teoría de grupos (canvas).canvas",
+    "2o Mates/202 Análisis II/Derivada direccional a partir de parciales.md",
+    "2o Mates/202 Análisis II/Diferenciabilidad de funciones de varias variables.md",
+    "2o Mates/202 Análisis II/Funciones de varias variables.md",
+    "Análisis II.canvas",
+    "2o Mates/202 Análisis II/Teorema de Weierstrass (R^n).md",
+    "2o Mates/202 Análisis II/Función de varias variables.md",
+    "2o Mates/202 Análisis II/Derivadas de orden superior y extremos relativos.md",
+    "2o Mates/202 Análisis II/Todas las derivadas parciales acotadas implica que la función es lipschitziana.md",
+    "2o Mates/205 Estructuras Algebraicas/3-ciclos (resp. transposiciones de tipo (2,2)) son conjugados y generan An.md",
+    "2o Mates/202 Análisis II/Derivadas parciales nulas implican que la función es constante.md",
+    "2o Mates/202 Análisis II/Corolario teorema de Young.md",
+    "2o Mates/202 Análisis II/Teorema de Young.md",
+    "2o Mates/202 Análisis II/Teorema de Schwarz.md",
+    "2o Mates/201 Topología/Entorno.md",
+    "2o Mates/202 Análisis II/Derivada de orden dos.md",
+    "2o Mates/202 Análisis II/Polinomio de Taylor de orden dos.md",
+    "2o Mates/202 Análisis II/Límite de una función con función que tiende a 0 como epsilon.md",
+    "2o Mates/202 Análisis II/Teorema del valor medio.md",
+    "2o Mates/202 Análisis II/Derivada direccional.md",
+    "2o Mates/202 Análisis II/(ejercicio) Diferenciable implica que existen todas las derivadas direccionales.md",
+    "2o Mates/202 Análisis II/Función diferenciable.md",
+    "2o Mates/202 Análisis II/Caracterización de función diferenciable.md",
+    "2o Mates/202 Análisis II/Condición suficiente de diferenciabilidad.md",
+    "1ero Mates/1er Cuatri/104 Estadística Básica/Intervalo de confianza para la diferencia de dos medias poblacionales relacionadas.md",
+    "Teoría de grupos (canvas).canvas",
+    "Attachements/Pasted Image 20240219114609_697.png",
+    "Attachements/Pasted Image 20240122154438_578.png",
+    "Attachements/Pasted Image 20240103111336_357.png",
+    "Attachements/Pasted Image 20231223191143_949.png",
+    "Attachments/Pasted image 20231203174827.png",
+    "Attachments/Pasted image 20231014120505.png",
+    "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
+    "Attachements/image_2.png",
+    "Attachements/image_1.png",
+    "Attachements/image_0.png",
+    "Attachements/image.png",
+    "Excalidraw",
+    "2o Mates/Marcos/Hoffstein - An Introduction to Mathematical  Cryptography",
+    "2o Mates/205 Estructuras Algebraicas",
+    "2o Mates/204 Métodos numéricos",
+    "2o Mates/203 Programación matemática",
+    "2o Mates/202 Análisis II",
+    "2o Mates/201 Topología",
     "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/Untitled",
     "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos",
-    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios",
-    "2o Mates/Marcos/Hungerford - Algebra/Teoría/1. Grupos/3. Anillos cíclicos",
-    "2o Mates/Marcos/Hungerford - Algebra/Teoría/1. Grupos",
-    "2o Mates/Marcos/Hungerford - Algebra/Teoría",
-    "2o Mates/Marcos/Hungerford - Algebra",
-    "Attachements/Pasted Image 20240624125815_296.png",
-    "1ero Mates/2o Cuatri/203 Matemática Discreta/Práctica/Exámenes",
-    "Attachements/Pasted Image 20240611194514_169.png",
-    "Attachements/Pasted Image 20240611184047_743.png",
-    "Attachements/Pasted Image 20240611181943_797.png",
-    "Attachements/Pasted Image 20240610222942_330.png",
-    "1ero Mates/2o Cuatri/204 Física/Prácticas/Práctica 6",
-    "Attachements/Pasted Image 20240609194245_413.png",
-    "1ero Mates/2o Cuatri/204 Física/Prácticas/Sin",
-    "Attachements/Pasted Image 20240609182540_912.png",
-    "Attachements/Pasted Image 20240609180624_202.png",
-    "Attachements/Pasted Image 20240609173208_410.png",
-    "Attachements/Pasted Image 20240608121415_288.png",
     "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas"
   ]
 }

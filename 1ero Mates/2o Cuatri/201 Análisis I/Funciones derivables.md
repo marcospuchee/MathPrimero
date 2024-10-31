@@ -22,7 +22,7 @@
 - [[Lema valor del límite en un punto a]]
 - [[Teorema derivada de un extremo relativo]]
 - [[Teorema de Rolle (1690)]]
-- [[Teorema del valor medio de Cauchy (1821)]]
+- [[Teorema del valor medio]]
 - [[Teorema fundamental del cálculo diferencial]]
 - [[Interior]]
 - [[Función derivable en el interior de un intervalo monótona]]

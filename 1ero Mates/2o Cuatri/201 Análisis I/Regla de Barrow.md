@@ -57,7 +57,7 @@ $$\begin{array}{l}
 \implies\sum_{j = 1} m_j (x_j - x_{j-1}) \le \sum_{j = 1}^n f(c_j)(x_j - x_{j-1}) \le \sum_{j = 1}^n (x_j - x_{j-1}) M_j \\
 \implies L(f, P) \le \sum_{j = 1}^n (x_j - x_{j-1})f(c_j) \le U(f, P).
 \end{array}$$
-Luego $F: [x_{j-1}, x_j] \to \mathbb R$ es continua en $[x_{j-1}, x_j]$ y derivable en $]x_{j-1}, x_j[$. Por lo que, aplicando el [[Teorema del valor medio de Cauchy (1821)]], tenemos:
+Luego $F: [x_{j-1}, x_j] \to \mathbb R$ es continua en $[x_{j-1}, x_j]$ y derivable en $]x_{j-1}, x_j[$. Por lo que, aplicando el [[Teorema del valor medio]], tenemos:
 $\exists \xi_j \in ]x_{j-1}, x_j[$ tal que $F(x_j) - F(x_{j-1}) = (x_j - x_{j-1}) F'(\xi_j) =$ $(x_j - x_{j-1}) f(\xi_j)$.
 Si tomamos $c_j = \xi_j$, se queda:
 $$L(f, P) \le \sum_{j = 1}^n (F(x_j) - F(x_{j-1})) \le U(f, P),$$

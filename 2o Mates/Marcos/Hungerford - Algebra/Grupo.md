@@ -7,6 +7,8 @@ title: Formal definition
 Un grupo es un [[monoide]] tal que $\forall a \in G, \, \exists a^{-1} \in G$ tal que $a^{-1}a = aa^{-1} = e$.
 ```
 
+^dc351d
+
 **Tema:** [[Grupos#1. Semigrupos, monoides y grupos]]
 **Referencias:** [[Grupo abeliano]], [[Subgrupo]], [[Grupo cíclico]]
 **Proposiciones:** [[Debilidad definición de grupo]], [[Grupo según soluciones a ecuaciones]], [[Propiedades de los grupos]]

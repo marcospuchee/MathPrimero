@@ -1,16 +1,15 @@
 ### Contenido principal
 
-**Fecha:** 2024-07-11, 18:09
-
 ```ad-formal
 title: Formal definition
-Sea $G$ un [[grupo]]. Se denomina grupo cíclico al [[subgrupo generado]] por $a \in G$, $\langle a \rangle$.
+Sea $G$ un [[grupo]]. Diremos que $G$ es cíclico si $\exists x \in G$ tal que
+$$G = \langle x \rangle = \{x^n \, | \, n \in \mathbb Z \}.$$
+Diremos que $x$ es un generador de $G$. Los generadores de un grupo cíclico no son necesariamente únicos.
 ```
 
-**Tema:** [[Grupos#3. Grupos cíclicos.]]
-**Referencias:**
-**Proposiciones:**
-**Teoremas:**
+^99f708
+
+**Tema:** [[Teoría de grupos#8. Grupos cíclicos.]]
 
 ---
 ### Anki
@@ -18,7 +17,8 @@ Sea $G$ un [[grupo]]. Se denomina grupo cíclico al [[subgrupo generado]] por $a
 START
 Básico
 Anverso: Definición de grupo cíclico
-Reverso: Sea $G$ un [[grupo]]. Se denomina grupo cíclico al [[subgrupo generado]] por $a \in G$, $\langle a \rangle$.
-Tags: definición hungerford
-<!--ID: 1721211803014-->
+Reverso: Sea $G$ un [[grupo]]. Diremos que $G$ es cíclico si $\exists x \in G$ tal que
+$$G = \langle x \rangle = \{x^n \, | \, n \in \mathbb Z \}.$$
+Diremos que $x$ es un generador de $G$. Los generadores de un grupo cíclico no son necesariamente únicos.
+<!--ID: 1727966478280-->
 END

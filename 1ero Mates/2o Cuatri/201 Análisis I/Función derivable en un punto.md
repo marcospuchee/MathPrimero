@@ -22,7 +22,7 @@ $f$ es derivable en $a$ (respectivamente por la izquierda) (respectivamente por 
 **Tema:** [[Funciones derivables#1. Derivabilidad y continuidad]]
 **Referencias:** [[Nota previa a teorema función inversa]]
 **Proposiciones:** [[Formulación de Weierstrass (1861)]], [[Toda función derivable en un punto es continua en ese punto]]
-**Teoremas:** [[Teorema fórmulas de derivación]], [[Regla de la cadena]], [[Teorema de la función inversa]], [[Teorema derivada de un extremo relativo]], [[Teorema de Rolle (1690)]], [[Teorema del valor medio de Cauchy (1821)]], [[Teorema fundamental del cálculo diferencial]], [[Función derivable en el interior de un intervalo monótona]]
+**Teoremas:** [[Teorema fórmulas de derivación]], [[Regla de la cadena]], [[Teorema de la función inversa]], [[Teorema derivada de un extremo relativo]], [[Teorema de Rolle (1690)]], [[Teorema del valor medio]], [[Teorema fundamental del cálculo diferencial]], [[Función derivable en el interior de un intervalo monótona]]
 
 ---
 ### Anki

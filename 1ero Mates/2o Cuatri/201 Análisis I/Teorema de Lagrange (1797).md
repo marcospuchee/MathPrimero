@@ -41,7 +41,7 @@ que es lo que queríamos demostrar.
 
 
 **Tema:** [[Funciones derivables#7. El polinomio de Taylor]]
-**Demostrado por:** [[Teorema del valor medio de Cauchy (1821)]]
+**Demostrado por:** [[Teorema del valor medio]]
 **Consecuencias:** [[Proposición existencia límite del infinitésimo f - polinomio de Taylor de grado n+1]]
 
 ---
@@ -70,7 +70,7 @@ $$R(a) = R'(a) = \dots = R^{(n)}(a) = 0, \quad R^{(n+1)}(x) = f^{(n+1)}(x), \qua
 Además, tenemos que
 $$S(a) = S'(a) = \dots = S^{(n)}(a) = 0,\quad S^{(n+1)}(x) = 1, \quad x \in I^o.$$
 
-Supondremos por ejemplo que $a < x$. Si aplicamos el [[Teorema del valor medio de Cauchy (1821)]], en primer lugar para las funciones $R$ y $S$, después para $R'$ y $S'$, y sucesivamente para $R^{(k)}, S^{(k)}$, con $0 \le k \le n$, llegamos a:
+Supondremos por ejemplo que $a < x$. Si aplicamos el [[Teorema del valor medio]], en primer lugar para las funciones $R$ y $S$, después para $R'$ y $S'$, y sucesivamente para $R^{(k)}, S^{(k)}$, con $0 \le k \le n$, llegamos a:
 $$
 \begin{eqnarray}
 \frac{R(x)}{S(x)} &=& \frac{R(x) - R(a)}{S(x) - S(a)} = \frac{R'(\xi_1)}{S'(\xi_1)} = \frac{R'(\xi_1) - R'(a)}{S'(\xi_1) - S'(a)} = \frac{R''(\xi_2)}{S''(\xi_2)} = \frac{R''(\xi_2) - R''(a)}{S''(\xi_2) - S''(a)} = \dots \\

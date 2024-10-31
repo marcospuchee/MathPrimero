@@ -6,7 +6,7 @@ mathLink:
 
 **Fecha:** 2024-02-29, 17:07
 
-Sean $A, B \subset \mathbb R, a \in A, b \in B, f: A \to \mathbb R, g : B \to \mathbb R, f(a) \subset B$ y $f(a) = b$.
+Sean $A, B \subset \mathbb R, a \in A, b \in B, f: A \to \mathbb R, g : B \to \mathbb R, f(a) \subset B$ y $f(a) = b$. ^dbb38
 
 ```ad-theorem
 Si $f$ es derivable en $a$ ([[Función derivable en un punto]]) y $g$ es derivable en $b$, entonces $g \circ f$ es derivable en $a$ y

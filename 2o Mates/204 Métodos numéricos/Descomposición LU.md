@@ -1,0 +1,28 @@
+### 1. Métodos directos y sistemas triangulares.
+- [[Sustitución regresiva]]
+- [[Sustitución progresiva]]
+- [[Algoritmo matricial óptimo]]
+- [[(por demostrar) Sustitución progresiva y regresiva son óptimos]]
+### 2. La eliminación gaussiana como descomposición matricial.
+- [[Descomposición matricial LU]]
+- [[Obtención de matriz elemental de tipo III]]
+- [[Proposición producto de matrices elementales de tipo III]]
+- [[Producto de inversas de matrices elementales de tipo III]]
+### 3. Matrices especiales y propiedades de la descomposición LU.
+- Propiedades de las matrices triangulares
+- Propiedades de la descomposición LU
+- [[Matrices diagonalmente dominantes]]
+- [[Matriz EDDC o EDDF implica todo elemento en la diagonal es no nulo]]
+- [[Matriz regular que admite descomposición LU impica que la descomposición es única]]
+- [[EDDC tiene factorización LU]]
+- [[Matriz simétrica implica que sus matrices de trabajo también lo son]]
+- [[Matriz definida positiva tiene diagonal estrictamente positiva]]
+- [[Matriz simétrica y definida positiva tiene factorización LU]]
+- [[Descomposición LDL^T]]
+- [[Descomposición de Choleski]]
+### 4. Eliminación gaussiana con pivoteo parcial.
+- [[Matriz de pivotaje]]
+- [[Conmutación de M y P]]
+- [[Descomposición PA = LU]]
+- [[Matriz invertible tiene elemento distinto de cero en la primera columna]]
+- [[Matriz invertible siempre se puede hacer el primer paso de EG con pivoteo parcial]]

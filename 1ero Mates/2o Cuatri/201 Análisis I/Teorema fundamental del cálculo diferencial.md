@@ -19,7 +19,7 @@ del [[Teorema del valor medio de Cauchy (1821)]] a $h:=f-g$.
 ```
 
 **Tema:** [[Funciones derivables#5. El teoremteorema fundamental del cálculo diferencial]]
-**Demostrado por:** [[Teorema del valor medio de Cauchy (1821)]]
+**Demostrado por:** [[Teorema del valor medio]]
 **Consecuencias:**
 
 ---
@@ -39,7 +39,7 @@ Anverso: Demostración de que sean $f$ y $g$ funciones reales. Si $f$ y $g$ son 
 (TEOREMA FUNDAMENTAL DEL CÁLCULO DIFERENCIAL)
 Reverso: Es consecuencia directa de aplicar la igualdad
 $$f'(\xi) = \frac{f(b)-f(a)}{b-a}$$
-del [[Teorema del valor medio de Cauchy (1821)]] a $h:=f-g$.
+del [[Teorema del valor medio]] a $h:=f-g$.
 Tags: demostración análisisI
 <!--ID: 1709231331151-->
 END

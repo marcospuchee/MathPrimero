@@ -20,7 +20,7 @@ Demostración directa de las definiciones de [[topología]] y [[conjunto abierto
 
 
 
-**Tema:** [[Espacios topológicos#2. Conjuntos abiertos, conjuntos cerrados y conjuntos clopen]]
+**Tema:** [[2o Mates/Marcos/Topology without tears/Espacios topológicos#2. Conjuntos abiertos, conjuntos cerrados y conjuntos clopen]]
 **Corolarios:**
 
 ---

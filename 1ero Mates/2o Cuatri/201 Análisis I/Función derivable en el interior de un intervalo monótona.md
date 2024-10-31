@@ -25,7 +25,7 @@ La prueba es similar a la segunda parte de (i).
 
 
 **Tema:** [[Funciones derivables#5. El teorema fundamental del cálculo diferencial]]
-**Demostrado por:** [[Teorema del valor medio de Cauchy (1821)]]
+**Demostrado por:** [[Teorema del valor medio]]
 **Consecuencias:**
 
 ---
@@ -48,7 +48,7 @@ Anverso: Demostración de que sean $I$ un [[Intervalo]] en $\mathbb R$ y $f: I \
 Reverso: **(i).**
 Si $f$ es creciente en $I$ y $a \in I^o$, tendremos:
 $$\frac{f(x) - f(a)}{x-a} \ge 0 \quad x \in I - \{a\};$$
-ahora, las propiedades de los límites nos permiten afirmar que $f'(a) \ge 0$. Recíprocamente, dados $x,y \in I, x<y$, de acuerdo con el [[Teorema del valor medio de Cauchy (1821)]], $\exists \xi \in ]x,y[ \subset I^o$ tal que $f(y)-f(x) = f'(\xi)(y-x) \ge 0$.
+ahora, las propiedades de los límites nos permiten afirmar que $f'(a) \ge 0$. Recíprocamente, dados $x,y \in I, x<y$, de acuerdo con el [[Teorema del valor medio]], $\exists \xi \in ]x,y[ \subset I^o$ tal que $f(y)-f(x) = f'(\xi)(y-x) \ge 0$.
 
 **(ii).**
 La prueba es similar a la segunda parte de (i).

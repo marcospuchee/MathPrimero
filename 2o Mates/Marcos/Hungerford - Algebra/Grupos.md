@@ -12,7 +12,7 @@
 - [[Ley asociativa generalizada]]
 - [[Ley conmutativa generalizada]]
 - [[n-producto estándar]]
-- [[Producto de n-productos y n-producto de un m-producto]]
+- [[Leyes de exponenciación]]
 ### 2. Homomorfismos y subgrupos.
 - [[Homomorfismo]], [[monomorfismo]], [[epimorfismo]], [[Isomorfismo]], [[Endomorfismo]], [[automorfismo]]
 - [[Núcleo]], [[imagen]], [[antiimagen]]
@@ -20,7 +20,7 @@
 - [[Teorema isomorfismo sii existe aplicación inversa]]
 - [[Conjunto cerrado bajo una relación binaria]]
 - [[Subgrupo]]
-- [[Teorema condición necesaria y suficiente de subgrupo]]
+- [[Caracterización de subgrupo]]
 - [[Intersección de subgrupos es subgrupo]]
 - [[Subgrupo generado]]
 - [[Teorema caracterización subgrupo generado]]
@@ -38,7 +38,7 @@
 ### 4. Clases laterales y conteo.
 - [[Congruente por la derecha]], [[Congruente por la izquierda]]
 - [[Propiedades congruencia por la derecha (resp. izquierda)]]
-- [[Clase lateral]]
+- [[Coclase]]
 - [[Propiedades clases laterales]]
 - [[Índice de un subgrupo]]
 - [[Teorema índice entre varios subgrupos]]

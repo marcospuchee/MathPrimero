@@ -1,16 +1,10 @@
 ### Contenido principal
 
-**Fecha:** {{date}}, {{time}}
-
-```ad-formal
-title: Formal definition
+```ad-Formal
 
 ```
 
 **Tema:**
-**Referencias:**
-**Proposiciones:**
-**Teoremas:**
 
 ---
 ### Anki

@@ -1,16 +1,16 @@
 ### Contenido principal
 
-**Fecha:** 2024-07-10, 11:54
-
 ```ad-formal
-title: Formal definition
-Sean $G$ un [[grupo]], $X \subset G, \{H_i \, | \, i \in I\}$ la familia de todos los [[subgrupo]]s de $G$ que contengan a $X$. Entonces, $\displaystyle \bigcap_{i \in I} H_i$ es el subgrupo de $G$ generado por el conjunto $X$, y se denota $\langle X \rangle$. 
+Sea $G$ [[grupo]], $X \subseteq G$. Definimos como subgrupo generado por $X$ a:
+$$\langle X \rangle = \{x_1^{n_1} x_2^{n_2} \dots x_r^{n_r} \, | \, r \in \mathbb N \quad \land \quad \forall 1 \le i \le r, \, x_i \in X, \, n_i \in \mathbb Z \}.$$
+Para el caso particular $r = 0$ convenimos que la cadena vacía es igual a $1_G$. Por simplicidad, para $X_1, X_2, \dots, X_r \subseteq G$, escribimos
+$$\langle X_1, X_2, \dots, X_r \rangle = \langle X_1 \cup X_2 \cup \dots \cup X_r \rangle.$$
 ```
 
-**Tema:** [[Grupos#2. Homomorfismos y subgrupos.]]
-**Referencias:** [[Unión de subgrupos]], [[Grupo cíclico]]
-**Proposiciones:**
-**Teoremas:** [[Teorema caracterización subgrupo generado]]
+^3104ca
+
+**Tema:** [[Teoría de grupos#7. Subgrupo generado.]]
+
 
 ---
 ### Anki
@@ -18,7 +18,9 @@ Sean $G$ un [[grupo]], $X \subset G, \{H_i \, | \, i \in I\}$ la familia de todo
 START
 Básico
 Anverso: Definición de subgrupo generado
-Reverso: Sean $G$ un [[grupo]], $X \subset G, \{H_i \, | \, i \in I\}$ la familia de todos los [[subgrupo]]s de $G$ que contengan a $X$. Entonces, $\displaystyle \bigcap_{i \in I} H_i$ es el subgrupo de $G$ generado por el conjunto $X$, y se denota $\langle X \rangle$.
-Tags: definición hungerford
-<!--ID: 1721211802912-->
+Reverso: Sea $G$ [[grupo]], $X \subseteq G$. Definimos como subgrupo generado por $X$ a:
+$$\langle X \rangle = \{x_1^{n_1} x_2^{n_2} \dots x_r^{n_r} \, | \, r \in \mathbb N \quad \land \quad \forall 1 \le i \le r, \, x_i \in X, \, n_i \in \mathbb Z \}.$$
+Para el caso particular $r = 0$ convenimos que la cadena vacía es igual a $1_G$. Por simplicidad, para $X_1, X_2, \dots, X_r \subseteq G$, escribimos
+$$\langle X_1, X_2, \dots, X_r \rangle = \langle X_1 \cup X_2 \cup \dots \cup X_r \rangle.$$
+<!--ID: 1727966478165-->
 END

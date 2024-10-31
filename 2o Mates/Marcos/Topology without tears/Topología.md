@@ -4,16 +4,13 @@
 
 ```ad-formal
 title: Formal definition
-Sea $X \neq \emptyset$. Decimos que un conjunto $\mathcal T$ de subconjuntos de $X$ es una topología sobre $X$ si
+Dado un conjunto $X$, definimos una topología sobre $X$ como una familia de subconjuntos que cumplen:
 1. $X, \emptyset \in \mathcal T$.
-2. La unión de cualquier (finito o infinito) número de conjuntos en $\mathcal T$ pertenece a $\mathcal T$.
-3. La intersección de dos conjuntos cualesquiera en $\mathcal T$ pertenece a $\mathcal T$.
+2. $A_1, A_2 \in \mathcal T \implies A_1 \cap A_2 \in \mathcal T$.
+3. $\{A_i\}_{i \in I}$ familia de elementos de $\mathcal T$ $\implies \bigcup_{i \in I} \in \mathcal T$.
 ```
 
-**Tema:** [[Espacios topológicos y funciones continuas#1. Espacios topológicos.]]
-**Referencias:** [[Topología discreta]], [[Topología trivial]], [[Topología usual]], [[Topología del límite inferior]], [[K-topología]], [[Topología del orden]], [[Topología producto]]
-**Proposiciones:** [[Lema topología igual a la colección de todas las uniones de la base]]
-**Teoremas:**
+**Tema:** [[2o Mates/201 Topología/Espacios topológicos]]
 
 ---
 ### Anki
@@ -25,6 +22,6 @@ Reverso: Sea $X \neq \emptyset$. Decimos que un conjunto $\mathcal T$ de subconj
 1. $X, \emptyset \in \mathcal T$.
 2. La unión de cualquier (finito o infinito) número de conjuntos en $\mathcal T$ pertenece a $\mathcal T$.
 3. La intersección de dos conjuntos cualesquiera en $\mathcal T$ pertenece a $\mathcal T$.
-Tags: definición top
-<!--ID: 1718723531978-->
+Tags: 
+<!--ID: 1727083427883-->
 END

@@ -4,13 +4,13 @@
 
 ```ad-formal
 title: Formal definition
-Sea $H$ un [[subgrupo]] de $G$. El índice de $H$ en $G$, denotado $[G: H]$, es el cardinal de $\mathfrak R$ (resp. $\mathfrak L$), el conjunto de todas las clases laterales ([[clase lateral]]) por la derecha (resp. izquierda) de $H$ en $G$.
+Sea $G$ un [[grupo]] y $H \le G$. El índice de $H$ en $G$, denotado $|G: H|$ es
+$$|G:H| = |\mathcal R_H| = |\mathcal L_H|.$$
 ```
 
-**Tema:** [[Grupos#4. Clases laterales y conteo.]]
-**Referencias:**
-**Proposiciones:**
-**Teoremas:** [[Teorema índice entre varios subgrupos]]
+^2511f8
+
+**Tema:** [[Teoría de grupos#6. Teorema de Lagrange.]]
 
 ---
 ### Anki
@@ -18,7 +18,7 @@ Sea $H$ un [[subgrupo]] de $G$. El índice de $H$ en $G$, denotado $[G: H]$, es 
 START
 Básico
 Anverso: Definición de índice de un subgrupo
-Reverso: Sea $H$ un [[subgrupo]] de $G$. El índice de $H$ en $G$, denotado $[G: H]$, es el cardinal de $\mathfrak R$ (resp. $\mathfrak L$), el conjunto de todas las clases laterales ([[clase lateral]]) por la derecha (resp. izquierda).
-Tags: definición hungerford
-<!--ID: 1721893777219-->
+Reverso: Sea $G$ un [[grupo]] y $H \le G$. El índice de $H$ en $G$, denotado $|G: H|$ es
+$$|G:H| = |\mathcal R_H| = |\mathcal L_H|.$$
+<!--ID: 1727339263695-->
 END
