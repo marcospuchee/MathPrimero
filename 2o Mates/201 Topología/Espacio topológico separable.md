@@ -4,6 +4,8 @@
 Decimos que $(X, \mathcal T)$ es un [[espacio topológico]] separable si existe un sub[[conjunto denso]] y numerable.
 ```
 
+^46b712
+
 **Tema:** [[Puntos especiales#1. Puntos de adherencia.]]
 
 ---

@@ -28,7 +28,7 @@ Sea $H = \langle a \rangle$.
 START
 Básico
 Anverso: Qué propiedades cumple un elemento de orden infinito?
-Reverso: Sea $G$ un [[grupo]] y $a \in G$. Si $a$ tiene orden infinito ([[orden de un elemento de un grupo]]), entonces:
+Reverso: Sea $G$ un [[Grupo]] y $a \in G$. Si $a$ tiene orden infinito ([[Orden de un elemento de un grupo]]), entonces:
 1. $a^k = e \iff k = 0$.
 2. Los elementos $a^k \, (k \in \mathbb Z)$ son todos distintos.
 Tags: proposición/teorema hungerford

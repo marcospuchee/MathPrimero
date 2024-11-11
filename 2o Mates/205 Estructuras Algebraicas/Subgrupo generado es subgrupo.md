@@ -27,7 +27,7 @@ END
 START
 Básico
 Anverso: Demostración de que sea $G$ un grupo y $X \subseteq G$. Entonces $\langle X \rangle \le G$.
-Reverso: Vamos a utilizar [[caracterización de subgrupo]]:
+Reverso: Vamos a utilizar [[Caracterización de subgrupo]]:
 - Sabemos que $1_G \in \langle X \rangle$ (por ser cadena vacía).
 - Sean $x_1^{n_1} \dots x_r^{n_r}, y_1^{m_1} \dots y_s^{m_s} \in \langle X \rangle$. Entonces, $(x_1^{n_1} \dots x_r^{n_r})(y_1^{m_1} \dots y_s^{m_s})^{-1}$ $=$ $x_1^{n_1} \dots x_r^{n_r} y_s^{-m_s} \dots y_1^{-m_1} \in \langle X \rangle$.
 Tags: dem est

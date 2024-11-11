@@ -4,56 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "10e33981b049c57d",
+        "id": "4aaa4d10a8976c61",
         "type": "tabs",
         "children": [
           {
-            "id": "30de2d3d5174a081",
+            "id": "ba68ae880e6691d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/202 Análisis II/Funciones de varias variables.md",
+                "file": "2o Mates/205 Estructuras Algebraicas/Teoría de anillos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Funciones de varias variables"
-            }
-          },
-          {
-            "id": "8d6651afa8199e54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/201 Topología/Caracterización de punto frontera en espacios métricos (convergencia).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caracterización de punto frontera en espacios métricos (convergencia)"
-            }
-          },
-          {
-            "id": "ad659076f917cc60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/201 Topología/Caracterización de punto frontera en espacios métricos (convergencia).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caracterización de punto frontera en espacios métricos (convergencia)"
+              "title": "Teoría de anillos"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "a3564137c0f3a8b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a53f2fead3edc90d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/205 Estructuras Algebraicas/Propiedades divisores de cero y dominios de integridad.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Propiedades divisores de cero y dominios de integridad"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +93,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Marcadores"
+            }
+          },
+          {
+            "id": "866abe86d90f701a",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           }
         ]
@@ -237,39 +237,42 @@
       "omnisearch:Omnisearch": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "ad659076f917cc60",
+  "active": "ba68ae880e6691d5",
   "lastOpenFiles": [
-    "2o Mates/201 Topología/Puntos especiales.md",
-    "2o Mates/201 Topología/Caracterización de conjunto denso en espacios métricos (convergencia).md",
-    "2o Mates/201 Topología/Caracterización de punto frontera en espacios métricos (convergencia).md",
+    "Todo dominio de integridad en un cuerpo anillo finito es un cuerpo.md",
+    "2o Mates/205 Estructuras Algebraicas/Teoría de anillos.md",
+    "2o Mates/205 Estructuras Algebraicas/Propiedades divisores de cero y dominios de integridad.md",
+    "2o Mates/205 Estructuras Algebraicas/Todo cuerpo es dominio de integridad.md",
+    "2o Mates/205 Estructuras Algebraicas/Cuerpo.md",
+    "2o Mates/205 Estructuras Algebraicas/Anillo de división.md",
+    "2o Mates/205 Estructuras Algebraicas/Propiedades polinomios con divisores de cero y unidades.md",
+    "2o Mates/205 Estructuras Algebraicas/Dominio de integridad.md",
+    "2o Mates/Marcos/Divisor de cero no es unidad.md",
+    "2o Mates/205 Estructuras Algebraicas/Condición suficiente unidades forman grupo.md",
+    "2o Mates/205 Estructuras Algebraicas/Unidad.md",
+    "2o Mates/205 Estructuras Algebraicas/Divisor de cero.md",
+    "2o Mates/205 Estructuras Algebraicas/Suma de polinomios.md",
+    "2o Mates/205 Estructuras Algebraicas/Multiplicación de polinomios.md",
+    "2o Mates/205 Estructuras Algebraicas/Propiedades polinomios.md",
+    "2o Mates/205 Estructuras Algebraicas/Polinomio mónico.md",
+    "2o Mates/205 Estructuras Algebraicas/Grado de un polinomio.md",
+    "Identidad.md",
+    "1ero Mates/1er Cuatri/103 Matemática Básica/Polinomio.md",
+    "2o Mates/205 Estructuras Algebraicas/Condición necesaria y suficiente para la igualdad de identidades.md",
+    "2o Mates/205 Estructuras Algebraicas/Propiedades anillo de matrices.md",
+    "2o Mates/205 Estructuras Algebraicas/Condición suficiente para que el conjunto de matrices sea anillo.md",
+    "2o Mates/205 Estructuras Algebraicas/Anillo de matrices.md",
+    "2o Mates/205 Estructuras Algebraicas/Anillo.md",
+    "2o Mates/205 Estructuras Algebraicas/Anillo con identidad.md",
+    "2o Mates/205 Estructuras Algebraicas/Propiedades anillo.md",
+    "Canvas/Análisis II.canvas",
+    "Canvas/Espacios topológicos.canvas",
     "Canvas/Teoría de grupos (canvas).canvas",
-    "2o Mates/202 Análisis II/Derivada direccional a partir de parciales.md",
-    "2o Mates/202 Análisis II/Diferenciabilidad de funciones de varias variables.md",
-    "2o Mates/202 Análisis II/Funciones de varias variables.md",
     "Análisis II.canvas",
-    "2o Mates/202 Análisis II/Teorema de Weierstrass (R^n).md",
-    "2o Mates/202 Análisis II/Función de varias variables.md",
-    "2o Mates/202 Análisis II/Derivadas de orden superior y extremos relativos.md",
-    "2o Mates/202 Análisis II/Todas las derivadas parciales acotadas implica que la función es lipschitziana.md",
-    "2o Mates/205 Estructuras Algebraicas/3-ciclos (resp. transposiciones de tipo (2,2)) son conjugados y generan An.md",
-    "2o Mates/202 Análisis II/Derivadas parciales nulas implican que la función es constante.md",
-    "2o Mates/202 Análisis II/Corolario teorema de Young.md",
-    "2o Mates/202 Análisis II/Teorema de Young.md",
-    "2o Mates/202 Análisis II/Teorema de Schwarz.md",
-    "2o Mates/201 Topología/Entorno.md",
-    "2o Mates/202 Análisis II/Derivada de orden dos.md",
-    "2o Mates/202 Análisis II/Polinomio de Taylor de orden dos.md",
-    "2o Mates/202 Análisis II/Límite de una función con función que tiende a 0 como epsilon.md",
-    "2o Mates/202 Análisis II/Teorema del valor medio.md",
-    "2o Mates/202 Análisis II/Derivada direccional.md",
-    "2o Mates/202 Análisis II/(ejercicio) Diferenciable implica que existen todas las derivadas direccionales.md",
-    "2o Mates/202 Análisis II/Función diferenciable.md",
-    "2o Mates/202 Análisis II/Caracterización de función diferenciable.md",
-    "2o Mates/202 Análisis II/Condición suficiente de diferenciabilidad.md",
-    "1ero Mates/1er Cuatri/104 Estadística Básica/Intervalo de confianza para la diferencia de dos medias poblacionales relacionadas.md",
     "Teoría de grupos (canvas).canvas",
     "Attachements/Pasted Image 20240219114609_697.png",
     "Attachements/Pasted Image 20240122154438_578.png",

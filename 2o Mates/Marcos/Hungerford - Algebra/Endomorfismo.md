@@ -18,7 +18,7 @@ Un [[homomorfismo]] $f: G \to G$ es un endomorfismo de $G$.
 START
 Básico
 Anverso: Definición de endomorfismo
-Reverso: Un [[homomorfismo]] $f: G \to G$ es un endomorfismo de $G$.
+Reverso: Un [[Homomorfismo]] $f: G \to G$ es un endomorfismo de $G$.
 Tags: definición hungerford
 <!--ID: 1721211803041-->
 END

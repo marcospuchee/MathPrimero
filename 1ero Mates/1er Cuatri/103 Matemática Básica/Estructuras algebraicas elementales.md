@@ -6,6 +6,6 @@
 - [[Anillo conmutativo]]
 - [[Proposiciones de anillos y sus elementos neutros y simétricos]]
 - [[Proposiciones de anillos con más de un elemento y unitarios.]]
-- [[Divisores de cero]]
+- [[Divisor de cero]]
 - [[Cuerpo]]
 - [[Dominio de integridad]]

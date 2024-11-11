@@ -25,7 +25,7 @@ $\subseteq$. Sea $gN \in G/N$. En particular, $g \in G = \langle x \rangle$. Por
 START
 Básico
 Anverso: Qué propiedades respeta el grupo cociente
-Reverso: Sea $G$ un [[grupo]] y $N \unlhd G$.
+Reverso: Sea $G$ un [[Grupo]] y $N \unlhd G$.
 1. Si $G$ es conmutativo, entonces $G/N$ es conmutativo.
 2. Si $G$ es finito, entonces $G/N$ es finito.
 3. Si $G$ es cíclico, entonces $G/N$ es cíclico.
@@ -35,7 +35,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]] y $N \unlhd G$.
+Anverso: Demostración de que sea $G$ un [[Grupo]] y $N \unlhd G$.
 1. Si $G$ es conmutativo, entonces $G/N$ es conmutativo.
 2. Si $G$ es finito, entonces $G/N$ es finito.
 3. Si $G$ es cíclico, entonces $G/N$ es cíclico.

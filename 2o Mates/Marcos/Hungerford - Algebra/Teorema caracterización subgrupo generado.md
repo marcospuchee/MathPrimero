@@ -36,7 +36,7 @@ Veamos ahora que $H = \langle X \rangle$.
 START
 Básico
 Anverso: Cuál es el teorema que da forma a todo subgrupo generado?
-Reverso: Sean $G$ un [[grupo]], $\emptyset \neq X \subset G$. Entonces, el [[subgrupo generado]] por $X$, $\langle X \rangle$, consiste en todos los productos finitos $a_1^{n_1} a_2^{n_2} \dots a_t^{n_t}$ (con $a_i \in X$; $n_i \in \mathbb Z$).
+Reverso: Sean $G$ un [[Grupo]], $\emptyset \neq X \subset G$. Entonces, el [[subgrupo generado]] por $X$, $\langle X \rangle$, consiste en todos los productos finitos $a_1^{n_1} a_2^{n_2} \dots a_t^{n_t}$ (con $a_i \in X$; $n_i \in \mathbb Z$).
 
 En particular, $\forall a \in G, \, \langle a \rangle = \{a^n \, | \, n \in \mathbb Z \}$.
 Tags: proposición/teorema hungerford

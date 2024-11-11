@@ -30,7 +30,7 @@ $\rightarrow$. Supongamos que $\textrm{mcd}(m,k) = r>1$. Sea $m/r = n$. $n \over
 START
 Básico
 Anverso: Cuál es el teorema que da forma a los generadores de un grupo cíclico?
-Reverso: Sea $G = \langle a \rangle$ un [[grupo cíclico]]. Si $G$ es infinito, entonces $a$ y $a^{-1}$ son los únicos generadores de $G$ ([[subgrupo generado]]). Si $G$ es finito de orden $m$, entonces $a^k$ es un generador de $G$ si y sólo si $\textrm{mcd}(k,m) = 1$.
+Reverso: Sea $G = \langle a \rangle$ un [[Grupo cíclico]]. Si $G$ es infinito, entonces $a$ y $a^{-1}$ son los únicos generadores de $G$ ([[subgrupo generado]]). Si $G$ es finito de orden $m$, entonces $a^k$ es un generador de $G$ si y sólo si $\textrm{mcd}(k,m) = 1$.
 Tags: proposición/teorema hungerford
 <!--ID: 1721211802892-->
 END

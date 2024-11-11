@@ -28,7 +28,7 @@ Si tomamos $H = \langle a \rangle$, hemos visto que $|G| = [G:H]|H| = [G:H]|a|$.
 
 START
 Respuesta anidada
-Si $H$ es un [[subgrupo]] de $G$, entonces {{c1::$|G|$}} $=$ {{c2::$[G: H]|H|$}}. En particular, si $G$ es finito, el orden $|a|$ ([[orden de un elemento de un grupo]]) de $a \in G$ divide a $|G|$.
+Si $H$ es un [[subgrupo]] de $G$, entonces {{c1::$|G|$}} $=$ {{c2::$[G: H]|H|$}}. En particular, si $G$ es finito, el orden $|a|$ ([[Orden de un elemento de un grupo]]) de $a \in G$ divide a $|G|$.
 Tags: proposición/teorema hungerford
 <!--ID: 1721893777237-->
 END

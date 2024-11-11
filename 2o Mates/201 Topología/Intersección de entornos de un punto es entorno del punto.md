@@ -2,8 +2,9 @@
 ```ad-proposition
 Sea $(X, \mathcal T)$ [[espacio topológico]], $x \in X$.
 $$U, V \in \mathcal E(x) \implies U \cap V \in \mathcal E(x).$$
-[[entorno]]
 ```
+
+^5549ba
 
 ```ad-proof
 - $U \in \mathcal E(x) \implies \exists A_1 \in \mathcal T : x \in A_1 \subseteq U$.

@@ -18,7 +18,7 @@ Sea $H$ un [[subgrupo]] de un [[grupo]] $G$ y $a,b \in G$. Decimos que $a$ es co
 START
 Básico
 Anverso: Definición de congruencia por la derecha
-Reverso: Sea $H$ un [[subgrupo]] de un [[grupo]] $G$ y $a,b \in G$. Decimos que $a$ es congruente por la derecha con $b$ módulo $H$, denotado $a \equiv_r b \pmod H$ si $ab^{-1} \in H$.
+Reverso: Sea $H$ un [[subgrupo]] de un [[Grupo]] $G$ y $a,b \in G$. Decimos que $a$ es congruente por la derecha con $b$ módulo $H$, denotado $a \equiv_r b \pmod H$ si $ab^{-1} \in H$.
 Tags: definición hungerford
 <!--ID: 1721893777283-->
 END

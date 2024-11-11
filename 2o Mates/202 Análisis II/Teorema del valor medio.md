@@ -7,6 +7,16 @@ $$f(b) - f(a) = \langle \nabla f(c), b-a \rangle.$$
 
 ^d52f8a
 
+```ad-note
+title: Notación
+Dados $a,b \in \mathbb R^n$,
+$$\begin{array}{c}
+[a,b] = \{a+t(b-a): t \in [0,1] \}, \\
+]a,b[ = \{a+t(b-a): t \in ]0,1[ \}.
+\end{array}$$
+```
+
+
 ```ad-proof
 Consideramos $\varphi: [0,1] \to \mathbb R$ con $\varphi(t) = f(a+t(b-a))$, $\forall t \in [0,1]$, $\varphi$ continua en $[0,1]$. Por la [[regla de la cadena (Rn)]], $\varphi$ es derivable en $]0,1[$ y
 $$\varphi'(t) = \langle \nabla f(a+t(b-a)), b-a \rangle.$$

@@ -26,7 +26,7 @@ $$x^k = x^{m \cdot n} = (x^n)^m = 1_G^m = 1_G.$$
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]], $k \in \mathbb Z$ y $x \in G$ con $o(x) = n$ ([[orden de un elemento de un grupo]]). Entonces son equivalentes
+Anverso: Demostración de que sea $G$ un [[Grupo]], $k \in \mathbb Z$ y $x \in G$ con $o(x) = n$ ([[Orden de un elemento de un grupo]]). Entonces son equivalentes
 1. $x^k = 1_G$.
 2. $n | k$.
 Reverso: $\rightarrow$.
@@ -43,7 +43,7 @@ END
 
 START
 Respuesta anidada
-Sea $G$ un [[grupo]], $k \in \mathbb Z$ y $x \in G$ con $o(x) = n$ ([[orden de un elemento de un grupo]]). Entonces son equivalentes
+Sea $G$ un [[Grupo]], $k \in \mathbb Z$ y $x \in G$ con $o(x) = n$ ([[Orden de un elemento de un grupo]]). Entonces son equivalentes
 1. {{c1::$x^k = 1_G$.}}
 2. {{c2::$n | k$.}}
 Tags:

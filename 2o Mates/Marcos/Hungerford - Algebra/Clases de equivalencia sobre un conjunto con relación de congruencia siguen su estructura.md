@@ -37,7 +37,7 @@ Supongamos que $G$ es abeliano, entonces $\forall a,b \in G, \, a \sim b = b \si
 START
 Básico
 Anverso: Teorema que afirma que las clases de equivalencia de un conjunto con una relación de congruencia siguen su estructura.
-Reverso: Sea $R \, (\sim)$ una [[relación de equivalencia]] sobre un [[monoide]] $G$ tal que $a_1 \sim a_2$ y $b_1 \sim b_2$ implica que $a_1 b_1 \sim a_2 b_2$ para todo $a_i, b_i \in G$. Entonces, el conjunto $G/R$ de todas las clases de equivalencia ([[clase de equivalencia]]) de $G$ sobre $R$ es un monoide sobre la [[relación binaria]] definida por $(\overline a)(\overline b) = \overline{ab}$. Si $G$ es un [[grupo]] ([[grupo abeliano]]), también lo será $G/R$.
+Reverso: Sea $R \, (\sim)$ una [[relación de equivalencia]] sobre un [[monoide]] $G$ tal que $a_1 \sim a_2$ y $b_1 \sim b_2$ implica que $a_1 b_1 \sim a_2 b_2$ para todo $a_i, b_i \in G$. Entonces, el conjunto $G/R$ de todas las clases de equivalencia ([[clase de equivalencia]]) de $G$ sobre $R$ es un monoide sobre la [[relación binaria]] definida por $(\overline a)(\overline b) = \overline{ab}$. Si $G$ es un [[Grupo]] ([[grupo abeliano]]), también lo será $G/R$.
 Tags: proposición/teorema hungerford
 <!--ID: 1721211803063-->
 END

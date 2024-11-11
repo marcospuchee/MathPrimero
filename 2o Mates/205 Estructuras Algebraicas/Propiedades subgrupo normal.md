@@ -25,7 +25,7 @@ Sea $G$ un [[grupo]]. Entonces
 START
 Básico
 Anverso: Propiedades de los subgrupos normales
-Reverso: Sea $G$ un [[grupo]]. Entonces
+Reverso: Sea $G$ un [[Grupo]]. Entonces
 1. $A \unlhd G \land H \le G \implies AH \le G$.
 2. $A,B \unlhd G \implies AB \unlhd G$.
 3. $A,B \unlhd G \implies A \cap B \unlhd G$.
@@ -36,7 +36,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]]. Entonces
+Anverso: Demostración de que sea $G$ un [[Grupo]]. Entonces
 1. $A \unlhd G \land H \le G \implies AH \le G$.
 2. $A,B \unlhd G \implies AB \unlhd G$.
 3. $A,B \unlhd G \implies A \cap B \unlhd G$.

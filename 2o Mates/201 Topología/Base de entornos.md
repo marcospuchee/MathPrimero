@@ -6,6 +6,8 @@ Sea $(X, \mathcal T)$ [[espacio topológico]], $x \in X$. Llamamos base de [[ent
 2. $\forall U \in \mathcal E(x), \, \exists B \in \mathcal B(x)$ tal que $B \subseteq U$.
 ```
 
+^2a2861
+
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos|Espacios topológicos]]
 
 ---

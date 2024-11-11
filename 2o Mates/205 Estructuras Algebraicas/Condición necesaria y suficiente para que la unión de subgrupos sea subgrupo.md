@@ -27,7 +27,7 @@ Supongamos que $H \not \subseteq K$, veamos que $K \subseteq H$. Sea $k \in K$. 
 START
 Básico
 Anverso: Condición necesaria y suficiente para que la unión de subgrupos sea subgrupo
-Reverso: Sea $G$ uh [[grupo]] y $H,K \le G$ ([[subgrupo]]). Entonces son equivalentes:
+Reverso: Sea $G$ uh [[Grupo]] y $H,K \le G$ ([[subgrupo]]). Entonces son equivalentes:
 1. $H \cup K \le G$.
 2. $K \subseteq H \lor H \subseteq K$.
 <!--ID: 1727339263735-->
@@ -35,7 +35,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $G$ uh [[grupo]] y $H,K \le G$ ([[subgrupo]]). Entonces son equivalentes:
+Anverso: Demostración de que sea $G$ uh [[Grupo]] y $H,K \le G$ ([[subgrupo]]). Entonces son equivalentes:
 1. $H \cup K \le G$.
 2. $K \subseteq H \lor H \subseteq K$.
 Reverso: $\leftarrow$. $K \subseteq H \implies H \cup K = H \le G$, $\quad H \subseteq K \implies H \cup K = K \le G$.

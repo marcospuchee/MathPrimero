@@ -38,7 +38,7 @@ donde la última igualdad se deriva de [[propiedades orden grupos cíclicos]]. Q
 START
 Básico
 Anverso: Cuál es el teorema de unicidad de grupos cíclicos
-Reverso: Si $G$ y $H$ son grupos cíclicos ([[grupo cíclico]]) con $|G| = |H|$, entonces $G \cong H$. Específicamente:
+Reverso: Si $G$ y $H$ son grupos cíclicos ([[Grupo cíclico]]) con $|G| = |H|$, entonces $G \cong H$. Específicamente:
 1. Si $\langle x \rangle$ es un grupo cíclico infinito, entonces la aplicación
 $$\begin{matrix}
 \textrm{exp} : & (\mathbb Z, +) & \to & (\langle x \rangle, \cdot) \\
@@ -58,7 +58,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que si $G$ y $H$ son grupos cíclicos ([[grupo cíclico]]) con $|G| = |H|$, entonces $G \cong H$. Específicamente:
+Anverso: Demostración de que si $G$ y $H$ son grupos cíclicos ([[Grupo cíclico]]) con $|G| = |H|$, entonces $G \cong H$. Específicamente:
 1. Si $\langle x \rangle$ es un grupo cíclico infinito, entonces la aplicación
 $$\begin{matrix}
 \textrm{exp} : & (\mathbb Z, +) & \to & (\langle x \rangle, \cdot) \\

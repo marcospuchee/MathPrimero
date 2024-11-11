@@ -27,7 +27,7 @@ Por [[exponente de un elemento de un grupo es neutro sii su orden divide al expo
 
 START
 Básico
-Anverso: Sea $G$ un [[grupo]], $k \in \mathbb Z^+$ y $x \in G$ con $o(x) = n$. Cuánto es $o(x^k)$?
+Anverso: Sea $G$ un [[Grupo]], $k \in \mathbb Z^+$ y $x \in G$ con $o(x) = n$. Cuánto es $o(x^k)$?
 Reverso:
 $$o(x^k) = \frac{n}{\textrm{mcd}(n,k)}.$$
 Tags:
@@ -36,7 +36,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]], $k \in \mathbb Z^+$ y $x \in G$ con $o(x) = n$ ([[orden de un elemento de un grupo]]). Entonces,
+Anverso: Demostración de que sea $G$ un [[Grupo]], $k \in \mathbb Z^+$ y $x \in G$ con $o(x) = n$ ([[Orden de un elemento de un grupo]]). Entonces,
 $$o(x^k) = \frac{n}{\textrm{mcd}(n,k)}.$$
 Reverso: Vamos a denotar primero $o(x) = n$, $o(x^k) = m$, $\textrm{mcd}(n,k) = d$. Queremos ver que $m = \frac{n}{d}$.
 

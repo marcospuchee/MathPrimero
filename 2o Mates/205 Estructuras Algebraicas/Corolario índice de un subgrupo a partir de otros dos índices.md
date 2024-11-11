@@ -19,7 +19,7 @@ $$|G:H| = \frac{|G|}{|H|} = \frac{|G|}{|K|} \cdot \frac{|K|}{|H|} = |G:K| |K:H|.
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]] finito y $H \le K \le G$. Entonces,
+Anverso: Demostración de que sea $G$ un [[Grupo]] finito y $H \le K \le G$. Entonces,
 $$|G:H| = |G:K||K:H|.$$
 Reverso: Por el [[Teorema de Lagrange (cardinal de un grupo)]],
 $$|G:H| = \frac{|G|}{|H|} = \frac{|G|}{|K|} \cdot \frac{|K|}{|H|} = |G:K| |K:H|.$$

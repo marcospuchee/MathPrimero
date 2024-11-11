@@ -29,7 +29,7 @@ Si $f(a) = f(b)$, entonces $f(a)(f(b))^{-1} = e_H = f(a)f(b^{-1}) = f(ab^{-1})$.
 
 START
 Respuesta anidada
-Sea $f: G \to H$ un [[homomorfismo]] de [[grupo]]s. Entonces, {{c1::$f$ es un [[monomorfismo]]}} si y sólo si {{c2::$\ker f = \{e\}$.}}
+Sea $f: G \to H$ un [[Homomorfismo]] de [[Grupo]]s. Entonces, {{c1::$f$ es un [[monomorfismo]]}} si y sólo si {{c2::$\ker f = \{e\}$.}}
 Tags: proposición/teorema hungerford
 <!--ID: 1721211802880-->
 END

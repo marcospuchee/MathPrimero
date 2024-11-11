@@ -35,7 +35,7 @@ Sea $H = \langle a \rangle$.
 START
 Básico
 Anverso: Qué propiedades cumple un elemento de orden finito?
-Reverso: Sea $G$ un [[grupo]] y $a \in G$ un elemento de orden finito $m > 0$ ([[orden de un elemento de un grupo]]). Entonces,
+Reverso: Sea $G$ un [[Grupo]] y $a \in G$ un elemento de orden finito $m > 0$ ([[Orden de un elemento de un grupo]]). Entonces,
 1. $m$ es el menor entero positivo tal que $a^m = e$.
 2. $a^k = e \iff m | k$.
 3. $a^r = a^s \iff r \equiv s \pmod m$.

@@ -4,6 +4,8 @@
 $(X, \mathcal T)$ [[espacio topológico]] cumple el segundo axioma de numerabilidad $(2 \textrm{ AN})$ si existe una [[base de abiertos]] numerable.
 ```
 
+^c81f99
+
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos|Espacios topológicos]]
 
 ---

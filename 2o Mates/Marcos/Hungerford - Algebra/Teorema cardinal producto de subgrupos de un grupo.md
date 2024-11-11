@@ -33,7 +33,7 @@ lo que nos lleva a que $|HK| = |H|n = |H||K| / |H \cap K|$.
 
 START
 Respuesta anidada
-Sea $H, K \subset G$ finitos, donde $G$ es un [[grupo]]. Entonces, {{c1::$|HK|$}}  $=$ {{c2::$|H||K|\textrm{/}|H \cap K|$}}; donde $HK = \{ab \, | \, a \in H, \, b \in K\}$
+Sea $H, K \subset G$ finitos, donde $G$ es un [[Grupo]]. Entonces, {{c1::$|HK|$}}  $=$ {{c2::$|H||K|\textrm{/}|H \cap K|$}}; donde $HK = \{ab \, | \, a \in H, \, b \in K\}$
 Tags: proposición/teorema hungerford
 <!--ID: 1721893777179-->
 END

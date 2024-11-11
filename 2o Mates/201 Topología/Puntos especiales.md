@@ -14,7 +14,7 @@
 ### 2. Puntos frontera.
 - [[Frontera topológica]].
 Como la frontera topológica es un subconjunto de la adherencia, cumple las proposiciones de la adherencia.
-### 3. Puntos interiores.
+### 3. Puntos interiores. 
 - [[Punto interior]]
 - [[Caracterización de interior (definición alternativa)]]
 - [[Caracterización de frontera (definición alternativa)]]

@@ -56,7 +56,7 @@ $$\begin{eqnarray}
 \sigma \circ \tau^{-1} &=& (t_1 \circ \dots \circ t_{2r}) \circ (t_1' \circ \dots t_{2s}')^{-1} = t_1 \circ \dots \circ t_{2r} \circ (t_{2s}')^{-1} \circ \dots \circ (t_1')^{-1} \\
 &=& t_1 \circ \dots \circ t_{2r} \circ t_{2s}' \circ \dots \circ t_1' \in A_n
 \end{eqnarray}$$
-Luego por la [[caracterización de subgrupo]], $\sigma \circ \tau^{-1} \in A_n$.
+Luego por la [[Caracterización de subgrupo]], $\sigma \circ \tau^{-1} \in A_n$.
 
 Veamos ahora que $|S_n : A_n| = 2$. Sea $t \in S_n$ una transposición. Demostramos que $\mathcal L_{A_n} = \{A_n, tA_n \}$. En particular, demostramos que $tA_n = S_n \textrm{\\} A_n = \{\textrm{impares} \}$.
 $\subseteq$. Evidente.

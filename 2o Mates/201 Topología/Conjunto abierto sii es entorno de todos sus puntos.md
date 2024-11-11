@@ -5,6 +5,8 @@ Sea $(X, \mathcal T)$ [[espacio topológico]],
 $$A \in \mathcal T \iff A \in \mathcal E(x) \quad \forall x \in A.$$
 ```
 
+^f73a10
+
 ```ad-proof
 $\rightarrow$. Sup. $A \in \mathcal T$. Entonces, $x \in A \subseteq A$. Por tanto, $A \in \mathcal E(x), \, \forall x \in A$.
 

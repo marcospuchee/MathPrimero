@@ -6,6 +6,8 @@ Sean $(X, \mathcal T)$ [[espacio topológico]], $S \subseteq X$, $x \in X$ y $\m
 $$x \in \textrm{ad}(S) \iff \forall B \in \mathcal B(x), \, B \cap S \neq \emptyset.$$
 ```
 
+^8052f2
+
 ```ad-note
 Notemos que si $(X, d)$ [[espacio métrico]] y $S \subseteq X$. Entonces,
 $$x \in \textrm{ad}(S) \iff \forall \varepsilon >0 \quad B(x; \varepsilon) \cap S \neq \emptyset.$$

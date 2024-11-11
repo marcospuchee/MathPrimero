@@ -20,7 +20,7 @@ Sea $G$ un [[grupo]] y $H \subseteq G$. Diremos que $H$ es un subgrupo de $G$, d
 START
 Básico
 Anverso: Definición de subgrupo
-Reverso: Sea $G$ un [[grupo]] y $H \subseteq G$. Diremos que $H$ es un subgrupo de $G$, denotado $H \le G$, si
+Reverso: Sea $G$ un [[Grupo]] y $H \subseteq G$. Diremos que $H$ es un subgrupo de $G$, denotado $H \le G$, si
 1. $H \neq \emptyset$.
 2. $\forall x,y \in H$, $xy \in H$.
 3. $\forall x \in H, x^{-1} \in H$.

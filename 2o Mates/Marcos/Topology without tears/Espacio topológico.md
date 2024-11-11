@@ -4,6 +4,8 @@
 Un espacio topológico es un par $(X, \mathcal T)$ donde $X$ es un conjunto y $\mathcal T$ una [[topología]]
 ```
 
+^024af2
+
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos]]
 
 ---

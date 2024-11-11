@@ -3,11 +3,14 @@
 ```ad-cor
 Sean $(X, d)$ [[espacio métrico]], $S \subseteq X$. Entonces,
 $$x \in \textrm{fr}(S) \iff \exists \{x_n\}_{n = 1}^\infty \subseteq S, \, \exists \{y_n\}_{n = 1}^\infty \subseteq X \textrm{\\}S : \{x_n\} \to x \leftarrow \{y_n\}.$$
+
+
 ```
 
 ```ad-proof
 Corolario de [[caracterización de punto de adherencia en espacios métricos (convergencia)]]
 ```
+
 
 **Tema:** [[Puntos especiales#4. Caracterización de adherencia por sucesiones]]
 

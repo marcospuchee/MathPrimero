@@ -12,5 +12,8 @@
 
 **Tema:**
 
+**Definiciones referenciadas:**
+**Resultados referenciados:**
+
 ---
 ### Anki

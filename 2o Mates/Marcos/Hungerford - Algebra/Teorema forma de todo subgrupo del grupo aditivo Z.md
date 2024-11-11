@@ -26,7 +26,7 @@ Si $H = \langle m \rangle = \{nm \, | \, n \in \mathbb Z\}$, está claro que es 
 START
 Básico
 Anverso: Teorema forma de todo subgrupo del grupo aditivo $\mathbb Z$.
-Reverso: Todo [[subgrupo]] $H$ de $\mathbb Z$ (grupo aditivo) es cíclico ([[grupo cíclico]]). O $H = \langle 0 \rangle$ o $H = \langle m \rangle$ donde $m$ es el menor entero positivo en $H$. Si $H \neq \langle 0 \rangle$, entonces $H$ es infinito.
+Reverso: Todo [[subgrupo]] $H$ de $\mathbb Z$ (grupo aditivo) es cíclico ([[Grupo cíclico]]). O $H = \langle 0 \rangle$ o $H = \langle m \rangle$ donde $m$ es el menor entero positivo en $H$. Si $H \neq \langle 0 \rangle$, entonces $H$ es infinito.
 Tags: proposición/teorema hungerford
 <!--ID: 1721894510878-->
 END

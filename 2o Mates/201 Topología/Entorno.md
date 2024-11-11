@@ -6,6 +6,8 @@ Sea $(X,d)$ [[espacio métrico]], $x \in U \subseteq X$. Decimos que $U$ es ento
 Notación: $U \in \mathcal E(x)$.
 ```
 
+^d1ebde
+
 **Tema:** [[Espacios métricos]]
 
 ---
@@ -14,6 +16,8 @@ Notación: $U \in \mathcal E(x)$.
 ```ad-Formal
 $(X, \mathcal T)$ [[espacio topológico]], $U \subseteq X$ es entorno de $x \in X$ si $\exists A \in \mathcal T$ tal que $x \in A \subseteq U$. El conjunto de todos los entornos es $\mathcal E(x)$.
 ```
+
+^5ea904
 
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos|Espacios topológicos]]
 

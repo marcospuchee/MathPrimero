@@ -4,6 +4,8 @@
 Sean $(X, \mathcal T)$ [[espacio topológico]], $S \subseteq X$. $x \in S$ es punto aislado si $\exists U \in \mathcal E(x)$ tal que $U \cap S = \{x\}$.
 ```
 
+^264630
+
 **Tema:** [[Puntos especiales#1. Puntos de adherencia.]]
 
 ---

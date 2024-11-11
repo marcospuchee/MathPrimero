@@ -25,7 +25,7 @@ Para ver que es biyectiva, basta con recordar que $\alpha_g = L_g \circ R_{g^{-1
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]] y $g \in G$. Entonces la aplicación
+Anverso: Demostración de que sea $G$ un [[Grupo]] y $g \in G$. Entonces la aplicación
 $$\begin{matrix}
 \alpha_g: & G & \to & G \\
 & x & \to & gxg^{-1}

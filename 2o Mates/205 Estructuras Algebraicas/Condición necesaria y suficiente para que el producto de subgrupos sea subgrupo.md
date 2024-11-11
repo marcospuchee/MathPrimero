@@ -24,7 +24,7 @@ $(ii) \implies (i)$. Supongamos que $HK = KH$. Veamos que $HK \le G$
 START
 Básico
 Anverso: Condición necesaria y suficiente para que el producto de subgrupos sea subgrupo
-Reverso: Sea $G$ un [[grupo]] y $H, K \le G$. Entonces son equivalentes:
+Reverso: Sea $G$ un [[Grupo]] y $H, K \le G$. Entonces son equivalentes:
 1. $HK \le G$.
 2. $HK = KH$.
 <!--ID: 1727339263726-->
@@ -32,7 +32,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]] y $H, K \le G$. Entonces son equivalentes:
+Anverso: Demostración de que sea $G$ un [[Grupo]] y $H, K \le G$. Entonces son equivalentes:
 1. $HK \le G$.
 2. $HK = KH$.
 Reverso: $(i) \implies (ii)$. Supongamos que $HK \le G$. Veamos que $HK = KH$. Sabemos que $HK = (HK)^{-1} = K^{-1}H^{-1} = KH$.

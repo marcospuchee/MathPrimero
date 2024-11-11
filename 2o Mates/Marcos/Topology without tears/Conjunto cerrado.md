@@ -14,6 +14,8 @@ title: Formal definition
 Sea $(X, \mathcal T)$ un [[espacio topológico]]. Decimos que $S \subset X$ es un conjunto cerrado en $(X, \mathcal T)$ si su complemento en $X$, $X \textrm{\\} S$, es [[conjunto abierto]] en $(X, \mathcal T)$.
 ```
 
+^f428d3
+
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos]]
 
 ---

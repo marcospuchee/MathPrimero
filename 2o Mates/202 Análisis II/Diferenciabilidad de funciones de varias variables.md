@@ -17,7 +17,7 @@
 - [[Función de clase C1]]
 ### 5. Regla de la cadena.
 - [[Regla de la cadena (Rn)]]
-### 6. Teorema del valor medio.
+### 6. Teorema del valor medio. 
 - [[Teorema del valor medio]]
 - [[Todas las derivadas parciales acotadas implica que la función es lipschitziana]]
 - [[Derivadas parciales nulas implican que la función es constante]]

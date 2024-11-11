@@ -37,7 +37,7 @@ Podemos suponer por reducción al absurdo que el elemento identidad no es único
 START
 Básico
 Anverso: Qué propiedades cumplen los grupos?
-Reverso: Si $G$ es un [[monoide]], entonces el elemento identidad $e$ es único. Si $G$ es un [[grupo]], entonces
+Reverso: Si $G$ es un [[monoide]], entonces el elemento identidad $e$ es único. Si $G$ es un [[Grupo]], entonces
 1. $c \in G$ y $cc = c \implies c = e$.
 2. $\forall a, b, c \in G, \, ab = ac \implies b = c$ y $ba = ca \implies b = c$.
 3. Para cada $a \in G$, el elemento inverso $a^{-1}$ es único.

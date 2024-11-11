@@ -28,14 +28,14 @@ $$|G| = n|H| = |H||G:H|.$$
 START
 Básico
 Anverso: Teorema de Lagrange sobre el cardinal de un grupo a partir del subíndice de un subgrupo suyo
-Reverso: Sea $G$ un [[grupo]] finito y $H \le G$. Entonces
+Reverso: Sea $G$ un [[Grupo]] finito y $H \le G$. Entonces
 $$|G| = |H||G: H|.$$
 <!--ID: 1727339263707-->
 END
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]] finito y $H \le G$. Entonces
+Anverso: Demostración de que sea $G$ un [[Grupo]] finito y $H \le G$. Entonces
 $$|G| = |H||G: H|.$$
 Reverso: Como $G = \bigcup_{x \in G} \{x\}$, $\mathcal L_H$ es una partición, $G$ finito, entonces podemos definir $\mathcal L_H = \{x_1H_1, x_2H_2, \dots, x_nH_n\}$, donde $n = |\mathcal L_H| = |G:H|$ porque $G$ finito.
 

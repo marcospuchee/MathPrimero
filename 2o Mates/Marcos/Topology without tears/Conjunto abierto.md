@@ -5,6 +5,8 @@ title: Formal definition
 Sea $(X,d)$ [[espacio métrico]]. $A \subset X$ es abierto si $\forall x \in A$ $\exists \varepsilon > 0$ tal que $B(x;\varepsilon) \le A$.
 ```
 
+^3ba8b6
+
 **Tema:** [[Espacios métricos]]
 
 ---
@@ -16,6 +18,8 @@ Sea $(X,d)$ [[espacio métrico]]. $A \subset X$ es abierto si $\forall x \in A$ 
 title: Formal definition
 Sea $(X, \mathcal T)$ un [[espacio topológico]]. Definimos conjunto abierto de $X$ a cualquier elemento de $\mathcal T$.
 ```
+
+^573dfe
 
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos]]
 

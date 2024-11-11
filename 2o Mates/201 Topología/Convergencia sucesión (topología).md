@@ -1,4 +1,4 @@
-### Contenido principal
+ ### Contenido principal
 
 ```ad-Formal
 Sean $(X, \mathcal T)$ un [[espacio topológico]], $\{x_n \}_{n = 1}^\infty$ una sucesión de puntos de $X$. Decimos que $\{x_n\}_{n = 1}^\infty$ converge a $x$ si $\forall U \in \mathcal E(x)$, $\exists n_0$ tal que $x_n \in U$, $\forall n>n_0$.

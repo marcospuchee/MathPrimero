@@ -22,7 +22,7 @@ $$f(g) \in H \implies f(^gx) = f(gxg^{-1}) = f(g) f(x) f(g)^{-1} = {}^{f(g)}f(x)
 START
 Básico
 Anverso: Cuánto respeta un homomorfismo la normalidad entre grupos?
-Reverso: Sea $f: G \to H$ un [[homomorfismo]]. Entonces 
+Reverso: Sea $f: G \to H$ un [[Homomorfismo]]. Entonces 
 1. $M \unlhd H \implies f^{-1}(M) \unlhd G$.
 2. Si $f$ es sobreyectiva y $N \unlhd G$, entonces $f(N) \unlhd H$.
 Tags: est

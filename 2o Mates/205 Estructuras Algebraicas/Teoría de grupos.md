@@ -83,3 +83,14 @@
 - [[Primer teorema de isomorfía]]
 - [[Segundo teorema de isomorfía]]
 - [[Tercer teorema de isomorfía]]
+### 16. Teorema de correspondencia.
+- [[Teorema de correspondencia]]
+### 17. Los grupos $\textrm{Aut}(G)$ e $\textrm{Int}(G)$.
+- [$\textrm{Aut}(G)$](Grupo de automorfismos), [$\textrm{Int}(G)$](Grupo de automorfismos internos)
+- [$(\textrm{Aut}(G), \circ)$ es grupo](Grupo de automorfismos es grupo), [$\textrm{Aut}(G) \le S_G$](Grupo de automorfismos es grupo)
+- [$\textrm{Int}(G) \unlhd \textrm{Aut}(G)$](Grupo de automorfismos internos es normal al grupo de automorfismos)
+- [$G/Z(G) \cong \textrm{Int}(G)$](Grupo cociente con el centro es isomorfo a grupo de automorfismos internos)
+- [$H \textrm{ car } G$](Subgrupo característico)
+- [$Z(G) \textrm{ car } G$](Centro característico)
+- [Propiedades $\textrm{car}$](Propiedades subgrupo característico)
+- [$\forall n \ge 2, \, \, A_n \textrm{ car } S_n$](Grupo alternado característico en permutaciones)

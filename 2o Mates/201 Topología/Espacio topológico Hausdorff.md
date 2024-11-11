@@ -6,6 +6,8 @@ Decimos que un [[espacio topológico]] $(X, \mathcal T)$ es Hausdorff o $T_2$ si
 $\forall x \neq y \in X$, es equivalente decir que $\exists A \in \mathcal T, x \in A, \exists B \in \mathcal T, y \in B$ tales que $A \cap B = \emptyset$.
 ```
 
+^e9bcc0
+
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos|Espacios topológicos]]
 
 ---

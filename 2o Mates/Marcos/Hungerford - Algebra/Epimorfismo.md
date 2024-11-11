@@ -18,7 +18,7 @@ Si un [[homomorfismo]] es sobreyectivo ([[aplicaciones inyectivas, sobreyectivas
 START
 Básico
 Anverso: Definición de epimorfismo
-Reverso: Si un [[homomorfismo]] es sobreyectivo ([[aplicaciones inyectivas, sobreyectivas y biyectivas]]) como función de conjuntos, entonces se dice que es un epimorfismo.
+Reverso: Si un [[Homomorfismo]] es sobreyectivo ([[aplicaciones inyectivas, sobreyectivas y biyectivas]]) como función de conjuntos, entonces se dice que es un epimorfismo.
 Tags: definición hungerford
 <!--ID: 1721211803030-->
 END

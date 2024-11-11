@@ -14,7 +14,7 @@ Sea $G$ un [[grupo]]. Diremos que $G$ es simple si no tiene subgrupos normales p
 START
 Básico
 Anverso: Definición de grupo simple
-Reverso: Sea $G$ un [[grupo]]. Diremos que $G$ es simple si no tiene subgrupos normales propios. Esto es, si los únicos subgrupos normales son $\{1_G \}$ y $G$.
+Reverso: Sea $G$ un [[Grupo]]. Diremos que $G$ es simple si no tiene subgrupos normales propios. Esto es, si los únicos subgrupos normales son $\{1_G \}$ y $G$.
 Tags: est
 <!--ID: 1730228001546-->
 END

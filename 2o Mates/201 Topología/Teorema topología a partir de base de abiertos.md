@@ -8,6 +8,8 @@ Sea $X$ conjunto y $\mathcal B$ familia de subconjuntos que cumple
 Entonces $\mathcal T_B = \{A \subseteq X : \, \forall x \in A \quad \exists B \in \mathcal B : x \in B \subseteq A \}$ es una [[topología]] en $X$. Además, $\mathcal B$ es base de abiertos de $\mathcal T_B$.
 ```
 
+^73426e
+
 ```ad-note
 Para definir una topología es suficiente con dar una familia de subconjuntos que cumple B1 y B2.
 ```

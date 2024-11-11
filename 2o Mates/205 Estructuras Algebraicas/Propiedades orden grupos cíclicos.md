@@ -27,7 +27,7 @@ $$x^i = (x^n)^c \cdot x^r = x^r \in \{1_G, x, \dots, x^{n-1}\}.$$
 START
 Básico
 Anverso: Qué propiedades cumple todo grupo cíclico respecto a su cardinal?
-Reverso: Sea $G$ un [[grupo]] y $x \in G$. Entonces $|\langle x \rangle | = o(x)$. Específicamente:
+Reverso: Sea $G$ un [[Grupo]] y $x \in G$. Entonces $|\langle x \rangle | = o(x)$. Específicamente:
 1. Si $o(x)$ es infinito, entonces, $\forall i \neq j$, $x^i \neq x^j$.
 2. Si $o(x) = n$ finito, entonces $\langle x \rangle = \{1_G, x, x^2, \dots, x^{n-1} \}$.
 <!--ID: 1727966477083-->
@@ -35,7 +35,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]] y $x \in G$. Entonces $|\langle x \rangle | = o(x)$. Específicamente:
+Anverso: Demostración de que sea $G$ un [[Grupo]] y $x \in G$. Entonces $|\langle x \rangle | = o(x)$. Específicamente:
 1. Si $o(x)$ es infinito, entonces, $\forall i \neq j$, $x^i \neq x^j$.
 2. Si $o(x) = n$ finito, entonces $\langle x \rangle = \{1_G, x, x^2, \dots, x^{n-1} \}$.
 Reverso: 

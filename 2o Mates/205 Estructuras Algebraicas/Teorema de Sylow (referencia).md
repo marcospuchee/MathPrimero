@@ -1,0 +1,9 @@
+- [[Teorema de Cauchy generalizado]]
+- [$p$-subgrupo](p-subgrupo de Sylow), [$\textrm{Syl} \\_ p(G)$](p-subgrupo de Sylow)
+- [$n_p(G)$](p-subgrupo de Sylow)
+-  [$|G| = p^k m$ donde $p \in \mathbb P$ y $p \nmid m \implies \textrm{Syl} \\_ p(G) \neq \emptyset$](Corolario teorema de Cauchy generalizado)
+- [Los $p$-subgrupos de Sylow son $p$-subgrupos maximales](Los p-subgrupos de Sylow son p-subgrupos maximales)
+- [$|G| = p^km$, $p \in \mathbb P : p \nmid m$, $S \in \textrm{Syl} \\_ p(G) : S \unlhd G \implies S$ es el único $p$-subgrupo de $G$](Condición suficiente para la unicidad de los p-subgrupos de Sylow de un grupo)
+- [[Teorema de Sylow]]
+- [$\textrm{Syl} \\_ p(G) = \{S\} \iff S \unlhd G$](Corolario 1 teorema de sylow)
+- [$\textrm{Syl} \\_ p (G) = \{S\} \iff S \textrm{ car } G$](Corolario 2 teorema de Sylow)

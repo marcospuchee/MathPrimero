@@ -24,7 +24,7 @@ Por tanto, $xy^{-1} \in \textrm{Ker}f = \{1_G\} \implies xy^{-1} = 1_G \implies 
 START
 Básico
 Anverso: Caracterización de homomorfismo inyectivo
-Reverso: Sea $f: G \to H$ un [[homomorfismo]]. Entonces son equivalentes
+Reverso: Sea $f: G \to H$ un [[Homomorfismo]]. Entonces son equivalentes
 1. $\textrm{Ker}(f) = \{1_G\}$.
 2. $f$ es inyectiva.
 Tags: est
@@ -33,7 +33,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $f: G \to H$ un [[homomorfismo]]. Entonces son equivalentes
+Anverso: Demostración de que sea $f: G \to H$ un [[Homomorfismo]]. Entonces son equivalentes
 1. $\textrm{Ker}(f) = \{1_G\}$.
 2. $f$ es inyectiva.
 Reverso: 

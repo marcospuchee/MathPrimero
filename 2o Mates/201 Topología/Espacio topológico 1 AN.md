@@ -4,6 +4,8 @@
 Un [[espacio topológico]] $(X, \mathcal T)$ cumple el primer axioma de numerabilidad ($\textrm{1 AN}$) si $\forall x \in X$, $\exists \mathcal B(x)$ ([[base de entornos]]) numerable.
 ```
 
+^7cf8b0
+
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos|Espacios topológicos]]
 
 ---

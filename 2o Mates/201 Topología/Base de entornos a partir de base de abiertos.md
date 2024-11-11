@@ -4,6 +4,8 @@
 Sea $(X, \mathcal T)$ [[espacio topológico]], $\mathcal B$ [[base de abiertos]]. $\forall x \in X$, $\mathcal B (x) = \{B \in \mathcal B : x \in B \}$ es [[base de entornos]] de $x$.
 ```
 
+^816888
+
 ```ad-note
 $\textrm{2 AN}$ ([[espacio topológico 2 AN]]) $\implies$ $\textrm{ 1 AN}$ ([[espacio topológico 1 AN]]).
 ```

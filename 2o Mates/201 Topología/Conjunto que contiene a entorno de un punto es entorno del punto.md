@@ -4,6 +4,8 @@
 Sea $(X, \mathcal T)$ [[espacio topológico]], $x \in X$. Si $U \in \mathcal E (x)$ ([[entorno]]) y $U \subseteq V$, entonces $V \in \mathcal E(x)$.
 ```
 
+^1202a2
+
 ```ad-proof
 $U \in \mathcal E(x) \implies \exists A \in \mathcal T$ tal que $x \in A \subseteq U \subseteq V$ $\implies$ $\exists A \in \mathcal T$ tal que $x \in A \subseteq V$ $\implies$ $V \in \mathcal E(x)$:
 ```

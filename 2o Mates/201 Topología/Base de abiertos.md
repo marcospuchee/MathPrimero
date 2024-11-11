@@ -7,6 +7,8 @@ En particular,
 $$\mathcal T = \{\bigcup_{i \in I} B_i : \{B_i\}_{i \in I} \subseteq \mathcal T \} \cup \{ \emptyset \}.$$
 ```
 
+^a68f29
+
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos|Espacios topológicos]]
 
 ---

@@ -9,8 +9,8 @@
 - [[Proposición producto de matrices elementales de tipo III]]
 - [[Producto de inversas de matrices elementales de tipo III]]
 ### 3. Matrices especiales y propiedades de la descomposición LU.
-- Propiedades de las matrices triangulares
-- Propiedades de la descomposición LU
+- [[Propiedades de las matrices triangulares]]
+- [[Propiedades de la descomposición LU]]
 - [[Matrices diagonalmente dominantes]]
 - [[Matriz EDDC o EDDF implica todo elemento en la diagonal es no nulo]]
 - [[Matriz regular que admite descomposición LU impica que la descomposición es única]]

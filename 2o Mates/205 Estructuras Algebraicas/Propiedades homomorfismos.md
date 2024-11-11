@@ -31,7 +31,7 @@ $$f(\langle x \rangle) = \{f(x^n) : n \in \mathbb Z \} = \{f(x)^n : n \in \mathb
 START
 Básico
 Anverso: Propiedades de los homomorfismos
-Reverso: Sea $f: G \to H$ un [[homomorfismo]]. Entonces
+Reverso: Sea $f: G \to H$ un [[Homomorfismo]]. Entonces
 1. $f(1_G) = 1_H$.
 2. $\forall x \in G$, $\quad f(x^{-1}) = f(x)^{-1}$.
 3. $\forall x \in G, n \in \mathbb Z, \quad f(x^n) = f(x)^n$. En particular,
@@ -42,7 +42,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $f: G \to H$ un [[homomorfismo]]. Entonces
+Anverso: Demostración de que sea $f: G \to H$ un [[Homomorfismo]]. Entonces
 1. $f(1_G) = 1_H$.
 2. $\forall x \in G$, $\quad f(x^{-1}) = f(x)^{-1}$.
 3. $\forall x \in G, n \in \mathbb Z, \quad f(x^n) = f(x)^n$. En particular,

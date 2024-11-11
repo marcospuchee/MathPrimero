@@ -37,7 +37,7 @@ Básico
 Anverso: Cuál es el orden de un $r$-ciclo
 Reverso: Sea $(a_1, a_2, \dots, a_r)$ ([[r-ciclo]]) $\in S_X$. Entonces, $\forall 1 \le i \le r-1$,
 $$(a_1, a_2, \dots, a_r)^i (a_1) = a_{i+1}.$$
-En particular $o(a_1, a_2, \dots, a_r) = r$ ([[orden de un elemento de un grupo]]).
+En particular $o(a_1, a_2, \dots, a_r) = r$ ([[Orden de un elemento de un grupo]]).
 <!--ID: 1727339263740-->
 END
 
@@ -45,7 +45,7 @@ START
 Básico
 Anverso: Demostración de que sea $(a_1, a_2, \dots, a_r)$ ([[r-ciclo]]) $\in S_X$. Entonces, $\forall 1 \le i \le r-1$,
 $$(a_1, a_2, \dots, a_r)^i (a_1) = a_{i+1}.$$
-En particular $o(a_1, a_2, \dots, a_r) = r$ ([[orden de un elemento de un grupo]]).
+En particular $o(a_1, a_2, \dots, a_r) = r$ ([[Orden de un elemento de un grupo]]).
 Reverso: Denotamos $c = (a_1, a_2, \dots, a_r)$. Demostramos que $\forall 1 \le i \le r-1$, $c^i (a_1) = a_{i+1}$. Inducción sobre $i$.
 Si $i = 1$. Trivial: $c(a_1) = a_2$.
 Supongamos el resultado para $i-1$, veámoslo para $i$:

@@ -18,7 +18,7 @@ Si un [[homomorfismo]] es inyectivo ([[aplicaciones inyectivas, sobreyectivas y 
 START
 Básico
 Anverso: Definición de monomorfismo
-Reverso: Si un [[homomorfismo]] es inyectivo ([[aplicaciones inyectivas, sobreyectivas y biyectivas]]) como función de conjuntos, entonces se dice que es un monomorfismo.
+Reverso: Si un [[Homomorfismo]] es inyectivo ([[aplicaciones inyectivas, sobreyectivas y biyectivas]]) como función de conjuntos, entonces se dice que es un monomorfismo.
 Tags: definición hungerford
 <!--ID: 1721211802972-->
 END

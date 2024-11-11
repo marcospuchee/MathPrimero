@@ -1,8 +1,10 @@
+### 1. Introducción.
 - [[Topología]]
 - [[Espacio topológico]]
 - [[Conjunto abierto]] (espacios topológicos)
 - [[Conjunto cerrado]] (espacios topológicos)
 - [[Analogía propiedades conjunto abierto y conjunto cerrado]]
+### 2. Entornos.
 - [[Entorno]] (espacios topológicos)
 - [[Conjunto que contiene a entorno de un punto es entorno del punto]]
 - [[Intersección de entornos de un punto es entorno del punto]]
@@ -10,6 +12,7 @@
 - [[Base de entornos]]
 - [[Espacio topológico 1 AN]]
 - [[Espacio topológico Hausdorff]]
+### 3. Bases de abiertos.
 - [[Base de abiertos]]
 - [[Caracterización de base de abiertos]]
 - [[(ejercicio) Propiedades de las bases de abiertos]]

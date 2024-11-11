@@ -10,6 +10,8 @@ Dado un conjunto $X$, definimos una topología sobre $X$ como una familia de sub
 3. $\{A_i\}_{i \in I}$ familia de elementos de $\mathcal T$ $\implies \bigcup_{i \in I} \in \mathcal T$.
 ```
 
+^4a4825
+
 **Tema:** [[2o Mates/201 Topología/Espacios topológicos]]
 
 ---

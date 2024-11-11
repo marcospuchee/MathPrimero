@@ -9,8 +9,8 @@ Sea $n \ge 5$. Entonces $A_n$ es simple ([[grupo simple]]).
 ```ad-proof
 Sea $N \unlhd A_n$. Suponemos $N \neq \{id \}$. Demostramos $N = A_n$. 
 
-Sea $\sigma \textrm{\\}\{id\}$ una permutación con soporte minimal. Esto es, $\nexists \tau \in N \textrm{\\} \{id\}$ tal que $|\textrm{supp}(\tau)| < |\textrm{supp}(\sigma)|$. Supongamos sin pérdida de generalidad que $\textrm{supp}(\sigma) = \{1,2, \dots, k\}$. Distinguiremos casos sobre $k$:
-1. $k = 1$. Por tanto $\textrm{supp}(\sigma) = \{1\}$, lo es una contradicción. Luego $\sigma = id$, que es contradicción también.
+Sea $\sigma \in N \textrm{\\}\{id\}$ una permutación con soporte minimal. Esto es, $\nexists \tau \in N \textrm{\\} \{id\}$ tal que $|\textrm{supp}(\tau)| < |\textrm{supp}(\sigma)|$. Supongamos sin pérdida de generalidad que $\textrm{supp}(\sigma) = \{1,2, \dots, k\}$. Distinguiremos casos sobre $k$:
+1. $k = 1$. Por tanto $\textrm{supp}(\sigma) = \{1\}$, lo cual es una contradicción. Luego $\sigma = id$, que es contradicción también.
 2. $k = 2$. $\textrm{supp}(\sigma) = \{1,2\}$. Por tanto, $\sigma = (1,2)$. Pero $(1,2) \notin A_n$, lo cual es una contradicción.
 3. $k = 3$. $\textrm{supp}(\sigma) = \{1,2,3 \}$. Por tanto, es un $3$-ciclo. Sea $(a,b,c) \in S_n$, por [[3-ciclos (resp. transposiciones de tipo (2,2)) son conjugados y generan An]], $\exists \tau \in A_n$ tal que $(a,b,c) = {}^\tau \sigma \in N$ (porque $N \unlhd A_n$). Es decir, $N$ contiene todos los $3$-ciclos. Por el mismo resultado, $A_n = \langle (i,j,k) \rangle \le N \unlhd A_n$. Luego $N = A_n$.
 4. Entonces $\sigma$ es un $4$-ciclo o una permutación de tipo $(2,2)$. Como los $4$-ciclos son impares, el único caso a considerar es $\sigma$ es de tipo $(2,2)$. Se demuestra igual que el tercer caso.

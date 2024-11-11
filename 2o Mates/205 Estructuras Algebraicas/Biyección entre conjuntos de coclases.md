@@ -25,7 +25,7 @@ $$(x^{-1}H)^{-1} = (y^{-1}H)^{-1} \iff H^{-1}(x^{-1})^{-1} = H^{-1}(y^{-1})^{-1}
 START
 Básico
 Anverso: Biyección entre conjuntos de coclases
-Reverso: Sea $G$ un [[grupo]] y $H \le G$. Entonces la aplicación
+Reverso: Sea $G$ un [[Grupo]] y $H \le G$. Entonces la aplicación
 $$\begin{matrix*}
 \alpha_H : & \mathcal R_H & \to & \mathcal L_H \\
 & Hx & \to & x^{-1}H
@@ -36,7 +36,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo]] y $H \le G$. Entonces la aplicación
+Anverso: Demostración de que sea $G$ un [[Grupo]] y $H \le G$. Entonces la aplicación
 $$\begin{matrix*}
 \alpha_H : & \mathcal R_H & \to & \mathcal L_H \\
 & Hx & \to & x^{-1}H

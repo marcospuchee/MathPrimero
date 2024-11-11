@@ -33,7 +33,7 @@ Si $Kb_j a_i = Kb_r a_t$, entonces $b_ja_i = kb_r a_t$ con $k \in K$. Dado que $
 
 START
 Respuesta anidada
-Si $K, H, G$ son [[grupo]]s con $K < H < G$, entonces {{c1::$[G: K]$}} $=$ {{c2::$[G: H][H:K]$}} ([[índice de un subgrupo]]). Si dos índices son finitos, también lo será el tercero.
+Si $K, H, G$ son [[Grupo]]s con $K < H < G$, entonces {{c1::$[G: K]$}} $=$ {{c2::$[G: H][H:K]$}} ([[Índice de un subgrupo]]). Si dos índices son finitos, también lo será el tercero.
 Tags: proposición/teorema hungerford
 <!--ID: 1721893777147-->
 END

@@ -7,6 +7,8 @@ Sea $(X, \mathcal T)$ [[espacio topológico]]. La familia de [[conjunto cerrado]
 3. $\{C_i\}_{i \in I}$ familia de cerrados $\implies \bigcap_{i \in I} C_i$ cerrado.
 ```
 
+^ebc1ec
+
 ```ad-proof
 1. Trivial.
 2. $C, D$ cerrados $\implies X \textrm{\\} C, X \textrm{\\} D \in \mathcal T$. $X \textrm{\\}(C \cup D) = (X \textrm{\\} C) \cap (X \textrm{\\} D) \in \mathcal T$. Por tanto, $C \cup D$ cerrado.

@@ -4,6 +4,8 @@
 $(X, \mathcal T)$ [[espacio topológico]], $\mathcal B \subseteq \mathcal T$. $\mathcal B$ es [[base de abiertos]] $\iff$ $\forall A \in \mathcal T$, $\forall x \in A$, $\exists B \in \mathcal B$ tal que $x \in B \subseteq A$.
 ```
 
+^e0d611
+
 ```ad-proof
 $\rightarrow$. $\mathcal B$ es base de abiertos. Sea $x \in A \in \mathcal T$, tenemos que $A = \bigcup_{i \in I}B_i$ con $B_i \in \mathcal B$, $\forall i \in I$. Luego, $\exists i_0 \in I$ tal que $x \in B_{i_0} \subseteq A$ con $B_{i_0} \in \mathcal B$.
 

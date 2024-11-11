@@ -31,7 +31,7 @@ Por el [[teorema condición necesaria y suficiente de subgrupo]], está claro qu
 START
 Básico
 Anverso: Cuál es el teorema que da forma a las imágenes y a los subgrupos de un grupo cíclico?
-Reverso: Toda imagen homomórfica y todo [[subgrupo]] de un [[grupo cíclico]] $G$ es cíclico. En particular, si $H$ es un [[subgrupo]] no-trivial de $G = \langle a \rangle$ y $m$ es el menor entero positivo tal que $a^m \in H$, entonces $H = \langle a^m \rangle$.
+Reverso: Toda imagen homomórfica y todo [[subgrupo]] de un [[Grupo cíclico]] $G$ es cíclico. En particular, si $H$ es un [[subgrupo]] no-trivial de $G = \langle a \rangle$ y $m$ es el menor entero positivo tal que $a^m \in H$, entonces $H = \langle a^m \rangle$.
 Tags: proposición/teorema hungerford
 <!--ID: 1721211802888-->
 END

@@ -35,7 +35,7 @@ $\leftarrow$.
 
 START
 Respuesta anidada
-Sea $f: G \to H$ un [[homomorfismo]] entre [[grupo]]s. Entonces, {{c1::$f$ es un [[isomorfismo]]}} si y sólo si {{c2::$\exists f^{-1}: H \to G$ [[homomorfismo]] tal que $f \circ f^{-1} = 1_H$ y $f^{-1} \circ f = 1_G$; donde $1_A$ denota la identidad del conjunto $A$.}}
+Sea $f: G \to H$ un [[Homomorfismo]] entre [[Grupo]]s. Entonces, {{c1::$f$ es un [[isomorfismo]]}} si y sólo si {{c2::$\exists f^{-1}: H \to G$ [[Homomorfismo]] tal que $f \circ f^{-1} = 1_H$ y $f^{-1} \circ f = 1_G$; donde $1_A$ denota la identidad del conjunto $A$.}}
 Tags: proposición/teorema hungerford
 <!--ID: 1721211802884-->
 END

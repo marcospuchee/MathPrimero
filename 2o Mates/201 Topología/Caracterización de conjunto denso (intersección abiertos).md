@@ -4,6 +4,8 @@
 Sean $(X, \mathcal T)$ [[espacio topológico]] y $S \subseteq X$. $S$ es [[conjunto denso]] $\iff$ $\forall \emptyset \neq A \in \mathcal T$, entonces $A \cap S \neq \emptyset$.
 ```
 
+^6ada3f
+
 ```ad-proof
 $\rightarrow$. $S$ [[conjunto denso]] $\implies$ $\textrm{ad}(S) = X$. Sea $x \in A \in \mathcal T$, entonces $A \in \mathcal E(x)$ y $x \in \textrm{ad}(S)$, luego $A \cap S \neq \emptyset$.
 

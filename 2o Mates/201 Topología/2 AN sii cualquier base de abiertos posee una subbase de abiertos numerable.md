@@ -7,6 +7,8 @@ Sean $(X, \mathcal T)$ un [[espacio topológico]], $\mathcal B$ [[base de abiert
 $(X, \mathcal T)$ es [[espacio topológico 2 AN]] $\iff$ $\exists$ una subfamilia $\mathcal B' \subseteq \mathcal B$ que es una base de abiertos numerable.
 ```
 
+^94630e
+
 ```ad-proof
 $(X, \mathcal T) \textrm{ 2 AN} \implies \exists \mathcal C$ base de abiertos numerable. Sea $C \in \mathcal C$, como $\mathcal B$ base de abiertos, $C = \bigcup_{i \in I} B_i$, con $B_i \in \mathcal B$, $\forall i \in I$. Sin embargo,
 $$B_i \in \mathcal T \implies B_i = \bigcup_{j \in J} C_{j} \implies C = \bigcup_{i \in I} \bigcup_{j \in J} C_{ij}.$$ 

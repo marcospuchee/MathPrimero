@@ -4,6 +4,8 @@
 Sean $(X, \mathcal T)$ [[espacio topológico]], $S \subseteq X$. $x \in X$ es punto de acumulación si $\forall U \in \mathcal E(x)$, $(U \textrm{\\} \{0\}) \cap S \neq \emptyset$.
 ```
 
+^4c857c
+
 **Tema:** [[Puntos especiales#1. Puntos de adherencia.]]
 
 ---
