@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Propiedades estabilizador y órbita.md",
+                "file": "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Propiedades estabilizador y órbita"
+              "title": "Acciones de grupos"
             }
           },
           {
@@ -291,16 +291,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dad18eecda6ee498",
+  "active": "15988d50d257869d",
   "lastOpenFiles": [
-    "2o Mates/205 Estructuras Algebraicas/Corolario 2 teorema órbita-estabilizador.md",
+    "2o Mates/205 Estructuras Algebraicas/Propiedades estabilizador y órbita.md",
     "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
+    "2o Mates/205 Estructuras Algebraicas/Órbita.md",
+    "Canvas/Espacios topológicos.canvas",
+    "2o Mates/205 Estructuras Algebraicas/Corolario 2 teorema órbita-estabilizador.md",
     "2o Mates/205 Estructuras Algebraicas/Teorema cardinal conjunto con acción sobre p-grupo.md",
     "2o Mates/205 Estructuras Algebraicas/p-grupo.md",
-    "2o Mates/205 Estructuras Algebraicas/Órbita.md",
     "2o Mates/205 Estructuras Algebraicas/Teorema órbita-estabilizador.md",
     "2o Mates/205 Estructuras Algebraicas/Corolario teorema órbita-estabilizador.md",
-    "2o Mates/205 Estructuras Algebraicas/Propiedades estabilizador y órbita.md",
     "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
     "2o Mates/Marcos/Hungerford - Algebra/Subgrupo.md",
     "2o Mates/205 Estructuras Algebraicas/Propiedades coclases.md",
@@ -318,11 +319,9 @@
     "2o Mates/205 Estructuras Algebraicas/Núcleo de la acción.md",
     "2o Mates/205 Estructuras Algebraicas/Todo homomorfismo es representación de alguna acción.md",
     "2o Mates/205 Estructuras Algebraicas/Teorema de Sylow.md",
-    "2o Mates/205 Estructuras Algebraicas/Acción de grupo.md",
     "Attachements/Pasted Image 20241115175658_239.png",
     "Attachements/Pasted Image 20241115164403_866.png",
     "Attachements",
-    "Canvas/Espacios topológicos.canvas",
     "Canvas/Análisis II.canvas",
     "Canvas/Teoría de grupos (canvas).canvas",
     "Análisis II.canvas",

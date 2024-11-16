@@ -1,9 +1,9 @@
-### 1. Definición.
+### 1. Definición
 - [Acción](Acción de grupo), [$G \curvearrowright \Omega$](Acción de grupo)
 - [Homomorfismo representación](Teorema del homomorfismo representación)
 - [Todo $p: G \to S_\Omega$ es homomorfismo representación de alguna acción](Todo homomorfismo es representación de alguna acción)
 - [$\textrm{Ker}(\rho)$](Núcleo de la acción)
-### 2. Teorema Órbita-Estabilizador.
+### 2. Teorema Órbita-Estabilizador
 - [$\textrm{Stab} \\_ \alpha$](Estabilizador), [$G \\_ \alpha$](Estabilizador)
 - [$\textrm{Orb} \\_ \alpha$](Órbita), [$\mathcal O \\_ \alpha$](Órbita), [$\Omega \\_ \alpha$](Órbita)
 - [Punto fijo](Estabilizador), [$\Omega \\_ \textrm{fix}$](Órbita)
