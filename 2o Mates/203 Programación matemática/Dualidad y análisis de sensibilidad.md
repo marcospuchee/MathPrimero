@@ -1,4 +1,3 @@
-# Índice
 ### 1. El problema dual.
 - [[Problema dual]]
 - [[El problema dual del dual es el primal]]

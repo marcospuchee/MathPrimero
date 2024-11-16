@@ -7,6 +7,12 @@ Sea el conjunto formado por todas las matrices $m \times n$: $\mathbb R^{m \time
 3. $||A+B|| \le ||A|| + ||B||$.
 ```
 
+```ad-note
+Definimos como norma de tipo $||\cdot||_\alpha$ a toda norma que sea de la forma:
+$$||v||_\alpha = \sqrt[\alpha]{\sum_{i = 1}^n v_i^\alpha}$$
+```
+
+
 **Tema:** [[Sistemas lineales y su solución numérica#1. Normas de vectores y de matrices.]]
 
 ---

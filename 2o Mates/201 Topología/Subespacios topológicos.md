@@ -6,4 +6,4 @@
 - [La propiedad $1\textrm{AN}$ es hereditaria](Base de entornos de topología inducida a partir de base de entornos de topología padre)
 - [$\mathcal B_H = \{B \cap H : B \in \mathcal B \}$ es base de abiertos en $\mathcal T_H$](Base de abiertos relativa a partir de base de abiertos total)
 - [La propiedad $2 \textrm{AN}$ es hereditaria](Base de abiertos relativa a partir de base de abiertos total)
-- 
+
