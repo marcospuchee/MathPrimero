@@ -1,3 +1,14 @@
+### Definición $(X, d)$.
+
+```ad-Formal
+$f: (X, d) \to (X, d')$ aplicación entre espacios métricos es uniformemente continua si $\forall \varepsilon > 0$, $\exists \delta> 0$ tal que si $d(x_1, x_2) < \delta$, entonces $d'(f(x_1), f(x_2)) < \varepsilon$.
+```
+
+**Tema:** [[Continuidad#3. Continuidad uniforme e isometrias.]]
+
+**Definiciones referenciadas:** [[Espacio métrico]], [[Métrica]]
+
+---
 ### Definición $\mathbb R^n$.
 
 ```ad-Formal
@@ -43,4 +54,12 @@ Anverso: Definición de función uniformemente continua $\mathbb R^n$.
 Reverso: Diremos que $f: A \subseteq \mathbb R^n \to \mathbb R^m$ es uniformemente continua si
 $$\forall \varepsilon > 0, \, \exists \delta > 0 : x,y \in A, \, ||x-y|| < \delta \implies ||f(x) - f(y)|| < \varepsilon.$$
 <!--ID: 1728138052349-->
+END
+
+START
+Básico
+Anverso: Definición de función uniformemente continua $(X, \mathcal T)$.
+Reverso: $f: (X, d) \to (X, d')$ aplicación entre espacios métricos es uniformemente continua si $\forall \varepsilon > 0$, $\exists \delta> 0$ tal que si $d(x_1, x_2) < \delta$, entonces $d'(f(x_1), f(x_2)) < \varepsilon$.
+Tags: top
+<!--ID: 1731446305326-->
 END

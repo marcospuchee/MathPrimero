@@ -17,6 +17,10 @@ El caso en que suponemos que $(D)$ tiene solución óptima es simétrico a lo qu
 Si no se cumpliera $(i)$, el caso de que ambos problemas sean no acotados queda descartado por [[primal factible no acotado implica dual imposible (viceversa)]] y solo quedan las dos posibilidades $(ii)$ y $(iii)$.
 ```
 
+```ad-note
+Se deduce de la prueba de este teorem que si $B$ es la base que genera una $SBP$ óptima de $(P)$, entonces $\overline w:=(B^T)^{-1}c_B \in \mathbb R^m$ es solución óptima de $(D)$.
+```
+
 **Tema:** [[Dualidad y análisis de sensibilidad#2. Relaciones primal-dual.]]
 **Corolario:**
 

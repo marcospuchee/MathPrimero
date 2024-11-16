@@ -10,8 +10,7 @@ y con $\rho$ como homomorfismo representación.
 ```
 
 ```ad-proof
-
-
+*Ejercicio.*
 ```
 
 **Tema:** [[Acciones de grupos#1. Definición.]]

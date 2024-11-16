@@ -9,3 +9,8 @@
 - [[Relación primal-dual de soluciones básicas]]
 - [[Teorema de Dualidad Fuerte]]
 - [[Teorema de las holguras complementarias]]
+- [$v(\tilde P_b) = v(P) + (w^* ) ^T \Delta$](Perturbación del vector de coeficientes b)
+- [Precio dual](Perturbación del vector de coeficientes b), [$w_i^* = \pm \overline c_{j_i}$](Perturbación del vector de coeficientes b)
+### 3. Algoritmo Dual-Simplex.
+- [[Solución básica primal-óptima]]
+- [[Criterio de factibilidad Dual-Simplex]]

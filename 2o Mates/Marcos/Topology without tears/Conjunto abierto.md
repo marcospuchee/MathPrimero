@@ -2,7 +2,7 @@
 
 ```ad-formal
 title: Formal definition
-Sea $(X,d)$ [[espacio métrico]]. $A \subset X$ es abierto si $\forall x \in A$ $\exists \varepsilon > 0$ tal que $B(x;\varepsilon) \le A$.
+Sea $(X,d)$ [[espacio métrico]]. $A \subset X$ es abierto si $\forall x \in A$ $\exists \varepsilon > 0$ tal que $B(x;\varepsilon) \subseteq A$.
 ```
 
 ^3ba8b6

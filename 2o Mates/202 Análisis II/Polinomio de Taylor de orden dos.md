@@ -3,8 +3,8 @@
 ```ad-Formal
 Sean $\Omega \subseteq \mathbb R^n$ abierto, $f: \Omega \to \mathbb R$ de clase $C^2$. La función $P_2: \mathbb R^n \to \mathbb R$ definida por
 $$\begin{eqnarray}
-P_2(x) &=& f(a) + \langle \nabla f(a), x-a \rangle + \sum_{i = 1}^n \sum_{j = 1}^n D_{ij}f(a)(x_i - a_i)(x_j- a_j) \\
-&=& f(a) + \sum_{i = 1}^n D_if(a)(x_i - a_i) + \sum_{i = 1}^n \sum_{j = 1}^n D_{ij}f(a) (x_i - a_i)(x_j - a_j),
+P_2(x) &=& f(a) + \langle \nabla f(a), x-a \rangle + \frac{1}{2} \sum_{i = 1}^n \sum_{j = 1}^n D_{ij}f(a)(x_i - a_i)(x_j- a_j) \\
+&=& f(a) + \sum_{i = 1}^n D_if(a)(x_i - a_i) + \frac{1}{2} \sum_{i = 1}^n \sum_{j = 1}^n D_{ij}f(a) (x_i - a_i)(x_j - a_j),
 \end{eqnarray}$$
 la llamamos polinomio de Taylor de orden dos de $f$ en $a$.
 ```

@@ -1,11 +1,11 @@
 [
   "table-editor-obsidian",
+  "obsidian-admonition",
+  "obsidian-excalidraw-plugin",
+  "url-into-selection",
   "obsidian-tikzjax",
   "omnisearch",
-  "url-into-selection",
-  "obsidian-to-anki-plugin",
-  "obsidian-admonition",
+  "file-tree-alternative",
   "mathlinks",
-  "obsidian-excalidraw-plugin",
-  "file-tree-alternative"
+  "obsidian-to-anki-plugin"
 ]

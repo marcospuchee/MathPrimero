@@ -11,3 +11,12 @@
 - [[Homeomorfismo]]
 - [[Caracterización de homeomorfismo (imagen abiertos y cerrados)]]
 - [[2AN es propiedad topológica]]
+- [[1AN es propiedad topológica]]
+- [[Hausdorff es propiedad topológica]]
+- [[Separable es propiedad topológica]]
+- [[Metrizable es propiedad topológica]]
+### 3. Continuidad uniforme e isometrias.
+- [[Función uniformemente continua]]
+- [Uniformemente continua $\implies$ continua](Uniformemente continua implica continua)
+- [[Isometria]]
+- [Isometría $\implies ($ inyectiva $\land$ uniformemente continua $)$](Isometría implica inyectiva y uniformemente continua)

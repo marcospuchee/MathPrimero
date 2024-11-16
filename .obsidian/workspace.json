@@ -4,20 +4,94 @@
     "type": "split",
     "children": [
       {
-        "id": "9fe9491e896dc9b0",
+        "id": "a24bffa049c87e46",
         "type": "tabs",
         "children": [
           {
-            "id": "52928f0c477bc2d4",
+            "id": "15988d50d257869d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/205 Estructuras Algebraicas/Propiedades estabilizador y órbita.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Propiedades estabilizador y órbita"
+            }
+          },
+          {
+            "id": "f60666c56f0a8851",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acciones de grupos"
             }
           }
         ]
+      },
+      {
+        "id": "85622302aed746a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3cfd2d1d8566a89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/205 Estructuras Algebraicas/Teorema cardinal conjunto con acción sobre p-grupo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teorema cardinal conjunto con acción sobre p-grupo"
+            }
+          },
+          {
+            "id": "dad18eecda6ee498",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvas/Espacios topológicos.canvas",
+                "viewState": {
+                  "x": -635.0494444210084,
+                  "y": 1355.2276904122632,
+                  "zoom": -1.113142466931635
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Espacios topológicos"
+            }
+          },
+          {
+            "id": "1131e67f6cb8d385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Acciones de grupos"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,11 +140,11 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "866abe86d90f701a",
+            "id": "6e7462529b89019d",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -79,11 +153,13 @@
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -211,40 +287,43 @@
       "omnisearch:Omnisearch": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52928f0c477bc2d4",
+  "active": "dad18eecda6ee498",
   "lastOpenFiles": [
-    "2o Mates/205 Estructuras Algebraicas/Teoría de anillos.md",
-    "2o Mates/205 Estructuras Algebraicas/Caracterización de ideal primo (dominio de integridad).md",
-    "2o Mates/205 Estructuras Algebraicas/Equivalencias en DIP.md",
-    "2o Mates/205 Estructuras Algebraicas/Elemento irreducible de un anillo.md",
-    "2o Mates/205 Estructuras Algebraicas/División en anillos.md",
-    "2o Mates/205 Estructuras Algebraicas/Ideal maximal implica ideal primo.md",
-    "2o Mates/205 Estructuras Algebraicas/Elemento primo de un anillo.md",
-    "2o Mates/205 Estructuras Algebraicas/Caracterización de ideal maximal (cuerpo).md",
-    "2o Mates/205 Estructuras Algebraicas/Ideales de un anillo de división.md",
-    "2o Mates/205 Estructuras Algebraicas/Ideal maximal.md",
-    "2o Mates/205 Estructuras Algebraicas/Ideal primo.md",
-    "1ero Mates/1er Cuatri/103 Matemática Básica/Estructuras algebraicas elementales.md",
-    "2o Mates/205 Estructuras Algebraicas/Existencia y unicidad de polinomio mónico tal que su ideal generado sea un ideal determinado.md",
-    "2o Mates/205 Estructuras Algebraicas/Condición suficiente para que el anillo de polinomios sea dominio de integridad.md",
-    "2o Mates/201 Topología/Puntos especiales.md",
-    "2o Mates/205 Estructuras Algebraicas/Dominio de integridad.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema división de polinomios.md",
-    "2o Mates/205 Estructuras Algebraicas/Tercer teorema de isomorfía de anillos.md",
-    "2o Mates/205 Estructuras Algebraicas/Segundo teorema de isomorfía de anillos.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema del anillo cociente.md",
-    "2o Mates/205 Estructuras Algebraicas/Primer teorema de isomorfía de anillos.md",
-    "2o Mates/205 Estructuras Algebraicas/Homomorfismo proyección.md",
-    "2o Mates/205 Estructuras Algebraicas/Dominio de ideales principales.md",
-    "2o Mates/205 Estructuras Algebraicas/Ideal principal.md",
-    "2o Mates/205 Estructuras Algebraicas/Ideal generado por una unidad es el anillo original.md",
-    "2o Mates/205 Estructuras Algebraicas/Caracterización de ideal.md",
-    "Canvas/Análisis II.canvas",
+    "2o Mates/205 Estructuras Algebraicas/Corolario 2 teorema órbita-estabilizador.md",
+    "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema cardinal conjunto con acción sobre p-grupo.md",
+    "2o Mates/205 Estructuras Algebraicas/p-grupo.md",
+    "2o Mates/205 Estructuras Algebraicas/Órbita.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema órbita-estabilizador.md",
+    "2o Mates/205 Estructuras Algebraicas/Corolario teorema órbita-estabilizador.md",
+    "2o Mates/205 Estructuras Algebraicas/Propiedades estabilizador y órbita.md",
+    "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Subgrupo.md",
+    "2o Mates/205 Estructuras Algebraicas/Propiedades coclases.md",
+    "2o Mates/205 Estructuras Algebraicas/Índice de un subgrupo.md",
+    "1ero Mates/1er Cuatri/103 Matemática Básica/Partición de un conjunto.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Grupo abeliano.md",
+    "1ero Mates/1er Cuatri/103 Matemática Básica/Propiedades de las relaciones de congruencia.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Propiedades de los grupos.md",
+    "2o Mates/205 Estructuras Algebraicas/Ley asociativa generalizada.md",
+    "2o Mates/205 Estructuras Algebraicas/Caracterización de subgrupo.md",
+    "2o Mates/205 Estructuras Algebraicas/Grupo.md",
+    "2o Mates/Marcos/Hungerford - Algebra/Monoide.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema del homomorfismo representación.md",
+    "2o Mates/205 Estructuras Algebraicas/Estabilizador.md",
+    "2o Mates/205 Estructuras Algebraicas/Núcleo de la acción.md",
+    "2o Mates/205 Estructuras Algebraicas/Todo homomorfismo es representación de alguna acción.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema de Sylow.md",
+    "2o Mates/205 Estructuras Algebraicas/Acción de grupo.md",
+    "Attachements/Pasted Image 20241115175658_239.png",
+    "Attachements/Pasted Image 20241115164403_866.png",
+    "Attachements",
     "Canvas/Espacios topológicos.canvas",
+    "Canvas/Análisis II.canvas",
     "Canvas/Teoría de grupos (canvas).canvas",
     "Análisis II.canvas",
     "Teoría de grupos (canvas).canvas",
@@ -257,8 +336,6 @@
     "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
     "Attachements/image_2.png",
     "Attachements/image_1.png",
-    "Attachements/image_0.png",
-    "Attachements/image.png",
     "Excalidraw",
     "2o Mates/Marcos/Hoffstein - An Introduction to Mathematical  Cryptography",
     "2o Mates/205 Estructuras Algebraicas",
@@ -267,7 +344,6 @@
     "2o Mates/202 Análisis II",
     "2o Mates/201 Topología",
     "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos/Untitled",
-    "2o Mates/Marcos/Hungerford - Algebra/Ejercicios/1. Grupos",
     "100 Análisis/Prácticas Análisis/Práctica 4/Untitled.canvas"
   ]
 }

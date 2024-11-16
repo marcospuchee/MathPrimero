@@ -8,7 +8,7 @@
 - [$\textrm{Orb} \\_ \alpha$](Órbita), [$\mathcal O \\_ \alpha$](Órbita), [$\Omega \\_ \alpha$](Órbita)
 - [Punto fijo](Estabilizador), [$\Omega \\_ \textrm{fix}$](Órbita)
 - [$\textrm{Ker}(\rho) = \bigcap \\_ {\alpha \in \Omega} \textrm{Stab} \\_ \alpha$](Estabilizador)
-- [[Propiedades estabilizador y órbita]]
+- [$\forall \alpha \in \Omega$, $\textrm{Stab}_ \alpha \le G$](Propiedades estabilizador y órbita), [$\forall \alpha \in \Omega, g \in G, \, \, \textrm{Stab}_ {g \cdot \alpha} = g \textrm{Stab}_ \alpha g^{-1}$](Propiedades estabilizador y órbita), [$\{\textrm{Orb}_ \alpha : \alpha \in G\}$ forma una partición de $\Omega$](Propiedades estabilizador y órbita)
 - [$|\textrm{Orb} \\_ \alpha | = |G: \textrm{Stab} \\_ \alpha |$](Teorema órbita-estabilizador)
 - [$|\Omega| = \sum^n_ {i = 1} |\textrm{Orb}_ {\alpha_ i}| = \sum^n_ {i = 1} |G: \textrm{Stab} \\_ {\alpha \\_ i}|$](Corolario teorema órbita-estabilizador)
 - [$|\Omega| = |\Omega_{\textrm{fix}}| + \sum_{i = t+1}^n |\textrm{Orb} \\_ {\alpha \\_ i}|$](Corolario 2 teorema órbita-estabilizador)
@@ -17,7 +17,7 @@
 - [[Acción transitiva]], [$g \cdot \alpha = \beta$](Acción transitiva)
 ### 3. La acción natural.
 - [[Acción natural]]
-### 4. La acción sobre clases
+### 4. La acción sobre clases.
 - [[Acción sobre clases]]
 - [$\textrm{Core} \\_ G (H)$](Acción sobre clases)
 - [$G/\textrm{Core} \\_ G(H) \overset{\sim}{\le} S \\_ {\mathcal L_H}$ ](Teorema de Cayley (grupo cociente con core isomorfo a grupo simétrico en las coclases))

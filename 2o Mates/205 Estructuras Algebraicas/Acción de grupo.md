@@ -15,7 +15,7 @@ Diremos que un grupo $G$ actúa sobre un conjunto $\Omega$, denotado $G \curvear
 
 **Tema:** [[Acciones de grupos#1. Definición.]]
 
-**Definiciones referenciadas:**
+**Definiciones referenciadas:** [[grupo]]
 
 ---
 ### Anki
