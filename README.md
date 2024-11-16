@@ -1,4 +1,5 @@
 ### Cosas que faltan:
+DURO BORJUS
 - Reformatear primero.
 - Reorganizar primero.
 - Reformatear segundo (en progreso).
