@@ -9,7 +9,7 @@
 *Seminario.*
 ```
 
-**Tema:** [[Sistemas lineales y su solución numérica#3. Estabilidad de las soluciones. Número de condición.]]
+**Tema:** [[Sistemas lineales y su solución numérica#1. Normas de vectores y de matrices.]]
 
 **Definiciones referenciadas:** [$|| A ||_ \alpha$](Norma matricial subordinada a una norma vectorial), [$||x||_ \alpha$](Norma matricial)
 **Resultados referenciados:** -.
