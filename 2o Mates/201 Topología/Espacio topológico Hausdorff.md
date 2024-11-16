@@ -16,7 +16,7 @@ $\forall x \neq y \in X$, es equivalente decir que $\exists A \in \mathcal T, x 
 START
 Básico
 Anverso: Definición de espacio topológico Hausdorff
-Reverso: Decimos que un [[espacio topológico]] $(X, \mathcal T)$ es Hausdorff o $T_2$ si $\forall x \neq y \in X$, $\, \exists U \in \mathcal E(x), \exists V \in \mathcal E(y)$ tal que $U \cap V = \emptyset$.
+Reverso: Decimos que un [[Espacio topológico]] $(X, \mathcal T)$ es Hausdorff o $T_2$ si $\forall x \neq y \in X$, $\, \exists U \in \mathcal E(x), \exists V \in \mathcal E(y)$ tal que $U \cap V = \emptyset$.
 
 Es equivalente decir que $\exists A \in \mathcal T, x \in A, \exists B \in \mathcal T, y \in B$ tales que $A \cap B = \emptyset$.
 Tags:

@@ -15,7 +15,7 @@ $(\mathbb R^n)$. Se dice que $A \subseteq \mathbb R^n$ es [[conjunto compacto]] 
 
 START
 Respuesta anidada
-$(\mathbb R^n)$. Se dice que {{c1::$A \subseteq \mathbb R^n$ es [[Conjunto compacto]]}} $\iff$ {{c2::$A$ es [[conjunto cerrado]] y [[conjunto acotado]].}}
+$(\mathbb R^n)$. Se dice que {{c1::$A \subseteq \mathbb R^n$ es [[Conjunto compacto]]}} $\iff$ {{c2::$A$ es [[Conjunto cerrado]] y [[conjunto acotado]].}}
 Tags:
 <!--ID: 1727083427830-->
 END

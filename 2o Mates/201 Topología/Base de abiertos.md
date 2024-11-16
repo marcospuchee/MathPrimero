@@ -17,7 +17,7 @@ $$\mathcal T = \{\bigcup_{i \in I} B_i : \{B_i\}_{i \in I} \subseteq \mathcal T 
 START
 Básico
 Anverso: Definición de base de abiertos
-Reverso: Sea $(X, \mathcal T)$ un [[espacio topológico]]. Una base de abiertos ([[conjunto abierto]]) es una familia de subconjuntos abiertos $\mathcal B \subseteq \mathcal T$ tal que cualquier abierto $A \neq \emptyset$ se puede escribir como unión de elementos de $\mathcal B$.
+Reverso: Sea $(X, \mathcal T)$ un [[Espacio topológico]]. Una base de abiertos ([[Conjunto abierto]]) es una familia de subconjuntos abiertos $\mathcal B \subseteq \mathcal T$ tal que cualquier abierto $A \neq \emptyset$ se puede escribir como unión de elementos de $\mathcal B$.
 
 En particular,
 $$\mathcal T = \{\bigcup_{i \in I} B_i : \{B_i\}_{i \in I} \subseteq \mathcal T \} \cup \{ \emptyset \}.$$

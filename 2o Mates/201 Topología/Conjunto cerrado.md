@@ -24,7 +24,7 @@ Sea $(X, \mathcal T)$ un [[espacio topológico]]. Decimos que $S \subset X$ es u
 START
 Básico
 Anverso: Definición de conjunto cerrado (espacio topológico)
-Reverso: Sea $(X, \mathcal T)$ un [[espacio topológico]]. Decimos que $S \subset X$ es un conjunto cerrado en $(X, \mathcal T)$ si su complemento en $X$, $X \textrm{\\} S$, es [[conjunto abierto]] en $(X, \mathcal T)$.
+Reverso: Sea $(X, \mathcal T)$ un [[Espacio topológico]]. Decimos que $S \subset X$ es un conjunto cerrado en $(X, \mathcal T)$ si su complemento en $X$, $X \textrm{\\} S$, es [[Conjunto abierto]] en $(X, \mathcal T)$.
 Tags:
 <!--ID: 1727083427892-->
 END
@@ -32,7 +32,7 @@ END
 START
 Básico
 Anverso: Definición de conjunto cerrado (espacio métrico)
-Reverso: $(X,d)$ [[espacio métrico]]. $C \subseteq X$ es cerrado si $X \textrm{\\} C$ es [[conjunto abierto]].
+Reverso: $(X,d)$ [[espacio métrico]]. $C \subseteq X$ es cerrado si $X \textrm{\\} C$ es [[Conjunto abierto]].
 Tags:
 <!--ID: 1727083427894-->
 END

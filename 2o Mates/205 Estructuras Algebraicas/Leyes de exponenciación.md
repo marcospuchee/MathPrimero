@@ -43,7 +43,7 @@ que, deshaciendo la transformación, queda $a^{nm}$ con $m<0$.
 
 
 **Tema:** [[Grupos#1. Semigrupos, monoides y grupos]]
-**Demostrado por:** [[Principio de inducción débil]], [[propiedades de los grupos]]
+**Demostrado por:** [[Principio de inducción débil]], [[Propiedades de los grupos]]
 **Consecuencias:**
 
 ---

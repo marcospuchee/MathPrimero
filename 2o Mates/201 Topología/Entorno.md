@@ -37,7 +37,7 @@ END
 START
 Básico
 Anverso: Definición de entorno (espacio topológico)
-Reverso: $(X, \mathcal T)$ [[espacio topológico]], $U \subseteq X$ es entorno de $x \in X$ si $\exists A \in \mathcal T$ tal que $x \in A \subseteq U$. El conjunto de todos los entornos es $\mathcal E(x)$.
+Reverso: $(X, \mathcal T)$ [[Espacio topológico]], $U \subseteq X$ es entorno de $x \in X$ si $\exists A \in \mathcal T$ tal que $x \in A \subseteq U$. El conjunto de todos los entornos es $\mathcal E(x)$.
 Tags:
 <!--ID: 1727083427856-->
 END

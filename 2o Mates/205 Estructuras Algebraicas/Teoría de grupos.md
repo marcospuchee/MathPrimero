@@ -7,7 +7,7 @@
 - [[Propiedades de los grupos]] (elemento neutro único y elemento inverso único).
 - [[Ley asociativa generalizada]]
 - [[Ley conmutativa generalizada]]
-- (iv), (v) de [[propiedades de los grupos]]
+- (iv), (v) de [[Propiedades de los grupos]]
 ### 3. Estructura de ciclos.
 - [[Permutación]]
 - [[Soporte de una permutación]]

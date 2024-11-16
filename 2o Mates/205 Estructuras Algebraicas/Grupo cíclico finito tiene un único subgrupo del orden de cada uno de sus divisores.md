@@ -30,13 +30,13 @@ Además, $y = x^m = (x^{n/d})^k \in \langle x^{n/d} \rangle$, lo que implica por
 START
 Básico
 Anverso: Proposición grupo cíclico finito tiene un único subgrupo del orden de cada uno de sus divisores
-Reverso: Sea $G$ un [[Grupo cíclico]] finito y $d | |G|$. Entonces $G$ tiene un único [[subgrupo]] de orden $d$.
+Reverso: Sea $G$ un [[Grupo cíclico]] finito y $d | |G|$. Entonces $G$ tiene un único [[Subgrupo]] de orden $d$.
 <!--ID: 1727966477535-->
 END
 
 START
 Básico
-Anverso:  Demostración de que sea $G$ un [[Grupo cíclico]] finito y $d | |G|$. Entonces $G$ tiene un único [[subgrupo]] de orden $d$.
+Anverso:  Demostración de que sea $G$ un [[Grupo cíclico]] finito y $d | |G|$. Entonces $G$ tiene un único [[Subgrupo]] de orden $d$.
 Reverso: Sabemos que $|G| = | \langle x \rangle | = o(x) = n$, $\quad d|n$.
 
 Notemos que $\langle x^{n/d} \rangle \le G$ por [[subgrupo generado es subgrupo]]. Entonces,

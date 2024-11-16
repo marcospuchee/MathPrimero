@@ -27,7 +27,7 @@ Entonces, $\forall A \in \mathcal T$, $A = \bigcup_{k \in \mathbb N} C_k = \bigc
 START
 Básico
 Anverso: Caracterización de espacio topológico $\textrm{ 2 AN}$.
-Reverso: Sean $(X, \mathcal T)$ un [[espacio topológico]], $\mathcal B$ [[base de abiertos]].
+Reverso: Sean $(X, \mathcal T)$ un [[Espacio topológico]], $\mathcal B$ [[base de abiertos]].
 
 $(X, \mathcal T)$ es [[espacio topológico 2 AN]] $\iff$ $\exists$ una subfamilia $\mathcal B' \subseteq \mathcal B$ que es una base de abiertos numerable.
 <!--ID: 1727966478979-->
@@ -35,7 +35,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sean $(X, \mathcal T)$ un [[espacio topológico]], $\mathcal B$ [[base de abiertos]].
+Anverso: Demostración de que sean $(X, \mathcal T)$ un [[Espacio topológico]], $\mathcal B$ [[base de abiertos]].
 
 $(X, \mathcal T)$ es [[espacio topológico 2 AN]] $\iff$ $\exists$ una subfamilia $\mathcal B' \subseteq \mathcal B$ que es una base de abiertos numerable.
 Reverso: $(X, \mathcal T) \textrm{ 2 AN} \implies \exists \mathcal C$ base de abiertos numerable. Sea $C \in \mathcal C$, como $\mathcal B$ base de abiertos, $C = \bigcup_{i \in I} B_i$, con $B_i \in \mathcal B$, $\forall i \in I$. Sin embargo,

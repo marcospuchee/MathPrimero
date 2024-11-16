@@ -27,7 +27,7 @@ $\leftarrow$. Supongamos que $\forall B \in \mathcal B(x)$ se cumple que $B \cap
 START
 Básico
 Anverso: Caracterización de punto de adherencia
-Reverso: Sean $(X, \mathcal T)$ [[espacio topológico]], $S \subseteq X$, $x \in X$ y $\mathcal B(x)$ [[base de entornos]] de $x$.
+Reverso: Sean $(X, \mathcal T)$ [[Espacio topológico]], $S \subseteq X$, $x \in X$ y $\mathcal B(x)$ [[base de entornos]] de $x$.
 
 $$x \in \textrm{ad}(S) \iff \forall B \in \mathcal B(x), \, B \cap S \neq \emptyset.$$
 <!--ID: 1728138052366-->
@@ -35,7 +35,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sean $(X, \mathcal T)$ [[espacio topológico]], $S \subseteq X$, $x \in X$ y $\mathcal B(x)$ [[base de entornos]] de $x$.
+Anverso: Demostración de que sean $(X, \mathcal T)$ [[Espacio topológico]], $S \subseteq X$, $x \in X$ y $\mathcal B(x)$ [[base de entornos]] de $x$.
 
 $$x \in \textrm{ad}(S) \iff \forall B \in \mathcal B(x), \, B \cap S \neq \emptyset.$$
 Reverso: 

@@ -37,7 +37,7 @@ END
 START
 Básico
 Anverso: Definición de conjunto abierto (espacio topológico)
-Reverso: Sea $(X, \mathcal T)$ un [[espacio topológico]]. Definimos conjunto abierto de $X$ a cualquier elemento de $\mathcal T$.
+Reverso: Sea $(X, \mathcal T)$ un [[Espacio topológico]]. Definimos conjunto abierto de $X$ a cualquier elemento de $\mathcal T$.
 Tags:
 <!--ID: 1727083427890-->
 END

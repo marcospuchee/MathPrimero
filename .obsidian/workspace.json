@@ -8,90 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15988d50d257869d",
+            "id": "a3583b2001b1a63c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
+                "file": "2o Mates/201 Topología/Continuidad.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acciones de grupos"
-            }
-          },
-          {
-            "id": "f60666c56f0a8851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acciones de grupos"
+              "title": "Continuidad"
             }
           }
         ]
-      },
-      {
-        "id": "85622302aed746a5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3cfd2d1d8566a89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Teorema cardinal conjunto con acción sobre p-grupo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teorema cardinal conjunto con acción sobre p-grupo"
-            }
-          },
-          {
-            "id": "dad18eecda6ee498",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Canvas/Espacios topológicos.canvas",
-                "viewState": {
-                  "x": -635.0494444210084,
-                  "y": 1355.2276904122632,
-                  "zoom": -1.113142466931635
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Espacios topológicos"
-            }
-          },
-          {
-            "id": "1131e67f6cb8d385",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acciones de grupos"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,8 +84,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -291,34 +221,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15988d50d257869d",
+  "active": "a3583b2001b1a63c",
   "lastOpenFiles": [
-    "2o Mates/205 Estructuras Algebraicas/Propiedades estabilizador y órbita.md",
+    "2o Mates/201 Topología/2AN es propiedad topológica.md",
     "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
-    "2o Mates/205 Estructuras Algebraicas/Órbita.md",
+    "2o Mates/Marcos/Topology without tears/Topología de los complementos finitos.md",
+    "2o Mates/Marcos/Topology without tears/Topología trivial.md",
+    "2o Mates/Marcos/Topology without tears/Topología discreta.md",
+    "2o Mates/205 Estructuras Algebraicas/Topología.md",
+    "2o Mates/Marcos/Topology without tears/Proposición todo subconjunto de cardinal uno en topología implica que la topología es discreta.md",
+    "2o Mates/Marcos/Topology without tears/Espacios topológicos.md",
+    "2o Mates/201 Topología/Espacio topológico.md",
+    "2o Mates/Marcos/Topology without tears/Espacio discreto.md",
+    "2o Mates/Marcos/Topology without tears/Conjunto clopen.md",
+    "2o Mates/201 Topología/Conjunto cerrado.md",
+    "2o Mates/201 Topología/Conjunto abierto.md",
+    "2o Mates/Marcos/Topology without tears/Condiciones necesarias de un espacio topológico respecto a sus conjuntos cerrados.md",
+    "2o Mates/Marcos/Topology without tears/Condiciones necesarias de un espacio topológico respecto a sus conjuntos abiertos.md",
+    "2o Mates/Marcos/Munkres - Topología/Topologías comparables.md",
+    "2o Mates/Marcos/Munkres - Topología/Topología usual.md",
+    "2o Mates/Marcos/Munkres - Topología/Topología producto.md",
+    "2o Mates/Marcos/Munkres - Topología/Topología del orden.md",
+    "2o Mates/Marcos/Munkres - Topología/Topología del límite inferior.md",
+    "2o Mates/Marcos/Munkres - Topología/Topología de subespacio.md",
+    "2o Mates/Marcos/Munkres - Topología/Teorema subbase para la topología producto mediante proyecciones.md",
+    "2o Mates/Marcos/Munkres - Topología/Teorema base topología producto.md",
+    "2o Mates/Marcos/Munkres - Topología/Subbase para una topología.md",
+    "2o Mates/Marcos/Munkres - Topología/Rayos de un conjunto ordenado.md",
+    "2o Mates/Marcos/Munkres - Topología/Proyecciones de X x Y.md",
     "Canvas/Espacios topológicos.canvas",
-    "2o Mates/205 Estructuras Algebraicas/Corolario 2 teorema órbita-estabilizador.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema cardinal conjunto con acción sobre p-grupo.md",
-    "2o Mates/205 Estructuras Algebraicas/p-grupo.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema órbita-estabilizador.md",
-    "2o Mates/205 Estructuras Algebraicas/Corolario teorema órbita-estabilizador.md",
-    "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Subgrupo.md",
-    "2o Mates/205 Estructuras Algebraicas/Propiedades coclases.md",
-    "2o Mates/205 Estructuras Algebraicas/Índice de un subgrupo.md",
-    "1ero Mates/1er Cuatri/103 Matemática Básica/Partición de un conjunto.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Grupo abeliano.md",
-    "1ero Mates/1er Cuatri/103 Matemática Básica/Propiedades de las relaciones de congruencia.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Propiedades de los grupos.md",
-    "2o Mates/205 Estructuras Algebraicas/Ley asociativa generalizada.md",
-    "2o Mates/205 Estructuras Algebraicas/Caracterización de subgrupo.md",
-    "2o Mates/205 Estructuras Algebraicas/Grupo.md",
-    "2o Mates/Marcos/Hungerford - Algebra/Monoide.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema del homomorfismo representación.md",
-    "2o Mates/205 Estructuras Algebraicas/Estabilizador.md",
-    "2o Mates/205 Estructuras Algebraicas/Núcleo de la acción.md",
-    "2o Mates/205 Estructuras Algebraicas/Todo homomorfismo es representación de alguna acción.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de Sylow.md",
     "Attachements/Pasted Image 20241115175658_239.png",
     "Attachements/Pasted Image 20241115164403_866.png",
     "Attachements",

@@ -35,14 +35,14 @@ entonces concluimos como en el primer paso
 START
 Básico
 Anverso: Cuál es el teorema de Cauchy para grupos abelianos
-Reverso: Sea $G$ un [[grupo abeliano]] y $p \in \mathbb P$ tal que $p \mid |g|$. Entonces $\exists H \le G$ tal que $|H| = p$.
+Reverso: Sea $G$ un [[Grupo abeliano]] y $p \in \mathbb P$ tal que $p \mid |g|$. Entonces $\exists H \le G$ tal que $|H| = p$.
 Tags: est
 <!--ID: 1729160606408-->
 END
 
 START
 Básico
-Anverso: Demostración de que sea $G$ un [[grupo abeliano]] y $p \in \mathbb P$ tal que $p \mid |g|$. Entonces $\exists H \le G$ tal que $|H| = p$.
+Anverso: Demostración de que sea $G$ un [[Grupo abeliano]] y $p \in \mathbb P$ tal que $p \mid |g|$. Entonces $\exists H \le G$ tal que $|H| = p$.
 Reverso: Procederemos por inducción sobre $|G|$.
 
 **Caso base: $|G| = 1$.**

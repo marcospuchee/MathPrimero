@@ -14,7 +14,7 @@ Un espacio topológico es un par $(X, \mathcal T)$ donde $X$ es un conjunto y $\
 START
 Básico
 Anverso: Definición de espacio topológico
-Reverso: Un espacio topológico es un par $(X, \mathcal T)$ donde $X$ es un conjunto y $\mathcal T$ una [[topología]]
+Reverso: Un espacio topológico es un par $(X, \mathcal T)$ donde $X$ es un conjunto y $\mathcal T$ una [[Topología]]
 Tags: 
 <!--ID: 1727083427885-->
 END

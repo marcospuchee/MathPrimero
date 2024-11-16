@@ -20,7 +20,7 @@ Por tanto, $A_1 \cap A_2 \subseteq A_1, A_2 \subseteq U,V$. Así, $x \in A_1 \ca
 
 START
 Respuesta anidada
-Sea $(X, \mathcal T)$ [[espacio topológico]], $x \in X$. {{c1::$U, V \in \mathcal E(x)$}} $\implies$ {{c2::$U \cap V \in \mathcal E(x).$}}
+Sea $(X, \mathcal T)$ [[Espacio topológico]], $x \in X$. {{c1::$U, V \in \mathcal E(x)$}} $\implies$ {{c2::$U \cap V \in \mathcal E(x).$}}
 
 Tags:
 <!--ID: 1727339263755-->
@@ -28,7 +28,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $(X, \mathcal T)$ [[espacio topológico]], $x \in X$.
+Anverso: Demostración de que sea $(X, \mathcal T)$ [[Espacio topológico]], $x \in X$.
 $$U, V \in \mathcal E(x) \implies U \cap V \in \mathcal E(x).$$
 Reverso: - $U \in \mathcal E(x) \implies \exists A_1 \in \mathcal T : x \in A_1 \subseteq U$.
 - $V \in \mathcal E(x) \implies \exists A_2 \in \mathcal T : x \in A_2 \subseteq V$.

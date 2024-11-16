@@ -24,8 +24,8 @@ $\leftarrow$. $\textrm{ad}(C) = C$ $\implies$ (por $(i)$) que $C$ cerrado.
 START
 Básico
 Anverso: Proposición relación entre conjunto cerrado y adherencia de un conjunto
-Reverso: Sean $(X, \mathcal T)$ un [[espacio topológico]], $S \subseteq X$. Entonces,
-1. $\textrm{ad}(S)$ ([[adherencia]]) es [[conjunto cerrado]] en $(X, \mathcal T)$.
+Reverso: Sean $(X, \mathcal T)$ un [[Espacio topológico]], $S \subseteq X$. Entonces,
+1. $\textrm{ad}(S)$ ([[adherencia]]) es [[Conjunto cerrado]] en $(X, \mathcal T)$.
 2. Sea $C$ cerrado tal que $S \subseteq C$, entonces $\textrm{ad}(S) \subseteq C$.
 3. $C$ es cerrado $\iff$ $\textrm{ad} (C) = C$.
 Tags: top
@@ -34,8 +34,8 @@ END
 
 START
 Básico
-Anverso: Demostración de que sean $(X, \mathcal T)$ un [[espacio topológico]], $S \subseteq X$. Entonces,
-1. $\textrm{ad}(S)$ ([[adherencia]]) es [[conjunto cerrado]] en $(X, \mathcal T)$.
+Anverso: Demostración de que sean $(X, \mathcal T)$ un [[Espacio topológico]], $S \subseteq X$. Entonces,
+1. $\textrm{ad}(S)$ ([[adherencia]]) es [[Conjunto cerrado]] en $(X, \mathcal T)$.
 2. Sea $C$ cerrado tal que $S \subseteq C$, entonces $\textrm{ad}(S) \subseteq C$.
 3. $C$ es cerrado $\iff$ $\textrm{ad} (C) = C$.
 Reverso: 

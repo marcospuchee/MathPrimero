@@ -21,7 +21,7 @@ Sean $(X, \mathcal T)$ un [[espacio topológico]], $S_1, S_2 \subseteq X$. Enton
 START
 Básico
 Anverso: Qué propiedades cumplen las adherencias
-Reverso: Sean $(X, \mathcal T)$ un [[espacio topológico]], $S_1, S_2 \subseteq X$. Entonces,
+Reverso: Sean $(X, \mathcal T)$ un [[Espacio topológico]], $S_1, S_2 \subseteq X$. Entonces,
 1. $S_1 \subseteq S_2 \implies \textrm{ad}(S_1) \subseteq \textrm{ad}(S_2)$.
 2. $\textrm{ad}(S_1 \cup S_2) = \textrm{ad}(S_1) \cup \textrm{ad}(S_2)$.
 Tags: top
@@ -30,7 +30,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sean $(X, \mathcal T)$ un [[espacio topológico]], $S_1, S_2 \subseteq X$. Entonces,
+Anverso: Demostración de que sean $(X, \mathcal T)$ un [[Espacio topológico]], $S_1, S_2 \subseteq X$. Entonces,
 1. $S_1 \subseteq S_2 \implies \textrm{ad}(S_1) \subseteq \textrm{ad}(S_2)$.
 2. $\textrm{ad}(S_1 \cup S_2) = \textrm{ad}(S_1) \cup \textrm{ad}(S_2)$.
 Reverso: 1. Sea $x \in \textrm{ad}(S_1)$. Entonces, $\forall U \in \mathcal E(x)$, $U \cap S_1 \neq \emptyset$. Por tanto, $U \cap S_2 \neq \emptyset$, luego $x \in \textrm{ad}(S_2)$.

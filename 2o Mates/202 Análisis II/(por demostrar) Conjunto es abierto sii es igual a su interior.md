@@ -15,7 +15,7 @@ $A \subseteq \mathbb R^n$ es [[conjunto abierto]] $\iff$ $A = \textrm{int}A$ ([[
 
 START
 Respuesta anidada
-{{c1::$A \subseteq \mathbb R^n$ es [[conjunto abierto]]}} $\iff$ {{c2::$A = \textrm{int}A$ ([[Punto interior]]).}}
+{{c1::$A \subseteq \mathbb R^n$ es [[Conjunto abierto]]}} $\iff$ {{c2::$A = \textrm{int}A$ ([[Punto interior]]).}}
 Tags:
 <!--ID: 1727083427828-->
 END

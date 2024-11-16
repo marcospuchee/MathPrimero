@@ -33,7 +33,7 @@ $\leftarrow$. $\emptyset = \textrm{fr}(A) \cap A = (\textrm{ad}(A) \textrm{\\} \
 START
 Básico
 Anverso: Relación de los conjuntos abiertos con el interior y la frontera
-Reverso: Sean $(X, \mathcal T)$ [[espacio topológico]], $S \subseteq X$. Entonces,
+Reverso: Sean $(X, \mathcal T)$ [[Espacio topológico]], $S \subseteq X$. Entonces,
 1. $\textrm{int}(S) \in \mathcal T$.
 2. $\forall A \in \mathcal T$ tal que $A \subseteq S$, entonces $A \subseteq \textrm{int}(S)$.
 3. $A \in \mathcal T \iff \textrm{int}(A) = A$.
@@ -44,7 +44,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sean $(X, \mathcal T)$ [[espacio topológico]], $S \subseteq X$. Entonces,
+Anverso: Demostración de que sean $(X, \mathcal T)$ [[Espacio topológico]], $S \subseteq X$. Entonces,
 1. $\textrm{int}(S) \in \mathcal T$.
 2. $\forall A \in \mathcal T$ tal que $A \subseteq S$, entonces $A \subseteq \textrm{int}(S)$.
 3. $A \in \mathcal T \iff \textrm{int}(A) = A$.

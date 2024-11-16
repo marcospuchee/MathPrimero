@@ -19,7 +19,7 @@ Sean $(X, \mathcal T)$ [[espacio topológico]], $S_1, S_2 \subseteq X$.
 START
 Básico
 Anverso: Propiedades del interior de un conjunto
-Reverso: Sean $(X, \mathcal T)$ [[espacio topológico]], $S_1, S_2 \subseteq X$.
+Reverso: Sean $(X, \mathcal T)$ [[Espacio topológico]], $S_1, S_2 \subseteq X$.
 1. $S_1 \subseteq S_2 \implies \textrm{int}(S_1) \subseteq \textrm{int}(S_2)$.
 2. $\textrm{int}(S_1 \cap S_2) = \textrm{int}(S_1) \cap \textrm{int}(S_2)$.
 Tags: top
@@ -28,7 +28,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sean $(X, \mathcal T)$ [[espacio topológico]], $S_1, S_2 \subseteq X$.
+Anverso: Demostración de que sean $(X, \mathcal T)$ [[Espacio topológico]], $S_1, S_2 \subseteq X$.
 1. $S_1 \subseteq S_2 \implies \textrm{int}(S_1) \subseteq \textrm{int}(S_2)$.
 2. $\textrm{int}(S_1 \cap S_2) = \textrm{int}(S_1) \cap \textrm{int}(S_2)$.
 Reverso:

@@ -18,14 +18,14 @@ $\supseteq$. $x \in X \textrm{\\} \textrm{ad}(X \textrm{\\} S)$. Como $X \textrm
 START
 Básico
 Anverso: Caracterización de interior (definición alternativa)
-Reverso: Sean $(X, \mathcal T)$ [[espacio topológico]] y $S \subseteq X$. Entonces, $\textrm{int}(S) = X \textrm{\\} \textrm{ad}(X \textrm{\\}S)$.
+Reverso: Sean $(X, \mathcal T)$ [[Espacio topológico]] y $S \subseteq X$. Entonces, $\textrm{int}(S) = X \textrm{\\} \textrm{ad}(X \textrm{\\}S)$.
 Tags: top
 <!--ID: 1729160606450-->
 END
 
 START
 Básico
-Anverso: Demostración de que sean $(X, \mathcal T)$ [[espacio topológico]] y $S \subseteq X$. Entonces, $\textrm{int}(S) = X \textrm{\\} \textrm{ad}(X \textrm{\\}S)$.
+Anverso: Demostración de que sean $(X, \mathcal T)$ [[Espacio topológico]] y $S \subseteq X$. Entonces, $\textrm{int}(S) = X \textrm{\\} \textrm{ad}(X \textrm{\\}S)$.
 Reverso: $\subseteq$. Como $x \in \textrm{int}(S)$, entonces $S \in \mathcal E(x)$, y además, $S \cap (X \textrm{\\} S) = \emptyset$, por lo tanto, $x \notin \textrm{ad}(X \textrm{\\} S)$, luego $x \in X \textrm{\\} \textrm{ad}(X \textrm{\\} S)$.
 
 $\supseteq$. $x \in X \textrm{\\} \textrm{ad}(X \textrm{\\} S)$. Como $X \textrm{\\} S \subseteq \textrm{ad}(X \textrm{\\} S)$, tomando complementarios, tenemos que $X \textrm{\\} \textrm{ad}(X \textrm{\\} S) \subseteq S$. Como $X \textrm{\\} \textrm{ad}(X \textrm{\\} S) \in \mathcal T$, entonces $S \in \mathcal E(x)$. Así, $x \in \textrm{int}(S)$.

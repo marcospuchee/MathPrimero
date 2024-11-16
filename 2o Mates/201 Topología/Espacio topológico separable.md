@@ -14,7 +14,7 @@ Decimos que $(X, \mathcal T)$ es un [[espacio topológico]] separable si existe 
 START
 Básico
 Anverso: Definición de espacio topológico separable
-Reverso: Decimos que $(X, \mathcal T)$ es un [[espacio topológico]] separable si existe un sub[[conjunto denso]] y numerable.
+Reverso: Decimos que $(X, \mathcal T)$ es un [[Espacio topológico]] separable si existe un sub[[conjunto denso]] y numerable.
 Tags: top
 <!--ID: 1728549802482-->
 END

@@ -35,7 +35,7 @@ $A$ es abierto $\iff$ $\forall x \in A$ $\exists \varepsilon > 0$ tal que si $B(
 
 START
 Básico
-Anverso: Demostración de que un conjunto es [[conjunto abierto]] $\iff$ es [[entorno]] de todos sus puntos.
+Anverso: Demostración de que un conjunto es [[Conjunto abierto]] $\iff$ es [[entorno]] de todos sus puntos.
 Reverso: $A$ es abierto $\iff$ $\forall x \in A$ $\exists \varepsilon > 0$ tal que si $B(x, \varepsilon) \subseteq A$ $\iff$ $A \in \mathcal E(x)$ $\forall x \in A$.
 Tags: dem top
 <!--ID: 1727083427869-->
@@ -50,7 +50,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $(X, \mathcal T)$ [[espacio topológico]],
+Anverso: Demostración de que sea $(X, \mathcal T)$ [[Espacio topológico]],
 $$A \in \mathcal T \iff A \in \mathcal E(x) \quad \forall x \in A.$$
 Reverso:
 $\rightarrow$. Sup. $A \in \mathcal T$. Entonces, $x \in A \subseteq A$. Por tanto, $A \in \mathcal E(x), \, \forall x \in A$.
@@ -64,7 +64,7 @@ END
 
 START
 Respuesta anidada
-Sea $(X, \mathcal T)$ [[espacio topológico]], {{c1::$A \in \mathcal T$}} $\iff$ {{c2::$A \in \mathcal E(x) \quad \forall x \in A.$}}
+Sea $(X, \mathcal T)$ [[Espacio topológico]], {{c1::$A \in \mathcal T$}} $\iff$ {{c2::$A \in \mathcal E(x) \quad \forall x \in A.$}}
 Tags:
 <!--ID: 1727339263779-->
 END

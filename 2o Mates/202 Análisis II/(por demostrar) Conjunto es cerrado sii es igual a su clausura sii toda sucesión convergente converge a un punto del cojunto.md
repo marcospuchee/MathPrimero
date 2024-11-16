@@ -16,7 +16,7 @@ $A$ es [[conjunto cerrado]] $\iff A = \overline A$ $\iff \forall (x^n)_{n \in \m
 
 START
 Respuesta anidada
-{{c1::$A$ es [[conjunto cerrado]]}} $\iff$ {{c2::$A = \overline A$}} $\iff$ {{c3::$\forall (x^n)_{n \in \mathbb N} \subseteq A$ convergente, el punto al que converge que queda en $A$.}}
+{{c1::$A$ es [[Conjunto cerrado]]}} $\iff$ {{c2::$A = \overline A$}} $\iff$ {{c3::$\forall (x^n)_{n \in \mathbb N} \subseteq A$ convergente, el punto al que converge que queda en $A$.}}
 Tags:
 <!--ID: 1727083427825-->
 END

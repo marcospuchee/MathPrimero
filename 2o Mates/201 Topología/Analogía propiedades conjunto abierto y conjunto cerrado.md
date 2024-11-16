@@ -23,7 +23,7 @@ Sea $(X, \mathcal T)$ [[espacio topológico]]. La familia de [[conjunto cerrado]
 START
 Básico
 Anverso: Analogía de las propiedades de un conjunto abierto con las propiedades de un conjunto cerrado
-Reverso: Sea $(X, \mathcal T)$ [[espacio topológico]]. La familia de [[conjunto cerrado]] cumple:
+Reverso: Sea $(X, \mathcal T)$ [[Espacio topológico]]. La familia de [[Conjunto cerrado]] cumple:
 1. $X, \emptyset$ son cerrados.
 2. $C,D$ cerrados $\implies C \cup D$ cerrados.
 3. $\{C_i\}_{i \in I}$ familia de cerrados $\implies \bigcap_{i \in I} C_i$ cerrado.
@@ -33,7 +33,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $(X, \mathcal T)$ [[espacio topológico]]. La familia de [[conjunto cerrado]] cumple:
+Anverso: Demostración de que sea $(X, \mathcal T)$ [[Espacio topológico]]. La familia de [[Conjunto cerrado]] cumple:
 1. $X, \emptyset$ son cerrados.
 2. $C,D$ cerrados $\implies C \cup D$ cerrados.
 3. $\{C_i\}_{i \in I}$ familia de cerrados $\implies \bigcap_{i \in I} C_i$ cerrado.
