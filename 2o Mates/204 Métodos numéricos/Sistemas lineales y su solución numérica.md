@@ -15,4 +15,6 @@
 - [$A \in \mathbb R^{n \times n}$ simétrica $\implies$ sus valores propios son reales](Matriz real simétrica implica que sus valores propios son reales)
 - [$A \in \mathbb R^{n \times n}$ SDP $\implies$ $\lambda > 0$, $\forall \lambda$ valor propio de $A$](Matriz real simétrica definida positiva implica que sus valores propios son estrictamente positivos)
 - [[Matriz diagonalizable]]
-- [$A \in \mathbb R^{n \times n}$ simétrica $\implies$ $\exists Q$ ortogonal $: Q^TAQ = D = \textrm{diag}(\lambda_1, \lambda_2, \dots, \lambda_n$)](Toda matriz simétrica es congruente a una matriz diagonal)
+- [$A \in \mathbb R^{n \times n}$ simétrica $\implies$ $\exists Q$ ortogonal $: QAQ^T = D$ diagonal](Matriz real simétrica es diagonalizable por matrices ortogonales)
+- [$||A||_ 2 = \sqrt{\rho(A^TA)}$](Cálculo norma 2)
+- 
