@@ -60,7 +60,7 @@ $v \in U^\perp \iff F(u,v) = 0 \quad \forall u \in U \iff$ (por [[Subespacio ort
 
 Luego $v \in U^\perp \iff A(x_1 \dots x_n)^t = 0$. Por tanto, $V \ge U^\perp = \{v \in V: A[v]_B = 0 \} = \{v \in V: [v]_B \in Ker(f_A) \}$, donde $f_A: \mathbb K^n \to \mathbb K^m$ con $y \to Ay$.
 
-Así, $\dim U^\perp = \dim Ker(f_A) = \dim f_A - \dim Imf_A = n - \dim f_A(\mathbb K^n)$, que esto a su vez es $n - rg(f_A)$ (por [[Rango de una aplicación lineal]]) $= n - rg(A)$ ([[Rango de una aplicación lineal]]) , donde $A$ es la [[Matriz asociada a una aplicación lineal]] a $f_A$ con respecto a las bases canónicas de $\mathbb K^n, \mathbb K^m$.
+Así, $\dim U^\perp = \dim Ker(f_A) = \dim f_A - \dim Imf_A = n - \dim f_A(\mathbb K^n)$, que esto a su vez es $n - rg(f_A)$ (por [[Rango de una aplicación lineal]]) $= n - rg(A)$ ([[Rango de una aplicación lineal]]) , donde $A$ es la [[Matriz coordenada]] a $f_A$ con respecto a las bases canónicas de $\mathbb K^n, \mathbb K^m$.
 
 Sin embargo, $A$ está formada por las primeras $m$ filas de la [[Matriz coordenada de F]] con respecto a $B$. Sea $G = F \restriction_{U \times U}: U \times U \to \mathbb K^n$. La matriz coordenada de $G$ con respecto a la base $\{u_1, \dots, u_n \}$ de $U$ es $M = (G(u_i, u_j)) \in M_{m \times n} (\mathbb K)$, pero como $G(u_i, u_j) = F(u_i, u_j), \forall i,j \in \{1, \dots, m\}$, $M$ está formada por las primeras $m$ columnas de $A$.
 

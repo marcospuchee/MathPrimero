@@ -24,7 +24,7 @@ Básico
 Anverso:  Cuál es el polinomio característico de un endomorfismo?
 Reverso: Sea $f \in End(V)$, el [[Polinomio]] característico de $f$ es:
 $$p_f (x) = p_A (x)$$
-donde $A \in M_n(K)$ es una matriz coordenada cualquiera de $f$ ([[Matriz asociada a una aplicación lineal]]).
+donde $A \in M_n(K)$ es una matriz coordenada cualquiera de $f$ ([[Matriz coordenada]]).
 Tags: definición
 <!--ID: 1707247432432-->
 END

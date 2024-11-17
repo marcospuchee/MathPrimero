@@ -2,7 +2,7 @@
 
 Sean $f: V \rightarrow V'$ y $g: V' \rightarrow V''$ aplicaciones lineales. Sean $B, B', B''$ [[Base]] de $V, V', V''$ respectivamente. Entonces:
 $$M_{B,B''}(g \circ f) = M_{B', B''}(g)M_{B,B'}(f)$$
-Es decir, la matriz asociada ([[Matriz asociada a una aplicación lineal]]) a una composición es el producto de matrices asociadas del final al principio. 
+Es decir, la matriz asociada ([[Matriz coordenada]]) a una composición es el producto de matrices asociadas del final al principio. 
 
 ---
 ### Demostración

@@ -3,7 +3,7 @@
 Sean $A, C \in M_{m \times n} (K)$. Son equivalentes:
 1) $A \sim C$ ([[Matrices equivalentes]])
 2) $rg(A) = rg(C)$.
-3) $A$ y $C$ representan la misma [[Aplicación lineal]] en dos pares de [[Base]], esto es, si $f : V \rightarrow V'$ con $B$ base de $V$ y $B'$ base de $V'$ y $M_{B, B'} (f) = A$ ([[Matriz asociada a una aplicación lineal]]) , entonces $\exists \widetilde{B}$ base de $V$ y $\widetilde B'$ base de $V'$ tal que $M_{\widetilde{B}, \widetilde{B'}} (f) = C$.
+3) $A$ y $C$ representan la misma [[Aplicación lineal]] en dos pares de [[Base]], esto es, si $f : V \rightarrow V'$ con $B$ base de $V$ y $B'$ base de $V'$ y $M_{B, B'} (f) = A$ ([[Matriz coordenada]]) , entonces $\exists \widetilde{B}$ base de $V$ y $\widetilde B'$ base de $V'$ tal que $M_{\widetilde{B}, \widetilde{B'}} (f) = C$.
 
 ---
 ### Demostración
@@ -48,7 +48,7 @@ START
 Básico
 Anverso: Demuestra que sean $A, C \in M_{m \times n} (K)$. Son equivalentes:
 1) $A \sim C$ ([[Matrices equivalentes]])
-2) $A$ y $C$ representan la misma [[Aplicación lineal]] en dos pares de [[Base]], esto es, si $f : V \rightarrow V'$ con $B$ base de $V$ y $B'$ base de $V'$ y $M_{B, B'} (f) = A$ ([[Matriz asociada a una aplicación lineal]]) , entonces $\exists \widetilde{B}$ base de $V$ y $\widetilde B'$ base de $V'$ tal que $M_{\widetilde{B}, \widetilde{B'}} (f) = C$.
+2) $A$ y $C$ representan la misma [[Aplicación lineal]] en dos pares de [[Base]], esto es, si $f : V \rightarrow V'$ con $B$ base de $V$ y $B'$ base de $V'$ y $M_{B, B'} (f) = A$ ([[Matriz coordenada]]) , entonces $\exists \widetilde{B}$ base de $V$ y $\widetilde B'$ base de $V'$ tal que $M_{\widetilde{B}, \widetilde{B'}} (f) = C$.
 Reverso:
 #### 1 $\implies$ 2
 $\exists P, Q$ invertibles tales que $PAQ = C$. También tenemos que $f : V \rightarrow V'$ con $B$ base de $V$ y $B'$ base de $V'$ tal que $M_{B, B'} (f) = A$. Componemos a izquierda y derecha con las identidades tal que: ![[Pasted image 20240110200137.png]]

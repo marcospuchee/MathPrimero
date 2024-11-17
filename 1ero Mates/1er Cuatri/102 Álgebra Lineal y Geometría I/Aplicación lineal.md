@@ -18,7 +18,7 @@ Sean $V, V'$ dos $k$-ev. Decimos que una aplicación ([[Aplicaciones]]) $f: V \r
 [[Corolario clasificación de los espacios vectoriales finitamente generados]]
 [[Corolario relación entre dimensiones en aplicaciones lineales]]
 [[Teorema clasificación aplicaciones lineales]]
-[[Matriz asociada a una aplicación lineal]]
+[[Matriz coordenada]]
 [[La matriz asociada a una aplicación lineal determina la aplicación lineal]]
 [[Cálculo de las coordenadas una imagen dada la matriz asociada]]
 [[Lema producto matriz asociada y coordenadas]]

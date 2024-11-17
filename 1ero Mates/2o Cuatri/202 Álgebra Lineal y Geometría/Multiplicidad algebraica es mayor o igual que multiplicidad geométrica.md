@@ -45,7 +45,7 @@ Anverso: Demuestra que sea $f \in End(V)$ un [[Endomorfismo]], y sea $\lambda \i
 $$ \alpha \ge d$$
 Reverso: Sea $\{v_1, \dots, v_d \}$ una base de $E_f(\lambda)$ ([[Subespacio propio de un endomorfismo]]) (subespacio de $V$). Por el lema de prolongación, $\exists v_{d+1}, \dots, v_n \in V$ tales que $\{v_1, \dots, v_\alpha, v_{d + 1}, \dots, v_n\} = B$ es base de $V$.
 
-Sea $A$ la matriz coordenadas de $f$ con respecto a la base $B$ ([[Matriz asociada a una aplicación lineal]]), notemos que $A$ tiene $\lambda$ en la diagonal hasta la $d$-ésima columna (por pertenecer todos esos vectores al subespacio propio de $f$).
+Sea $A$ la matriz coordenadas de $f$ con respecto a la base $B$ ([[Matriz coordenada]]), notemos que $A$ tiene $\lambda$ en la diagonal hasta la $d$-ésima columna (por pertenecer todos esos vectores al subespacio propio de $f$).
 Para calcular ahora el polinomio característico de $f$ ([[Polinomio característico de un endomorfismo]]), recurrimos al polinomio característico de $A$, que se calcula a través de $\det(xI_n - A)$. Luego este determinante es el determinante de una matriz con $x-\lambda$ en la diagonal hasta la $d$-ésima posición. Es decir, $\det (xI_n - A) = (x- \lambda)^{d} \cdot q(x)$, donde $q(x) \in \mathbb K [x]$ es el polinomio resultante de el resto de la matriz (las $n-\alpha$ columnas restantes correspondientes a las coordenadas de los vectores $v_{d+1}, \dots, v_n$ en la base $B$).
 Por tanto, $\alpha \ge d$.
 

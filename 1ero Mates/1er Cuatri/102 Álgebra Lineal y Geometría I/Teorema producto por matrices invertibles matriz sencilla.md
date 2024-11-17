@@ -10,7 +10,7 @@ $PAQ$ es una matriz por bloques donde el primer bloque es la matriz identidad, y
 
 Empezamos justificando el *"En particular"* (ósea que suponemos que $\exists P,Q$ tales que cumplen las condiciones). Por [[Proposición el rango de una matriz no cambia al multiplicarla por matrices invertibles]], $rg_f(A) = rg_f(PAQ) = rg_f \begin{pmatrix} I_r && 0 \\ 0 && 0 \end{pmatrix} = r = rg_c\begin{pmatrix} I_r && 0 \\ 0 && 0\end{pmatrix} =$ $rg_c(PAQ) = rg_c(A)$. Así, $rg_f(A) = rg_c(A)$.
 
-Ahora vamos a demostrar la existencia de $P$ y $Q$. Sea $f : K^n \to K^m$ la [[Aplicación lineal]] tal que $M_{B_c, B_c'} (f) =A$ ([[Matriz asociada a una aplicación lineal]]): 
+Ahora vamos a demostrar la existencia de $P$ y $Q$. Sea $f : K^n \to K^m$ la [[Aplicación lineal]] tal que $M_{B_c, B_c'} (f) =A$ ([[Matriz coordenada]]): 
 ![[Pasted image 20231209140831.png]]
 Nos gustaría encontrar unas [[Base]] $B, B'$ tal que $M_{B,B'} (f) = \begin{pmatrix} I_r && 0 \\ 0 && 0 \end{pmatrix}$. Si conseguimos esto, tendremos que, siendo $P = M_{B_c', B'} (Id_{K^m}) = B_c' \to^P B'$ ([[Matriz cambio de base]]) y $Q = M_{B, B_c} (Id_{K^n}) = B \to^Q B_c$, $PAQ = \begin{pmatrix} I_r && 0 \\ 0 && 0\end{pmatrix}$. Por ser matrices de cambio de base, $P$ y $Q$ son [[Matriz invertible]], y la demostración estaría completada.
 
@@ -46,7 +46,7 @@ Anverso: Demostración de que sea $A \in M_{m \times n} (K)$. Entonces $\exists 
 En particular, $rg_f(A) = rg_c(A)$.
 Reverso: Empezamos justificando el *"En particular"* (ósea que suponemos que $\exists P,Q$ tales que cumplen las condiciones). Por [[Proposición el rango de una matriz no cambia al multiplicarla por matrices invertibles]], $rg_f(A) = rg_f(PAQ) = rg_f \begin{pmatrix} I_r && 0 \\ 0 && 0 \end{pmatrix} = r = rg_c\begin{pmatrix} I_r && 0 \\ 0 && 0\end{pmatrix} =$ $rg_c(PAQ) = rg_c(A)$. Así, $rg_f(A) = rg_c(A)$.
 
-Ahora vamos a demostrar la existencia de $P$ y $Q$. Sea $f : K^n \to K^m$ la [[Aplicación lineal]] tal que $M_{B_c, B_c'} (f) =A$ ([[Matriz asociada a una aplicación lineal]]): 
+Ahora vamos a demostrar la existencia de $P$ y $Q$. Sea $f : K^n \to K^m$ la [[Aplicación lineal]] tal que $M_{B_c, B_c'} (f) =A$ ([[Matriz coordenada]]): 
 ![[Pasted image 20231209140831.png]]
 Nos gustaría encontrar unas [[Base]] $B, B'$ tal que $M_{B,B'} (f) = \begin{pmatrix} I_r && 0 \\ 0 && 0 \end{pmatrix}$. Si conseguimos esto, tendremos que, siendo $P = M_{B_c', B'} (Id_{K^m}) = B_c' \to^P B'$ ([[Matriz cambio de base]]) y $Q = M_{B, B_c} (Id_{K^n}) = B \to^Q B_c$, $PAQ = \begin{pmatrix} I_r && 0 \\ 0 && 0\end{pmatrix}$. Por ser matrices de cambio de base, $P$ y $Q$ son [[Matriz invertible]], y la demostración estaría completada.
 

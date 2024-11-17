@@ -11,5 +11,5 @@ Sea $B = \{v_1, \dots, v_n\}$. Entonces, $(v_i)_B = (0, \dots, 0, 1, 0, \dots, 0
 ### Referencias
 
 [[Aplicación lineal]]
-[[Matriz asociada a una aplicación lineal]]
+[[Matriz coordenada]]
 [[Coordenadas]]

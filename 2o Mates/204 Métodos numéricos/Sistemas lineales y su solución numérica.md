@@ -9,3 +9,10 @@
 - [$||AB|| \le ||A|| \, ||B||$](Propiedades de la norma matricial subordinada)
 - [$||A||_ 1 = \max \limits_ {1 \le j \le n} ||A(:,j)||_ 1 = \max \limits_ {1 \le j \le n} \sum_ {i = 1}^n |a_ {ij}|$](Cálculo norma matricial subordinada 1)
 - [$||A||_ \infty = \max \limits_ {1 \le i \le m} ||A(i,:)||_ 1 = \max \limits_ {1 \le i \le m} \sum_ {j = 1}^n |a_ {ij}|$](Cálculo norma matricial subordinada infinito)
+- [Valor propio](Valor propio de una matriz), [Vector propio](Valor propio de una matriz)
+- [$\lambda \in K$ valor propio de $A$ $\iff \det(A - \lambda I_n) = 0$](Teorema obtención valores propios)
+- [[Radio espectral]], [$\rho(A)$](Radio espectral)
+- [$A \in \mathbb R^{n \times n}$ simétrica $\implies$ sus valores propios son reales](Matriz real simétrica implica que sus valores propios son reales)
+- [$A \in \mathbb R^{n \times n}$ SDP $\implies$ $\lambda > 0$, $\forall \lambda$ valor propio de $A$](Matriz real simétrica definida positiva implica que sus valores propios son estrictamente positivos)
+- [[Matriz diagonalizable]]
+- [$A \in \mathbb R^{n \times n}$ simétrica $\implies$ $\exists Q$ ortogonal $: Q^TAQ = D = \textrm{diag}(\lambda_1, \lambda_2, \dots, \lambda_n$)](Toda matriz simétrica es congruente a una matriz diagonal)

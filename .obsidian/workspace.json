@@ -4,52 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "57baf9af2e707106",
+        "id": "00e962644394a216",
         "type": "tabs",
         "children": [
           {
-            "id": "4aee91920a3353f9",
+            "id": "bf15b4d83e22a5ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cálculo norma matricial subordinada 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cálculo norma matricial subordinada 1"
-            }
-          },
-          {
-            "id": "3200bb2910138f95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/204 Métodos numéricos/Sistemas lineales y su solución numérica.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistemas lineales y su solución numérica"
-            }
-          },
-          {
-            "id": "2209855f4335790b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/204 Métodos numéricos/Sistemas lineales y su solución numérica.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sistemas lineales y su solución numérica"
+              "title": "README"
             }
           }
         ]
@@ -91,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -102,16 +72,6 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "6e7462529b89019d",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
             }
           }
         ]
@@ -250,38 +210,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4aee91920a3353f9",
+  "active": "bf15b4d83e22a5ec",
   "lastOpenFiles": [
-    "README.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Toda matriz simétrica es congruente a una matriz diagonal.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Formas bilineales.md",
     "2o Mates/204 Métodos numéricos/Sistemas lineales y su solución numérica.md",
-    "2o Mates/204 Métodos numéricos/Norma matricial.md",
-    "2o Mates/204 Métodos numéricos/Norma matricial subordinada a una norma vectorial.md",
-    "Cálculo norma matricial subordinada 1.md",
-    "Cálculo norma matricial subordinada infinito.md",
-    "2o Mates/204 Métodos numéricos/Propiedades de la norma matricial subordinada.md",
-    "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
-    "2o Mates/201 Topología/201 Topología.md",
-    "2o Mates/205 Estructuras Algebraicas/Teoría de anillos.md",
-    "Eccles.md",
-    "1ero Mates/1er Cuatri/102 Álgebra Lineal y Geometría I/Espacio vectorial.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de Sylow (referencia).md",
-    "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
-    "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
-    "2o Mates/203 Programación matemática/Dualidad y análisis de sensibilidad.md",
-    "2o Mates/203 Programación matemática/203 Programación matemática.md",
-    "2o Mates/203 Programación matemática/Teorema de Dualidad Débil.md",
-    "2o Mates/203 Programación matemática/El método Simplex.md",
-    "2o Mates/203 Programación matemática/Modelo de programación lineal.md",
-    "2o Mates/203 Programación matemática/Hiperplano es cerrado y convexo.md",
-    "2o Mates/203 Programación matemática/Problema de PL en formato estándar.md",
-    "2o Mates/203 Programación matemática/Conjunto convexo.md",
-    "2o Mates/202 Análisis II/Diferenciabilidad de funciones de varias variables.md",
-    "2o Mates/202 Análisis II/Derivadas de orden superior y extremos relativos.md",
-    "2o Mates/202 Análisis II/202 Análisis II.md",
+    "2o Mates/204 Métodos numéricos/Cálculo norma matricial subordinada infinito.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Matriz compleja simétrica es congruente a matriz con 0 y la identidad.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Matrices congruentes.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Diagonalización.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Teorema dimensión subespacio ortogonal.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Teorema vectores propios nulos.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Criterio de diagonalización.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Teorema relación matriz diagonalizable endomorfismo diagonalizable.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Matriz diagonalizable.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Dos matrices coordenadas de f respecto a bases distintas poseen el mismo polinomio característico.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Polinomio característico de un endomorfismo.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Polinomio característico de una matriz.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Teorema obtención valores propios.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Valor propio de una matriz.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Valor propio de un endomorfismo.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Semejanza de matrices es relación de equivalencia.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Matrices asociadas a endomorfismos son semejantes.md",
+    "1ero Mates/1er Cuatri/102 Álgebra Lineal y Geometría I/Matriz cambio de base.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Matrices semejantes.md",
+    "1ero Mates/1er Cuatri/102 Álgebra Lineal y Geometría I/Matriz coordenada.md",
+    "1ero Mates/2o Cuatri/205 Herramientas informáticas/Sistemas numéricos y fuentes de error.md",
+    "Matriz real simétrica definida positiva implica que sus valores propios son estrictamente positivos.md",
+    "Matriz real simétrica implica que sus valores propios son reales.md",
+    "Attachements/Pasted Image 20241115164403_866.png",
+    "Attachements/Pasted Image 20241115175658_239.png",
     "Canvas/Espacios topológicos.canvas",
     "Untitled",
-    "Attachements/Pasted Image 20241115175658_239.png",
-    "Attachements/Pasted Image 20241115164403_866.png",
     "Attachements",
     "Canvas/Análisis II.canvas",
     "Canvas/Teoría de grupos (canvas).canvas",
