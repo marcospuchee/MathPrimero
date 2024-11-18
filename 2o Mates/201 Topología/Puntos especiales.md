@@ -12,7 +12,7 @@
 - [[Punto de acumulación]]
 - [[Punto aislado]]
 ### 2. Puntos frontera.
-- [[Frontera topológica]].
+- [[Frontera topológica]]
 Como la frontera topológica es un subconjunto de la adherencia, cumple las proposiciones de la adherencia.
 ### 3. Puntos interiores. 
 - [[Punto interior]]

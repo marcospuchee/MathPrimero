@@ -30,7 +30,7 @@
 - [$\textrm{Cl} \\_ G(x)$](Acción por conjugación), [Clase de conjugación de $x$](Acción por conjugación)
 - [$C_G(x)$](Acción por conjugación), [Centralizador de $x$ en $G$](Acción por conjugación)
 - [$|G| = |Z(G)| + \sum \\_ {i = t+1}^n |G:C_G(x_i)|$](Ecuación de las clases)
-- [$G$ $p$-grupo no trivial $\implies$ $Z(G) \neq 1$](Corolario ecuación de las clases)
+- [Todo $p$-grupo no trivial tiene $Z(G)$ no trivial](Corolario ecuación de las clases), [$G$ $p$-grupo no trivial $\implies$ $Z(G) \neq 1$](Corolario ecuación de las clases)
 - [$C_G(H)$](Centralizador de un subgrupo)
 - [$H \le G$ abeliano $\iff$ $H \le C_G(H)$](Caracterización subgrupo abeliano (centralizador))
 ### 6. La acción sobre los subgrupos.

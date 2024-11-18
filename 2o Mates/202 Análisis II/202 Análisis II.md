@@ -76,6 +76,7 @@
 - [[Derivadas parciales nulas implican que la función es constante]]
 ---
 ## Tema 4: Derivadas de orden superior y extremos relativos.
+**Referencia:** [[Derivadas de orden superior y extremos relativos]]
 ### 1. Derivada de orden dos.
 - [$D_if(a)$](Derivada de orden dos)
 - [$\exists D_if(a), D_jf(a)$ y son diferenciables $\implies$ $\exists D_{ij}f(a), D_{ji}f(a)$ y $D_{ij}f(a) = D_{ji}f(a)$](Teorema de Young)

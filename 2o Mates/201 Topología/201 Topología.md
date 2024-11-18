@@ -1,5 +1,5 @@
 ## Tema 1. Espacios métricos.
-[[Espacios métricos]]
+**Referencia:** [[Espacios métricos]]
 
 - [[Métrica]]
 - [[Espacio métrico]]
@@ -21,7 +21,7 @@
 - [[(por demostrar) Conjunto es cerrado si para todo punto en su complementario existe bola que no intersecta con el conjunto]]
 ---
 ## Tema 2. Espacios topológicos.
-[[Espacios topológicos]]
+**Referencia:** [[Espacios topológicos]]
 ### 1. Definición.
 - [[Topología]]
 - [[Espacio topológico]]
@@ -50,7 +50,7 @@
 - [[Métricas equivalentes si existen constantes tales que una envuelve a la otra]]
 ---
 ## Tema 3: Puntos especiales.
-[[Puntos especiales]]
+**Referencia:** [[Puntos especiales]]
 ### 1. Puntos de adherencia.
 - [[Adherencia]]
 - [[Caracterización de punto de adherencia (base de entornos)]]
@@ -86,7 +86,7 @@ Como la frontera topológica es un subconjunto de la adherencia, cumple las prop
 - [[Caracterización de punto frontera en espacios métricos (convergencia)]]
 ---
 ## Tema 4: Continuidad
-[[Continuidad]]
+**Referencia:** [[Continuidad]]
 ### 1. Continuidad.
 - [[Función continua]]
 - [[Caracterización de continuidad (bases de entornos)]]
@@ -112,7 +112,7 @@ Como la frontera topológica es un subconjunto de la adherencia, cumple las prop
 - [Isometría $\implies ($ inyectiva $\land$ uniformemente continua $)$](Isometría implica inyectiva y uniformemente continua)
 ---
 ## Tema 5: Subespacios topológicos.
-[[Subespacios topológicos]]
+**Referencia:** [[Subespacios topológicos]]
 ### 1. Definición.
 - [$\mathcal T_H$](Topología inducida), [$\mathcal T_H$ es topología](Topología inducida) 
 - [$C$ cerrado en $\mathcal T_H$ $\iff \exists C'$ cerrado en $\mathcal T : C = C' \cap H$](Caracterización cerrado en topología inducida (cerrado))
