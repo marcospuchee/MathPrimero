@@ -9,7 +9,7 @@ $$|G| = |Z(G)| + \sum_{i = t+1}^n |G:C_G(x_i)|.$$
 Tomando la acción por conjugación,
 $$\begin{eqnarray}
 |G| &=& |Z(G)| + \sum_{i = t+1}^n |\textrm{Cl}_G(x_i)| \\
-&=& |Z(G)| + \sum_{i = t+1}^n |G: C_G(x_I)|,
+&=& |Z(G)| + \sum_{i = t+1}^n |G: C_G(x_i)|,
 \end{eqnarray}$$
 donde $x_{t+1}, \dots x_n \in G \textrm{\\} Z(G)$.
 ```

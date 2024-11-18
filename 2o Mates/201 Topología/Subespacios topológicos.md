@@ -12,3 +12,6 @@
 - [$\textrm{int}(S) \cap H \subseteq \textrm{int}_ H(S)$](Intersección interior con subconjunto está contenida en el interior del subespacio)
 - [$\textrm{fr}_ H(S) \subseteq \textrm{fr}(S) \cap H$](Intersección interior con subconjunto está contenida en el interior del subespacio)
 ### 3. Continuidad y subespacios.
+- [[Aplicación inclusión es continua]]
+- [$f$ continua en $x_0$ $\iff$ $f: (X, \mathcal T) \to (H, \mathcal T_H')$ continua en $x_0$](Caracterización continuidad en un punto (restricción del codominio))
+- [$f$ continua $\implies$ $f \restriction_H: (H, \mathcal T_H) \to (Y, \mathcal T')$ continua](Restricción de una función continua es continua)

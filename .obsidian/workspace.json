@@ -4,73 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "c94a77a7362e01d3",
+        "id": "431f32472dabe4ca",
         "type": "tabs",
         "children": [
           {
-            "id": "8852f97c107d599e",
+            "id": "d658c1672502be5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Acción sobre los subgrupos.md",
+                "file": "2o Mates/201 Topología/Subespacios topológicos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Acción sobre los subgrupos"
+              "title": "Subespacios topológicos"
+            }
+          },
+          {
+            "id": "af4156d29bcf8da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/201 Topología/Subespacios topológicos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Subespacios topológicos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "9350723951a0f28c",
+        "id": "f00bee8b6c516bee",
         "type": "tabs",
         "children": [
           {
-            "id": "25c76a6bab34f03c",
+            "id": "48aeaaedf2f848b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2o Mates/201 Topología/Subespacios topológicos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "dae9059a1634967a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Acción por conjugación.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acción por conjugación"
-            }
-          },
-          {
-            "id": "aa6ee18a9bda318b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acciones de grupos"
+              "title": "Subespacios topológicos"
             }
           }
         ]
@@ -129,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -247,34 +234,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25c76a6bab34f03c",
+  "active": "af4156d29bcf8da3",
   "lastOpenFiles": [
-    "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
-    "2o Mates/205 Estructuras Algebraicas/Acción sobre los subgrupos.md",
-    "2o Mates/205 Estructuras Algebraicas/Corolario ecuación de las clases.md",
-    "2o Mates/205 Estructuras Algebraicas/Ecuación de las clases.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema cardinal conjunto con acción sobre p-grupo.md",
-    "2o Mates/205 Estructuras Algebraicas/Acción por conjugación.md",
-    "2o Mates/205 Estructuras Algebraicas/Caracterización subgrupo abeliano (centralizador).md",
-    "2o Mates/205 Estructuras Algebraicas/Centralizador de un subgrupo.md",
-    "2o Mates/205 Estructuras Algebraicas/Acción sobre clases.md",
-    "2o Mates/205 Estructuras Algebraicas/Corolario 2 teorema órbita-estabilizador.md",
-    "2o Mates/205 Estructuras Algebraicas/Acción natural.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema órbita-estabilizador.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema del homomorfismo representación.md",
-    "2o Mates/205 Estructuras Algebraicas/Acción transitiva.md",
-    "2o Mates/205 Estructuras Algebraicas/Acción de grupo.md",
-    "2o Mates/205 Estructuras Algebraicas/Órbita.md",
-    "2o Mates/205 Estructuras Algebraicas/Permutación.md",
-    "2o Mates/205 Estructuras Algebraicas/Estabilizador.md",
-    "README.md",
+    "Restricción de una función continua es continua.md",
     "2o Mates/201 Topología/Subespacios topológicos.md",
-    "2o Mates/201 Topología/Puntos especiales.md",
-    "2o Mates/201 Topología/La propiedad de ser metrizable es hereditaria.md",
-    "2o Mates/201 Topología/Intersección interior con subconjunto está contenida en el interior del subespacio.md",
-    "2o Mates/201 Topología/Caracterización de frontera (definición alternativa).md",
-    "2o Mates/201 Topología/Propiedades conjuntos abiertos (respecto a su interior y frontera).md",
-    "2o Mates/201 Topología/Caracterización de adherencia en subespacio (intersección).md",
+    "Caracterización continuidad en un punto (restricción del codominio).md",
+    "Caracterización continuidad en un punto (subespacio topológico).md",
+    "Aplicación inclusión es continua.md",
+    "2o Mates/201 Topología/Continuidad.md",
+    "2o Mates/201 Topología/Caracterización de continuidad global (antiimagen de abiertos).md",
+    "2o Mates/203 Programación matemática/203 Programación matemática.md",
+    "2o Mates/203 Programación matemática/Criterio de factibilidad Dual-Simplex.md",
+    "2o Mates/201 Topología/201 Topología.md",
+    "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
+    "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema de Cauchy generalizado.md",
+    "2o Mates/205 Estructuras Algebraicas/Los p-subgrupos de Sylow son p-subgrupos maximales.md",
+    "2o Mates/205 Estructuras Algebraicas/p-grupo.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema de Sylow (referencia).md",
+    "2o Mates/205 Estructuras Algebraicas/Corolario teorema de Cauchy generalizado.md",
+    "2o Mates/205 Estructuras Algebraicas/p-subgrupo de Sylow.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema de correspondencia.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema de Cauchy para grupos abelianos.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema de Lagrange (cardinal de un grupo).md",
+    "2o Mates/205 Estructuras Algebraicas/Acción por conjugación.md",
+    "2o Mates/205 Estructuras Algebraicas/Ecuación de las clases.md",
+    "README.md",
+    "2o Mates/205 Estructuras Algebraicas/Acción sobre los subgrupos.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema órbita-estabilizador.md",
     "Canvas/Espacios topológicos.canvas",
     "Attachements/Pasted Image 20241115164403_866.png",
     "Attachements/Pasted Image 20241115175658_239.png",

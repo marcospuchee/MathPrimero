@@ -5,14 +5,13 @@ Sea $|G| = p^k m$ donde $p \in \mathbb P$ y $p \nmid m$. Entonces $\textrm{Syl}_
 ```
 
 ```ad-proof
-
-
+Directo del teorema de Cauchy generalizado
 ```
 
 **Tema:** [[Teorema de Sylow (referencia)]]
 
 **Definiciones referenciadas:** [$\textrm{Syl} \\_ p(G)$](p-subgrupo de Sylow)
-**Resultados referenciados:**
+**Resultados referenciados:** [[Teorema de Cauchy generalizado]]
 
 ---
 ### Anki

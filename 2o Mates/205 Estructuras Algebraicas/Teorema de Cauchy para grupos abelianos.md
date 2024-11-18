@@ -27,7 +27,7 @@ entonces concluimos como en el primer paso
 ```
 
 **Tema:** [[Teoría de grupos#12. Grupos cociente.]]
-**Corolario:**
+**Generalización:** [[Teorema de Cauchy generalizado]]
 
 ---
 ### Anki

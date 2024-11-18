@@ -5,7 +5,7 @@
 - [[Composición de continuas es continua]]
 - [[Relación de adherencia se mantiene con funciones continuas]]
 ### 2. Continuidad global.
-- [[Caracterización de continuidad global (antiimagen de abiertos)]]
+- [$f$ es continua $\iff$ $\forall A \in \mathcal T'$, $f^{-1}(A) \in \mathcal T$](Caracterización de continuidad global (antiimagen de abiertos))
 - [[Caracterización de continuidad global (antiimagen de cerrados)]]
 - [[Composición de continuas globales es continua global]]
 ### 3. Homeomorfismos.

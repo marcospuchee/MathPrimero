@@ -7,13 +7,13 @@ Sea $|G| = p^k m$ donde $p \in \mathbb P$ y $p \nmid m$. Si $S \in \textrm{Syl}_
 ```
 
 ```ad-proof
-
-
+1. Es evidente por definición de $p$-subgrupo de Sylow.
+2. Como $P$ es $p$-subgrupo de $G$, $P = p^n$ para $n \in \mathbb N$. Entonces, como $S \le P \le G$, tenemos que: $p^k \mid p^n \mid p^km$. Así, $k = n$ y $S = P$.
 ```
 
 **Tema:** [[Teorema de Sylow (referencia)]]
 
-**Definiciones referenciadas:** [$p$-subgrupo](p-subgrupo de Sylow), [$\textrm{Syl} \\_ p(G)$](p-subgrupo de Sylow)
+**Definiciones referenciadas:** [$\textrm{Syl} \\_ p(G)$](p-subgrupo de Sylow), [$p$-subgrupo](p-grupo)
 **Resultados referenciados:**
 
 ---

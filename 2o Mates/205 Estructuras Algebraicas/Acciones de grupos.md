@@ -19,7 +19,8 @@
 - [[Acción transitiva]], [$g \cdot \alpha = \beta$](Acción transitiva)
 ### 3. La acción natural.
 - [[Acción natural]]
-### 4. La acción sobre clases.
+- [$|S_n:S_{n-1}| = n$](Acción natural)
+### 4. La acción sobre clases (prácticas).
 - [[Acción sobre clases]]
 - [$\textrm{Core} \\_ G (H)$](Acción sobre clases)
 - [$G/\textrm{Core} \\_ G(H) \overset{\sim}{\le} S \\_ {\mathcal L_H}$ ](Teorema de Cayley (grupo cociente con core isomorfo a grupo simétrico en las coclases))
@@ -36,6 +37,7 @@
 ### 6. La acción sobre los subgrupos.
 - [[Acción sobre los subgrupos]]
 - [$N_G(H)$](Acción sobre los subgrupos), [Normalizador de $H$ en $G$](Acción sobre los subgrupos)
+- [$|\{{}^gH : g \in G \}| = |G: N_G(H)|$](Acción sobre los subgrupos)
 - [$N_G(H)$ es el mayor subgrupo de $G$ en el que $H$ es normal](El normalizador de H en G es el mayor subgrupo de G en el que H es normal)
 - [$C_G(H) \unlhd N_G(H)$](Propiedades del normalizador de un subgrupo)
 - [$N_G(H) / C_G(H) \overset{\sim}{\le} \textrm{Aut}(G)$](Propiedades del normalizador de un subgrupo)

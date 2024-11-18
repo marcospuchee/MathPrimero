@@ -9,8 +9,7 @@ Es decir, $N_G(H)$ es el mayor subgrupo de $G$ en el que $H$ es normal.
 ```
 
 ```ad-proof
-
-
+*Prácticas.*
 ```
 
 **Tema:** [[Acciones de grupos#6. La acción sobre los subgrupos.]]
