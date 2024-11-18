@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/201 Topología/Subespacios topológicos.md",
+                "file": "2o Mates/201 Topología/Restricción de una función continua es continua.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subespacios topológicos"
+              "title": "Restricción de una función continua es continua"
             }
           }
         ],
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -234,13 +233,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af4156d29bcf8da3",
+  "active": "5e6eb8f7956acf1a",
   "lastOpenFiles": [
-    "Restricción de una función continua es continua.md",
-    "2o Mates/201 Topología/Subespacios topológicos.md",
-    "Caracterización continuidad en un punto (restricción del codominio).md",
+    "2o Mates/201 Topología/Caracterización continuidad en un punto (restricción del codominio).md",
     "Caracterización continuidad en un punto (subespacio topológico).md",
-    "Aplicación inclusión es continua.md",
+    "2o Mates/201 Topología/Subespacios topológicos.md",
+    "2o Mates/201 Topología/Restricción de una función continua es continua.md",
+    "2o Mates/201 Topología/Aplicación inclusión es continua.md",
     "2o Mates/201 Topología/Continuidad.md",
     "2o Mates/201 Topología/Caracterización de continuidad global (antiimagen de abiertos).md",
     "2o Mates/203 Programación matemática/203 Programación matemática.md",
