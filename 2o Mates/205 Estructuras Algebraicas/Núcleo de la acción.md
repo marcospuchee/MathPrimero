@@ -11,3 +11,12 @@ $$\textrm{Ker}(\rho) = \{g \in G \, | \, \rho_g = id_\Omega \} = \{g \in G \, | 
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cuál es el núcleo de una acción de grupo
+Reverso: Sea $G \curvearrowright \Omega$. El núcleo de la acción es el núcleo del homomorfismo representación
+$$\textrm{Ker}(\rho) = \{g \in G \, | \, \rho_g = id_\Omega \} = \{g \in G \, | \, \forall \alpha \in \Omega, \, g \cdot \alpha = \alpha \} \unlhd G.$$
+Tags: est
+<!--ID: 1731931804957-->
+END

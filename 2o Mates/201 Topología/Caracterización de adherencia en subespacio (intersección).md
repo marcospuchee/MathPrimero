@@ -21,3 +21,27 @@ $$U \cap S = U' \cap H \cap S = U' \cap S \neq \emptyset \implies x \in \textrm{
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cómo es la adherencia de un subespacio topológico con respecto a la adherencia del subespacio total?
+Reverso: Sean $(X, \mathcal T)$ espacio topológico y $S \subseteq H \subseteq X$. Se tiene que
+$$\textrm{ad}_ H(S) = \textrm{ad}(S) \cap H.$$
+Tags: top
+<!--ID: 1731931805301-->
+END
+
+START
+Básico
+Anverso: Demostración de que sean $(X, \mathcal T)$ espacio topológico y $S \subseteq H \subseteq X$. Se tiene que
+$$\textrm{ad}_ H(S) = \textrm{ad}(S) \cap H.$$
+Reverso: $\subseteq$.
+Notemos que $\textrm{ad}(S) \cap H$ es cerrado en $\mathcal T_H$ por ser intersección de cerrados. Tenemos que $S \subseteq \textrm{ad}(S) \cap H$, y como $\textrm{ad}_H(S)$ es el menor cerrado en $\mathcal T_H$ que contiene a $S$, $\textrm{ad}_H(S) \subseteq \textrm{ad}(S) \cap H$.
+
+$\supseteq$.
+Sean $x \in \textrm{ad}(S) \cap H$, $U \in \mathcal E_H(x)$, entonces $\exists U' \in \mathcal E(x)$ tal que $U = U' \cap H$, y como $x \in \textrm{ad}(S)$, entonces $U' \cap S \neq \emptyset$. Entonces,
+$$U \cap S = U' \cap H \cap S = U' \cap S \neq \emptyset \implies x \in \textrm{ad}_H(S).$$
+Tags: dem top
+<!--ID: 1731931805311-->
+END
+

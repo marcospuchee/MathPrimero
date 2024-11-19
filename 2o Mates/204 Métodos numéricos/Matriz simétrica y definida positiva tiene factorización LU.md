@@ -13,7 +13,7 @@ $a_{11} \neq 0$.
 **Paso inductivo.**
 Al realizar un paso de eliminación gaussiana, y ser $A$ simétrica con $\alpha \neq 0$, obtenemos
 $$M_1A = \left ( \begin{array}{c | c} \alpha & v^T \\ \hline 0 & C - \frac{1}{\alpha}vv^T \end{array} \right ).$$
-Por [[matriz definida positiva tiene diagonal estrictamente positiva]], $C - \frac{1}{\alpha}vv^T$ es simétrica, veamos que es definida positiva. Consideramos $y = \left ( \begin{array}{c} -\frac{1}{\alpha}x^Tv \\ x \end{array} \right )$ con $x \in \mathbb R^n \textrm{\\} \{0\}$, de forma que
+Por [[matriz definida positiva tiene diagonal estrictamente positiva]], $C - \frac{1}{\alpha}vv^T$ es simétrica, veamos que es definida positiva. Dado $x \in \mathbb R^n \textrm{\\} \{0\}$, consideramos $y = \left ( \begin{array}{c} -\frac{1}{\alpha}x^Tv \\ x \end{array} \right )$ con $x \in \mathbb R^n \textrm{\\} \{0\}$, de forma que
 $$\begin{eqnarray}
 y^T A y &=& (-\frac{1}{\alpha}x^T v, x^T) \left ( \begin{array}{c | c} \alpha & v^T \\ \hline 0 & C - \frac{1}{\alpha}vv^T \end{array} \right ) \left ( \begin{array}{c} - \frac{1}{\alpha}xv^T \\ x \end{array} \right ) \\ &=& (- \frac{1}{\alpha}x^Tv, x^T) \left ( \begin{array}{c} -x^Tv + v^Tx \\ -\frac{1}{\alpha} vx^Tv + Cx \end{array} \right ) \\
 &=& ( - \frac{1}{\alpha} x^T v, x^T) \left ( \begin{array}{c} 0 \\ (1-\frac{1}{\alpha}vv^T + C)x \end{array} \right ) \\

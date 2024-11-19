@@ -1,6 +1,6 @@
 ### Contenido principal
 
-Algoritmo para econtrar la matriz $L_{m,k}$, que añade $0$ en la fila $m$, columna $k$ de $A$ (es decir, la [[matriz elemental de tipo III]]). Para ello, vamos a realizar las operaciones: multiplicar la fila $k$ por el número $\alpha_{m,k}$, sumar el resultado a la fila $m$ y sustituir la fila $m$ de la matriz dada por el resultado de esta operación.
+Algoritmo para econtrar la matriz $L_{m,k}$, que añade $0$ en la fila $m$, columna $k$ de $A$ (es decir, la matriz elemental de tipo $III$). Para ello, vamos a realizar las operaciones: multiplicar la fila $k$ por el número $\alpha_{m,k}$, sumar el resultado a la fila $m$ y sustituir la fila $m$ de la matriz dada por el resultado de esta operación.
 
 ```ad-Algorithm
 1. $e^T_mA = A(m, :)$ es la fila $m$ de la matriz $A$, $e_k^T A = A(k,:)$ es la fila $k$ de la matriz $A$. Multiplicar la fila $k$ por el número $\alpha_{m,k}$, y sumar el resultado a la fila $m$ se escribe como $\alpha_{m,k}e_k^T A + e_m^TA$.
@@ -17,6 +17,8 @@ $$L_{m,k} = I + \alpha_{m,k} e_m e_k^T.$$
 ```
 
 **Tema:** [[Descomposición LU#2. La eliminación gaussiana como descomposición matricial.]]
+
+**Definiciones referenciadas:** [[Matriz elemental de tipo III]]
 
 ---
 ### Anki

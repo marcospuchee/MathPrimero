@@ -25,3 +25,21 @@ D^2f(a): & \mathbb R^n & \to & \mathbb R \\
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definción de forma cuadrática
+Reverso: Una forma cuadrática en $\mathbb R^n$ es una aplicación $Q: \mathbb R^n \to \mathbb R$ tal que
+$$Q(x) = x \cdot A \cdot x^t = \sum_{i = 1}^n \sum_{j = 1}^n a_{ij} x_i x_j$$
+donde $A$ es una matriz simétrica de orden $n$.
+
+Notemos que si $\lambda \in \mathbb R$, entonces $Q(\lambda x) = \lambda^2 Q(x)$.
+
+Notemos que si $f \in C^2(\Omega)$, $H_f(a)$ define una forma cuadrática en $\mathbb R^n$. La denotaremos 
+$$\begin{array}{c c c l}
+D^2f(a): & \mathbb R^n & \to & \mathbb R \\
+& x & \mapsto & x \cdot H_f(a) \cdot x^t = \displaystyle \sum_{i = 1}^n \sum_{j = 1}^n D_{ij}f(a) x_i x_j
+\end{array}$$
+Tags: anII
+<!--ID: 1731931805166-->
+END

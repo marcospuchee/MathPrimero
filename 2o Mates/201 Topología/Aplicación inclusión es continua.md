@@ -20,3 +20,30 @@ Dado $A \in \mathcal T$, $i^{-1}(A) = A \cap H \in \mathcal T_H$. Luego $i$ es c
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cuál es la aplicación inclusión
+Reverso: Sean $(X, \mathcal T)$ espacio topológico, $H \subseteq X$. Entonces, la aplicación inclusión
+$$\begin{array}{c c c l}
+i: & (H, \mathcal T_H) & \to & (X, \mathcal T) \\
+& x & \mapsto & x
+\end{array}$$
+es continua
+Tags: top
+<!--ID: 1731931805385-->
+END
+
+START
+Básico
+Anverso: Demostración de que sean $(X, \mathcal T)$ espacio topológico, $H \subseteq X$. Entonces, la aplicación inclusión
+$$\begin{array}{c c c l}
+i: & (H, \mathcal T_H) & \to & (X, \mathcal T) \\
+& x & \mapsto & x
+\end{array}$$
+es continua
+Reverso: Dado $A \in \mathcal T$, $i^{-1}(A) = A \cap H \in \mathcal T_H$. Luego $i$ es continua.
+Tags: dem top
+<!--ID: 1731931805393-->
+END
+

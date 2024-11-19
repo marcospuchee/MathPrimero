@@ -22,3 +22,26 @@ donde $x_{t+1}, \dots x_n \in G \textrm{\\} Z(G)$.
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cuál es la ecuación de las clases?
+Reverso: Sea $G$ un grupo finito. Entonces $\exists x_{t+1}, \dots, x_n \in G$ tales que
+$$|G| = |Z(G)| + \sum_{i = t+1}^n |G:C_G(x_i)|.$$
+Tags: est
+<!--ID: 1731931805001-->
+END
+
+START
+Básico
+Anverso: Demostración de la ecuación de las clases
+Reverso: Tomando la acción por conjugación,
+$$\begin{eqnarray}
+|G| &=& |Z(G)| + \sum_{i = t+1}^n |\textrm{Cl}_G(x_i)| \\
+&=& |Z(G)| + \sum_{i = t+1}^n |G: C_G(x_i)|,
+\end{eqnarray}$$
+donde $x_{t+1}, \dots x_n \in G \textrm{\\} Z(G)$.
+Tags: dem est
+<!--ID: 1731931805009-->
+END
+

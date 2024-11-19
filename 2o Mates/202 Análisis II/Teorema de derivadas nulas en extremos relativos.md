@@ -54,3 +54,19 @@ Tags: dem anII
 <!--ID: 1731446305297-->
 END
 
+START
+Básico
+Anverso: Definición de punto crítico
+Reverso: A los puntos donde el gradiente se anula los llamamos puntos críticos.
+Tags: anII
+<!--ID: 1731931805139-->
+END
+
+START
+Básico
+Anverso: Definición de puntos de silla
+Reverso: Un punto crítico que no es máximo ni mínimo relativo lo llamamos punto de silla. Para un puntos de silla $a$ de $f$, tendremos que para cualquier $B(a; r) \subset \Omega$ podemos encontrar $x_1, x_2 \in B(a;r)$ tales que $f(x_1) < f(a) < f(x_2)$.
+Tags: anII
+<!--ID: 1731931805148-->
+END
+

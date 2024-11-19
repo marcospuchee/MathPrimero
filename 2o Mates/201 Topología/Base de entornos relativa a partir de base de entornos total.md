@@ -24,3 +24,27 @@ Así, $\mathcal B_H(x)$ es base de entornos en la topología relativa.
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cómo se forma base de entornos en topología inducida a partir de la base de entornos total
+Reverso: Sean $(X, \mathcal T)$ espacio topológico, $x \in H \subseteq X$, $\mathcal B(x)$ base de entornos de $x$. Entonces, $\mathcal B_H(x) = \{B \cap H : B \in \mathcal B(x) \}$ es base de entornos de $x$ en la topología inducida.
+
+Notemos entonces que la propiedad $1\textrm{AN}$ es hereditaria.
+Tags: top
+<!--ID: 1731931805356-->
+END
+
+START
+Básico
+Anverso: Demostración de que sean $(X, \mathcal T)$ espacio topológico, $x \in H \subseteq X$, $\mathcal B(x)$ base de entornos de $x$. Entonces, $\mathcal B_H(x) = \{B \cap H : B \in \mathcal B(x) \}$ es base de entornos de $x$ en la topología inducida.
+Reverso: Vamos a comprobar que se cumpla la definición de base de entornos:
+1. $B \cap H \in \mathcal E_H(x)$.
+2. Sea $U \in \mathcal E_H(x)$, entonces $\exists U' \in \mathcal E(x)$ tal que $U = U' \cap H$. Como $\mathcal B(x)$ es base de entornos, entonces $\exists B \in \mathcal B(x)$ tal que $x \in B \subseteq U'$, luego $x \in B \cap H \subseteq U' \cap H = U$, donde $B \cap H \in \mathcal B_H(x)$. 
+
+Así, $\mathcal B_H(x)$ es base de entornos en la topología relativa.
+Tags: dem top
+<!--ID: 1731931805366-->
+END
+
+

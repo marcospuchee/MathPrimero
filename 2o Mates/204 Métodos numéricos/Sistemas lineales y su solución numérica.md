@@ -17,4 +17,10 @@
 - [[Matriz diagonalizable]]
 - [$A \in \mathbb R^{n \times n}$ simétrica $\implies$ $\exists Q$ ortogonal $: QAQ^T = D$ diagonal](Matriz real simétrica es diagonalizable por matrices ortogonales)
 - [$||A||_ 2 = \sqrt{\rho(A^TA)}$](Cálculo norma 2)
-- 
+### 2. Solución numérica perturbada de los sistemas lineales.
+- [$\hat A \hat x = \hat b$](Sistema perturbado)
+- [Error relativo](Errores absoluto y relativo de una aproximación), [$\frac{||x- \hat x||}{||x||}$](Errores absoluto y relativo de una aproximación) 
+- [$\frac{1}{||A|| \, ||A^{-1}||} \frac{||b- \hat b||}{||b||} \le \frac{||x- \hat x||}{||x||} \le ||A|| \, ||A^{-1}|| \frac{||b-\hat b||}{||b||}$](Teorema de las cotas del error relativo en la perturbación de los términos independientes)
+- [$\kappa(A)$](Número de condición de una matriz respecto de una norma)
+- [$\frac{1}{\kappa(A)} \le \frac{e_r}{r_r} \le \kappa(A)$](Número de condición de una matriz respecto de una norma)
+- [$||B|| < 1 \implies ||(I - B)^{-1}|| \le \frac{1}{1 - ||B||}$](Cota norma de matriz con norma menor que 1)
