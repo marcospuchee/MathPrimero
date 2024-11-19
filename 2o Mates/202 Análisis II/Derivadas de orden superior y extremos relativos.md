@@ -17,3 +17,7 @@
 - [$D^2f(a)$ definida positiva $\implies$ $f$ mínimo relativo estricto en $a$](Existencia extremos relativos estrictos según matriz Hessiana)
 - [$D^2f(a)$ definida negativa $\implies$ $f$ máximo relativo estricto en $a$](Existencia extremos relativos estrictos según matriz Hessiana)
 - [$D^2f(a)$ toma valores positivos y negativos $\implies$ $a$ es punto de silla en $f$](Existencia extremos relativos estrictos según matriz Hessiana)
+- [[Criterio de Sylvester]]
+- [Corolario criterio de Sylvester](Criterio de Sylvester)
+- [[Teorema de Weierstrass (R^n)]]
+- [$(f(x) \ge 0$, $\forall x \in \mathbb R^n \land \lim \limits_{||x|| \to +\infty} f(x) = 0) \implies f$ tiene máximo absoluto](Función positiva con límite cuando la norma tiende a infinito cero tiene máximo absoluto)

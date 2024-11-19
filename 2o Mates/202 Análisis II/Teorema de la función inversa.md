@@ -1,14 +1,23 @@
+### Contenido principal
+
+```ad-Formal
+Sea $\Omega$ un abierto de $\mathbb R^n$ y $f: \Omega \to \mathbb R^n$ función de clase $C^1$ en $\Omega$ y $a \in \Omega$. Si $J_f(a) \neq 0$, entonces $\exists U \in \mathcal E(a)$ abierto tal que $U \subset A$ y verifica:
+1. $f$ es inyectiva en $U$.
+2. $V = f(U)$ es un abierto de $\mathbb R^n$.
+3. $J_f(x) \neq 0$, $\forall x \in U$.
+4. Si denotamos $(f \restriction_U)^{-1} = \varphi = f \restriction_U : U \to V$ (biyectiva), la inversa local $\varphi^{-1}: V \to U$ es de clase $C^1$ y $D_{\varphi^{-1}} (f(x)) = D_f(x)^{-1}.$
+```
+
+**Tema:** [[Los teoremas de la función inversa y de la función implícita#1. Teorema de la función inversa.]]
+
+**Definiciones referenciadas:** [$C^1$](Función de clase C1), [$J_f(a)$](Determinante jacobiano), [[Entorno]], [$D_f(x)$](Función diferenciable)
 
 ---
-mathLink:
----
-### Contenido Principal
-
-**Fecha:** 2024-02-29, 17:40
-
-Sea $f: ]u,v[ \to ]s, t[$ estrictamente monótona ([[Función monótona]], o inyectiva), sobreyectiva y continua en $]u,v[$ ([[Función continua en un conjunto]]), denotemos por $g : ]s,t[ \to ]u,v[$ a su [[Función inversa]].
+### Contenido Principal ($\mathbb R$)
 
 ```ad-theorem
+Sea $f: ]u,v[ \to ]s, t[$ estrictamente monótona ([[Función monótona]], o inyectiva), sobreyectiva y continua en $]u,v[$ ([[Función continua en un conjunto]]), denotemos por $g : ]s,t[ \to ]u,v[$ a su [[Función inversa]].
+
 Si $f$ es derivable en $a \in ]u,v[$ ([[Función derivable en un punto]]) y $f'(a) \neq 0$, entonces $g$ es derivable en $b = f(a)$ y
 $$g'(b) = 1/f'(a).$$
 ```

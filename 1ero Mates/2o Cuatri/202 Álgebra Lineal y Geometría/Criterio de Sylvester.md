@@ -12,6 +12,13 @@ $$F \textrm{ es producto escalar} \iff a_{11} > 0, \det \begin{pmatrix} a_{11} &
 ([[Producto escalar]])
 ```
 
+```ad-note
+title: Nota Análisis II
+$Q: \mathbb R^n \to \mathbb R$ forma cuadrática, $H$ matriz asociada.
+1. $Q$ definida positiva $\iff$ $\det(H_k) > 0$, $\forall k = 1, \dots, n$.
+2. $Q$ definida negativa $\iff$ $(-1)^k \det(H_k) > 0$, $\forall k = 1, \dots, n$.
+3. Si $\det (H_k) < 0$ para alguna submatriz principal de orden par, entonces $Q$ toma valores negativos y positivos.
+```
 
 ```ad-proof
 $\rightarrow$.
@@ -62,6 +69,27 @@ Observamos que $A, D$ son [[Matrices congruentes]], por ser matrices coordenadas
 **Tema:** [[Espacios vectoriales euclídeos]]
 **Demostrado por:** [[Lema determinante matriz coordenada de un producto escalar]], [[Teorema rango y signatura de un producto escalar sobre los reales]]
 **Consecuencias:**
+
+---
+### Contenido Principal
+
+```ad-cor
+$f: \Omega \subset \mathbb R^2 \to \mathbb R$, $f \in C^2 $\Omega$ y $a \in \Omega$ punto crítico de $f$.
+$$H_f (a) = \begin{pmatrix} D_{11}f(a) & D_{12}f(a) \\ D_{21}f(a) & D_{22}f(a) \end{pmatrix}.$$
+1. Si $\det(H_f(a)) > 0$ y $D_{11}f(a)$, entonces $f$ tiene mínimo relativo estricto en $a$.
+2. Si $\det(H_f(a)) > 0$ y $D_{11}f(a) < 0$, entonces $f$ tiene máximo relativo estricto en $a$.
+3. Si $\det(H_f(a)) < 0$, entonces $f$ tiene un punto de silla en $a$.
+```
+
+```ad-proof
+
+
+```
+
+**Tema:** [[Derivadas de orden superior y extremos relativos#3. Extremos relativos y absolutos.]]
+
+**Definiciones referenciadas:**
+**Resultados referenciados:**
 
 ---
 ### Anki

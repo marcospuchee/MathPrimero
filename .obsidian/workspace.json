@@ -8,42 +8,74 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "07169b3dec972112",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Número de condición de una matriz respecto de una norma.md",
+                "file": "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Formas bilineales.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Número de condición de una matriz respecto de una norma"
+              "title": "Formas bilineales"
+            }
+          },
+          {
+            "id": "99ba1900591120e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/202 Análisis II/Función positiva con límite cuando la norma tiende a infinito cero tiene máximo absoluto.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Función positiva con límite cuando la norma tiende a infinito cero tiene máximo absoluto"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "ef7551b4429c20e7",
+        "id": "82a873c2297284e2",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd2fdbb26bbdc17",
+            "id": "dabbdfa3e0a8bfda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cota norma de matriz con norma menor que 1.md",
+                "file": "2o Mates/202 Análisis II/Diferenciabilidad de funciones de varias variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cota norma de matriz con norma menor que 1"
+              "title": "Diferenciabilidad de funciones de varias variables"
+            }
+          },
+          {
+            "id": "792778b16ad24526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/202 Análisis II/202 Análisis II.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202 Análisis II"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -219,35 +250,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfd2fdbb26bbdc17",
+  "active": "5e6eb8f7956acf1a",
   "lastOpenFiles": [
-    "2o Mates/204 Métodos numéricos/Sistemas lineales y su solución numérica.md",
-    "Cota norma de matriz con norma menor que 1.md",
-    "Número de condición de una matriz respecto de una norma.md",
-    "Teorema de las cotas del error relativo en la perturbación de los términos independientes.md",
-    "2o Mates/204 Métodos numéricos/Norma matricial subordinada a una norma vectorial.md",
-    "Sistema perturbado.md",
-    "1ero Mates/2o Cuatri/205 Herramientas informáticas/Errores absoluto y relativo de una aproximación.md",
-    "1ero Mates/2o Cuatri/205 Herramientas informáticas/Proposición error relativo de una aproximación mediante truncamiento o redondeo.md",
-    "1ero Mates/2o Cuatri/205 Herramientas informáticas/Sistemas numéricos y fuentes de error.md",
-    "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
+    "2o Mates/202 Análisis II/Función positiva con límite cuando la norma tiende a infinito cero tiene máximo absoluto.md",
+    "2o Mates/202 Análisis II/202 Análisis II.md",
+    "2o Mates/202 Análisis II/Diferenciabilidad de funciones de varias variables.md",
+    "Canvas/Análisis II.canvas",
+    "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
+    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
+    "2o Mates/202 Análisis II/Función diferenciable.md",
+    "2o Mates/202 Análisis II/Derivadas de orden superior y extremos relativos.md",
+    "2o Mates/202 Análisis II/Determinante jacobiano.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Criterio de Sylvester.md",
+    "2o Mates/202 Análisis II/Forma cuadrática.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Formas bilineales.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Matriz coordenada de F simétrica sii F simétrica.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Forma bilineal simétrica.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Matriz coordenada de F.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Forma bilineal.md",
     "README.md",
-    "Excalidraw/Control EstrAlg.md",
+    "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
+    "2o Mates/204 Métodos numéricos/Sistemas lineales y su solución numérica.md",
+    "2o Mates/205 Estructuras Algebraicas/Tercer teorema de isomorfía.md",
+    "Excalidraw/Seminario 2 ANII.md",
+    "Excalidraw/Seminario 2 ANII.png",
+    "2o Mates/205 Estructuras Algebraicas/Definiciones equivalentes a subgrupo normal.md",
     "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de Cauchy generalizado.md",
-    "2o Mates/205 Estructuras Algebraicas/Corolario teorema de Cauchy generalizado.md",
-    "2o Mates/205 Estructuras Algebraicas/Propiedades orden grupos cíclicos.md",
-    "2o Mates/205 Estructuras Algebraicas/G grupo finito impica que el orden de sus elementos divide al cardinal de G.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de Cauchy para grupos abelianos.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema de correspondencia.md",
+    "2o Mates/205 Estructuras Algebraicas/Grupo cociente respeta propiedades.md",
     "2o Mates/205 Estructuras Algebraicas/Grupo cociente.md",
-    "2o Mates/205 Estructuras Algebraicas/Primer teorema de isomorfía.md",
     "Attachements/Pasted Image 20241119094612_828.png",
-    "2o Mates/205 Estructuras Algebraicas/Propiedades homomorfismos.md",
-    "2o Mates/205 Estructuras Algebraicas/Caracterización de subgrupo.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema del grupo alternado.md",
-    "2o Mates/205 Estructuras Algebraicas/Teoría de anillos.md",
-    "2o Mates/205 Estructuras Algebraicas/Grupo alternado.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de la simplicidad de An.md",
     "Attachements/Pasted Image 20241119091440_587.png",
     "Attachements/Pasted Image 20241119083437_038.png",
     "Attachements/Pasted Image 20241119080942_526.png",
@@ -256,14 +288,12 @@
     "Attachements/Pasted Image 20241115175658_239.png",
     "Untitled",
     "Attachements",
-    "Canvas/Análisis II.canvas",
     "Canvas/Teoría de grupos (canvas).canvas",
     "Análisis II.canvas",
     "Teoría de grupos (canvas).canvas",
     "Attachements/Pasted Image 20240219114609_697.png",
     "Attachements/Pasted Image 20240122154438_578.png",
     "Attachements/Pasted Image 20240103111336_357.png",
-    "Attachements/Pasted Image 20231223191143_949.png",
     "Attachments/Ejercicios capítulo 1 - Eccles.pdf",
     "Excalidraw",
     "2o Mates/Marcos/Hoffstein - An Introduction to Mathematical  Cryptography",
