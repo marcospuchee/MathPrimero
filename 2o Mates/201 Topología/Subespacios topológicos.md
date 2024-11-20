@@ -15,3 +15,6 @@
 - [[Aplicación inclusión es continua]]
 - [$f$ continua en $x_0$ $\iff$ $f: (X, \mathcal T) \to (H, \mathcal T_H')$ continua en $x_0$](Caracterización continuidad en un punto (restricción del codominio))
 - [$f$ continua $\implies$ $f \restriction_H: (H, \mathcal T_H) \to (Y, \mathcal T')$ continua](Restricción de una función continua es continua)
+- [$f$ continua en $x_0$ $\iff \exists U \in \mathcal E(x_0) : f \restriction_U$ continua en $x_0$](Caracterización continuidad en un punto (restricción del dominio a entorno))
+- [$\{A_i\}_ {i \in I}$ familia de abiertos $: X = \bigcup_{i \in I} A_i$ y $f \restriction_{A_i}$ continua $\forall i$ $\implies$ $f$ continua](Función restringida a familia de abiertos continua implica función total continua)
+- [$\{C_i \}_ {i = 1}^n$ familia finita de cerrados $: X = \bigcup_{i = 1}^n C_i$ y $f_ {\restriction_{C_i}}$ continua $\forall i$ $\implies$ $f$ continua](Función restringida a familia finita de cerrados continua implica función total continua)
