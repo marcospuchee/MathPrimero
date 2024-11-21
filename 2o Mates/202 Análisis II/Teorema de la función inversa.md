@@ -1,6 +1,6 @@
 ### Contenido principal
 
-```ad-Formal
+```ad-theorem
 Sea $\Omega$ un abierto de $\mathbb R^n$ y $f: \Omega \to \mathbb R^n$ función de clase $C^1$ en $\Omega$ y $a \in \Omega$. Si $J_f(a) \neq 0$, entonces $\exists U \in \mathcal E(a)$ abierto tal que $U \subset A$ y verifica:
 1. $f$ es inyectiva en $U$.
 2. $V = f(U)$ es un abierto de $\mathbb R^n$.
@@ -8,9 +8,22 @@ Sea $\Omega$ un abierto de $\mathbb R^n$ y $f: \Omega \to \mathbb R^n$ función 
 4. Si denotamos $(f \restriction_U)^{-1} = \varphi = f \restriction_U : U \to V$ (biyectiva), la inversa local $\varphi^{-1}: V \to U$ es de clase $C^1$ y $D_{\varphi^{-1}} (f(x)) = D_f(x)^{-1}.$
 ```
 
+```ad-note
+title: Notación
+$\Omega \subset \mathbb R^n$ abierto, 
+$$\Omega^n := \{z = (z^1, z^2, \dots, z^n) : z^j \in \Omega, \, \, \forall j = 1, \dots, n \}; \quad z \in \Omega^n \subset (\mathbb R^n)^n = \mathbb R^{n^2}.$$
+Dado $(a_1, \dots, a) \in \Omega^n$, una base de entornos del punto $(a, \dots, a)$ viene dada por los conjunto de la forma
+$$B(a; \varepsilon) \times \dots \times B(a; \varepsilon); \quad \varepsilon > 0.$$
+```
+
+```ad-proof
+
+```
+
 **Tema:** [[Los teoremas de la función inversa y de la función implícita#1. Teorema de la función inversa.]]
 
 **Definiciones referenciadas:** [$C^1$](Función de clase C1), [$J_f(a)$](Determinante jacobiano), [[Entorno]], [$D_f(x)$](Función diferenciable)
+**Resultados referenciados:**
 
 ---
 ### Contenido Principal ($\mathbb R$)
