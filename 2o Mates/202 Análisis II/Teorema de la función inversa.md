@@ -17,13 +17,13 @@ $$B(a; \varepsilon) \times \dots \times B(a; \varepsilon); \quad \varepsilon > 0
 ```
 
 ```ad-proof
-
+1. Teorema de la inyectividad local.
 ```
 
 **Tema:** [[Los teoremas de la función inversa y de la función implícita#1. Teorema de la función inversa.]]
 
 **Definiciones referenciadas:** [$C^1$](Función de clase C1), [$J_f(a)$](Determinante jacobiano), [[Entorno]], [$D_f(x)$](Función diferenciable)
-**Resultados referenciados:**
+**Resultados referenciados:** [[Teorema de la inyectividad local]]
 
 ---
 ### Contenido Principal ($\mathbb R$)
