@@ -59,4 +59,7 @@
 - [$\frac{1}{||A|| \, ||A^{-1}||} \frac{||b- \hat b||}{||b||} \le \frac{||x- \hat x||}{||x||} \le ||A|| \, ||A^{-1}|| \frac{||b-\hat b||}{||b||}$](Teorema de las cotas del error relativo en la perturbación de los términos independientes)
 - [$\kappa(A)$](Número de condición de una matriz respecto de una norma)
 - [$\frac{1}{\kappa(A)} \le \frac{e_r}{r_r} \le \kappa(A)$](Número de condición de una matriz respecto de una norma)
-- [$||B|| < 1 \implies ||(I - B)^{-1}|| \le \frac{1}{1 - ||B||}$](Cota norma de matriz con norma menor que 1)
+- [$||(I - B)^{-1}|| \le \frac{1}{1 - ||B||}$](Cota norma inversa matriz perturbada en función de la inversa de la matriz normal)
+- [$||(A+E)^{-1}|| \le \frac{||A^{-1}||}{1-p}$](Cota norma inversa matriz perturbada en función de la inversa de la matriz normal)
+- [$\frac{||x- \hat x||}{||x||} \le \frac{\kappa(A)}{1-p} \left ( \frac{||\hat A - A||}{||A||} + \frac{||b- \hat b||}{||b||} \right )$](Teorema cota error relativo en un sistema completamente perturbado)
+
