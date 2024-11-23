@@ -15,7 +15,7 @@ Supongamos, por contrarrecíproco, que $(X, \mathcal T)$ es disconexo. Entonces,
 **Tema:** [[Conexión#1. Definición.]]
 
 **Definiciones referenciadas:** [Espacio topológico conexo](Espacio topológico disconexo)
-**Resultados referenciados:**
+**Resultados referenciados:** -.
 
 ---
 ### Anki

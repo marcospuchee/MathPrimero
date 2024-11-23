@@ -6,7 +6,7 @@
 - [[Relación de adherencia se mantiene con funciones continuas]]
 ### 2. Continuidad global.
 - [$f$ es continua $\iff$ $\forall A \in \mathcal T'$, $f^{-1}(A) \in \mathcal T$](Caracterización de continuidad global (antiimagen de abiertos))
-- [[Caracterización de continuidad global (antiimagen de cerrados)]]
+- [$f$ es continua $\iff$ $\forall C$ cerrado en $\mathcal T'$, $f^{-1}(C)$ es cerrado en $\mathcal T$](Caracterización de continuidad global (antiimagen de cerrados))
 - [[Composición de continuas globales es continua global]]
 ### 3. Homeomorfismos.
 - [[Homeomorfismo]]
