@@ -14,7 +14,7 @@ es un homomorfismo de anillos sobreyectivo con kernel $\textrm{Ker}(\pi) = I$.
 
 ```
 
-**Tema:** [[Teoría de anillos#9. Anillos cociente.]]
+**Tema:** [[Anillo de polinomios#9. Anillos cociente.]]
 
 **Definiciones referenciadas:**
 **Resultados referenciados:**

@@ -14,7 +14,7 @@ es un isomorfismo de anillos. En particular, $R/\textrm{Ker}(f) \cong \textrm{Im
 
 ```
 
-**Tema:** [[Teoría de anillos#10. Teoremas de isomorfía.]]
+**Tema:** [[Anillo de polinomios#10. Teoremas de isomorfía.]]
 **Corolario:**
 
 **Definiciones referenciadas:** [[Homomorfismo de anillos]]

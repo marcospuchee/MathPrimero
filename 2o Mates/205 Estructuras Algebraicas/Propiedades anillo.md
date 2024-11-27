@@ -12,7 +12,7 @@ Sea $R$ un anillo. Entonces $\forall r,s \in R$:
 
 ```
 
-**Tema:** [[Teoría de anillos#1. Definición y ejemplos.]]
+**Tema:** [[Anillo de polinomios#1. Definición y ejemplos.]]
 
 **Definiciones referenciadas:** [[Anillo]]
 **Resultados referenciados:**

@@ -13,7 +13,7 @@ Sean $R$ y $S$ dos anillos. Un homomorfismo de anillos de $R$ en $S$ es una apli
 ```
 
 
-**Tema:** [[Teoría de anillos#7. Homomorfismos.]]
+**Tema:** [[Anillo de polinomios#7. Homomorfismos.]]
 
 **Definiciones referenciadas:** [[Anillo]], [Homomorfismo de grupos](Homomorfismo), [[Anillo con identidad]]
 

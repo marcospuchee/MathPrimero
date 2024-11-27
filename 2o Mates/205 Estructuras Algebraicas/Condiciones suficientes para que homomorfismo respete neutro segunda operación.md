@@ -11,7 +11,7 @@ Sea $f: R \to S$ un homomorfismo de anillos donde $R$ y $S$ tienen identidad. En
 
 ```
 
-**Tema:** [[Teoría de anillos#7. Homomorfismos.]]
+**Tema:** [[Anillo de polinomios#7. Homomorfismos.]]
 
 **Definiciones referenciadas:** [$R^\times$](Unidad), [[Homomorfismo de anillos]], [[Anillo con identidad]]
 **Resultados referenciados:**

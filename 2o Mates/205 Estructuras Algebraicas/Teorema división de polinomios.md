@@ -13,8 +13,7 @@ con $\delta(r) < \delta(q)$.
 
 ```
 
-**Tema:** [[Teoría de anillos#11. $K[x] textrm{ DIP}$]]
-**Corolario:**
+**Tema:** [[Anillo de polinomios#4. $K[x]$]]
 
 **Definiciones referenciadas:** [[Anillo con identidad]], [[Polinomio]], [$\delta(p)$](Grado de un polinomio), [$R^\times$](Unidad)
 **Resultados referenciados:**

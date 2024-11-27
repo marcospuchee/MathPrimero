@@ -11,7 +11,7 @@ Sea $R$ un anillo conmutativo con identidad. Entonces son equivalentes
 
 ```
 
-**Tema:** [[Teoría de anillos#12. Ideales primos y maximales.]]
+**Tema:** [[Anillo de polinomios#12. Ideales primos y maximales.]]
 **Corolario:**
 
 **Definiciones referenciadas:** [[Anillo conmutativo]], [[Anillo con identidad]], [[Ideal primo]], [$R/P$](Teorema del anillo cociente) 

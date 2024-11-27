@@ -14,7 +14,7 @@ $$I_n = \begin{pmatrix} I_R & 0_R & \dots & 0_R \\
 
 ```
 
-**Tema:** [[Teoría de anillos#2. El anillo de matrices.]]
+**Tema:** [[Anillo de polinomios#2. El anillo de matrices.]]
 
 **Definiciones referenciadas:** [[Anillo]], [$(\textrm{Mat}(n,R), +, \cdot)$](Anillo de matrices), [[Anillo conmutativo]], [[Anillo con identidad]]
 **Resultados referenciados:**

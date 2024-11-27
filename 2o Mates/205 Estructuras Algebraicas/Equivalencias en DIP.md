@@ -14,7 +14,7 @@ Sea $R$ un DIP y $r \in R$ tal que $r \neq 0_R$. Entonces son equivalentes
 
 ```
 
-**Tema:** [[Teoría de anillos#13. Elementos primos irreducibles.]]
+**Tema:** [[Anillo de polinomios#13. Elementos primos irreducibles.]]
 **Corolario:**
 
 **Definiciones referenciadas:** [$(r)$](Ideal generado), [Elemento primo](Elemento primo de un anillo), [Elemento irreducible](Elemento irreducible de un anillo), [[Ideal maximal]], [$R/(r)$](Teorema del anillo cociente), [[Cuerpo]]

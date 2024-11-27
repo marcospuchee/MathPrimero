@@ -6,7 +6,7 @@ Sea $R$ un anillo conmutativo. Diremos que un ideal $P \subseteq R$ es un ideal 
 2. $\forall r,s \in R$, si $rs \in P$, entonces $r \in P$ o $s \in P$.
 ```
 
-**Tema:** [[Teoría de anillos#12. Ideales primos y maximales.]]
+**Tema:** [[Anillo de polinomios#12. Ideales primos y maximales.]]
 
 **Definiciones referenciadas:**
 

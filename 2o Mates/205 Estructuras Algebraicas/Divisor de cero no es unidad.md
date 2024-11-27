@@ -9,7 +9,7 @@ Sea $R$ un [[anillo con identidad]]. Si $r \in R$ es un divisor de cero, entonce
 
 ```
 
-**Tema:** [[Teoría de anillos#4. Unidades y divisores de cero.]]
+**Tema:** [[Anillo de polinomios#4. Unidades y divisores de cero.]]
 
 **Definiciones referenciadas:** [[Anillo con identidad]], [[Divisor de cero]], [$R^\times$](Unidad)
 **Resultados referenciados:**

@@ -21,7 +21,7 @@ que satisface:
 3. $\forall r,s,t \in R$, $r(s+t) = rs +rt$ y $(s+t)r = sr + tr$.
 ```
 
-**Tema:** [[Teoría de anillos#1. Definición y ejemplos.]]
+**Tema:** [[Anillo de polinomios#1. Definición y ejemplos.]]
 
 **Definiciones referenciadas:**
 

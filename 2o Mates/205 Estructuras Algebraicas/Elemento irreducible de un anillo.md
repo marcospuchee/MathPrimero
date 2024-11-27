@@ -7,7 +7,7 @@ Sea $R$ un dominio de integridad y $r \in R$. Entonces diremos que $r$ es un ele
 3. Si $r = ab$, entonces $a \in R^\times$ o $b \in R^\times$.
 ```
 
-**Tema:** [[Teoría de anillos#13. Elementos primos irreducibles.]]
+**Tema:** [[Anillo de polinomios#13. Elementos primos irreducibles.]]
 
 **Definiciones referenciadas:** [$R^\times$](Unidad), [[Dominio de integridad]].
 

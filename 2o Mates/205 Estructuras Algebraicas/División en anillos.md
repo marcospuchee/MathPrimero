@@ -5,7 +5,7 @@ Sea $R$ un anillo conmutativo y $a,b \in R$ con $a \neq 0_R$. Entonces diremos q
 $$a \mid b \iff b \in (a).$$
 ```
 
-**Tema:** [[Teoría de anillos#13. Elementos primos irreducibles.]]
+**Tema:** [[Anillo de polinomios#13. Elementos primos irreducibles.]]
 
 **Definiciones referenciadas:** [[Anillo conmutativo]], [[Unidad]]
 

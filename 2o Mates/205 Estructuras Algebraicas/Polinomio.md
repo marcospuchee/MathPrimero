@@ -10,9 +10,9 @@ tal que
 El conjunto de todos los polinomios sobre $R$ lo denotaremos por $R[x]$.
 ```
 
-**Tema:**
+**Tema:** [[Anillo de polinomios#2. Anillo de polinomios.]]
 
-**Definiciones referenciadas:**
+**Definiciones referenciadas:** -.
 
 ---
 ### Anki

@@ -9,7 +9,7 @@ Sea $R$ un anillo finito. Si $R$ es un dominio de integridad, entonces $R$ es un
 
 ```
 
-**Tema:** [[Teoría de anillos#5. Cuerpos.]]
+**Tema:** [[Anillo de polinomios#5. Cuerpos.]]
 
 **Definiciones referenciadas:**  [[Anillo]], [[Dominio de integridad]], [[Cuerpo]]
 **Resultados referenciados:**

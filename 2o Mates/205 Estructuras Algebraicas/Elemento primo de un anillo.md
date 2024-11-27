@@ -7,7 +7,7 @@ Sea $R$ un dominio de integridad y $r \in R$. Entonces diremos que $r$ es un ele
 3. Si $r \mid ab$, entonces $p \mid a$ o $p \mid b$.
 ```
 
-**Tema:** [[Teoría de anillos#13. Elementos primos irreducibles.]]
+**Tema:** [[Anillo de polinomios#13. Elementos primos irreducibles.]]
 
 **Definiciones referenciadas:** [[Dominio de integridad]], [$a \mid b$](División en anillos), [$R^\times$](Unidad).
 

@@ -1,12 +1,16 @@
 ### Contenido principal
 
 ```ad-Formal
-Un cuerpo es un anillo de división conmutativo
+Sea $(R,+,\cdot)$ un anillo conmutativo y con identidad $1_R \neq 0_R$. Diremos que $R$ es un cuerpo si $\forall r \in R \textrm{\\} \{0_R\}$, $r$ es un elemento invertible. Esto es, $\exists s \in R$ tal que $rs = 1_R$.
 ```
 
-**Tema:** [[Teoría de anillos#5. Cuerpos.]]
+```ad-note
+Notemos entonces que $(R, +, \cdot)$ es cuerpo si $(R,+)$, $(R \textrm{\\} \{0_R\}, \cdot)$ son grupos abelianos y $\cdot$ cumple la propiedad distributiva.
+```
 
-**Definiciones referenciadas:** [[Anillo de división]], [[Anillo conmutativo]]
+**Tema:** [[Anillo de polinomios#1. Definición.]]
+
+**Definiciones referenciadas:** [[Anillo con identidad]], [[Anillo conmutativo]]
 
 ---
 ### Anki

@@ -6,7 +6,7 @@ Sea $R$ un anillo. Diremos que un ideal $M \subseteq R$ es un ideal maximal si
 2. Para todo ideal $I \subseteq R$, si $M \subseteq I \subseteq R$, entonces $I = R$ o $I = M$.
 ```
 
-**Tema:** [[Teoría de anillos#12. Ideales primos y maximales.]]
+**Tema:** [[Anillo de polinomios#12. Ideales primos y maximales.]]
 
 **Definiciones referenciadas:** [[Ideal]], [[Anillo]]
 

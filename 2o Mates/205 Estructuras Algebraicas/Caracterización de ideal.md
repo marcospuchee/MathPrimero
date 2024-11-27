@@ -14,7 +14,7 @@ Sea $R$ un anillo y $I \subseteq R$. Entonces, son equivalentes
 
 ```
 
-**Tema:** [[Teoría de anillos#8. Ideales.]]
+**Tema:** [[Anillo de polinomios#8. Ideales.]]
 
 **Definiciones referenciadas:** [[Ideal]], [[Anillo]]
 **Resultados referenciados:**

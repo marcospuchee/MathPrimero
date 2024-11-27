@@ -9,7 +9,7 @@ Además, definimos su multiplicación como
 $$AB = \left (\sum_{k = 1}^n a_{i,k} b_{k,j} \right )$$
 ```
 
-**Tema:** [[Teoría de anillos#2. El anillo de matrices.]]
+**Tema:** [[Anillo de polinomios#2. El anillo de matrices.]]
 
 **Definiciones referenciadas:** [[Anillo]]
 

@@ -11,7 +11,7 @@ Sea $R$ un anillo y $p = \sum_{i = 0}^n r_i x^i, q = \sum_{i = 0}^m s_i x^i \in 
 
 ```
 
-**Tema:** [[Teoría de anillos#4. Unidades y divisores de cero.]]
+**Tema:** [[Anillo de polinomios#4. Unidades y divisores de cero.]]
 
 **Definiciones referenciadas:** [[Anillo]], [[Polinomio]], [[Divisor de cero]], [$R^\times$](Unidad), [$\delta(p)$](Grado de un polinomio)
 **Resultados referenciados:**

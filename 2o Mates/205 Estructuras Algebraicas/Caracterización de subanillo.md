@@ -11,7 +11,7 @@ Sea $R$ un anillo y $S \subseteq R$. Entonces, son equivalentes:
 
 ```
 
-**Tema:** [[Teoría de anillos#6. Subanillos.]]
+**Tema:** [[Anillo de polinomios#6. Subanillos.]]
 
 **Definiciones referenciadas:** [[Anillo]], [$S \le R$](Subanillo)
 **Resultados referenciados:**

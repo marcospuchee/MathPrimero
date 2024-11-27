@@ -9,7 +9,7 @@ Sea $R$ un cuerpo. Entonces $R$ es un dominio de integridad.
 
 ```
 
-**Tema:** [[Teoría de anillos#5. Cuerpos.]]
+**Tema:** [[Anillo de polinomios#5. Cuerpos.]]
 
 **Definiciones referenciadas:** [[Cuerpo]], [[Dominio de integridad]]
 **Resultados referenciados:**

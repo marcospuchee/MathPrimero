@@ -18,7 +18,7 @@ Abusando de notación, si $S$ es un subanillo de $R$, lo denotaremos $S \le R$.
 
 ```
 
-**Tema:** [[Teoría de anillos#6. Subanillos.]]
+**Tema:** [[Anillo de polinomios#6. Subanillos.]]
 
 **Definiciones referenciadas:** [[Anillo]]
 

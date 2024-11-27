@@ -12,7 +12,7 @@ Sea $R$ un anillo conmutativo con identidad, $a \in R$, y el ideal generado por 
 
 ```
 
-**Tema:** [[Teoría de anillos#8. Ideales.]]
+**Tema:** [[Anillo de polinomios#3. Ideales y anillos cociente.]]
 
 **Definiciones referenciadas:** [[Anillo conmutativo]], [[Anillo con identidad]], [[Ideal]], [$(a)$](Ideal generado)
 **Resultados referenciados:**

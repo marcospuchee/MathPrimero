@@ -11,7 +11,7 @@ Sea $R$ un anillo y $r,s,t \in R$. Entonces
 
 ```
 
-**Tema:** [[Teoría de anillos#5. Cuerpos.]]
+**Tema:** [[Anillo de polinomios#5. Cuerpos.]]
 
 **Definiciones referenciadas:** [[Anillo]], [[Divisor de cero]], [[Dominio de integridad]]
 **Resultados referenciados:**

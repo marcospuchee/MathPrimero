@@ -9,7 +9,7 @@ Sea $R$ un anillo, $I,J$ ideales de $R$ tales que $J \le I$. Entonces, $(R/J)/(I
 
 ```
 
-**Tema:** [[Teoría de anillos#10. Teoremas de isomorfía.]]
+**Tema:** [[Anillo de polinomios#10. Teoremas de isomorfía.]]
 **Corolario:**
 
 **Definiciones referenciadas:** [[Anillo]], [[Ideal]], [$S \le R$](Subanillo)

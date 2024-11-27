@@ -9,7 +9,7 @@ Sea $R$ un dominio de integridad. Entonces $R[x]$ es dominio de integridad.
 
 ```
 
-**Tema:** [[Teoría de anillos#11. $K[x] textrm{ DIP}$]]
+**Tema:** [[Anillo de polinomios#11. $K[x] textrm{ DIP}$]]
 **Corolario:**
 
 **Definiciones referenciadas:** [[Dominio de integridad]]

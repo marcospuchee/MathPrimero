@@ -27,8 +27,7 @@ llamado el anillo cociente de $R$ sobre $I$. Además,
 
 ```
 
-**Tema:** [[Teoría de anillos#9. Anillos cociente.]]
-**Corolario:** [[Homomorfismo proyección]]
+**Tema:** [[Anillo de polinomios#3. Ideales y anillos cociente.]]
 
 **Definiciones referenciadas:** [[Anillo]], [[Ideal]], [[Anillo conmutativo]]
 **Resultados referenciados:**

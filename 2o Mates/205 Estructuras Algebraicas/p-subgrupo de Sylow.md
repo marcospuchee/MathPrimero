@@ -6,6 +6,10 @@ $$\textrm{Syl}_p(G) := \{S \le G : S \textrm{ es } p \textrm{-subgrupo de Sylow 
 Además, escribiremos $n_p(G) = |\textrm{Syl}_p(G)|$.
 ```
 
+```ad-note
+$S \in \textrm{Syl}_p(G) \land S \le H \le G \implies S \in \textrm{Syl}_p(H)$.
+```
+
 **Tema:** [[Teorema de Sylow (referencia)]]
 
 **Definiciones referenciadas:** [$p$-grupo](p-grupo)

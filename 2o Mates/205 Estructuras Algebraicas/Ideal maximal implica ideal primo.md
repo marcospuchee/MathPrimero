@@ -9,7 +9,7 @@ Sea $R$ un anillo conmutativo con identidad. Si $I$ es ideal maximal, entonces $
 
 ```
 
-**Tema:** [[Teoría de anillos#12. Ideales primos y maximales.]]
+**Tema:** [[Anillo de polinomios#12. Ideales primos y maximales.]]
 
 **Definiciones referenciadas:** [[Anillo conmutativo]], [[Anillo con identidad]], [[Ideal maximal]], [[Ideal primo]]
 **Resultados referenciados:**

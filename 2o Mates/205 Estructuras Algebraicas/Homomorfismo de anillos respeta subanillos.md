@@ -11,7 +11,7 @@ Sea $f: R \to S$ un homomorfismo de anillos. Entonces
 
 ```
 
-**Tema:** [[Teoría de anillos#7. Homomorfismos.]]
+**Tema:** [[Anillo de polinomios#7. Homomorfismos.]]
 
 **Definiciones referenciadas:** [[Homomorfismo de anillos]], [$S \le R$](Subanillo)
 **Resultados referenciados:**

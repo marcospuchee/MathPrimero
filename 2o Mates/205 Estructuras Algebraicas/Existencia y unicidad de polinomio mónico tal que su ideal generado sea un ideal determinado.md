@@ -9,8 +9,7 @@ Sea $K$ un cuerpo y $I \subseteq K[x]$ un ideal tal que $I \neq \{0_{K[x]} \}$. 
 
 ```
 
-**Tema:** [[Teoría de anillos#11. $K[x] textrm{ DIP}$]]
-**Corolario:**
+**Tema:** [[Anillo de polinomios#4. $K[x]$]]]
 
 **Definiciones referenciadas:** [[Cuerpo]], [[Ideal]], [[Polinomio]], [[Polinomio mónico]], [$(p)$](Ideal generado), [DIP](Dominio de ideales principales)
 **Resultados referenciados:**
