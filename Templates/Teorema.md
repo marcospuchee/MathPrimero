@@ -11,7 +11,6 @@
 ```
 
 **Tema:**
-**Corolario:**
 
 **Definiciones referenciadas:**
 **Resultados referenciados:**

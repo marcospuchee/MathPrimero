@@ -78,7 +78,7 @@ Como la frontera topológica es un subconjunto de la adherencia, cumple las prop
 ### 4. Caracterización de adherencia por sucesiones
 - [[Convergencia sucesión (topología)]]
 - [[Caracterización de convergencia (base de entornos)]]
-- [[(ejercicio) Caracterización de convergencia en espacios métricos (distancia)]]
+- [$\{x_n\} \to x \iff \forall \varepsilon > 0, \, \exists n_0 : \forall n > n_0 \quad d(x_n, x) < \varepsilon$](Caracterización de convergencia en espacios métricos (distancia))
 - [[(ejercicio) Caracterización de convergencia en espacios métricos (sucesión de distancias)]]
 - [[La convergencia en Hausdorff es única]]
 - [[Caracterización de punto de adherencia en espacios métricos (convergencia)]]

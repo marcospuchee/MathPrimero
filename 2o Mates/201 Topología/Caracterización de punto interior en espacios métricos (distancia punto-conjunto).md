@@ -10,6 +10,8 @@ $$x \in \textrm{int}(S) \iff x \notin \textrm{ad}(X \textrm{\\} S) \iff d(x, X \
 
 **Tema:** [[Puntos especiales#3. Puntos interiores.]]
 
+**Resultados referenciados:** [$\textrm{int}(S) = X \textrm{\\} \textrm{ad}(X \textrm{\\} S)$](Caracterización de interior (definición alternativa))
+
 ---
 ### Anki
 

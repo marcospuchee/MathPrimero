@@ -19,3 +19,24 @@ Supongamos que $\exists U \in \mathcal E(x)$ tal que $f \restriction_U: (U, \mat
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Caracterización de continuidad en un punto (restricción del dominio a entorno)
+Reverso: Sean $f: (X, \mathcal T) \to (Y, \mathcal T')$, $x_0 \in X$. Entonces, $f$ es continua en $x_0$ $\iff$ $\exists U \in \mathcal E(x_0)$ tal que $f \restriction_U : (U, \mathcal T_U) \to (Y, \mathcal T')$ es continua en $x_0$.
+Tags: top
+<!--ID: 1732364239641-->
+END
+
+START
+Básico
+Anverso: Demostración de que sean $f: (X, \mathcal T) \to (Y, \mathcal T')$, $x_0 \in X$. Entonces, $f$ es continua en $x_0$ $\iff$ $\exists U \in \mathcal E(x_0)$ tal que $f \restriction_U : (U, \mathcal T_U) \to (Y, \mathcal T')$ es continua en $x_0$.
+Reverso: $\Rightarrow$.
+Tomando $U:= X \in \mathcal E(x_0)$, entonces $f \restriction_U$ $=$ $f \restriction_X$ $=$ $f$, que es continua en $x_0$.
+
+$\Leftarrow$.
+Supongamos que $\exists U \in \mathcal E(x)$ tal que $f \restriction_U: (U, \mathcal T_U) \to (Y, \mathcal T')$ es continua en $x_0$. Sea $U' \in \mathcal E(f(x_0))$, entonces $\exists V \in \mathcal E_U(x_0)$ tal que $f \restriction_U (V) \subseteq U'$. Como $V \in \mathcal E_U(x_0)$, entonces $\exists W \in \mathcal E(x_0)$ tal que $V = W \cap U \in \mathcal E(x_0)$, dado que $W,U \in \mathcal E(x_0)$. Por tanto, $f(V) = f \restriction_U (V) \subseteq U'$, lo que implica que $f$ es continua en $x_0$.
+Tags: dem top
+<!--ID: 1732364239643-->
+END
+

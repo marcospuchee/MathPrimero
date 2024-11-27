@@ -1,11 +1,11 @@
 ### Contenido principal
 
 ```ad-theorem
-Sea $\Omega$ un abierto de $\mathbb R^n$ y $f: \Omega \to \mathbb R^n$ función de clase $C^1$ en $\Omega$ y $a \in \Omega$. Si $J_f(a) \neq 0$, entonces $\exists U \in \mathcal E(a)$ abierto tal que $U \subset A$ y verifica:
+Sea $\Omega$ un abierto de $\mathbb R^n$ y $f: \Omega \to \mathbb R^n$ función de clase $C^1$ en $\Omega$ y $a \in \Omega$. Si $J_f(a) \neq 0$, entonces $\exists U \in \mathcal E(a)$ abierto tal que $U \subset \Omega$ y verifica:
 1. $f$ es inyectiva en $U$.
 2. $V = f(U)$ es un abierto de $\mathbb R^n$.
 3. $J_f(x) \neq 0$, $\forall x \in U$.
-4. Si denotamos $(f \restriction_U)^{-1} = \varphi = f \restriction_U : U \to V$ (biyectiva), la inversa local $\varphi^{-1}: V \to U$ es de clase $C^1$ y $D_{\varphi^{-1}} (f(x)) = D_f(x)^{-1}.$
+4. Si denotamos $\varphi = f \restriction_U : U \to V$ (biyectiva), la inversa local $\varphi^{-1}: V \to U$ es de clase $C^1$ y $D_{\varphi^{-1}} (f(x)) = D_f(x)^{-1}.$
 ```
 
 ```ad-note
@@ -56,6 +56,19 @@ $$\exists \lim_{y \to b} \frac{g(y)-g(b)}{y-b} = 1/f'(a).$$
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Teorema de la función inversa ($\mathbb R^n$)
+Reverso: Sea $\Omega$ un abierto de $\mathbb R^n$ y $f: \Omega \to \mathbb R^n$ función de clase $C^1$ en $\Omega$ y $a \in \Omega$. Si $J_f(a) \neq 0$, entonces $\exists U \in \mathcal E(a)$ abierto tal que $U \subset A$ y verifica:
+1. $f$ es inyectiva en $U$.
+2. $V = f(U)$ es un abierto de $\mathbb R^n$.
+3. $J_f(x) \neq 0$, $\forall x \in U$.
+4. Si denotamos $(f \restriction_U)^{-1} = \varphi = f \restriction_U : U \to V$ (biyectiva), la inversa local $\varphi^{-1}: V \to U$ es de clase $C^1$ y $D_{\varphi^{-1}} (f(x)) = D_f(x)^{-1}.$
+Tags: anII
+<!--ID: 1732364239584-->
+END
+
 
 START
 Básico

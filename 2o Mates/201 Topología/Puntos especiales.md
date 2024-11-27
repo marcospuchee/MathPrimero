@@ -16,7 +16,7 @@
 Como la frontera topológica es un subconjunto de la adherencia, cumple las proposiciones de la adherencia.
 ### 3. Puntos interiores. 
 - [[Punto interior]]
-- [[Caracterización de interior (definición alternativa)]]
+- [$\textrm{int}(S) = X \textrm{\\} \textrm{ad}(X \textrm{\\} S)$](Caracterización de interior (definición alternativa))
 - [[Caracterización de frontera (definición alternativa)]]
 - [[(ejercicio) Caracterización de punto interior (base de entornos)]]
 - [[Caracterización de punto interior en espacios métricos (distancia punto-conjunto)]]
@@ -25,7 +25,7 @@ Como la frontera topológica es un subconjunto de la adherencia, cumple las prop
 ### 4. Caracterización de adherencia por sucesiones
 - [[Convergencia sucesión (topología)]]
 - [[Caracterización de convergencia (base de entornos)]]
-- [[(ejercicio) Caracterización de convergencia en espacios métricos (distancia)]]
+- [[Caracterización de convergencia en espacios métricos (distancia)]]
 - [[(ejercicio) Caracterización de convergencia en espacios métricos (sucesión de distancias)]]
 - [[La convergencia en Hausdorff es única]]
 - [[Caracterización de punto de adherencia en espacios métricos (convergencia)]]

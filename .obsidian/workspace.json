@@ -4,11 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "fcd4b87882bfb4f9",
+        "id": "f529ee8b1ae2c6fc",
         "type": "tabs",
         "children": [
           {
-            "id": "e522e1eb445623ab",
+            "id": "a55c91cec7aeeeac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "205 Estructuras Algebraicas"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2722295fad804605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb9969f61e7355e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/202 Análisis II/202 Análisis II.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202 Análisis II"
+            }
+          },
+          {
+            "id": "5a4b1b540bbf6879",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +53,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -189,95 +225,42 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "25e4d76951d1fbbc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "49037b029656d78d",
-        "type": "window",
-        "children": [
-          {
-            "id": "9dfe1f09bfd7e579",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6c8ef099f42c4658",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2o Mates/205 Estructuras Algebraicas/Teorema de Cauchy generalizado.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Teorema de Cauchy generalizado"
-                }
-              },
-              {
-                "id": "36c26c5a70aea4a0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2o Mates/205 Estructuras Algebraicas/Teorema de la simplicidad de An.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Teorema de la simplicidad de An"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 106,
-        "y": 98,
-        "width": 1708,
-        "height": 916,
-        "maximize": true,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "6c8ef099f42c4658",
+  "active": "5a4b1b540bbf6879",
   "lastOpenFiles": [
-    "README.md",
-    "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
-    "Excalidraw/Seminario 3 EstrAlg.md",
-    "Attachements/Pasted Image 20241120102503_448.png",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de la simplicidad de An.md",
-    "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
-    "2o Mates/205 Estructuras Algebraicas/Grupo simple.md",
-    "2o Mates/205 Estructuras Algebraicas/Grupo alternado.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de Cauchy generalizado.md",
-    "Attachements/Pasted Image 20241120094159_692.png",
-    "Excalidraw/Ejercicios PRM.md",
-    "Excalidraw/Ejercicio 3.1 EstrAlg.md",
-    "Excalidraw/Control EstrAlg.md",
-    "1ero Mates/2o Cuatri/201 Análisis I/Teorema de Lagrange (1797).md",
-    "2o Mates/205 Estructuras Algebraicas/Tercer teorema de isomorfía.md",
-    "2o Mates/205 Estructuras Algebraicas/Segundo teorema de isomorfía.md",
-    "2o Mates/205 Estructuras Algebraicas/Primer teorema de isomorfía.md",
-    "2o Mates/202 Análisis II/Matriz jacobiana.md",
     "2o Mates/202 Análisis II/202 Análisis II.md",
-    "2o Mates/202 Análisis II/Diferenciabilidad de funciones de varias variables.md",
-    "Attachements/Pasted Image 20241119180425_928.png",
-    "2o Mates/202 Análisis II/Función positiva con límite cuando la norma tiende a infinito cero tiene máximo absoluto.md",
-    "Canvas/Análisis II.canvas",
+    "2o Mates/202 Análisis II/Función de clase C1 con jacobiano no nulo es abierta.md",
+    "README.md",
     "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
-    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
-    "2o Mates/202 Análisis II/Función diferenciable.md",
-    "2o Mates/202 Análisis II/Derivadas de orden superior y extremos relativos.md",
+    "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema de Sylow (referencia).md",
+    "2o Mates/202 Análisis II/Función inversa es continua.md",
+    "2o Mates/202 Análisis II/Imagen bola con jacobiano no trivial es entorno.md",
+    "2o Mates/202 Análisis II/Función diferenciable, inyectiva y con jacobiano no nulo tiene imagen abierta.md",
+    "2o Mates/202 Análisis II/Diferenciabilidad de funciones de varias variables.md",
+    "2o Mates/201 Topología/Espacios métricos.md",
+    "2o Mates/201 Topología/Métrica.md",
+    "2o Mates/201 Topología/201 Topología.md",
     "2o Mates/202 Análisis II/Determinante jacobiano.md",
-    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Criterio de Sylvester.md",
+    "2o Mates/203 Programación matemática/Modelo de programación lineal.md",
+    "2o Mates/203 Programación matemática/Combinación lineal convexa.md",
+    "2o Mates/203 Programación matemática/203 Programación matemática.md",
+    "Excalidraw/Seminario 3 EstrAlg.md",
+    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
+    "1ero Mates/1er Cuatri/103 Matemática Básica/Divisibilidad.md",
+    "1ero Mates/1er Cuatri/103 Matemática Básica/Proposición multiplicación mcd y mcm.md",
+    "1ero Mates/1er Cuatri/103 Matemática Básica/Corolario diferencia factorización entre dos números, uno divisor del otro.md",
+    "1ero Mates/1er Cuatri/103 Matemática Básica/Máximo común divisor.md",
+    "2o Mates/205 Estructuras Algebraicas/Definiciones equivalentes a subgrupo normal.md",
+    "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
+    "2o Mates/205 Estructuras Algebraicas/Biyección entre conjuntos de coclases.md",
+    "Attachements/Pasted Image 20241120102503_448.png",
+    "Attachements/Pasted Image 20241120094159_692.png",
+    "Attachements/Pasted Image 20241119180425_928.png",
+    "Canvas/Análisis II.canvas",
     "Excalidraw/Seminario 2 ANII.png",
     "Attachements/Pasted Image 20241119094612_828.png",
     "Attachements/Pasted Image 20241119091440_587.png",

@@ -145,7 +145,7 @@
 **Referencia:** [[Teorema de Sylow (referencia)]]
 
 - [[Teorema de Cauchy generalizado]]
-- [$p$-subgrupo](p-subgrupo de Sylow), [$\textrm{Syl} \\_ p(G)$](p-subgrupo de Sylow)
+- [$p$-subgrupo de Sylow](p-subgrupo de Sylow), [$\textrm{Syl} \\_ p(G)$](p-subgrupo de Sylow)
 - [$n_p(G)$](p-subgrupo de Sylow)
 -  [$|G| = p^k m$ donde $p \in \mathbb P$ y $p \nmid m \implies \textrm{Syl} \\_ p(G) \neq \emptyset$](Corolario teorema de Cauchy generalizado)
 - [Los $p$-subgrupos de Sylow son $p$-subgrupos maximales](Los p-subgrupos de Sylow son p-subgrupos maximales)

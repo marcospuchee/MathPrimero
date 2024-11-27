@@ -11,3 +11,12 @@ $$J_f(a) := \det (f'(a)).$$
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de determinante jacobiano
+Reverso: $\Omega$ abierto de $\mathbb R^n$, $f: \Omega \to \mathbb R^n$ diferenciable en $a \in \Omega$. Al determinante de de la matriz jacobiana de $f$ en $a$ lo llamamos jacobiano de $f$ en $a$, y lo denotamos por:
+$$J_f(a) := \det (f'(a)).$$
+Tags: anII
+<!--ID: 1732364239596-->
+END

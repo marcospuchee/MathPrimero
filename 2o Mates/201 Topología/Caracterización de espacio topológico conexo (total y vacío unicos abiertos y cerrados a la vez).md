@@ -19,3 +19,24 @@ Supongamos, por contrarrecíproco, que $(X, \mathcal T)$ es disconexo. Entonces,
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Caracterización de espacio topológico conexo (exclusividad en conjuntos abiertos y cerrados a la vez)
+Reverso: $(X, \mathcal T)$ es espacio topológico conexo $\iff$ los únicos subconjuntos de $X$ abiertos y cerrados a la vez son $\emptyset$ y $X$.
+Tags: top
+<!--ID: 1732364239631-->
+END
+
+START
+Básico
+Anverso: Demostración de que $(X, \mathcal T)$ es espacio topológico conexo $\iff$ los únicos subconjuntos de $X$ abiertos y cerrados a la vez son $\emptyset$ y $X$.
+Reverso: $\Rightarrow$.
+Supongamos, por contrarrecíproco, que $\exists A \in \mathcal T \textrm{\\} \{X, \emptyset\}$ que es abierto y cerrado a la vez. Entonces, $A$ con $X \textrm{\\} A$ forman una partición de $X$. Es decir, $(X, \mathcal T)$ es disconexo.
+
+$\Leftarrow$.
+Supongamos, por contrarrecíproco, que $(X, \mathcal T)$ es disconexo. Entonces, $\exists A, B \in \mathcal T$ tales que $A \cap B = \emptyset$ y $A \cup B = X$. De ambas deducimos que $B= X \textrm{\\} A$, que es cerrado. Luego $B$ es abierto y cerrado al mismo tiempo.
+Tags: dem top
+<!--ID: 1732364239633-->
+END
+

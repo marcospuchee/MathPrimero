@@ -9,7 +9,7 @@ $$D(g \circ f)(a) = Dg(f(a)) \circ Df(a) = Dg(b) \circ Df(a).$$
 
 ```ad-note
 title: Formato matricial
-Sea $\Omega \subseteq \mathbb R^n$ y $U \subseteq \mathbb R^m$ abiertos, $f: \Omega \to \mathbb R^m$ y $g: U \to \mathbb R^p$, $f(\Omega) \subseteq U$. Si $f$ es diferenciable en $b = f(a) \in U$, entonces $h = g \circ f$ es diferenciable en $a$ y su matriz jacobiana es
+Sea $\Omega \subseteq \mathbb R^n$ y $U \subseteq \mathbb R^m$ abiertos, $f: \Omega \to \mathbb R^m$ y $g: U \to \mathbb R^p$, $f(\Omega) \subseteq U$. Si $f$ es diferenciable en $a \in \Omega$ y $g$ es diferenciable en $b = f(a) \in U$, entonces $h = g \circ f$ es diferenciable en $a$ y su matriz jacobiana es
 $$h'(a) = g'(f(a)) \cdot f'(a).$$
 ```
 

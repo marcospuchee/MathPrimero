@@ -8,7 +8,7 @@ Además, escribiremos $n_p(G) = |\textrm{Syl}_p(G)|$.
 
 **Tema:** [[Teorema de Sylow (referencia)]]
 
-**Definiciones referenciadas:**
+**Definiciones referenciadas:** [$p$-grupo](p-grupo)
 
 ---
 ### Anki

@@ -21,7 +21,7 @@ definimos $T(x) = \langle \nabla f(a), x \rangle$, que es lineal.
 
 **Tema:** [[Diferenciabilidad de funciones de varias variables#2. Matrices jacobianas y vector gradiente.]]
 
-
+---
 ### Anki
 
 START

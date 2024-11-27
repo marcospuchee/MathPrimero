@@ -6,7 +6,8 @@ $$C \subseteq \textrm{conv} C \subseteq D.$$
 ```
 
 ```ad-proof
-(ejercicio).
+Que $C \subseteq \textrm{conv}C$ está claro. Veamos que $\textrm{conv}C \subseteq D$. Para ello, definimos $H:= \{D' : C \subseteq D' \subseteq \mathbb R^n \land D' \textrm{ convexo} \}.$ Notemos que:
+$$D \in H \land \textrm{conv}C = \bigcap_{D' \in H} D' \implies \textrm{conv}C \subseteq D.$$
 ```
 
 **Tema:** [[Modelo de programación lineal]]

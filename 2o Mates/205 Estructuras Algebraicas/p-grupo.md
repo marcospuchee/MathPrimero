@@ -6,7 +6,7 @@ Sea $G$ un grupo y $p \in \mathbb P$. Diremos que $G$ es un $p$-grupo si $\exist
 
 **Tema:** [[Acciones de grupos#2. Teorema Órbita-Estabilizador.]]
 
-**Definiciones referenciadas:**
+**Definiciones referenciadas:** -.
 
 ---
 ### Anki

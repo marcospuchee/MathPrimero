@@ -14,7 +14,7 @@
 - [[Derivada direccional es máxima en la dirección del gradiente]]
 ### 4. Condición suficiente de  diferenciabilidad.
 - [[Condición suficiente de diferenciabilidad]]
-- [[Función de clase C1]]
+- [$C^1$](Función de clase C1)
 ### 5. Regla de la cadena.
 - [[Regla de la cadena (Rn)]]
 ### 6. Teorema del valor medio. 

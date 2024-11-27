@@ -15,6 +15,8 @@ Por lo tanto, tenemos que $\{d(x_n, x_0) \} \to 0$, lo que implica que $\{x_n \}
 
 **Tema:** [[Continuidad]]
 
+**Resultados referenciados:** [$\{x_n\} \to x \iff \forall \varepsilon > 0, \, \exists n_0 : \forall n > n_0 \quad d(x_n, x) < \varepsilon$](Caracterización de convergencia en espacios métricos (distancia))
+
 ---
 ### Anki
 

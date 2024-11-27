@@ -1,5 +1,5 @@
 ### 1. Derivada de orden dos.
-- [$D_if(a)$](Derivada de orden dos)
+- [$D_{ij}f(a)$](Derivada de orden dos)
 - [$\exists D_if(a), D_jf(a)$ y son diferenciables $\implies$ $\exists D_{ij}f(a), D_{ji}f(a)$ y $D_{ij}f(a) = D_{ji}f(a)$](Teorema de Young)
 - [[Corolario teorema de Young]]
 - [$C^2$](Función de clase C2)

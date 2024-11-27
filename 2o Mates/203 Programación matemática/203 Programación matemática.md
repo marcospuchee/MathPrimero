@@ -13,7 +13,7 @@
 - [[Intersección arbitraria de convexos es convexa]]
 - [[Conjunto convexo sii contiene combinaciones lineales convexas de cualquier subconjunto finito]]
 - [[Envoltura convexa]]
-- [[(por demostrar) Envoltura convexa de un conjunto es el conjunto convexo mínimo que lo contiene]]
+- [[Envoltura convexa de un conjunto es el conjunto convexo mínimo que lo contiene]]
 - [[Envoltura convexa es el conjunto de las combinaciones lineales convexas formadas por puntos de C]]
 - [[Polítopo]]
 ##### 2. Puntos y direcciones extremas.

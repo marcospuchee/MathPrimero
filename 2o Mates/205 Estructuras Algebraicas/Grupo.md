@@ -4,23 +4,21 @@
 
 ```ad-formal
 title: Formal definition
-Un grupo es un [[monoide]] tal que $\forall a \in G, \, \exists a^{-1} \in G$ tal que $a^{-1}a = aa^{-1} = e$.
+Un grupo es un par $(G, *)$ donde $G$ es un conjunto no vacío y
+$$\begin{array}{c c c l}
+*: & G \times G & \to & G \\
+& (a,b) & \mapsto & a * b
+\end{array}$$
+una operación binaria interna sobre $G$ que cumple
+1. $\forall a,b,c \in G$, $(a*b)*c = a*(b*c)$.
+y además $\exists e \in G$ tal que
+2. $\forall a \in G$, $a * e = a$ y $e*a = a$.
+3. $\forall a \in G$, $\exists a^{-1} \in G$ tal que $a*a^{-1} = e$ y $a^{-1}*a = e$.
 ```
 
 ^dc351d
 
-**Tema:** [[Grupos#1. Semigrupos, monoides y grupos]]
-**Referencias:** [[Grupo abeliano]], [[Subgrupo]], [[Grupo cíclico]]
-**Proposiciones:** [[Debilidad definición de grupo]], [[Grupo según soluciones a ecuaciones]], [[Propiedades de los grupos]]
-**Teoremas:**
+**Tema:** [[Teoría de grupos#1. Definición y ejemplos.]]
 
 ---
 ### Anki
-
-START
-Básico
-Anverso: Definición de grupo
-Reverso: Un grupo es un [[monoide]] tal que $\forall a \in G, \, \exists a^{-1} \in G$ tal que $a^{-1}a = aa^{-1} = e$.
-Tags: hungerford definición
-<!--ID: 1721211803003-->
-END
