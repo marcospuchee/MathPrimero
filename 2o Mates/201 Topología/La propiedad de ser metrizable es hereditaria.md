@@ -19,7 +19,7 @@ Así, $A = A' \cap H$, y como $A' \in \mathcal T_d$, entonces $A \in \mathcal T_
 **Tema:** [[Subespacios topológicos#1. Definición.]]
 
 **Definiciones referenciadas:** [[Espacio métrico]], [$\mathcal T_d \restriction H$](Topología inducida), [$\mathcal T_{d_H}$](Espacio métrico), [$d_H$](Subespacio métrico)
-**Resultados referenciados:**
+**Resultados referenciados:** -.
 
 ---
 ### Anki
