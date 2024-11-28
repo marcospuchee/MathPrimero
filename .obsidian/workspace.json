@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d15607e591a73659",
         "type": "tabs",
         "children": [
           {
-            "id": "673beb71311e9e98",
+            "id": "b68afb4d5d7a0778",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/201 Topología/201 Topología.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "201 Topología"
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -198,22 +197,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "673beb71311e9e98",
+  "active": "b68afb4d5d7a0778",
   "lastOpenFiles": [
+    "2o Mates/202 Análisis II/Cambio de variable.md",
     "README.md",
-    "Imagen de un conexo está contenido en el conexo de la imagen.md",
-    "2o Mates/201 Topología/Conexión.md",
+    "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
+    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
+    "2o Mates/202 Análisis II/Diferenciabilidad de funciones de varias variables.md",
+    "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
+    "2o Mates/202 Análisis II/Teorema de la inyectividad local.md",
+    "2o Mates/202 Análisis II/202 Análisis II.md",
     "2o Mates/201 Topología/201 Topología.md",
+    "2o Mates/201 Topología/Imagen de un conexo está contenido en el conexo de la imagen.md",
+    "2o Mates/201 Topología/Conexión.md",
     "2o Mates/201 Topología/Metrizable es propiedad topológica.md",
     "2o Mates/201 Topología/La imagen de un conexo por una aplicación continua es conexa.md",
-    "Los componentes conexos forman una partición.md",
-    "Todo componente conexo es cerrado.md",
+    "2o Mates/201 Topología/Los componentes conexos forman una partición.md",
+    "2o Mates/201 Topología/Todo componente conexo es cerrado.md",
     "2o Mates/201 Topología/Puntos especiales.md",
-    "Conexo que intersecta con componente conexo está contenido en componente conexo.md",
-    "Componente conexo es conexo.md",
+    "2o Mates/201 Topología/Conexo que intersecta con componente conexo está contenido en componente conexo.md",
+    "2o Mates/201 Topología/Componente conexo es conexo.md",
     "2o Mates/201 Topología/Componente conexo.md",
-    "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
-    "2o Mates/202 Análisis II/202 Análisis II.md",
     "2o Mates/205 Estructuras Algebraicas/Teorema de la simplicidad de An.md",
     "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
     "Excalidraw/Seminario 3 EstrAlg.md",
@@ -222,13 +226,8 @@
     "2o Mates/205 Estructuras Algebraicas/Condición necesaria y suficiente para que el producto de subgrupos sea subgrupo.md",
     "2o Mates/205 Estructuras Algebraicas/Propiedades subgrupo normal.md",
     "2o Mates/205 Estructuras Algebraicas/Coclase.md",
-    "2o Mates/205 Estructuras Algebraicas/Propiedades coclases.md",
-    "2o Mates/205 Estructuras Algebraicas/Cálculo de órdenes (r-ciclos).md",
     "Attachements/Pasted Image 20241128125252_656.png",
     "Attachements/Pasted Image 20241128124649_266.png",
-    "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de la descomposición en ciclos.md",
-    "2o Mates/205 Estructuras Algebraicas/r-ciclo.md",
     "Attachements/Pasted Image 20241128123805_930.png",
     "Attachements/Pasted Image 20241127160220_982.png",
     "Attachements/Pasted Image 20241127154913_887.png",
