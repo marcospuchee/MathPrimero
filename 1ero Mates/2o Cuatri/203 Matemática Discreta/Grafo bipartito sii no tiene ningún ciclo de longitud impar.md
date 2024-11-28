@@ -44,7 +44,7 @@ Anverso: Demostración de que un grafo $G =(V, A)$ es [[Grafo bipartito]] $\iff$
 Reverso: $\rightarrow$.
 Si $G$ es bipartito con $V = D \cup I$, dado un ciclo $v_0, v_1, \dots, v_{k-1}, v_k (= v_0)$, de longitud $k$, podemos suponer que $v_0 \in D$ entonces necesariamente $v_1 \in I, v_2 \in D, \dots$ Como $v_k = v_0 \in D$, $v_{k-1} \in I$ y por tanto $k-1$ ha de ser impar, luego $k$ es par.
 
-$\leftarrow$. Podemos suponer que $G$ es [[Grafo conexo]] (sino, trabajaríamos con cada una de sus [[Componente conexa]]). Elegimos un vértice $v_0 \in V$ cualquiera. Para cada vértice $v \in V$, sea $p_v$ cualquier camino minimal que una $v_0$ con $v$. Y denotamos $d_v$ su longitud. Notar que todos los caminos minimales que unen dos vértices tienen la misma longitud.
+$\leftarrow$. Podemos suponer que $G$ es [[Grafo conexo]] (sino, trabajaríamos con cada una de sus [[Componente conexo]]). Elegimos un vértice $v_0 \in V$ cualquiera. Para cada vértice $v \in V$, sea $p_v$ cualquier camino minimal que una $v_0$ con $v$. Y denotamos $d_v$ su longitud. Notar que todos los caminos minimales que unen dos vértices tienen la misma longitud.
 Definimos ahora
 $$D = \{v \in V: d_v \textrm{ es par } \}, \quad I = \{v \in V : d_v \textrm{ es impar } \}.$$
 Obviamente, $V = D \cup I$ es una partición ([[Partición de un conjunto]]) de $V$. Vamos a comprobar, por reducción al absurdo, que el grafo $G = (D \cup I, A)$ es bipartito.

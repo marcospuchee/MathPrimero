@@ -47,7 +47,7 @@ Anverso: Demostración de que sea $G = (V, A)$ un [[Grafo]] con $|V| = n$. Son e
 Reverso: Gracias a [[Teorema definiciones equivalentes de árbol]], sabemos que $i) \implies ii)$.
 
 $ii \implies i$.
-Por reducción al absurdo, suponemos que $G$ no tiene ciclos y que $|A| = n-1$, pero que no es conexo. Dividimos el grafo en sus componentes conexas ([[Componente conexa]]), $G_i = (V_i, A_i)$, para $i = 1, \dots, k$ con $k>1$.
+Por reducción al absurdo, suponemos que $G$ no tiene ciclos y que $|A| = n-1$, pero que no es conexo. Dividimos el grafo en sus componentes conexas ([[Componente conexo]]), $G_i = (V_i, A_i)$, para $i = 1, \dots, k$ con $k>1$.
 Cada componente conexa no tiene ciclos, porque si existiera un ciclo en alguna de ellas, entonces el mismo ciclo lo sería de $G$. Obviamente, cada componente conexa es conexa. Por lo tanto, cada componente conexa es un árbol, y eso implica que $|A_i| = |V_i| -1$, $\forall i = 1, \dots, k$. Por tanto,
 $$|A| = \sum_{i = 1}^k |A_i| = \sum_{i = 1}^k(|V-i| -1) = \left ( \sum_{i = 1}^k |V_i| \right ) - k = n-k < n-1,$$
 lo que contradice la hipótesis $|A| = n-1$.

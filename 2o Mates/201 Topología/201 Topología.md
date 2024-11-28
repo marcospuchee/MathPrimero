@@ -154,4 +154,15 @@ Como la frontera topológica es un subconjunto de la adherencia, cumple las prop
 - [$\{H_i\}_ {i \in I}$ conexos $: (\exists i_0 : H_i \cap H_{i_0} \neq \emptyset, \, \forall i \in i)$ $\implies H = \bigcup_{i \in I} H_i$ conexo](Familia de subconjuntos conexos con un subconjunto que intersecta al resto entonces la unión es conexa)
 - [$\{H_i\}_ {i \in I}$ conexos $: \bigcap_{i \in I} H_i \neq \emptyset \implies \bigcup_{i \in I} H_i$ conexo](Familia de subconjuntos conexos con un subconjunto que intersecta al resto entonces la unión es conexa)
 - [$H_1, H_2$ conexos $: H_1 \cap H_2 \neq \emptyset \implies H_1 \cup H_2$ conexo](Familia de subconjuntos conexos con un subconjunto que intersecta al resto entonces la unión es conexa)
-
+### 3. Componentes conexos.
+- [$C_x$](Componente conexo), [[Componente conexo]]
+- [[Componente conexo es conexo]]
+- [$C$ conexo, $C_x$ componente conexo $: C \cap C_x \neq \emptyset \implies C \subseteq C_x$](Conexo que intersecta con componente conexo está contenido en componente conexo)
+- [$\forall C$ conexo, $\exists C_x$ componente conexo $: C \subseteq C_x$](Conexo que intersecta con componente conexo está contenido en componente conexo)
+- [$y \in C_x \iff C_x = C_y$](Conexo que intersecta con componente conexo está contenido en componente conexo)
+- [[Todo componente conexo es cerrado]]
+- [[Los componentes conexos forman una partición]]
+- [$(X, \mathcal T)$ conexo $\iff$ tiene un único componente conexo](Los componentes conexos forman una partición)
+- [$f$ continua $\implies f(C_x) \subseteq C_{f(x)}$](Imagen de un conexo está contenido en el conexo de la imagen)
+- [$f$ homeomorfismo $\implies f(C_x)$ es componente conexo](Imagen de un conexo está contenido en el conexo de la imagen)
+- [El número de componentes conexos es invariante topológico](Imagen de un convexo está contenido en el conexo de la imagen)

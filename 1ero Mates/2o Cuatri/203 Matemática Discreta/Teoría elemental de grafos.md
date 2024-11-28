@@ -20,7 +20,7 @@
 - [[Camino]]
 - [[Proposición potencia de la matriz de adyacencia es número de caminos]]
 - [[Grafo conexo]]
-- [[Componente conexa]]
+- [[Componente conexo]]
 - [[Teorema cardinal conjunto aristas]]
 - [[Ciclo]]
 ### 3. Estructuras tipo árbol.
