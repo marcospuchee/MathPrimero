@@ -15,7 +15,7 @@ donde $X \textrm{\\} C' \in \mathcal T$. Por tanto, $H \textrm{\\} C \in \mathca
 **Tema:** [[Subespacios topológicos#1. Definición.]]
 
 **Definiciones referenciadas:** [$\mathcal T_H$](Topología inducida)
-**Resultados referenciados:** *ninguno*.
+**Resultados referenciados:**  -.
 
 ---
 ### Anki

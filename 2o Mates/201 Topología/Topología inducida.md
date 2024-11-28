@@ -20,7 +20,7 @@ donde $\bigcup_{i \in I} A_i' \in \mathcal T$. Luego, $\bigcup_{i \in I} A_i = \
 
 **Tema:** [[Subespacios topológicos#1. Definición.]]
 
-**Definiciones referenciadas:**
+**Definiciones referenciadas:** -.
 
 ---
 ### Anki

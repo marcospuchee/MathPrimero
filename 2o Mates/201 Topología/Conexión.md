@@ -12,3 +12,7 @@
 - [Un subespacio de $(\mathbb R, \mathcal T_u)$ es conexo $\iff$ es un intervalo](Un subespacio de (R, T_u) es conexo sii es un intervalo)
 - [$(\mathbb R, \mathcal T_u)$ es conexo](Un subespacio de (R, T_u) es conexo sii es un intervalo)
 - [$f:(X, \mathcal T) \to (\mathbb R, \mathcal T_u)$ continua $\land$ $(X, \mathcal T)$ conexo $\implies$ $f(X)$ intervalo](Un subespacio de (R, T_u) es conexo sii es un intervalo)
+- [$H \subseteq X$ conexo $\land \, \, \, H \subseteq S \subseteq \textrm{ad}(H)$ $\implies$ $S$ conexo](Conjunto entre conjunto conexo y su adherencia es conexo)
+- [$\{H_i\}_ {i \in I}$ conexos $: (\exists i_0 : H_i \cap H_{i_0} \neq \emptyset, \, \forall i \in i)$ $\implies H = \bigcup_{i \in I} H_i$ conexo](Familia de subconjuntos conexos con un subconjunto que intersecta al resto entonces la unión es conexa)
+- [$\{H_i\}_ {i \in I}$ conexos $: \bigcap_{i \in I} H_i \neq \emptyset \implies \bigcup_{i \in I} H_i$ conexo](Familia de subconjuntos conexos con un subconjunto que intersecta al resto entonces la unión es conexa)
+- [$H_1, H_2$ conexos $: H_1 \cap H_2 \neq \emptyset \implies H_1 \cup H_2$ conexo](Familia de subconjuntos conexos con un subconjunto que intersecta al resto entonces la unión es conexa)

@@ -6,7 +6,7 @@
 - **Programación matemática:** [[203 Programación matemática]]
 - **Métodos:** [[204 Métodos numéricos]]
 - **Estructuras algebraicas:** [[205 Estructuras Algebraicas]]
-### Cosas que faltan (orden de importancia):
+### Cosas que faltan (cuando tenga tiempo):
 - Crear CANVAS.
 - Reformatear segundo.
 	- Reformatear Topo.
