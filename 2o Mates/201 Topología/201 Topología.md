@@ -165,4 +165,4 @@ Como la frontera topológica es un subconjunto de la adherencia, cumple las prop
 - [$(X, \mathcal T)$ conexo $\iff$ tiene un único componente conexo](Los componentes conexos forman una partición)
 - [$f$ continua $\implies f(C_x) \subseteq C_{f(x)}$](Imagen de un conexo está contenido en el conexo de la imagen)
 - [$f$ homeomorfismo $\implies f(C_x)$ es componente conexo](Imagen de un conexo está contenido en el conexo de la imagen)
-- [El número de componentes conexos es invariante topológico](Imagen de un convexo está contenido en el conexo de la imagen)
+- [El número de componentes conexos es invariante topológico](Imagen de un conexo está contenido en el conexo de la imagen)

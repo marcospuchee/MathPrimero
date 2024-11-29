@@ -68,3 +68,8 @@
 ### 3. Algoritmo Dual-Simplex.
 - [[Solución básica primal-óptima]]
 - [[Criterio de factibilidad Dual-Simplex]]
+### 4. Análisis de sensibilidad
+- [[Cambios en el vector de costes]]
+- [[Cambios en el vector de términos independientes]]
+- [[Adición de una nueva variable]]
+- [[Adición de una nueva restricción]]

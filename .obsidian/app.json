@@ -23,5 +23,11 @@
     "2o Cuatri/202 Álgebra Lineal y Geometría/Prácticas/Diagonalización/",
     "2o Cuatri/203 Matemática Discreta/Práctica/Enumeración y recuento/"
   ],
-  "spellcheck": false
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
