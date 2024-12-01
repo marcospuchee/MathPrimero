@@ -5,6 +5,8 @@ Sea $G \curvearrowright \Omega$. Si $\Omega$ es finito y las órbitas de longitu
 $$|\Omega| = |\Omega_{\textrm{fix}}| + \sum_{i = t+1}^n |\textrm{Orb} \\_ {\alpha \\_ i}|$$
 ```
 
+^83344a
+
 ```ad-proof
 Dado que $|\Omega| = \sum^n_ {i = 1} |\textrm{Orb}_ {\alpha_ i}|$, ordenamos $\alpha_1, \alpha_2, \dots, \alpha_n$ de forma que los primeros elementos sean puntos fijos, esto es, tales que $\textrm{Orb}_{\alpha_i} = \{\alpha_i\}$. Digamos que son $t$.
 

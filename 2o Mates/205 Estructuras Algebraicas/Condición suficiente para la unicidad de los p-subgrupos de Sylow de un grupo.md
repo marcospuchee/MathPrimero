@@ -4,6 +4,8 @@
 Sea $|G| = p^km$ donde $p \in \mathbb P$ y $p \nmid m$ y $S \in \textrm{Syl}_p(G)$ tal que $S \unlhd G$. Entonces $S$ es el único $p$-subgrupo de Sylow de $G$.
 ```
 
+^a227e9
+
 ```ad-proof
 Sea $S \in \textrm{Syl}_p(G)$ con $S \unlhd G$. Demostremos que, $\forall P \le G$ $p$-subgrupo, $P \le S$. Sea $P \le G$ $p$-subgrupo. Consideremos $PS \le G$ por ser $S \unlhd G$. Notemos que:
 1. $|PS| = \frac{|P| |S|}{|P \cap S|}$ y, como todo son potencias de $p$, $PS$ es $p$-subgrupo de $G$.
@@ -21,3 +23,26 @@ Por tanto, si $S'$ es otro $p$-subgrupo de Sylow de $G$, como $S'$ es un $p$-sub
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Condiciones para la unicidad de los $p$-subgrupos de Sylow
+Reverso: Sea $|G| = p^km$ donde $p \in \mathbb P$ y $p \nmid m$ y $S \in \textrm{Syl}_p(G)$ tal que $S \unlhd G$. Entonces $S$ es el único $p$-subgrupo de Sylow de $G$.
+Tags: est
+<!--ID: 1733051328664-->
+END
+
+START
+Básico
+Anverso: Demostración de que sea $|G| = p^km$ donde $p \in \mathbb P$ y $p \nmid m$ y $S \in \textrm{Syl}_p(G)$ tal que $S \unlhd G$. Entonces $S$ es el único $p$-subgrupo de Sylow de $G$.
+Reverso: Sea $S \in \textrm{Syl}_p(G)$ con $S \unlhd G$. Demostremos que, $\forall P \le G$ $p$-subgrupo, $P \le S$. Sea $P \le G$ $p$-subgrupo. Consideremos $PS \le G$ por ser $S \unlhd G$. Notemos que:
+1. $|PS| = \frac{|P| |S|}{|P \cap S|}$ y, como todo son potencias de $p$, $PS$ es $p$-subgrupo de $G$.
+2. $S \le PS \le G$.
+
+Luego, como los $p$-subgrupos de Sylow son $p$-subgrupos maximales, $P \le PS = S$.
+
+Por tanto, si $S'$ es otro $p$-subgrupo de Sylow de $G$, como $S'$ es un $p$-subgrupo, por loq ue hemos demostrado, $S' \le S$, y como $|S'| = |S| = p^k$, tenemos que $S' = S$.
+Tags: dem est
+<!--ID: 1733051328666-->
+END
+

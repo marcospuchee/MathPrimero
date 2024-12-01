@@ -4,6 +4,8 @@
 Sea $G$ un grupo. $(\textrm{Aut}(G), \circ)$ es un grupo. En particular, $\textrm{Aut}(G) \le S_G$, donde $S_G$ es el grupo de biyecciones en $G$.
 ```
 
+^e43e7a
+
 ```ad-proof
 1. Es evidente que $\textrm{id}_G \in \textrm{Aut}(G)$.
 2.Si $\varphi, \Psi \in \textrm{Aut}(G)$, entonces $\varphi \circ \Psi^{-1} \in \textrm{Aut}(G)$.

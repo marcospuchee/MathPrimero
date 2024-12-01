@@ -7,10 +7,14 @@ $$\textrm{Stab}_\alpha = G_\alpha = \{g \in G \, | \, g \cdot \alpha = \alpha \}
 Diremos que $\alpha \in G$ es un punto fijo de la acción si $\textrm{Stab}_\alpha = G$. El conjunto de puntos fijos lo denotaremos $\Omega_{\textrm{fix}}$.
 ```
 
+^a44d53
+
 ```ad-note
 title: Nota
 Sea $G \curvearrowright \Omega$. Entonces $\textrm{Ker}(\rho) = \bigcap_{\alpha \in \Omega} \textrm{Stab}_\alpha$.
 ```
+
+^d08cdb
 
 
 **Tema:** [[Acciones de grupos#2. Teorema Órbita-Estabilizador.]]

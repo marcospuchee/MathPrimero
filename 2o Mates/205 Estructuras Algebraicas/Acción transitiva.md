@@ -6,6 +6,8 @@ $$g \cdot \alpha = \beta.$$
 En particular, sólo existe una órbita y $\forall \alpha \in \Omega$, $\textrm{Orb} \\_ \alpha = \Omega$. Notemos que en este caso, $\forall \alpha \in \Omega$, $|\Omega| = |g: \textrm{Stab} \\_ \alpha|$.
 ```
 
+^35c905
+
 **Tema:** [[Acciones de grupos#2. Teorema Órbita-Estabilizador.]]
 
 **Definiciones referenciadas:** [Acción](Acción de grupo), [$G \curvearrowright \Omega$](Acción de grupo), [$\textrm{Orb} \\_ \alpha$](Órbita), [$\textrm{Stab} \\_ \alpha$](Estabilizador).

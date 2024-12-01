@@ -5,6 +5,8 @@ Sea $G$ un $p$-grupo y $G \curvearrowright \Omega$. Entonces
 $$|\Omega| \equiv |\Omega \\_ \textrm{fix}| \pmod p.$$
 ```
 
+^daaf34
+
 ```ad-proof
 
 

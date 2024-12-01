@@ -19,3 +19,23 @@ lo que implica que $g$ es continua en $b$.
 
 ---
 ### Anki
+
+START
+Respuesta anidada
+Sea $f: \Omega \subset \mathbb R^n \to \mathbb R^n$ {{c1::inyectiva de clase $C^1$}} tal que {{c2::$J_f(x) \neq 0$, $\forall x \in \Omega$}}. Entonces, $B= f(\Omega)$ es {{c3::abierto}}, $f: \Omega \to B$ es {{c3::una biyección}} y $g = f^{-1}:B \to \Omega$ es {{c3::continua}}.
+Tags: anII
+<!--ID: 1733051328705-->
+END
+
+START
+Básico
+Anverso: Demostración de que sea $f: \Omega \subset \mathbb R^n \to \mathbb R^n$ inyectiva de clase $C^1$ tal que $J_f(x) \neq 0$, $\forall x \in \Omega$. Entonces, $B= f(\Omega)$ es abierto, $f: \Omega \to B$ es una biyección y $g = f^{-1}:B \to \Omega$ es continua.
+Reverso: Falta probar la continuidad de la inversa. Tomamos $b \in B = f(a)$, luego $b = f(a)$ con $a \in \Omega$. Dado $\varepsilon > 0$, queremos encontrar $\delta > 0$ tal que $g(B(b; \delta)) \subset B(g(b); \varepsilon) = B(a; \varepsilon)$.
+
+Por el teorema anterior, $f$ abierta, luego observemos que $f(B(a;\varepsilon))$ es un abierto y $f(a) \in f(B(a;\varepsilon))$, luego $f(B(a; \varepsilon))$ es un entorno de $f(a)$. Por tanto, $\exists \delta > 0$ tal que $f(a) \in B(f(a); \delta) \subset f(B(a; \varepsilon))$. Aplicando la función inversa, 
+$$g(B(b; \delta)) = f^{-1}(B(f(a); \delta)) \subset B(a;\varepsilon) = B(g(b); \varepsilon),$$
+lo que implica que $g$ es continua en $b$.
+Tags: anII dem
+<!--ID: 1733051328707-->
+END
+

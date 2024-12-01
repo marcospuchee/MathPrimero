@@ -92,5 +92,5 @@
 - [$G/Z(G) \cong \textrm{Int}(G)$](Grupo cociente con el centro es isomorfo a grupo de automorfismos internos)
 - [$H \textrm{ car } G$](Subgrupo característico)
 - [$Z(G) \textrm{ car } G$](Centro característico)
-- [Propiedades $\textrm{car}$](Propiedades subgrupo característico)
+- [Propiedades $\textrm{car}$](Propiedades subgrupo característico) 
 - [$\forall n \ge 2, \, \, A_n \textrm{ car } S_n$](Grupo alternado característico en permutaciones)

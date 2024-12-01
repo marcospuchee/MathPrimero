@@ -16,7 +16,7 @@
 - [$|\Omega| = |\Omega_{\textrm{fix}}| + \sum_{i = t+1}^n |\textrm{Orb} \\_ {\alpha \\_ i}|$](Corolario 2 teorema órbita-estabilizador)
 - [$p$-grupo](p-grupo)
 - [$p$-grupo $\implies$ $|\Omega| \equiv |\Omega \\_ \textrm{fix}| \pmod p$](Teorema cardinal conjunto con acción sobre p-grupo)
-- [[Acción transitiva]], [$g \cdot \alpha = \beta$](Acción transitiva)
+- [[Acción  transitiva]], [$g \cdot \alpha = \beta$](Acción transitiva)
 ### 3. La acción natural.
 - [[Acción natural]]
 - [$|S_n:S_{n-1}| = n$](Acción natural)

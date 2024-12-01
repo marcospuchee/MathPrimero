@@ -1,4 +1,4 @@
-### Contenido principal
+ ### Contenido principal
 
 ```ad-Formal
 Sea $n \ge 2$. Definimos $S_n \curvearrowright \{1,2, \dots, n \}$ como sigue: $\sigma \cdot i = \sigma(i)$. Tras el estudio de la acción natural:
@@ -7,11 +7,15 @@ Sea $n \ge 2$. Definimos $S_n \curvearrowright \{1,2, \dots, n \}$ como sigue: $
 3. No hay puntos fijos.
 ```
 
+^0e8bc2
+
 ```ad-note
 title: Nota
 1. $|S_n:S_{n-1}| = n$.
 2. El homomorfismo representación de esta acción es $\textrm{id} \\_ {S_n}: S_n \to S_n$.
 ```
+
+^6b03dd
 
 ```ad-proof
 Verificamos que es una acción

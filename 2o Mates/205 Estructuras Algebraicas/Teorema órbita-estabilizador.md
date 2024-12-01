@@ -5,6 +5,8 @@ Sea $G \curvearrowright \Omega$ y $\alpha \in \Omega$. Entonces
 $$|\textrm{Orb}_\alpha| = |G: \textrm{Stab}_\alpha|.$$
 ```
 
+^e479e9
+
 ```ad-proof
 Consideramos la aplicación $f: \mathcal L_{\textrm{Stab}_\alpha} \to \textrm{Orb}_\alpha$, donde $f(g \textrm{Stab}_\alpha) = g \cdot \alpha$. Demostramos que $f$ es biyectiva, y por tanto,
 $$|\mathcal L_{\textrm{Stab}_\alpha}| = |G: \textrm{Stab}_\alpha| = |\textrm{Orb}_\alpha|.$$

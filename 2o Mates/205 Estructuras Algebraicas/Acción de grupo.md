@@ -13,6 +13,8 @@ que satisface
 Diremos que un grupo $G$ actúa sobre un conjunto $\Omega$, denotado $G \curvearrowright \Omega$, si $\exists$ una acción $\cdot$ de $G$ sobre $\Omega$.
 ```
 
+^cb72a6
+
 **Tema:** [[Acciones de grupos#1. Definición.]]
 
 **Definiciones referenciadas:** [[grupo]]

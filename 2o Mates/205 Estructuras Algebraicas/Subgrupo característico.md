@@ -4,6 +4,8 @@
 Sea $G$ un grupo y $H \le G$. Diremos que $H$ es característico en $G$, denotado $H \textrm{ car } G$ si, $\forall \varphi \in \textrm{Aut}(G)$, $\varphi(H) = H$.
 ```
 
+^011adb
+
 ```ad-note
 Notemos que $H \textrm{ car } G \implies H \unlhd G$.
 ```

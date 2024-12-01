@@ -5,6 +5,8 @@ Sea $G \curvearrowright \Omega$. Si $\Omega$ es finito y las órbitas están rep
 $$|\Omega| = \sum^n_ {i = 1} |\textrm{Orb}_ {\alpha_ i}| = \sum^n_ {i = 1} |G: \textrm{Stab} \\_ {\alpha \\_ i}|$$
 ```
 
+^e0fb46
+
 ```ad-proof
 Sabemos que $\{\textrm{Orb}_\alpha : \alpha \in \Omega \}$ forma una partición de $\Omega$. Por tanto,
 $$\Omega = \bigcup_{\alpha \in \Omega} \textrm{Orb}_\alpha = \biguplus_{i = 1}^n \textrm{Orb}_{\alpha_i}.$$

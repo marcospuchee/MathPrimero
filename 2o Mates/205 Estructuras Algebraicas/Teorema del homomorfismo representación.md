@@ -16,6 +16,8 @@ $$\begin{array}{c c c l}
 es un homomorfismo llamado homomorfismo representación.
 ```
 
+^b3ea81
+
 ```ad-proof
 1. En primer lugar, demostramos que $\rho_g$ es inyectiva. Sean $\alpha, \beta \in \Omega$ tales que $\rho_g(\alpha) = \rho_g(\beta)$. Veamos que $\alpha = \beta$. Notamos la siguiente cadena de igualdades:
 $$\begin{eqnarray}

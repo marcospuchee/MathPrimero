@@ -25,7 +25,6 @@ $f:(X, \mathcal T) \to (Y, \mathcal T')$ homeomorfismo, entonces $f$ lleva compo
 Sabemos que $f(C_x) \subseteq C_{f(x)}$. Como $f^{-1}$ es continua, se cumple lo mismo, pero al revés: $f^{-1}(C_{f(x)}) \subseteq C_{f^{-1}(f(x))} = C_x$. Por lo tanto, $C_{f(x)} \subseteq f(C_x)$, y tenemos la igualdad: $f(C_x) = C_{f(x)}$.
 ```
 
-
 ```ad-cor
 title: Corollarium
 El número de componentes conexos es invariante topológico
@@ -33,3 +32,27 @@ El número de componentes conexos es invariante topológico
 
 ---
 ### Anki
+
+START
+Respuesta anidada
+$f:(X, \mathcal T) \to (Y, \mathcal T')$ continua y $x \in X$. Entonces, {{c1::$f(C_x)$}} $\subseteq$ {{c2::$C_{f(x)}$}}.
+Tags: top
+<!--ID: 1733051328729-->
+END
+
+START
+Básico
+Anverso: Demostración de que $f:(X, \mathcal T) \to (Y, \mathcal T')$ continua y $x \in X$. Entonces, $f(C_x) \subseteq C_{f(x)}$.
+Reverso: Como $C_x$ es conexo y $f$ es continua, $f(C_x)$ es conexo y $f(x) \in f(C_x)$, luego $f(C_x) \subseteq C_{f(x)}$, dado que $f(C_x) \cap C_{f(x)} \neq \emptyset$.
+Tags: dem top
+<!--ID: 1733051328732-->
+END
+
+START
+Básico
+Anverso: $f:(X, \mathcal T) \to (Y, \mathcal T')$ continua y $x \in X$. Entonces, $f(C_x) \subseteq C_{f(x)}$. ¿Qué condición falta para la igualdad?
+Reverso: Que $f$ sea homeomorfismo.
+Tags: top
+<!--ID: 1733051328734-->
+END
+

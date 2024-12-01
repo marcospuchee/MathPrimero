@@ -5,6 +5,8 @@ Sea $G$ un grupo, definimos el grupo de automorfismos internos de $G$:
 $$\textrm{Int}(G) = \{\alpha_g: G \to G \, | \, g \in G\}.$$
 ```
 
+^ef0e23
+
 **Tema:** [[Teoría de grupos#17. Los grupos $ textrm{Aut}(G)$ e $ textrm{Int}(G)$.]]
 
 ---

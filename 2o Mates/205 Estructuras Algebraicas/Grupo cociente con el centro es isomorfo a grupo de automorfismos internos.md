@@ -6,6 +6,8 @@ $$G/Z(G) \cong \textrm{Int}(G),$$
 donde $Z(G) = \{x \in G : xy = yx, \, \forall y \in G\}$.
 ```
 
+^fc1f04
+
 ```ad-proof
 Consideramos la aplicación
 $$\begin{array}{c c c l}

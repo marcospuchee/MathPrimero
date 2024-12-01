@@ -4,6 +4,8 @@
 Sea $G$ un grupo. Entonces $\textrm{Int}(G) \unlhd \textrm{Aut}(G)$.
 ```
 
+^a74a58
+
 ```ad-proof
 En primer lugar demostramos que $\textrm{Int}(G) \le \textrm{Aut}(G)$:
 1. Como $\alpha_{1_G}(x) = 1_G x 1_G^{-1} = x$, tenemos que $\textrm{id}_G = \alpha_{1_G} \in \textrm{Int}(G)$.

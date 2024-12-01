@@ -15,3 +15,22 @@ $C_x$ conexo $\implies$ $\textrm{ad}(C_x)$ conexo. Como $\textrm{ad}(C_x) \cap C
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Demostración de que todo componente conexo es cerrado
+Reverso: $C_x$ conexo $\implies$ $\textrm{ad}(C_x)$ conexo. Como $\textrm{ad}(C_x) \cap C_x \neq \emptyset$, entonces $\textrm{ad}(C_x) \subseteq C_x$, luego $C_x = \textrm{ad}(C_x)$, lo que implica que $C_x$ es cerrado.
+Tags: dem top
+<!--ID: 1733051328718-->
+END
+
+START
+Básico
+Anverso: Propiedades componente conexo
+Reverso:
+- Los componentes conexos forman una partición de $X$.
+- Los componentes conexos son cerrados.
+- El número de componentes conexos es un invariante topológico
+Tags: top
+<!--ID: 1733051328720-->
+END

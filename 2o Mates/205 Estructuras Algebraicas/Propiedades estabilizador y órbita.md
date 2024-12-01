@@ -7,6 +7,8 @@ Sea $G \curvearrowright \Omega$. Entonces
 3. La familia $\{\textrm{Orb}_\alpha \, | \, \alpha \in \Omega \}$ forma una partición de $\Omega$.
 ```
 
+^835b0f
+
 ```ad-proof
 1. Sea $\alpha \in \Omega$. Demostramos que $\textrm{Stab}_\alpha \le G$. En primer lugar, $1_G \in \textrm{Stab}_\alpha$ ya que, por la definición de acción, $1_G \cdot \alpha = \alpha$. Sean $g,h \in \textrm{Stab}_\alpha$, esto es, $g \cdot \alpha = \alpha$ y $h \cdot \alpha = \alpha$. Vemos que $gh \in \textrm{Stab}_\alpha$:
 $$(gh) \cdot \alpha = g \cdot (h \cdot \alpha) = g \cdot \alpha = \alpha.$$

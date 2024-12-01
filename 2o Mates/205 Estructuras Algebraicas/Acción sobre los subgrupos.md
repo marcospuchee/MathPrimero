@@ -7,9 +7,13 @@ Sea $G$ un grupo. Definimos $G \curvearrowright \textrm{Sub}(G)$ como sigue: $g 
 3. $H$ es un punto fijo $\iff$ $H \unlhd G$.
 ```
 
+^7132fc
+
 ```ad-note
 1. $|\{{}^gH : g \in G \}| = |G: N_G(H)|$.
 ```
+
+^bcde6a
 
 ```ad-proof
 Veamos primero que es una acción:

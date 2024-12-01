@@ -7,6 +7,8 @@ Sea $G$ un grupo. Definimos $G \curvearrowright G$ como sigue: $g \cdot x = {}^g
 3. $x$ es un punto fijo $\iff$ $x \in Z(G)$:
 ```
 
+^082ab3
+
 ```ad-note
 1. $|\textrm{Cl}_G(x)| = |G: C_G(x)|$.
 2. El homomorfismo representación viene dado por
@@ -16,6 +18,8 @@ $$\begin{array}{c c c l}
 \end{array}$$
 y el núcleo de la acción es $\textrm{Ker}(\rho) = Z(G)$.
 ```
+
+^a382be
 
 ```ad-proof
 Verificamos que es una acción:

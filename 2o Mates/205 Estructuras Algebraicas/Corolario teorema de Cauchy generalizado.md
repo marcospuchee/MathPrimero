@@ -4,6 +4,8 @@
 Sea $|G| = p^k m$ donde $p \in \mathbb P$ y $p \nmid m$. Entonces $\textrm{Syl}_p(G) \neq \emptyset$.
 ```
 
+^3c0b5d
+
 ```ad-proof
 Directo del teorema de Cauchy generalizado
 ```

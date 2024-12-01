@@ -6,6 +6,8 @@ Sea $|G| = p^k m$ donde $p \in \mathbb P$ y $p \nmid m$. Si $S \in \textrm{Syl}_
 2. Si $P$ es un $p$-subgrupo de $G$ tal que $S \le P \le G$, entonces $S = P$.
 ```
 
+^83380b
+
 ```ad-proof
 1. Es evidente por definición de $p$-subgrupo de Sylow.
 2. Como $P$ es $p$-subgrupo de $G$, $P = p^n$ para $n \in \mathbb N$. Entonces, como $S \le P \le G$, tenemos que: $p^k \mid p^n \mid p^km$. Así, $k = n$ y $S = P$.

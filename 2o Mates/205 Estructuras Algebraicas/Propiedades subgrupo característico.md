@@ -6,6 +6,8 @@ Sea $G$ un grupo y $H, K \le G$. Entonces
 2. Si $H \textrm{ car } K \textrm{ car } G$, entonces $H \textrm{ car } G$.
 ```
 
+^5da113
+
 ```ad-proof
 
 

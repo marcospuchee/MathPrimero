@@ -21,7 +21,6 @@ title: Corollarium
 $\forall C$ subespacio conexo, $\exists C_x$ componente conexo tal que $C \subseteq C_x$.
 ```
 
-
 ```ad-cor
 title: Corollarium
 $$y \in C_x \implies C_x = C_y.$$
@@ -35,3 +34,19 @@ Dado que $y \in C_x$, $y \in C_y$, se tiene que $C_x \cap C_y \neq \emptyset$. P
 
 ---
 ### Anki
+
+START
+Respuesta anidada
+Sea $C$ un conexo y $C_x$ un componente conexo tal que {{c1::$C \cap C_x \neq \emptyset$}}. Entonces, {{c2::$C \subseteq C_x$}}.
+Tags: top
+<!--ID: 1733051328746-->
+END
+
+START
+Básico
+Anverso: Demostración de que sea $C$ un conexo y $C_x$ un componente conexo tal que $C \cap C_x \neq \emptyset$. Entonces, $C \subseteq C_x$.
+Reverso: Como $C, C_x$ son conexo y $C_x \cap C \neq \emptyset$, entonces $C \cup C_x$ es conexo. Como $x \in C \cup C_x$, entonces, por definición, $C \cup C_x \subseteq C_x$, luego $C \subseteq C_x$.
+Tags: dem top
+<!--ID: 1733051328749-->
+END
+

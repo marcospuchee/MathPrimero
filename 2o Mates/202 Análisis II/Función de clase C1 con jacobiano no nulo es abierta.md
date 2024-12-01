@@ -33,3 +33,30 @@ Por el teorema de inyectividad local, $\exists r > 0$ tal que $B(a;r) \subset U$
 
 ---
 ### Anki
+
+START
+Respuesta anidada
+Sean $\Omega$ abierto de $\mathbb R^n$, $f: \Omega \to \mathbb R^n$ diferenciable en $\Omega$. Entonces si {{c1::$f$ es inyectiva en $\Omega$}} y {{c1::$J_f(x) \neq 0$, $\forall x \in \Omega$}}, entonces {{c2::$f(\Omega)$ es un abierto}}
+Tags: anII
+<!--ID: 1733051328710-->
+END
+
+START
+Básico
+Anverso: Condición suficientes para que una función sea abierta
+Reverso: Sean $\Omega$ abierto de $\mathbb R^n$, $f: \Omega \to \mathbb R^n$ función de clase $C^1(\Omega)$ tal que $J_f(x) \neq 0$, $\forall x \in \Omega$. Entonces, $f$ es una aplicación abierta
+Tags: anII
+<!--ID: 1733051328712-->
+END
+
+START
+Básico
+Anverso: Demostración de que sean $\Omega$ abierto de $\mathbb R^n$, $f: \Omega \to \mathbb R^n$ función de clase $C^1(\Omega)$ tal que $J_f(x) \neq 0$, $\forall x \in \Omega$. Entonces, $f$ es una aplicación abierta
+Reverso: Sea $U$ abierto de $\Omega$, queremos ver que $f(U)$ es abierto de $\mathbb R^n$. Queremos encontrar $f(a) \in f(U)$ con $a \in U$. Queremos encontrar $R > 0$ tal que $B(f(a); R) \subset f(U)$.
+
+Por el teorema de inyectividad local, $\exists r > 0$ tal que $B(a;r) \subset U$ y $f$ es inyectiva en $B(a;r)$. Sabemos que $f_{\restriction {\overline{B(a;r/2)}}}:  \overline{B(a;r/2)}  \to  \mathbb R^n$ es continua e inyectiva en $\overline{B(a;r/2)}$ y diferenciable en $B(a;r/2)$ con $J_f(x) \neq 0$, $\forall x \in B(a;r/2)$, lo que, aplicando el lema anterior, $f(B(a;r/2))$ es un entorno de $f(a)$. Es decir, $\exists R > 0$ de forma que $B(f(a); R) \subset f(B(a;r/2)) \subset f(U)$. Por tanto, $f(U)$ es abierto de $\mathbb R^n$.
+Tags: anII dem
+<!--ID: 1733051328714-->
+END
+
+

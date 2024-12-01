@@ -11,6 +11,8 @@ Además, si $N \le H,K \le G$,
 2. $K \unlhd H \iff K^* \unlhd H^*$. Además, $H/K \cong H^* / K^*$.
 ```
 
+^dfe652
+
 ```ad-proof
 Para simplificar notación, para $N \le X \le G$, escribiremos $X^* = X /N$.
 

@@ -9,6 +9,8 @@ $$\begin{array}{c c c l}
 y con $\rho$ como homomorfismo representación.
 ```
 
+^14648e
+
 ```ad-proof
 *Ejercicio.*
 ```

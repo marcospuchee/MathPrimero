@@ -34,3 +34,12 @@ Reverso: Si $H$ es un [[Subgrafo]] de $G$, diremos que $H$ es una componente con
 Tags: definición MatDiscreta
 <!--ID: 1717176517398-->
 END
+
+START
+Básico
+Anverso: Definición de componente conexo
+Reverso: Sean $(X, \mathcal T)$ espacio topológico y $x \in X$. Definimos el componente conexo del punto $x$ en $(X, \mathcal T)$, $C_x$, como la unión de todos los subespacios conexos que contienen a $x$.
+$$C_x = \bigcup \{C \subseteq X : C \textrm{ conexo y } x \in C \}.$$
+Tags: top
+<!--ID: 1733051328751-->
+END

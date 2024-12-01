@@ -1,8 +1,10 @@
-au### Contenido Principal
+ au### Contenido Principal
 
 ```ad-theorem
 Sea $G$ un grupo finito, $p \in \mathbb P$ y $k \in \mathbb N$. Si $p^k \mid |G|$, entonces $\exists H \le G$ tal que $|H|=p^k$.
 ```
+
+^a99532
 
 ```ad-proof
 Por inducción fuerte sobre $|G|$.

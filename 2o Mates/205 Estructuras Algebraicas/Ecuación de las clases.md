@@ -5,6 +5,8 @@ Sea $G$ un grupo finito. Entonces $\exists x_{t+1}, \dots, x_n \in G$ tales que
 $$|G| = |Z(G)| + \sum_{i = t+1}^n |G:C_G(x_i)|.$$
 ```
 
+^8d7b24
+
 ```ad-proof
 Tomando la acción por conjugación,
 $$\begin{eqnarray}
