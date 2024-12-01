@@ -8,42 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "f81dc44744b4ccba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Método de la potencia.md",
+                "file": "2o Mates/203 Programación matemática/Programación lineal entera.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Método de la potencia"
+              "title": "Programación lineal entera"
             }
           }
         ]
       },
       {
-        "id": "5f27498969fe7c74",
+        "id": "f4e934864a34a014",
         "type": "tabs",
         "children": [
           {
-            "id": "5c03f76faa59e187",
+            "id": "c808248a162cc3bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
+                "file": "2o Mates/203 Programación matemática/Relajación.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "204 Métodos numéricos"
+              "title": "Relajación"
+            }
+          },
+          {
+            "id": "4a40b98243022424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/203 Programación matemática/Programación lineal entera.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programación lineal entera"
+            }
+          },
+          {
+            "id": "187a69bf460b0994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/203 Programación matemática/Teorema solución óptima de la relajación lineal.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teorema solución óptima de la relajación lineal"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,14 +249,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5e6eb8f7956acf1a",
   "lastOpenFiles": [
-    "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
-    "Método de la potencia.md",
+    "2o Mates/203 Programación matemática/Procedimiento de Chvátal-Gomory para PLE puros.md",
+    "2o Mates/203 Programación matemática/Programación lineal entera.md",
+    "2o Mates/203 Programación matemática/Teorema solución óptima de la relajación lineal.md",
+    "2o Mates/203 Programación matemática/Relajación lineal.md",
+    "2o Mates/203 Programación matemática/Desigualdad válida.md",
+    "Attachements/Pasted image 20241201105456.png",
+    "2o Mates/203 Programación matemática/Relajación.md",
+    "Excalidraw/Seminario 3 EstrAlg.md",
     "2o Mates/203 Programación matemática/203 Programación matemática.md",
-    "2o Mates/204 Métodos numéricos/Métodos para valores y vectores propios.md",
-    "2o Mates/204 Métodos numéricos/Cociente de Rayleigh.md",
     "README.md",
+    "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
+    "2o Mates/204 Métodos numéricos/Métodos para valores y vectores propios.md",
+    "2o Mates/204 Métodos numéricos/Método de la potencia.md",
+    "2o Mates/204 Métodos numéricos/Cociente de Rayleigh.md",
     "1ero Mates/1er Cuatri/102 Álgebra Lineal y Geometría I/Espacio vectorial.md",
     "1ero Mates/1er Cuatri/101 Análisis I/Sucesión de Cauchy.md",
     "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
@@ -239,13 +278,6 @@
     "2o Mates/204 Métodos numéricos/Matriz real simétrica implica que sus valores propios son reales.md",
     "2o Mates/204 Métodos numéricos/Matriz real simétrica definida positiva implica que sus valores propios son estrictamente positivos.md",
     "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Teorema obtención valores propios.md",
-    "2o Mates/201 Topología/Caracterización de espacio topológico conexo (total y vacío unicos abiertos y cerrados a la vez).md",
-    "2o Mates/201 Topología/Conexión.md",
-    "Excalidraw/Seminario 4 Topología.md",
-    "2o Mates/201 Topología/Un subespacio de (R, T_u) es conexo sii es un intervalo.md",
-    "2o Mates/201 Topología/Componente conexo es conexo.md",
-    "2o Mates/201 Topología/Espacio topológico disconexo.md",
-    "1ero Mates/2o Cuatri/204 Física/Fuerzas conservativas. Campo central..md",
     "Attachements/Pasted Image 20241129180803_858.png",
     "Attachements/Pasted Image 20241129174737_534.png",
     "Attachements/Pasted Image 20241128131304_344.png",
@@ -255,7 +287,6 @@
     "Attachements/Pasted Image 20241127160220_982.png",
     "Attachements/Pasted Image 20241127154913_887.png",
     "Attachements/Pasted Image 20241127154838_845.png",
-    "Attachements/Pasted Image 20241120102503_448.png",
     "Canvas/Análisis II.canvas",
     "Canvas/Espacios topológicos.canvas",
     "Untitled",

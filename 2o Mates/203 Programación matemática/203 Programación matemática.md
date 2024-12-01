@@ -73,3 +73,6 @@
 - [[Cambios en el vector de términos independientes]]
 - [[Adición de una nueva variable]]
 - [[Adición de una nueva restricción]]
+---
+## Tema 4: Programación Lineal Entera
+**Referencia:** [[Programación lineal entera]]
