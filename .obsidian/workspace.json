@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "400d238a43ab7a96",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab4cc0e039b9cfde",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/203 Programación matemática/Dualidad y análisis de sensibilidad.md",
+                "file": "Método de la potencia.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dualidad y análisis de sensibilidad"
+              "title": "Método de la potencia"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5f27498969fe7c74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c03f76faa59e187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "204 Métodos numéricos"
             }
           }
         ]
@@ -197,34 +218,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab4cc0e039b9cfde",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
+    "Método de la potencia.md",
     "2o Mates/203 Programación matemática/203 Programación matemática.md",
+    "2o Mates/204 Métodos numéricos/Métodos para valores y vectores propios.md",
+    "2o Mates/204 Métodos numéricos/Cociente de Rayleigh.md",
     "README.md",
-    "2o Mates/203 Programación matemática/Cambios en el vector de costes.md",
-    "2o Mates/203 Programación matemática/Adición de una nueva restricción.md",
-    "2o Mates/203 Programación matemática/Cambios en el vector de términos independientes.md",
-    "2o Mates/203 Programación matemática/Adición de una nueva variable.md",
-    "Templates/Definición.md",
-    "2o Mates/203 Programación matemática/Criterio de factibilidad Dual-Simplex.md",
-    "2o Mates/202 Análisis II/Diferenciabilidad de funciones de varias variables.md",
-    "Untitled 1.md",
-    "2o Mates/201 Topología/201 Topología.md",
-    "2o Mates/201 Topología/Los componentes conexos forman una partición.md",
-    "2o Mates/201 Topología/Todo componente conexo es cerrado.md",
-    "2o Mates/201 Topología/Componente conexo.md",
-    "2o Mates/201 Topología/Componente conexo es conexo.md",
-    "2o Mates/201 Topología/Conexo que intersecta con componente conexo está contenido en componente conexo.md",
-    "2o Mates/201 Topología/Imagen de un conexo está contenido en el conexo de la imagen.md",
+    "1ero Mates/1er Cuatri/102 Álgebra Lineal y Geometría I/Espacio vectorial.md",
+    "1ero Mates/1er Cuatri/101 Análisis I/Sucesión de Cauchy.md",
+    "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Diagonalización.md",
+    "2o Mates/204 Métodos numéricos/Radio espectral.md",
+    "2o Mates/204 Métodos numéricos/Teorema distribución valores propios en componentes conexas de discos de Gershgorin.md",
+    "2o Mates/204 Métodos numéricos/Valores propios están contenidos en la unión de sus discos de Gershgorin.md",
+    "Excalidraw/Control EstrAlg.md",
+    "2o Mates/204 Métodos numéricos/Discos de Gershgorin.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Valor propio de una matriz.md",
+    "2o Mates/204 Métodos numéricos/Matriz real simétrica implica que sus valores propios son reales.md",
+    "2o Mates/204 Métodos numéricos/Matriz real simétrica definida positiva implica que sus valores propios son estrictamente positivos.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Teorema obtención valores propios.md",
+    "2o Mates/201 Topología/Caracterización de espacio topológico conexo (total y vacío unicos abiertos y cerrados a la vez).md",
     "2o Mates/201 Topología/Conexión.md",
-    "2o Mates/202 Análisis II/Cambio de variable.md",
-    "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
-    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
-    "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
-    "2o Mates/202 Análisis II/Teorema de la inyectividad local.md",
-    "2o Mates/202 Análisis II/202 Análisis II.md",
-    "2o Mates/201 Topología/Metrizable es propiedad topológica.md",
-    "2o Mates/201 Topología/La imagen de un conexo por una aplicación continua es conexa.md",
+    "Excalidraw/Seminario 4 Topología.md",
+    "2o Mates/201 Topología/Un subespacio de (R, T_u) es conexo sii es un intervalo.md",
+    "2o Mates/201 Topología/Componente conexo es conexo.md",
+    "2o Mates/201 Topología/Espacio topológico disconexo.md",
+    "1ero Mates/2o Cuatri/204 Física/Fuerzas conservativas. Campo central..md",
+    "Attachements/Pasted Image 20241129180803_858.png",
+    "Attachements/Pasted Image 20241129174737_534.png",
     "Attachements/Pasted Image 20241128131304_344.png",
     "Attachements/Pasted Image 20241128125252_656.png",
     "Attachements/Pasted Image 20241128124649_266.png",
@@ -233,8 +256,6 @@
     "Attachements/Pasted Image 20241127154913_887.png",
     "Attachements/Pasted Image 20241127154838_845.png",
     "Attachements/Pasted Image 20241120102503_448.png",
-    "Attachements/Pasted Image 20241120094159_692.png",
-    "Attachements/Pasted Image 20241119180425_928.png",
     "Canvas/Análisis II.canvas",
     "Canvas/Espacios topológicos.canvas",
     "Untitled",

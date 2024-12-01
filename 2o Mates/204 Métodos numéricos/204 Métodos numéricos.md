@@ -62,4 +62,6 @@
 - [$||(I - B)^{-1}|| \le \frac{1}{1 - ||B||}$](Cota norma inversa matriz perturbada en función de la inversa de la matriz normal)
 - [$||(A+E)^{-1}|| \le \frac{||A^{-1}||}{1-p}$](Cota norma inversa matriz perturbada en función de la inversa de la matriz normal)
 - [$\frac{||x- \hat x||}{||x||} \le \frac{\kappa(A)}{1-p} \left ( \frac{||\hat A - A||}{||A||} + \frac{||b- \hat b||}{||b||} \right )$](Teorema cota error relativo en un sistema completamente perturbado)
-
+---
+## Tema 3. Métodos para valores y vectores propios.
+**Referencia:** [[Métodos para valores y vectores propios]]

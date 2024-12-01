@@ -7,6 +7,10 @@ title: Formal definition
 Sea $A \in M_n (K)$. Entonces $\lambda \in K$ es valor propio de $A$ si $\exists v \in K^n - \{0\}$ tal que $Av = \lambda v$. En este caso, $v$ es vector propio de $A$ asociado al valor propio $\lambda$.
 ```
 
+```ad-note
+En el caso de matrices diagonales o triangulares, los valores propios están en la diagonal principal.
+```
+
 **Tema:** [[Diagonalización]]
 **Proposiciones:** [[Relación valor propio de endomorfismo y matriz]]
 **Teoremas:**
