@@ -9,4 +9,7 @@
 - [[Teorema distribución valores propios en componentes conexas de discos de Gershgorin]]
 ### 3. Método de la potencia.
 - [[Cociente de Rayleigh]]
+- [[Fundamentos teóricos del método de la potencia]]
 - [[Método de la potencia]]
+- [[Problemas computacionales con el método de la potencia]]
+- [[Método de la potencia inversa]]
