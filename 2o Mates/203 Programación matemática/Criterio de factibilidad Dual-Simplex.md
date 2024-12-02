@@ -31,7 +31,7 @@ por lo que la fila correspondiente a la variable básica $x_r$ es $x_r + \sum_{j
 
 **$(ii)$.**
 Demostremos primero que $B'$ es base, sea $\lambda_i \in \mathbb R$, para cada $i \in \mathcal J_{B'}$, tal que
-$$0_m = \sum_{i \in \mathcal J_{B'}} \lambda_i a_i = \sum_{i \in \mathcal J_B \textrm{\\} \{r\}} \lambda_i a_i + \lambda a_s.$$
+$$0_m = \sum_{i \in \mathcal J_{B'}} \lambda_i a_i = \sum_{i \in \mathcal J_B \textrm{\\} \{r\}} \lambda_i a_i + \lambda_s a_s.$$
 Como $B^{-1}a_s = \alpha_s$, entonces $a_s = B\alpha_s = \sum_{i \in \mathcal J_B} \alpha_{is} a_i$ y, sustituyendo en la expresión anterior, obtenemos
 $$0_m = \sum_{i \in \mathcal J_B \textrm{\\} \{r\}} \lambda_i a_i + \lambda_s \sum_{i \in \mathcal J_B} \alpha_{is} a_i = \sum_{i \in \mathcal J_B \textrm{\\} \{r\}} (\lambda_i + \lambda_s \alpha_{is})a_i + (\lambda_s \alpha_{rs}) a_r.$$
 Como $B$ es base, de la ecuación anterior se deriva que

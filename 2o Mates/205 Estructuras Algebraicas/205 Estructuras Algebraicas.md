@@ -3,8 +3,6 @@
 ### 1. Definición y ejemplos.
 - [[Grupo]]
 - [[Grupo abeliano]]
-- [[Propiedades de las relaciones de congruencia]]
-- (i) de [[propiedades de las relaciones de congruencia (ii)]]
 ### 2. Propiedades básicas.
 - [[Propiedades de los grupos]] (elemento neutro único y elemento inverso único).
 - [[Ley asociativa generalizada]]

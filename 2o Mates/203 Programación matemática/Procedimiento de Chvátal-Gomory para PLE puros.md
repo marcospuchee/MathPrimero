@@ -18,7 +18,7 @@ Por último, al ser las variables enteras, se tiene que el lado izquierdo de la 
 
 **Tema:** [[Programación lineal entera#2. Combinatoria poliédrica.]]
 
-**Definiciones referenciadas:** -.
+**Definiciones referenciadas:** [[Desigualdad válida]]
 **Resultados referenciados:** -.
 
 ---

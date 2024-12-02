@@ -4,7 +4,7 @@
 Sea $\Omega \subseteq \mathbb R^n$ abierto, $f: \Omega \to \mathbb R$, $a \in \Omega$. Son equivalentes:
 1. $f$ es [[función diferenciable]] en $a$.
 2. Existen todas las derivadas parciales de $f$ en $a$ y se cumple
-$$\lim_{x \to a} \frac{f(x) - f(a) - \langle \nabla f(a), x-a \rangle}{||x-a||}.$$
+$$\lim_{x \to a} \frac{f(x) - f(a) - \langle \nabla f(a), x-a \rangle}{||x-a||} = 0.$$
 En cuyo caso, $Df(a)(x) = \langle \nabla f(a), x \rangle \quad \forall x \in \mathbb R^n$, $D_u f(a) = \sum u_i D_i f(a)$.
 ```
 

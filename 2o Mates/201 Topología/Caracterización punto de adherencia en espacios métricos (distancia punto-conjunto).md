@@ -5,7 +5,7 @@ $(X, d)$ [[espacio métrico]], $S \subseteq X$, $x \in X$. Entonces, $x \in \tex
 ```
 
 ```ad-proof
-$$x \in \textrm{ad}(S) \iff \forall \varepsilon > 0 \, \, B(x; \varepsilon) \cap S \neq \emptyset \iff \forall \varepsilon > 0 \, \, \exists y_\varepsilon : d(x; y_\varepsilon) < \varepsilon \iff \inf_{y \in S} d(x,y) = 0 \iff d(x, S) = 0.$$
+$$x \in \textrm{ad}(S) \iff \forall \varepsilon > 0 \, \, B(x; \varepsilon) \cap S \neq \emptyset \iff \forall \varepsilon > 0, \, \, \exists y_\varepsilon \in S : d(x; y_\varepsilon) < \varepsilon \iff \inf_{y \in S} d(x,y) = 0 \iff d(x, S) = 0.$$
 ```
 
 **Tema:** [[Puntos especiales#1. Puntos de adherencia.]]

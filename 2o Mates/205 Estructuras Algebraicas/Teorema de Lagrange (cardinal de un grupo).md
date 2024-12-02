@@ -13,7 +13,7 @@ Como $G = \bigcup_{x \in G} \{x\}$, $\mathcal L_H$ es una partición, $G$ finito
 
 Como $G = \bigcup_{x \in G} xH = \dot{\bigcup}_{i = 1}^n x_i H$, entonces,
 $$|G| = |x_1H| + |x_2H| + \dots + |x_nH|.$$
-Veamos que $|x_iH| = |H|$: tenemos que $x_iH = \{x_ih \, | \, h \in H \} = L_{x_i}(H)$, donde $L_{x_i}: G \to G$ con $x \to x_i * x$. Por ser esta función biyectiva, $|H| = |Lx_i(H)| = |x_iH|$.
+Veamos que $|x_iH| = |H|$: tenemos que $x_iH = \{x_ih \, | \, h \in H \} = L_{x_i}(H)$, donde $L_{x_i}: H \to x_iH$ con $x \to x_i * x$. Por ser esta función biyectiva, $|H| = |Lx_i(H)| = |x_iH|$.
 
 Así, tenemos que
 $$|G| = n|H| = |H||G:H|.$$
