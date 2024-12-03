@@ -6,14 +6,14 @@ $$\begin{array}{c c c}
 
 \begin{array}{c c c l}
 +: & R/I \times R/I & \to & R/I \\
-& (x+I,y+I) & \mapsto & (x+y)+I
+& (r+I,s+I) & \mapsto & (r+s)+I
 \end{array}
 
 & \quad &
 
 \begin{array}{c c c l}
 \cdot: & R/I \times R/I & \to & R/I \\
-&(x+I, y+I) & \mapsto & (xy)+I
+&(r+I, s+I) & \mapsto & (rs)+I
 \end{array}
 
 \end{array}$$
@@ -23,14 +23,22 @@ llamado el anillo cociente de $R$ sobre $I$. Además,
 ```
 
 ```ad-proof
+Que $(R/I, +)$ es grupo abeliano, se tiene del teorema del grupo cociente.
 
+Todas las demás propiedades (asociatividad, distributividad, $(1)$, $(2)$) se deducen de las propiedades de $R$.
 
+Sólo queda demostrar que $\cdot$ está bien definido. Sean $r_1+I$ $=$ $r_2+I$, $s_1+I$ $=$ $s_2+I$. Demostramos que $(r_1s_1)+I=(r_2s_2)+I$. Por las propiedades de las coclases, sabemos que $r_1+I = r_2+I \iff r_1-r_2 \in I$, análogamente, $s_1+I = s_2+I$ $\iff$ $s_1-s_2 \in I$. Queremos ver que $r_1s_1 - r_2s_2 \in I$. Para ello,
+$$\begin{eqnarray}
+r_1s_1 - r_2 s_2 &=& r_1 s_1 - r_1 s_2 + r_1s_2 - r_2s_2 \\
+&=& r_1(s_1-s_2)+(r_1-r_2)s_2 \in I,
+\end{eqnarray}$$
+dado que $(s_1-s_2), (r_1-r_2) \in I \implies r_1(s_1-s_2), (r_1-r_2)s_2 \in I$. Y, por tanto,$r_1s_1 + I = r_2s_2 + I$.
 ```
 
-**Tema:** [[Anillo de polinomios#3. Ideales y anillos cociente.]]
+ **Tema:** [[Anillo de polinomios#3. Ideales y anillos cociente.]]
 
-**Definiciones referenciadas:** [[Anillo]], [[Ideal]], [[Anillo conmutativo]]
-**Resultados referenciados:**
+**Definiciones referenciadas:** [[Anillo]], [[Ideal]], [[Anillo conmutativo]], [[Coclase]]
+**Resultados referenciados:** [Teorema del grupo cociente](Grupo cociente), [[Propiedades coclases]]
 
 ---
 ### Anki
