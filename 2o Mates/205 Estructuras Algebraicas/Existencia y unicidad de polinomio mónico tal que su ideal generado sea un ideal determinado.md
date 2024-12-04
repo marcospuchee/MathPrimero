@@ -20,7 +20,7 @@ Así, $p = rsp$ y, por tanto, $\delta(p) = \delta(r) + \delta(s) + \delta(p)$. E
 Como $p = sq$, igualando coeficientes directores, $1_k = s1_k$. Así, $s = 1_k$ y $p = q$.
 ```
 
-**Tema:** [[Anillo de polinomios#4. $K[x]$]]]
+**Tema:** [[Anillo de polinomios#4. $K[x]$]]
 
 **Definiciones referenciadas:** [[Cuerpo]], [[Ideal]], [[Polinomio]], [[Polinomio mónico]], [$(p)$](Ideal generado), [DIP](Dominio de ideales principales)
 **Resultados referenciados:** [[Teorema división de polinomios]]

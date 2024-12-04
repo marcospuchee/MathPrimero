@@ -7,8 +7,7 @@ es un ideal de $R$.
 ```
 
 ```ad-proof
-
-
+*Ejercicio.*
 ```
 
 **Tema:** [[Anillo de polinomios#5. Irreducibilidad]]
