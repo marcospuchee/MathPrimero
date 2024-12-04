@@ -99,6 +99,18 @@
       "injectColor": true,
       "noTitle": false,
       "copy": true
+    },
+    "Ejemplo": {
+      "type": "Ejemplo",
+      "color": "143, 221, 255",
+      "icon": {
+        "name": "bars",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
     }
   },
   "syntaxHighlight": false,

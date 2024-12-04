@@ -10,3 +10,8 @@
 - [$f \in C^1(\Omega)$ biyección $\implies (f^{-1} \in C^1 \iff J_f(x) \neq 0, \forall x \in \Omega)$](Teorema de la función inversa)
 ### 2. Cambios de variable.
 - [[Cambio de variable]]
+- [Cambio a coordenadas polares](Cambio de variable)
+- [Cambio a coordenadas cilíndricas](Cambio de variable)
+- [Cambio a coordenadas esféricas](Cambio de variable)
+### 3. El teorema de la función implícita.
+- [Teorema de la función implícita en $\mathbb R$](Teorema de la función implícita en R)
