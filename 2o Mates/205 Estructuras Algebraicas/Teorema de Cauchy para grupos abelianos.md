@@ -4,7 +4,7 @@
 Sea $G$ un [[grupo abeliano]] y $p \in \mathbb P$ tal que $p \mid |g|$. Entonces $\exists H \le G$ tal que $|H| = p$. 
 ```
 
-^09cab8
+	^09cab8
 
 ```ad-proof
 Procederemos por inducción sobre $|G|$.

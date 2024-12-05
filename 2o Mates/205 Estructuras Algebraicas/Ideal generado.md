@@ -11,3 +11,12 @@ $$(a) = aR = \{ar \, | \, r \in R \}.$$
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de ideal generado
+Reverso: Sea $R$ un anillo conmutativo con identidad, $\forall a \in R$ denotamos
+$$(a) = aR = \{ar \, | \, r \in R \}.$$
+Tags: est
+<!--ID: 1733312056000-->
+END

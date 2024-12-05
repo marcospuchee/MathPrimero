@@ -10,3 +10,11 @@ Sea $(R,+,\cdot)$ un anillo. Diremos que $R$ es un anillo conmutativo si $\foral
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de anillo conmutativo
+Reverso: Sea $(R,+,\cdot)$ un anillo. Diremos que $R$ es un anillo conmutativo si $\forall r,s \in R$, $rs = sr$.
+Tags: est
+<!--ID: 1733312056030-->
+END

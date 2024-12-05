@@ -5,7 +5,7 @@ Sea $A \in \{0, \pm 1\}^{m \times n}$ una matriz que verifica las siguientes con
 - En cada columna de $A$ hay, como mucho, dos elementos no nulos.
 - Las filas de $A$ pueden dividirse en dos conjuntos $I_1$ y $I_2$ tales que:
 	- Si una columna tiene dos elementos no nulos del mismo signo, entonces uno pertenece a una fila de $I_1$ y el otro a una de $I_2$.
-	- Si una columna tiene dos elementos no nulos de signo distinto, los dos perteneces a filas de $I_1$ o los dos pertenecen a filas de $I_2$.
+	- Si una columna tiene dos elementos no nulos de signo distinto, los dos pertenecen a filas de $I_1$ o los dos pertenecen a filas de $I_2$.
 
 Entonces $A$ es totalmente unimodular.
 ```
@@ -28,3 +28,17 @@ Por tanto, las filas de $C$ son linealmente dependientes y $C$ es singular.
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Condiición suficiente para unimodularidad total
+Reverso: Sea $A \in \{0, \pm 1\}^{m \times n}$ una matriz que verifica las siguientes condiciones:
+- En cada columna de $A$ hay, como mucho, dos elementos no nulos.
+- Las filas de $A$ pueden dividirse en dos conjuntos $I_1$ y $I_2$ tales que:
+	- Si una columna tiene dos elementos no nulos del mismo signo, entonces uno pertenece a una fila de $I_1$ y el otro a una de $I_2$.
+	- Si una columna tiene dos elementos no nulos de signo distinto, los dos perteneces a filas de $I_1$ o los dos pertenecen a filas de $I_2$.
+
+Entonces $A$ es totalmente unimodular.
+Tags: prm
+<!--ID: 1733328768635-->
+END

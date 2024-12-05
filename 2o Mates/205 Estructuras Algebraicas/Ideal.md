@@ -16,3 +16,13 @@ Sea $R$ un anillo y $I \subseteq R$. Diremos que $I$ es un ideal de $R$ si
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de ideal
+Reverso: Sea $R$ un anillo y $I \subseteq R$. Diremos que $I$ es un ideal de $R$ si
+1. $(I,+) \le (R,+)$.
+2. $\forall r \in R$, $\forall a \in I$, $ra \in I$ y $ar \in I$.
+Tags: est
+<!--ID: 1733312055997-->
+END

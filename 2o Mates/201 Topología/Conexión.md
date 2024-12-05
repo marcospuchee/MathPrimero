@@ -28,3 +28,10 @@
 - [$f$ continua $\implies f(C_x) \subseteq C_{f(x)}$](Imagen de un conexo está contenido en el conexo de la imagen)
 - [$f$ homeomorfismo $\implies f(C_x)$ es componente conexo](Imagen de un conexo está contenido en el conexo de la imagen)
 - [El número de componentes conexos es invariante topológico](Imagen de un conexo está contenido en el conexo de la imagen)
+### 4. Conexión por arcos.
+- [[Arco]]
+- [[Espacio topológico conexo por arcos]]
+- [$(X, \mathcal T)$ conexo por arcos $\implies$ $(X, \mathcal T)$ conexo](Conexo por arcos implica conexo)
+- [[Producto de arcos]]
+- [$(X, \mathcal T)$ conexo por arcos $\iff \, \exists x_0 \in X : \forall y \in X \, \, \exists \sigma$ arco $: \sigma(0) = x_0 \land \sigma(1) = y$](Caracterización conexo por arcos (existencia de arcos desde un punto))
+- [Todo subconjunto abierto y conexo de $(\mathbb R^n, \mathcal T_u)$ es conexo por arcos](Todo subconjunto abierto y conexo de Rn con la topología usual es conexo por arcos)

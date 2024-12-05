@@ -15,3 +15,16 @@ $$\begin{array}{c c l}
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de relajación lineal
+Reverso: Dado el problema $(\textrm{PLE})$ se llama relajación lineal al problema que resulta de eliminar las restricciones de integridad de las variables:
+$$\begin{array}{c c l}
+(\textrm{RL}) & \textrm{Min} & c^Tx \\
+& \textrm{s.a.} & Ax = b, \\
+& & x \ge 0_n, \, \, x \in \mathbb R^n.
+\end{array}$$
+Tags: prm
+<!--ID: 1733328768624-->
+END
