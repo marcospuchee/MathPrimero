@@ -14,4 +14,4 @@
 - [Cambio a coordenadas cilíndricas](Cambio de variable)
 - [Cambio a coordenadas esféricas](Cambio de variable)
 ### 3. El teorema de la función implícita.
-- [Teorema de la función implícita en $\mathbb R$](Teorema de la función implícita en R)
+- [[Teorema de la función implícita]]

@@ -91,7 +91,7 @@
 - [[Extremos relativos]]
 - [$a$ extremo relativo $\implies$ $D_if(a) = 0$, $\forall i$](Teorema de derivadas nulas en extremos relativos)
 - [Punto crítico](Teorema de derivadas nulas en extremos relativos), [Punto de silla](Teorema de derivadas nulas en extremos relativos)
-- [$H_f(a)$](Matriz Hessiana),[[Matriz  Hessiana]]
+- [$H_f(a)$](Matriz Hessiana),[[Matriz Hessiana]]
 - [$D^2f(a)$](Forma cuadrática), [[Forma cuadrática]]
 - [$D^2f(a)$ definida positiva $\implies$ $f$ mínimo relativo estricto en $a$](Existencia extremos relativos estrictos según matriz Hessiana)
 - [$D^2f(a)$ definida negativa $\implies$ $f$ máximo relativo estricto en $a$](Existencia extremos relativos estrictos según matriz Hessiana)
@@ -119,4 +119,4 @@
 - [Cambio a coordenadas cilíndricas](Cambio de variable)
 - [Cambio a coordenadas esféricas](Cambio de variable)
 ### 3. El teorema de la función implícita.
-- [Teorema de la función implícita en $\mathbb R$](Teorema de la función implícita en R)
+- [[Teorema de la función implícita]]

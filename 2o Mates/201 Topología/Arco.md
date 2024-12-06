@@ -12,3 +12,13 @@ tal que $\sigma(0) = x$ y $\sigma(1) = y$.
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de arco
+Reverso: Sea $(X, \mathcal T)$ un espacio topológico. Dados $x \neq y \in X$, un arco de $x$ a $y$ en $(X, \mathcal T)$ es una aplicación continua
+$$\sigma: [0,1] \longrightarrow X$$
+tal que $\sigma(0) = x$ y $\sigma(1) = y$.
+Tags: top
+<!--ID: 1733393497270-->
+END

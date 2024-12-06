@@ -4306,7 +4306,7 @@
     "2o Mates/201 Topología/Isometria.md": "3066460e35e66e9e87c448ee7e3f8b6d",
     "2o Mates/201 Topología/Hausdorff es propiedad topológica.md": "eb1a2509878db86274c63db580da996c",
     "2o Mates/201 Topología/1AN es propiedad topológica.md": "bae6e50d4b0f8185b06aa2539fe87a63",
-    "README.md": "5559c60539a1d2d865ccd5affa100f47",
+    "README.md": "0fe216b28a2f11c94925cd9616cd99f1",
     "2o Mates/205 Estructuras Algebraicas/Topología.md": "76c43f270ae86626253ab45b10de1961",
     "2o Mates/205 Estructuras Algebraicas/Subgrupo.md": "a87ac35a639712028990b022022aa240",
     "2o Mates/205 Estructuras Algebraicas/Subgrupo generado.md": "7f7249ec8316217491004a8d318124d7",
@@ -4344,7 +4344,7 @@
     "2o Mates/201 Topología/Base de entornos relativa a partir de base de entornos total.md": "c2628854b8e489188dec8f5ff46075e4",
     "2o Mates/201 Topología/Base de abiertos relativa a partir de base de abiertos total.md": "d8c1f10397ac7357ab8cda49c4c865fb",
     "2o Mates/201 Topología/Aplicación inclusión es continua.md": "4d81e79dcd1bf97a385dcb820a79c80a",
-    "2o Mates/201 Topología/201 Topología.md": "b74c2ce5a0647d93bc33ee715a2288b1",
+    "2o Mates/201 Topología/201 Topología.md": "f8f08557b991cacad49a2a14ed131c12",
     "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Matrices semejantes.md": "63f1c1f1c8201f2539545e3265e2402d",
     "1ero Mates/1er Cuatri/102 Álgebra Lineal y Geometría I/Matriz coordenada.md": "4afe18042ed94ec47b9d51c57b6a53e9",
     "Excalidraw/Seminario 3 EstrAlg.md": "97f36e92d533de7a0a946534f9a417f0",
@@ -4371,7 +4371,7 @@
     "2o Mates/201 Topología/Función restringida a familia finita de cerrados continua implica función total continua.md": "3e9415c126a22608db62279705677fc4",
     "2o Mates/201 Topología/Función restringida a familia de abiertos continua implica función total continua.md": "ba6b7aec6537308e746c8eae310c49ce",
     "2o Mates/201 Topología/Espacio topológico disconexo.md": "8489fb215746cce92df9cfb9b41c9c11",
-    "2o Mates/201 Topología/Conexión.md": "a8249f4830715640cfcc7c76db423637",
+    "2o Mates/201 Topología/Conexión.md": "35a69ce456255c960d1d5c02521efd54",
     "2o Mates/201 Topología/Caracterización espacio topológico conexo (función topología discreta de un conjunto con dos elementos).md": "798e531d478df827b02c0d20a0158547",
     "2o Mates/201 Topología/Caracterización de espacio topológico conexo (total y vacío unicos abiertos y cerrados a la vez).md": "418f07c7e3bec67aa6c3cbe1b8383c27",
     "2o Mates/201 Topología/Caracterización de espacio topológico conexo (función a los reales con la topología usual).md": "266166b81c0c1a7ce868df784bded226",
@@ -4416,8 +4416,14 @@
     "2o Mates/204 Métodos numéricos/Fundamentos teóricos del método de la potencia.md": "53a2b789fec9837c4866ad04cc6d7c64",
     "2o Mates/203 Programación matemática/Soluciones enteras bajo unimodularidad (formato estándar).md": "a4c3ff8298847e3dfc9f341d0ae1a3d1",
     "2o Mates/203 Programación matemática/Matriz totalmente unimodular.md": "f9e93d106cd715eaf7e8f1ef23f2205d",
-    "2o Mates/203 Programación matemática/Condición suficiente para unimodularidad total.md": "cb928cd1ddfcb02a4d49f85df3d81c85",
-    "2o Mates/202 Análisis II/Teorema de la función implícita en R.md": "6d72c4f128aaf4441b6a3389f210fd33"
+    "2o Mates/203 Programación matemática/Condición suficiente para unimodularidad total.md": "c0261b88d199490a94744eb2d15f756e",
+    "2o Mates/202 Análisis II/Teorema de la función implícita en R.md": "6d72c4f128aaf4441b6a3389f210fd33",
+    "2o Mates/201 Topología/Todo subconjunto abierto y conexo de Rn con la topología usual es conexo por arcos.md": "04c0461af8dbf3825cd26af20a91330a",
+    "2o Mates/201 Topología/Producto de arcos.md": "9bfc4b6743fba4e1a9b839eba551fd37",
+    "2o Mates/201 Topología/Espacio topológico conexo por arcos.md": "5cd87165161cd2212445170bcef34ec2",
+    "2o Mates/201 Topología/Conexo por arcos implica conexo.md": "92338d9adec2b0d5559e26f4428062fd",
+    "2o Mates/201 Topología/Caracterización conexo por arcos (existencia de arcos desde un punto).md": "b67536c4e707648aab9bb30c0ae23f26",
+    "2o Mates/201 Topología/Arco.md": "e781eafaedf6216103aee846673db07b"
   },
   "fields_dict": {
     "Básico": [
