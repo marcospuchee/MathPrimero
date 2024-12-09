@@ -10,5 +10,5 @@
 - [[Variables artificiales]]
 - [[Punto con términos independientes en las variables artificiales es SBP del problema ampliado]]
 - [[SBP problema ampliado sii SBP]]
-- [[(ejercicio) Solución óptima de la Fase I]]
+- [[Solución óptima de la Fase I]]
 - [[Teorema SBP inicial para la Fase II]]

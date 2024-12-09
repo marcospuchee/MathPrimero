@@ -1,6 +1,6 @@
 ##### 1. Métodos iterativos
 - [[Método iterativo]]
-- [[Método iterativo con intervalos]
+- [[Método iterativo con intervalos]]
 - [[Error de aproximación de un método iterativo]]
 - [[Incremento de un método iterativo]]
 - [[Criterios de parada de un método iterativo]]

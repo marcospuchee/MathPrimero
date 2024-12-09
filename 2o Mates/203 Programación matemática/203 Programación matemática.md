@@ -48,7 +48,7 @@
 - [[Variables artificiales]]
 - [[Punto con términos independientes en las variables artificiales es SBP del problema ampliado]]
 - [[SBP problema ampliado sii SBP]]
-- [[(ejercicio) Solución óptima de la Fase I]]
+- [[Solución óptima de la Fase I]]
 - [[Teorema SBP inicial para la Fase II]]
 ---
 ## Tema 3: Dualidad y análisis de sensibilidad.
@@ -87,3 +87,6 @@
 - [[Soluciones enteras bajo unimodularidad (formato estándar)]]
 - [Soluciones enteras bajo unimodularidad (formato canónico)](Soluciones enteras bajo unimodularidad (formato estándar))
 - [[Condición suficiente para unimodularidad total]]
+---
+## Tema 5: Métodos de PLE
+**Referencia:** [[Métodos de PLE]]

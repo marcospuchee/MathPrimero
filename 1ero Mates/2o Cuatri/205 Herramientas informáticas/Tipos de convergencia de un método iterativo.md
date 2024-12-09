@@ -2,7 +2,7 @@
 
 **Fecha:** 2024-03-06, 18:14
 
-Para comparar la eficiencia de los distintos métodos iterativos ([[Método iterativo]]), vamos a medir la rapidez con la que los iterados $x_1, x_2, \dots, x_k, \dots,$ convergen o no a la solución.
+Para comparar la eficiencia etde los distintos métodos iterativos ([[Método iterativo]]), vamos a medir la rapidez con la que los iterados $x_1, x_2, \dots, x_k, \dots,$ convergen o no a la solución.
 
 ```ad-formal
 title: Formal definition

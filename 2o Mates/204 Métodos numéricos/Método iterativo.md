@@ -1,10 +1,22 @@
+### Método iterativo para resolver sistemas de ecuaciones lineales.
+
+```ad-Formal
+Dado un sistema de ecuaciones lineal: $$Ax = b, \quad A \in \mathbb R^{n \times n}, \, b \in \mathbb R^n,$$
+un método iterativo genera una sucesión de vectores $x^k$ que queremos que converjan a $x$, la solución del sistema.
+
+Escribimos $A = M+N$ con $M$ fácilmente invertible: $$\begin{eqnarray}
+Ax &=& b \\
+(M+N)x &=& b \\
+Mx &=& b-Nx,
+\end{eqnarray}$$ definimos el método iterativo $Mx^k = b - N x^{k-1}$.
+```
+
+**Tema:** [[Métodos iterativos para resolver sistemas de ecuaciones lineales#1. Definición]]
+
+**Definiciones referenciadas:** -.
 
 ---
-mathLink:
----
-### Contenido Principal
-
-**Fecha:** 2024-03-06, 17:43
+### Contenido Principal (Herramientas informáticas).
 
 Dado que no existen fórmulas generales para obtener la solución de [[Polinomio]]s de grado $\ge 5$, utilizamos métodos iterativos que consisten en obtener una sucesión de valores $x_1, x_2, \dots, x_n$ cada vez más aproximados a la raíz buscada.
 

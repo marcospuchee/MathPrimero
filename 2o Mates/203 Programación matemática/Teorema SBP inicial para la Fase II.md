@@ -33,7 +33,7 @@ se deduce que $\tilde x_{B_a'} = (B_a')^{-1}b$; es decir, $\tilde x$ es una SBP 
 START
 Básico
 Anverso: Cuál es el teorema de la fase II
-Reverso: Sea $\tilde x := (\overline x^T, \tilde x_a^T)^T \in \mathbb R^{n+m}$, con $\tilde x_a = 0_m$, la SBP óptima de $(\tilde P_a)$ obtenida en la fase I ([[(ejercicio) solución óptima de la Fase I]]), y sea $B_a$ la base (de $[A \quad I_m]$) a la que está asociada:
+Reverso: Sea $\tilde x := (\overline x^T, \tilde x_a^T)^T \in \mathbb R^{n+m}$, con $\tilde x_a = 0_m$, la SBP óptima de $(\tilde P_a)$ obtenida en la fase I ([[Solución óptima de la Fase I]]), y sea $B_a$ la base (de $[A \quad I_m]$) a la que está asociada:
 1. Si todas las variables artificiales son no básicas, entonces $B:= B_a$ es una base de $(P)$ y $\overline x$ es una [[solución básica posible]] asociada a $B$.
 2. Si $\exists x_k$ artificial en la base, $k \in \mathcal J_{B_a}$, entonces $\exists x_s$ original no básica ($s \in \mathcal J_{N_a}$) tal que $\alpha_{ks} \neq 0$ y
 $$B_a' = (B_a \textrm{\\} \{a_k\}) \cup \{a_s \}.$$
@@ -44,7 +44,7 @@ END
 
 START
 Básico
-Anverso: Demostración de que sea $\tilde x := (\overline x^T, \tilde x_a^T)^T \in \mathbb R^{n+m}$, con $\tilde x_a = 0_m$, la SBP óptima de $(\tilde P_a)$ obtenida en la fase I ([[(ejercicio) solución óptima de la Fase I]]), y sea $B_a$ la base (de $[A \quad I_m]$) a la que está asociada:
+Anverso: Demostración de que sea $\tilde x := (\overline x^T, \tilde x_a^T)^T \in \mathbb R^{n+m}$, con $\tilde x_a = 0_m$, la SBP óptima de $(\tilde P_a)$ obtenida en la fase I ([[Solución óptima de la Fase I]]), y sea $B_a$ la base (de $[A \quad I_m]$) a la que está asociada:
 1. Si todas las variables artificiales son no básicas, entonces $B:= B_a$ es una base de $(P)$ y $\overline x$ es una [[solución básica posible]] asociada a $B$.
 2. Si $\exists x_k$ artificial en la base, $k \in \mathcal J_{B_a}$, entonces $\exists x_s$ original no básica ($s \in \mathcal J_{N_a}$) tal que $\alpha_{ks} \neq 0$ y
 $$B_a' = (B_a \textrm{\\} \{a_k\}) \cup \{a_s \}.$$

@@ -4,22 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "be02503612ede5ae",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "f175cf9c40268eba",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/202 Análisis II/202 Análisis II.md",
+                "file": "Corte de Gomory para PLE puro.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202 Análisis II"
+              "title": "Corte de Gomory para PLE puro"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ff989d5c262bf1eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1488d0e01b0e6b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Métodos de PLE.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Métodos de PLE"
             }
           }
         ]
@@ -78,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -197,46 +219,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f175cf9c40268eba",
+  "active": "e1488d0e01b0e6b8",
   "lastOpenFiles": [
+    "Corte de Gomory para PLE puro.md",
+    "Métodos de PLE.md",
+    "2o Mates/203 Programación matemática/203 Programación matemática.md",
     "README.md",
-    "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
-    "2o Mates/202 Análisis II/202 Análisis II.md",
-    "2o Mates/202 Análisis II/Teorema de la función implícita.md",
-    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
-    "2o Mates/202 Análisis II/Criterio de Sylvester.md",
-    "2o Mates/202 Análisis II/Existencia extremos relativos estrictos según matriz Hessiana.md",
-    "2o Mates/202 Análisis II/Forma cuadrática.md",
-    "2o Mates/202 Análisis II/Matriz Hessiana.md",
-    "2o Mates/202 Análisis II/Determinante jacobiano.md",
-    "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
-    "2o Mates/205 Estructuras Algebraicas/Caracterización de polinomio irreducible.md",
-    "2o Mates/201 Topología/Todo subconjunto abierto y conexo de Rn con la topología usual es conexo por arcos.md",
-    "2o Mates/201 Topología/Conexión.md",
-    "2o Mates/201 Topología/Caracterización conexo por arcos (existencia de arcos desde un punto).md",
-    "2o Mates/201 Topología/Producto de arcos.md",
-    "2o Mates/201 Topología/Conexo por arcos implica conexo.md",
-    "2o Mates/201 Topología/Espacio topológico conexo por arcos.md",
-    "2o Mates/201 Topología/Arco.md",
-    "2o Mates/201 Topología/201 Topología.md",
-    "2o Mates/201 Topología/Imagen de un conexo está contenido en el conexo de la imagen.md",
-    "2o Mates/201 Topología/Componente conexo.md",
-    "Canvas/Acciones de grupos.canvas",
-    "Canvas/Teoría de grupos (canvas).canvas",
+    "2o Mates/204 Métodos numéricos/Sistemas lineales y su solución numérica.md",
+    "2o Mates/204 Métodos numéricos/Cálculo norma 2.md",
+    "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
+    "2o Mates/204 Métodos numéricos/Radio espectral.md",
+    "2o Mates/204 Métodos numéricos/Problemas computacionales con el método de la potencia.md",
+    "2o Mates/204 Métodos numéricos/Métodos para valores y vectores propios.md",
+    "2o Mates/204 Métodos numéricos/Método de la potencia.md",
+    "2o Mates/203 Programación matemática/Dualidad y análisis de sensibilidad.md",
+    "2o Mates/203 Programación matemática/Perturbación del vector de coeficientes b.md",
+    "2o Mates/203 Programación matemática/Solución básica posible.md",
+    "2o Mates/203 Programación matemática/Criterio de unicidad de solución óptima.md",
+    "2o Mates/203 Programación matemática/Relación primal-dual de soluciones básicas.md",
+    "2o Mates/203 Programación matemática/Criterio de factibilidad.md",
+    "2o Mates/203 Programación matemática/El método Simplex.md",
+    "2o Mates/203 Programación matemática/Solución óptima de la Fase I.md",
     "Excalidraw/Control EstrAlg.md",
-    "Excalidraw/Drawing 2024-12-04 19.14.17.excalidraw.md",
+    "Excalidraw/Entregable EstrAlg.md",
+    "Attachements/Pasted Image 20241206173927_305.png",
+    "Canvas/Teoría de grupos (canvas).canvas",
+    "2o Mates/205 Estructuras Algebraicas/Teorema de Cauchy para grupos abelianos.md",
+    "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
+    "2o Mates/205 Estructuras Algebraicas/Propiedades coclases.md",
+    "2o Mates/205 Estructuras Algebraicas/Coclase.md",
+    "Attachements/Pasted Image 20241206155101_579.png",
+    "Excalidraw/Seminario 4 PRM.md",
+    "Canvas/Acciones de grupos.canvas",
     "Excalidraw/Drawing 2024-12-04 19.14.17.excalidraw.png",
-    "2o Mates/203 Programación matemática/Soluciones enteras bajo unimodularidad (formato estándar).md",
     "Attachements/Pasted Image 20241204194943_025.png",
-    "2o Mates/203 Programación matemática/Programación lineal entera.md",
     "Attachements/Pasted Image 20241204192828_478.png",
     "Attachements/Pasted Image 20241204192435_166.png",
     "Attachements/Pasted Image 20241204191855_935.png",
     "Attachements/Pasted Image 20241204191612_775.png",
     "Attachements/Pasted Image 20241204191509_705.png",
     "Attachements/Pasted image 20241201105456.png",
-    "Attachements/Pasted Image 20241129180803_858.png",
-    "Attachements/Pasted Image 20241129174737_534.png",
     "Canvas/Análisis II.canvas",
     "Canvas/Espacios topológicos.canvas",
     "Untitled",
