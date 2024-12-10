@@ -13,7 +13,7 @@ $$\begin{eqnarray} M \left [\lim \limits_{k \to + \infty} x^k \right ] &=& b - \
 
 **Tema:** [[Métodos iterativos para resolver sistemas de ecuaciones lineales#1. Definición]]
 
-**Definiciones referenciadas:** [Método iterativo (sistemas de ecuaciones lineales)](Método iterativo)
+**Definiciones referenciadas:** [$Mx^k = b-Nx^{k-1}$](Método iterativo)
 **Resultados referenciados:** [[Aplicación lineal es uniformemente continua (lipschitziana)]]
 
 ---
