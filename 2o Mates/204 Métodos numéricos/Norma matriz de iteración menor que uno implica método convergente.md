@@ -10,7 +10,7 @@ Veamos que $\lim \limits_{k \to \infty} ||e^k|| = 0$ para la norma vectorial aso
 
 **Tema:** [[Métodos iterativos para resolver sistemas de ecuaciones lineales#2. Estudio de la convergencia.]]
 
-**Definiciones referenciadas:** [$Q := -M^{-1}N$](Matriz de iteración), [[Norma matricial subordinada a una norma vectorial]], [[Método iterativo convergente]], [$e^k := x^k - x$](Error), 
+**Definiciones referenciadas:** [$Q := -M^{-1}N$](Matriz de iteración), [[Norma matricial subordinada a una norma vectorial]], [[Método iterativo convergente]], [$e^k := x^k - x$](Error.md), 
 **Resultados referenciados:** [[Criterio del emparedado]]
 
 ---

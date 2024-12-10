@@ -15,3 +15,4 @@
 - [Cambio a coordenadas esféricas](Cambio de variable)
 ### 3. El teorema de la función implícita.
 - [[Teorema de la función implícita]]
+

@@ -47,3 +47,27 @@ Cuando aplicamos el método Simplex en formato tabla, en el fondo tratamos la fu
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Corte de Gomory para PLE puro
+Reverso: Sea $\overline x = (\overline x_B^T, 0_{n-m}^T) \in \mathbb R^n$ una SBP de la relajación lineal del problema de programación lineal entera puro en formato estándar $(\textrm{PLE})$. Supongamos que $\overline x$ no es entera y sea $\overline x_r \notin \mathbb Z$, $r \in \mathcal J_B$, una variable básica que toma valor fraccionario. Entonces, la desigualdad
+$$\sum_{j \in \mathcal J_N} f_{rj} x_j \ge f_r, \quad f_r := \overline x_r - \lfloor \overline x_r \rfloor, \quad f_{rj} := \alpha_{rj} - \lfloor \alpha_{rj} \rfloor, \, \forall j \in \mathcal J_N;$$
+es válida para $(\textrm{PLE})$ y corta al punto $\overline x$.
+Tags: prm
+END
+
+START
+Básico
+Anverso: Demostración de que sea $\overline x = (\overline x_B^T, 0_{n-m}^T) \in \mathbb R^n$ una SBP de la relajación lineal del problema de programación lineal entera puro en formato estándar $(\textrm{PLE})$. Supongamos que $\overline x$ no es entera y sea $\overline x_r \notin \mathbb Z$, $r \in \mathcal J_B$, una variable básica que toma valor fraccionario. Entonces, la desigualdad
+$$\sum_{j \in \mathcal J_N} f_{rj} x_j \ge f_r, \quad f_r := \overline x_r - \lfloor \overline x_r \rfloor, \quad f_{rj} := \alpha_{rj} - \lfloor \alpha_{rj} \rfloor, \, \forall j \in \mathcal J_N;$$
+es válida para $(\textrm{PLE})$ y corta al punto $\overline x$.
+Reverso: Primero probaremos que es una desigualdad válida para $(\textrm{PLE})$. Para ello sea $x = (x_B^T, x_N^T)^T \in \mathbb Z^n$ una solución factible cualquiera de $(\textrm{PLE})$. Del sistema de ecuaciones de factibilidad $$Ax = b \iff x_B + B^{-1}Nx_N = B^{-1}b = \overline x_B,$$
+nos fijamos en la $r$-ésima ecuación:
+$$x_r + \sum_{j \in \mathcal J_N} \alpha_{rj} x_j = \overline x_r. \quad \quad (*)$$ Como $x \ge 0_n$, podemos acotar la ecuación anterior por $$x_r + \sum_{j \in \mathcal J_N} \lfloor \alpha_{rj} \rfloor x_j \le x_r + \sum_{j \in \mathcal J_N} \alpha_{rj}x_j = \overline x_r.$$ Ahora, al ser las variables enteras, el término de la izquierda es un número entero. Por lo tanto, obtenemos que
+$$x_r + \sum_{j \in \mathcal J_N} \lfloor \alpha_{rj} \rfloor x_j \le \lfloor \overline x_r \rfloor. \quad \quad (**)$$ Restando $(**) - (*)$ se obtiene la desigualdad.
+
+Que la desigualdad corte a $\overline x$ viene del hecho que $f_r > 0$ y $\overline x_j = 0$, $\forall j \in \mathcal J_N$.
+Tags: dem prm
+END
+
