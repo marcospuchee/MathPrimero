@@ -4,7 +4,7 @@
 
 ```ad-formal
 title: Formal definition
-Sea $(A, V, +)$ [[espacio afín]]. Supongamos $P \in A, W \le V$. La veriedad afín que pasa por $P$ y tiene dirección $W$ es:
+Sea $(A, V, +)$ [[espacio afín]]. Supongamos $P \in A, W \le V$. La variedad afín que pasa por $P$ y tiene dirección $W$ es:
 $$W_p = \{P+w: w \in W \} = \{Y : \vec{PY} \in W \} \subseteq A.$$
 ```
 

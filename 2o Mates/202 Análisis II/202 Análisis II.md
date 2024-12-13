@@ -120,3 +120,10 @@
 - [Cambio a coordenadas esféricas](Cambio de variable)
 ### 3. El teorema de la función implícita.
 - [[Teorema de la función implícita]]
+---
+## Tema 5: Extremos condicionados y multiplicadores de Lagrange.
+**Referencia:** [[Extremos condicionados y multiplicadores de Lagrange]]
+
+- [[Variedad diferenciable]]
+- [[Extremo condicionado]]
+- [[Teorema de los multiplicadores de Lagrange]]

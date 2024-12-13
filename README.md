@@ -1,13 +1,8 @@
 **¡¡¡¡¡No hay notas sobre ejemplos!!!!!**
 
-Ya he creado el CANVAS de los temas 1,2,3 de EstrAlg:
-- Teoría de grupos: [[Teoría de grupos (canvas).canvas|Teoría de grupos (canvas)]]
-- Acciones de grupos y teorema de Sylow: [[Acciones de grupos.canvas|Acciones de grupos (canvas)]]
-
-Y además ya está todo el temario de Topología (primer cuatri) y Estructuras Algebraicas subido.
 ### Acceso asignaturas.
 - **Topología:** [[201 Topología]] (acabado)
-- **Análisis II:** [[202 Análisis II]]
+- **Análisis II:** [[202 Análisis II]] (acabado)
 - **Programación matemática:** [[203 Programación matemática]]
 - **Métodos:** [[204 Métodos numéricos]]
 - **Estructuras algebraicas:** [[205 Estructuras Algebraicas]] (acabado)

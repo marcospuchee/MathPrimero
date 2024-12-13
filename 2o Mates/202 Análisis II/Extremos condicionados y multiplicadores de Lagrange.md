@@ -1,0 +1,3 @@
+- [[Variedad diferenciable]]
+- [[Extremo condicionado]]
+- [[Teorema de los multiplicadores de Lagrange]]

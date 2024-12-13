@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "517326b96d9c336f",
+        "id": "1a4b8b05484424f3",
         "type": "tabs",
         "children": [
           {
-            "id": "d9774d0a1862097f",
+            "id": "1f91ff151cddeb1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/202 Análisis II/Teorema de la función implícita.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema de la función implícita"
+              "title": "README"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -198,41 +197,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9774d0a1862097f",
+  "active": "1f91ff151cddeb1c",
   "lastOpenFiles": [
-    "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
-    "2o Mates/202 Análisis II/Teorema de la función implícita.md",
     "2o Mates/202 Análisis II/202 Análisis II.md",
+    "2o Mates/202 Análisis II/Extremos condicionados y multiplicadores de Lagrange.md",
     "README.md",
-    "Excalidraw/Ejercicios PRM.md",
-    "Excalidraw/Entregable EstrAlg.md",
-    "2o Mates/205 Estructuras Algebraicas/Subgrupo característico.md",
+    "2o Mates/202 Análisis II/Teorema de los multiplicadores de Lagrange.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Subespacio ortogonal a un subespacio.md",
+    "2o Mates/202 Análisis II/Extremo condicionado.md",
+    "2o Mates/202 Análisis II/Variedad diferenciable.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Variedad afín.md",
+    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Espacios afines.md",
+    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
+    "2o Mates/203 Programación matemática/Perturbación del vector de coeficientes b.md",
+    "2o Mates/203 Programación matemática/203 Programación matemática.md",
+    "2o Mates/201 Topología/Convergencia sucesión (topología).md",
+    "2o Mates/201 Topología/201 Topología.md",
+    "2o Mates/201 Topología/Caracterización cerrado en topología inducida (cerrado).md",
+    "2o Mates/201 Topología/Caracterización de convergencia (base de entornos).md",
+    "2o Mates/203 Programación matemática/Criterio de optimalidad.md",
+    "2o Mates/203 Programación matemática/Criterio de unicidad de solución óptima.md",
+    "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
+    "2o Mates/205 Estructuras Algebraicas/Todo subgrupo de índice dos es normal.md",
+    "2o Mates/205 Estructuras Algebraicas/Core es el mayor subgrupo normal contenido en H.md",
     "2o Mates/205 Estructuras Algebraicas/Acciones de grupos.md",
-    "Excalidraw/Seminario 3 EstrAlg.md",
-    "2o Mates/205 Estructuras Algebraicas/Definiciones equivalentes a subgrupo normal.md",
+    "2o Mates/205 Estructuras Algebraicas/Acción sobre clases.md",
+    "2o Mates/205 Estructuras Algebraicas/3-ciclos (resp. transposiciones de tipo (2,2)) son conjugados y generan An.md",
+    "2o Mates/205 Estructuras Algebraicas/Teorema del grupo alternado.md",
+    "2o Mates/205 Estructuras Algebraicas/Acción por conjugación.md",
     "Attachements/Pasted Image 20241210125040_557.png",
     "Attachements/Pasted Image 20241210124001_955.png",
-    "2o Mates/205 Estructuras Algebraicas/Teoría de grupos.md",
-    "2o Mates/205 Estructuras Algebraicas/Propiedades subgrupo normal.md",
-    "2o Mates/205 Estructuras Algebraicas/Subgrupo normal.md",
-    "2o Mates/205 Estructuras Algebraicas/Acción sobre los subgrupos.md",
-    "2o Mates/205 Estructuras Algebraicas/Centralizador de un subgrupo.md",
-    "2o Mates/205 Estructuras Algebraicas/Acción por conjugación.md",
-    "2o Mates/205 Estructuras Algebraicas/El normalizador de H en G es el mayor subgrupo de G en el que H es normal.md",
-    "2o Mates/205 Estructuras Algebraicas/Propiedades del normalizador de un subgrupo.md",
     "Canvas/Acciones de grupos.canvas",
     "Attachements/Pasted Image 20241210120532_122.png",
-    "2o Mates/205 Estructuras Algebraicas/3-ciclos (resp. transposiciones de tipo (2,2)) son conjugados y generan An.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de Sylow (referencia).md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de Cauchy para grupos abelianos.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema de Cauchy generalizado.md",
-    "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
     "Attachements/Pasted Image 20241210104227_074.png",
     "Attachements/Pasted Image 20241210103347_352.png",
     "Attachements/Pasted Image 20241210102656_702.png",
-    "2o Mates/203 Programación matemática/Corte de Gomory para PLE puro.md",
-    "2o Mates/203 Programación matemática/203 Programación matemática.md",
-    "2o Mates/203 Programación matemática/Condición suficiente para unimodularidad total.md",
     "Attachements/Pasted Image 20241206173927_305.png",
     "Canvas/Teoría de grupos (canvas).canvas",
     "Attachements/Pasted Image 20241206155101_579.png",
