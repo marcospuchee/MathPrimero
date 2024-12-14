@@ -11,6 +11,13 @@ Mx &=& b-Nx,
 \end{eqnarray}$$ definimos el método iterativo $Mx^k = b - N x^{k-1}$.
 ```
 
+```ad-note
+**Ejemplos.**
+- Método de Jacobi: $M = \textrm{diag}(A)$.
+- Método de Gauss-Seidel: $M = \textrm{tril}(A)$.
+```
+
+
 **Tema:** [[Métodos iterativos para resolver sistemas de ecuaciones lineales#1. Definición]]
 
 **Definiciones referenciadas:** -.

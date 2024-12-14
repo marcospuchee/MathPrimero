@@ -1,4 +1,4 @@
-### Contenido Principal
+	### Contenido Principal
 
 ```ad-theorem
 Sea $\overline x = (\overline x_B^T, 0_{n-m}^T) \in \mathbb R^n$ una SBP de la relajación lineal del problema de programación lineal entera puro en formato estándar $(\textrm{PLE})$. Supongamos que $\overline x$ no es entera y sea $\overline x_r \notin \mathbb Z$, $r \in \mathcal J_B$, una variable básica que toma valor fraccionario. Entonces, la desigualdad

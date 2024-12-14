@@ -3,7 +3,7 @@
 ### Acceso asignaturas.
 - **Topología:** [[201 Topología]] (acabado)
 - **Análisis II:** [[202 Análisis II]] (acabado)
-- **Programación matemática:** [[203 Programación matemática]]
+- **Programación matemática:** [[203 Programación matemática]] (acabado)
 - **Métodos:** [[204 Métodos numéricos]]
 - **Estructuras algebraicas:** [[205 Estructuras Algebraicas]] (acabado)
 ### Cosas que faltan (cuando tenga tiempo):

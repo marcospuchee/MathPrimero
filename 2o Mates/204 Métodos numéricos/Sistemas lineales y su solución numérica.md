@@ -1,4 +1,4 @@
-### 1. Normas de vectores y de matrices.
+### 1. Normas de vectores y de matrices.w
 - [[Norma matricial]], [$|| \cdot ||$](Norma matricial)
 - [$||\cdot||_ \alpha$](Norma matricial)
 - [[Norma matricial subordinada a una norma vectorial]], [$|| A ||_ \alpha$](Norma matricial subordinada a una norma vectorial)
