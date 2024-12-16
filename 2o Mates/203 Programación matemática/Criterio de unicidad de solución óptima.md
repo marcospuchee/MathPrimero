@@ -1,7 +1,7 @@
 ### Contenido Principal
 
 ```ad-proposition
-Sea $\overline x = (\overline x_B^T, 0_{n-m}^T)PT$ una [[solución básica posible]] asociada a la base $B$. Si se verifica que
+Sea $\overline x = (\overline x_B^T, 0_{n-m}^T)^T$ una [[solución básica posible]] asociada a la base $B$. Si se verifica que
 $$\overline c_j > 0, \quad \forall j \in \mathcal J_N,$$
 entonces $\overline x$ es la única solución óptima de $(P)$. El recíproco es cierto si $\overline x$ es, además, no degenerada ([[solución básica posible degenerada]]).
 ```
@@ -16,7 +16,7 @@ Por el [[criterio de optimalidad]], sabemos que si $\overline c_j > 0$, $\forall
 $$z := c^T x = c^T \overline x =: \overline z.$$
 
 
-Como $z = \overline z + \sum_{j \in \mathcal J_N} \overline c_j x_j$, entonces,
+Como $z = \overline z + \sum_{j \in \mathcal J_N} \overline c_j x_j$ (visto en el criterio de optimalidad), entonces,
 $$\sum_{j \in \mathcal J_N} \overline c_j x_j = 0.$$
 Como $\overline c_j > 0$ y $x_j \ge 0$, $\forall j \in \mathcal J_N$, necesariamente $x_j = 0, \forall j \in \mathcal J_N$. Esto significa que $x_N = 0_{n-m}$ y, consecuentemente, $x_B = \overline x_B$, lo que prueba que $x = \overline x$.
 

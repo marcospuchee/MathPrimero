@@ -9,6 +9,6 @@
 ### 4. Obtención de una base inicial.
 - [[Variables artificiales]]
 - [[Punto con términos independientes en las variables artificiales es SBP del problema ampliado]]
-- [[SBP problema ampliado sii SBP]]
+- [[SBP problema ampliado con variables artificiales triviales sii SBP]]
 - [[Solución óptima de la Fase I]]
 - [[Teorema SBP inicial para la Fase II]]
