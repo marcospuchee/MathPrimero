@@ -30,7 +30,7 @@ $$\sum_{i = 1}^k \lambda_i (c^T \overline x_i) + \sum_{j = 1}^l \mu_j (c^T \over
 donde $i_0 \in \hat{\mathcal I} := \textrm{argmin}_{i = 1, \dots, k} \{c^T \overline x_i\}$ (es decir, $c^T \overline x_{i0} = \min_{i = 1, \dots, k} \{c^T \overline x_i\})$. Esto implica que la función objetivo de $(P')$ está acotada inferiormente (en el conjunto factible), y por tanto el problema tiene al menos una solución óptima. De hecho, tomando
 $$\lambda_{i0} := 1, \quad \lambda_i := 0, \, \forall i \neq i_0, \quad \mu_j := 0, \, \forall j = 1, \dots, l,$$
 obtenemos el punto extremo $\overline x_{i0} \in \mathcal F$ que alcanza la cota de la ecuación de antes; esto es, $\overline x_{i0}$ es una solución óptima del problema. Por último, supongamos que $i_0$ no es único, es decir, que $\hat{\mathcal I}$ contiene más de un índice. Es fácil comprobar que los puntos de
-$$\textrm{conv}_{i \in \hat{\mathcal I}} \{\overline x_i\} = \left \{ \sum_{i \in  \hat{\mathcal I}} \lambda_i \overline x_i \, | \, \sum_{i \in \hat{\mathcal I}} \lambda_i = 1, \, \lambda_i \ge 0, \forall i \in \hat{\mathcal I} \right \}.$$
+$$\textrm{conv} \left \{ \overline x_i : i \in \hat{\mathcal I} \right \} = \left \{ \sum_{i \in \hat{\mathcal I}} \lambda_i \overline x_i : \sum_{i \in \hat{\mathcal I}} \lambda_i = 1, \, \lambda_i \ge 0, \, \forall i \in \hat{\mathcal I}  \right \}$$
 son los únicos puntos factibles que alcanzan la cota y, por tanto, forman el conjunto de soluciones óptimas.
 ```
 

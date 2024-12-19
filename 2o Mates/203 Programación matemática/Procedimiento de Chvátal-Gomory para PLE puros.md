@@ -5,7 +5,7 @@ Consideremos un problema de PLE en formato canónico con región factible
 $$\mathcal F = \{x \in \mathbb Z^n: Ax \le b, \, \, x \ge 0_n \},$$
 con $A \in \mathbb R^{m \times n}$ y $b \in \mathbb R^m$. Entonces, la desigualdad
 $$\sum_{j = 1} \lfloor u^T a_j \rfloor x_j \le \lfloor u^T b \rfloor,$$
-es válida para $\mathcal F$, $\forall u \in \mathbb R^m$.
+es válida para $\mathcal F$, $\forall u \in \mathbb R^m_+$.
 ```
 
 ```ad-proof

@@ -6,25 +6,11 @@
 - **Programación matemática:** [[203 Programación matemática]] 
 - **Métodos:** [[204 Métodos numéricos]]
 - **Estructuras algebraicas:** [[205 Estructuras Algebraicas]] (acabado)
-
 ### Cómo actualizar en Windows.
 - Abrir *git GUI*.
 - Abrir el repositorio (Open recent repository)
 - En la pestaña Repository (arriba a la izquierda), abrir *git Bash*.
 - Poner en la terminal los comandos: ```git reset --hard```, ```git pull origin main```.
-### Cosas que faltan (cuando tenga tiempo):
+### To-do:
 - CANVAS topología.
-- Reformatear segundo.
-	- Reformatear Topo.
-	- Reformatear AnII.
-	- Reformatear PRM.
-	- Reformatear EstrAlg.
 - Demostraciones eliminación gaussiana con pivoteo parcial.
-- Crear guía de repositorio.
-- Reformatear primero.
-- Reorganizar primero.
-### Errores ortográficos
-Como todo está escrito a mano, es muy probable que encontréis errores a lo largo del repositorio. Si este es tu caso, recuerda que en la pestaña *issues* del repositorio de GitHub puedes sugerir cambios.
-También puedes añadir feedback ahí.
-**Issues:** https://github.com/marcospuchee/MathPrimero/issues
-

@@ -10,7 +10,7 @@ Entonces todos los puntos extremos (SBP) de $\mathcal S$ tienen componentes ente
 
 ```ad-proof
 Sea $\overline x = (\overline x_B^T, 0_{n-m}^T)^T \in \mathbb R^n$ una SBP de $\mathcal S$ asociada a la base $B$. Como,
-$$\overline x_B = B^{-1}b = \frac{\textrm{adj}(B)}{|B|}b \in \mathbb Z^m,$$
+$$\overline x_B = B^{-1}b = \frac{(\textrm{adj}(B))^t}{|B|}b \in \mathbb Z^m,$$
 dado que $\textrm{adj}(B)$ está formado por $\{-1,0,1\}$, $|B|$ también, y $b \in \mathbb Z^m$. Entonces, se tiene que $\overline x \in \mathbb Z^n$.
 ```
 
