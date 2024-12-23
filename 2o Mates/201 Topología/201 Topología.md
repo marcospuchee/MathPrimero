@@ -1,3 +1,7 @@
+## Topologías estudiadas.
+- [[Métrica del cartero]]
+- [[Topología por extensión de los irracionales]]
+- [[Topología del punto particular]]
 ## Tema 1. Espacios métricos.
 **Referencia:** [[Espacios métricos]]
 

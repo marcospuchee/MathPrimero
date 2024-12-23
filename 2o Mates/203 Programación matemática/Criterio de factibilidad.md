@@ -13,7 +13,7 @@ Si, además, $\overline x$ era no degenerada, entonces la desigualdad es estrict
 
 ```ad-proof
 Para cada $\xi \ge 0$ sea $x^\xi = ((x^\xi_B)^T, (x_N^\xi)^T)^T \in \mathbb R^n$ el punto definido por
-$$x_s^\xi := \xi, \quad x_j^\xi := 0, \, \forall j \in \mathcal J_n \textrm{\\} \{s\}, \quad x^\xi_B := \overline x_B - B^{-1}Nx_N^\xi.$$
+$$x_s^\xi := \xi, \quad x_j^\xi := 0, \, \forall j \in \mathcal J_N \textrm{\\} \{s\}, \quad x^\xi_B := \overline x_B - B^{-1}Nx_N^\xi.$$
 
 Por construcción se tiene que $x_N^\xi \ge 0_{n-m}$ y $Ax^\xi = b$. Si analizamos la expresión de las componentes básicas de $x^\xi$ observamos que
 $$(*) \quad x_i^\xi = \overline x_i - \sum_{j \in \mathcal J_N} \alpha_{ij} x_j^\xi = \overline x_i - \alpha_{is} \xi, \quad \forall i \in \mathcal J_B.$$

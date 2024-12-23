@@ -55,6 +55,7 @@ Reverso: Sea $\overline x = (\overline x_B^T, 0_{n-m}^T) \in \mathbb R^n$ una SB
 $$\sum_{j \in \mathcal J_N} f_{rj} x_j \ge f_r, \quad f_r := \overline x_r - \lfloor \overline x_r \rfloor, \quad f_{rj} := \alpha_{rj} - \lfloor \alpha_{rj} \rfloor, \, \forall j \in \mathcal J_N;$$
 es válida para $(\textrm{PLE})$ y corta al punto $\overline x$.
 Tags: prm
+<!--ID: 1734607182706-->
 END
 
 START
@@ -69,5 +70,6 @@ $$x_r + \sum_{j \in \mathcal J_N} \lfloor \alpha_{rj} \rfloor x_j \le \lfloor \o
 
 Que la desigualdad corte a $\overline x$ viene del hecho que $f_r > 0$ y $\overline x_j = 0$, $\forall j \in \mathcal J_N$.
 Tags: dem prm
+<!--ID: 1734607182710-->
 END
 

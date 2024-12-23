@@ -52,8 +52,7 @@ sin embargo, como $F$ es inyectiva en $U$, entonces $(x, \widetilde g(x)) = (x, 
 ---
 ### Anki
 
-DELETE
-<!--ID: 1733328768637-->
+
 
 START
 Básico
@@ -65,6 +64,7 @@ Reverso: Sea $\Omega \subseteq \mathbb R^{n+m}$ abierto, $f: \Omega \longrightar
 
 $f(x,y)= 0$ define a $y$ como función implícita de $x$ en un entorno de $(x_0, y_0)$.
 Tags: anII
+<!--ID: 1734607182724-->
 END
 
 START
@@ -108,4 +108,5 @@ Si $(x,y) \in U$ con $f(x,y) = 0$, entonces $$F(x,y) = (x,f(x,y)) = (x,0) \in W 
 Para demostrar la unicidad de $g$, tomamos $\widetilde g: V \longrightarrow \mathbb R^n$ otra función cumpliendo las condiciones del teorema, entonces para $x \in V$, $(x, g(x)), (x, \widetilde g(x)) \in U$, y $f(x,g(x)) = 0 = f(x, \widetilde g(x))$. Por tanto, $$F(x, g(x)) = F(x, f(x,g(x))) = F(x,0) = F(x, f(x, \widetilde g(x))) = F(x, \widetilde g(x)),$$
 sin embargo, como $F$ es inyectiva en $U$, entonces $(x, \widetilde g(x)) = (x, g(x))$, luego $\widetilde g = g$.
 Tags: dem anII
+<!--ID: 1734607182727-->
 END
