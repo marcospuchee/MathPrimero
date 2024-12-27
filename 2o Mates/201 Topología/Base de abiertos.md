@@ -4,7 +4,7 @@
 Sea $(X, \mathcal T)$ un [[espacio topológico]]. Una base de abiertos ([[conjunto abierto]]) es una familia de subconjuntos abiertos $\mathcal B \subseteq \mathcal T$ tal que cualquier abierto $A \neq \emptyset$ se puede escribir como unión de elementos de $\mathcal B$.
 
 En particular,
-$$\mathcal T = \{\bigcup_{i \in I} B_i : \{B_i\}_{i \in I} \subseteq \mathcal T \} \cup \{ \emptyset \}.$$
+$$\mathcal T = \{\bigcup_{i \in I} B_i : \{B_i\}_{i \in I} \subseteq \mathcal B \} \cup \{ \emptyset \}.$$
 ```
 
 ^a68f29

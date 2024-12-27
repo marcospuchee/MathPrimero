@@ -1,7 +1,7 @@
 ### Contenido Principal
 
 ```ad-lemma
-El punto $(x^T, x_a^T)^T \in \mathbb R^{n+m}$, con $x_a = 0_m$, es solución factible de $(P_a)$ $\iff$ $x \in \mathbb Rǹ$ es solución factible de $(P)$.
+El punto $(x^T, x_a^T)^T \in \mathbb R^{n+m}$, con $x_a = 0_m$, es solución factible de $(P_a)$ $\iff$ $x \in \mathbb R^n$ es solución factible de $(P)$.
 ```
 
 ```ad-proof

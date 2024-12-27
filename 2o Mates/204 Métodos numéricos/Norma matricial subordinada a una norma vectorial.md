@@ -24,3 +24,14 @@ De la definición se puede deducir:
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de norma matricial subordinada a una norma vectorial
+Reverso: Una norma matricial subordinada a una norma vectorial $|| \cdot ||_\alpha$ se define como:
+$$A \in \mathbb R^{n \times n}, \quad ||A||_\alpha := \textrm{sup}_{x \neq 0} \frac{||Ax||_\alpha}{||x||_\alpha}.$$
+En esta definición $\alpha \in \mathbb N \cup \{ \infty \}$. Además, para $A \in \mathbb R^{n \times n}$, son equivalentes:
+$$||A||_\alpha = \sup \limits_{x \neq 0} \frac{||Ax||_\alpha}{||x||_\alpha} = \max \limits_{x \neq 0} \frac{||Ax||_\alpha}{||x||_\alpha} = \max \limits_{||x||_\alpha = 1} ||Ax||_\alpha.$$
+Tags: met
+<!--ID: 1735044171392-->
+END

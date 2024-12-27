@@ -15,3 +15,12 @@ La solución incumbente proporciona una cota para $v(P)$. esta será la mejor co
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cotas del valor del problema por solución incumbente
+Reverso:
+La solución incumbente proporciona una cota para $v(P)$. esta será la mejor cota superior o inferior (depende del tipo de problema) encontrada hasta el momento. Si denotamos por $z_{\textrm{incumb}}$ el valor objetivo de la solución incumbente y por $z_{\textrm{RL}}$ a la cota proporcionada por la relajación lineal (o su valor actualizado mediante el proceso de acotación), entonces $$z_{\textrm{RL}} \le v(P) \le z_{\textrm{incumb}},$$ en el caso de minimizar, o bien, $$z_{\textrm{RL}} \ge v(P) \ge z_{\textrm{incumb}},$$ en el caso de maximizar.
+Tags: prm
+<!--ID: 1735044171498-->
+END

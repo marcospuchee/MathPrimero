@@ -15,3 +15,10 @@ Si $A \in \mathbb R^{n \times n}$ es simétrica, sus valores propios son reales.
 
 ---
 ### Anki
+
+START
+Respuesta anidada
+Si $A \in \mathbb R^{n \times n}$ {{c1::es simétrica}}, sus valores propios {{c2::son reales}}.
+Tags: met
+<!--ID: 1735044171428-->
+END

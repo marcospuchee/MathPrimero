@@ -13,3 +13,15 @@ $$q_k := \frac{(y^{(k)})^T \cdot y^{(k+1)}}{(y^{(k)})^T \cdot y^{(k)}} = \frac{ 
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cuál es el método de la potencia
+Reverso: 
+1. Tomamos $y^{(0)} := x \in \mathbb R^n \textrm{\\} \{0\}$, donde $x$ es un vector arbitrario.
+2. Construimos $y^{(k+1)} := Ay^{(k)}, \quad k = 0,1,2, \dots$.
+3. Definimos
+$$q_k := \frac{(y^{(k)})^T \cdot y^{(k+1)}}{(y^{(k)})^T \cdot y^{(k)}} = \frac{ (y^{(k)})^T \cdot Ay^{(k)} }{ ||y^{(k)}||^2_2 }.$$
+Tags: met
+<!--ID: 1735044171407-->
+END

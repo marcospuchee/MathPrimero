@@ -44,6 +44,38 @@ A $x_k$ lo llamamos iterado k-ésimo ($x_k$ seria $(a_k + b_k)/2$ en el caso de 
 
 START
 Básico
+Anverso: Cuál es el método de Jacobi?
+Reverso: $M = \textrm{diag}(A)$, $Mx^k = b - N x^{k-1}$.
+Tags: met
+<!--ID: 1735044171394-->
+END
+
+START
+Básico
+Anverso: Cuál es el método de Gauss-Seidel?
+Reverso: $M = \textrm{tril}(A)$, $Mx^k = b - N x^{k-1}$.
+Tags: met
+<!--ID: 1735044171397-->
+END
+
+START
+Básico
+Anverso: Definición de método iterativo para resolver sistemas de ecuaciones lineales
+Reverso: Dado un sistema de ecuaciones lineal: $$Ax = b, \quad A \in \mathbb R^{n \times n}, \, b \in \mathbb R^n,$$
+un método iterativo genera una sucesión de vectores $x^k$ que queremos que converjan a $x$, la solución del sistema.
+
+Escribimos $A = M+N$ con $M$ fácilmente invertible: $$\begin{eqnarray}
+Ax &=& b \\
+(M+N)x &=& b \\
+Mx &=& b-Nx,
+\end{eqnarray}$$ definimos el método iterativo $Mx^k = b - N x^{k-1}$.
+Tags: met
+<!--ID: 1735044171399-->
+END
+
+
+START
+Básico
 Anverso: En qué consiste un método iterativo?
 Reverso: Los métodos iterativos consisten en:
 - Obtener una aproximación inicial $x_1$ de la solución. Esta aproximación es la información previa que disponemos. En algunos métodos, la elección de la aproximación inicial determina la convergencia del método. La representación gráfica de la función suele proporcionar aproximaciones iniciales aceptables.

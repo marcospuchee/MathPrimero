@@ -15,3 +15,10 @@ Si $A \in \mathbb R^{n \times n}$ es simétrica definida positiva, sus valores p
 
 ---
 ### Anki
+
+START
+Respuesta anidada
+Si $A \in \mathbb R^{n \times n}$ {{c1::es simétrica definida positiva}}, sus valores propios {{c2::son estrictamente positivos}}.
+Tags: met
+<!--ID: 1735044171433-->
+END

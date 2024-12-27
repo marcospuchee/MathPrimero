@@ -17,3 +17,11 @@ $$QAQ^T = D = \textrm{diag}(\lambda_1, \dots, \lambda_n).$$
 
 ---
 ### Anki
+
+START
+Respuesta anidada
+Sea $A \in \mathbb R^{n \times n}$ {{c1::simétrica}}, entonces {{c2::$\exists Q$ ortogonal}} tal que
+{{c2::$$QAQ^T = D = \textrm{diag}(\lambda_1, \dots, \lambda_n).$$}}
+Tags: met
+<!--ID: 1735044171431-->
+END

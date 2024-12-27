@@ -40,7 +40,7 @@ $$\begin{eqnarray}
 
 START
 Básico
-Anverso: Proposición valor de la matriz $L$ de la descomposición $LU$.
+Anverso: Proposición valor de las matrices de trabajo de la descomposición $LU$.
 Reverso: $\forall k: 1 \le k \le n-1$,
 $$\prod_{j = k+1}^n (I + \alpha_{j,k}e_j e_k^T) = I + v^{(k)} e_k^T,$$
 donde $v^{(k)} = \sum_{j = k+1}^n \alpha_{j,k} e_j$.

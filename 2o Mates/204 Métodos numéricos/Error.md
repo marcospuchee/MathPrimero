@@ -10,3 +10,12 @@ Dado un método iterativo de sistemas de ecuaciones lineales $Mx^{k+1} = b-Nx^k$
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de iteración en método iterativo de sistemas de ecuaciones lineales
+Reverso: Dado un método iterativo de sistemas de ecuaciones lineales $Mx^{k+1} = b-Nx^k$ convergente a $x$. Definimos el error que se comete en cada iteración: $e^k = x^k-x$. Notemos que $$\lim \limits_{k \to \infty} e^k = 0 \iff \lim \limits_{k \to \infty} ||e^k|| = 0,$$ para alguna norma vectorial (en $\mathbb R^n$ todas son equivalentes).
+Tags: met
+<!--ID: 1735044171449-->
+END
+

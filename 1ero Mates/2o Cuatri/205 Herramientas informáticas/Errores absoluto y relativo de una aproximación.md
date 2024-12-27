@@ -16,3 +16,4 @@ Si $x \in \mathbb R$ y $\tilde{x}$ una aproximación entones tenemos:
 
 ---
 ### Anki
+

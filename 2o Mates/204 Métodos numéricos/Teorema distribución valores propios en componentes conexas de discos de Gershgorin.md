@@ -15,3 +15,11 @@ Si una componente conexa de la unión de los discos de Gershgorin de una matriz 
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Distribución de los valores propios en discos de Gershgorin
+Reverso: Si una componente conexa de la unión de los discos de Gershgorin de una matriz está formada por $r$ discos, entonces contiene exactamente $r$ valores propios de la matriz, contados con sus órdenes de multiplicidad.
+Tags: met
+<!--ID: 1735044171345-->
+END

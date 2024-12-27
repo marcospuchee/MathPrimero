@@ -16,3 +16,12 @@ $$||A||_1 = \max \limits_{1 \le j \le n} ||A(:,j)||_1 = \max \limits_{1 \le j \l
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cálculo norma matricial subordinada 1
+Reverso: Para $A \in \mathbb R^{m \times n}$, se cumple que:
+$$||A||_1 = \max \limits_{1 \le j \le n} ||A(:,j)||_1 = \max \limits_{1 \le j \le n} \sum_{i = 1}^n |a_{ij}|.$$
+Tags: met
+<!--ID: 1735044171472-->
+END

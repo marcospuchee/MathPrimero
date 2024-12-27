@@ -20,3 +20,11 @@ $$\frac{1}{\kappa(A)} \le \frac{e_r}{r_r} \le \kappa(A).$$
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de número de condición de una matriz respecto de una norma
+Reverso: Dada una matriz $A \in \mathbb R^{n \times n}$, el número de condición de $A$ en la norma $|| \cdot ||$ lo definimos como
+$$\kappa (A) := ||A|| \cdot ||A^{-1}||.$$
+Tags:
+ENaD

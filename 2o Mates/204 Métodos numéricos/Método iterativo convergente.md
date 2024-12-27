@@ -10,3 +10,4 @@ El método iterativo $Mx^{k+1} = b- Nx^k$ se dice que es convergente si la suces
 
 ---
 ### Anki
+

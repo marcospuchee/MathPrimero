@@ -16,3 +16,12 @@ $$||A||_\infty = \max \limits_{1 \le i \le m} ||A(i,:)||_1 = \max \limits_{1 \le
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Cálculo $||A||_\infty$.
+Reverso: Para $A \in \mathbb R^{m \times n}$, se cumple que:
+$$||A||_\infty = \max \limits_{1 \le i \le m} ||A(i,:)||_1 = \max \limits_{1 \le i \le m} \sum_{j = 1}^n |a_{ij}|.$$
+Tags: met
+<!--ID: 1735044171468-->
+END

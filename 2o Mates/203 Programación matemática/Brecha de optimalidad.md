@@ -10,3 +10,11 @@ Llamamos brecha de optimalidad (o gap) a la cantidad $|z_{\textrm{RL}} - z_{\tex
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Definición de brecha de optimalidad
+Reverso: Llamamos brecha de optimalidad (o gap) a la cantidad $|z_{\textrm{RL}} - z_{\textrm{incumb}}|$.
+Tags: prm
+<!--ID: 1735044171506-->
+END
