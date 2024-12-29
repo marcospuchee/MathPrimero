@@ -22,7 +22,7 @@ Dado que $\Omega$ abierto, $f \in C^1(\Omega)$ y $J_f(a) \neq 0$, entonces $\exi
 Tomamos $U = B(a; r_2)$, y tenemos que
 - $f$ es inyectiva en $U$.
 - $J_f(x) \neq 0$, $\forall x \in U$ (notemos que $h(x, \dots, x) = J_f(x) \neq 0$, $\forall x \in B(a; r_2)$ $\subset$ $B(a; r_1)$).
-- $f(U)$ = V$ es abierto.
+- $f(U) = V$ es abierto.
 - $\varphi = f_{\restriction U} : U \to V$ biyección y $\varphi^{-1}:V \to U$ es continua.
 
 En particular, $\varphi$ es homeomorfismo. Veamos ahora que $g = \varphi^{-1} \in C^1$. Fijados $j \in \{1, \dots, n\}$, $y \in V$, comencemos por ver si $\exists D_jg(y)$. 

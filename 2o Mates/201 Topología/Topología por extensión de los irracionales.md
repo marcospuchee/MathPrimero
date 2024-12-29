@@ -53,6 +53,8 @@ Luego $(\mathbb R, \mathcal T_e)$ es 1AN.
 ##### Hausdorff
 Tomando $x,y \in \mathbb R \textrm{\\} \mathbb Q$, entonces $\{x\} \in \mathcal E(x)$, $\{y\} \in \mathcal E(y)$, pero $\{x\} \cap \{y\} = \emptyset$. Luego $(\mathbb R, \mathcal T_e)$ es Hausdorff.
 
+Queda ver para $x \in \mathbb Q, y \in \mathbb R \textrm{\\} \mathbb Q$, y distintos casos que son también triviales.
+
 ##### Base de abiertos
 Definimos $$\mathcal B = \{ B_{d_2}(q; \varepsilon) : q \in \mathbb Q, \, \varepsilon > 0 \} \cup \{\{x\} : x \in \mathbb R \textrm{\\} \mathbb Q \},$$ veamos que es base de abiertos: sea $A \cup B \in \mathcal T_e$, tenemos que ver que $\forall x \in A \cup B$, $\exists B \in \mathcal B$ tal que $x \in B \subseteq A \cup B$.
 1. $x \in \mathbb R \textrm{\\} \mathbb Q$. Entonces, $x \in \{x\} \subseteq B \subseteq A \cup B$, donde $\{x\} \in \mathcal B$.

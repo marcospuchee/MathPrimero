@@ -9,7 +9,7 @@ $$\begin{matrix*}[c c l]
 & & x \ge 0_n, x_a \ge 0_m.
 \end{matrix*}$$
 
-donde $x_a := (x_{n+1}, \dots, x_{n+m})^t \in \mathbb R^m$ es el vector de variables aritifiales. Al problema $(P_a)$ se le conoce como problema ampliado.
+donde $x_a := (x_{n+1}, \dots, x_{n+m})^t \in \mathbb R^m$ es el vector de variables artificiales. Al problema $(P_a)$ se le conoce como problema ampliado.
 ```
 
 **Tema:** [[El método Simplex#4. Obtención de una base inicial.]]

@@ -19,3 +19,12 @@ En particular, si $G$ es finito, $G/\textrm{Core} \\_ G(H) \overset{\sim}{\le} S
 
 ---
 ### Anki
+
+START
+Básico
+Anverso: Teorema de Cayley
+Reverso: Sea $G$ un grupo y $H \le G$. Entonces,
+$$G/\textrm{Core} \\_ G(H) \overset{\sim}{\le} S \\_ {\mathcal L_H}.$$
+En particular, si $G$ es finito, $G/\textrm{Core} \\_ G(H) \overset{\sim}{\le} S_{|G:H|}$.
+Tags: est
+END

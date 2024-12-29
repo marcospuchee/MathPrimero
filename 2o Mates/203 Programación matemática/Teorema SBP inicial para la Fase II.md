@@ -14,7 +14,7 @@ también es base de $(\tilde P_a)$ con la misma SBP asociada.
 $$\tilde x_{B_a} = B_a^{-1}b \ge 0_m.$$
 Como todas las variables artificiales están en $\tilde x_{N_a}$, podemos descomponer $\overline x = (\tilde x_{B_a}^T, 0_{n-m}^T) \in \mathbb R^{n}$, que es SBP asociada a $B_a$ por [[SBP problema ampliado con variables artificiales triviales sii SBP]].
 
-2. Razonemos por inducción al absurdo y supongamos que $\alpha_{kj} = 0$ para toda variable original no básica ($j \in \mathcal J_{N_a}$). La $k$-ésima ecuación del sistema
+2. Razonemos por reducción al absurdo y supongamos que $\alpha_{kj} = 0$ para toda variable original no básica ($j \in \mathcal J_{N_a}$). La $k$-ésima ecuación del sistema
 $$x_{B_a} + B_a^{-1}N_a x_{N_a} = B_a^{-1}b$$
 resulta
 $$(*) \quad x_k + \sum_{j \in \mathcal J_{N_a}} \alpha_{kj} x_j = 0.$$

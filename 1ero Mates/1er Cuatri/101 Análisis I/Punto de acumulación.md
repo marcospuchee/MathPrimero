@@ -1,7 +1,7 @@
 ### Punto de acumulación $(X, \mathcal T)$.
 
 ```ad-Formal
-Sean $(X, \mathcal T)$ [[espacio topológico]], $S \subseteq X$. $x \in X$ es punto de acumulación si $\forall U \in \mathcal E(x)$, $(U \textrm{\\} \{0\}) \cap S \neq \emptyset$.
+Sean $(X, \mathcal T)$ [[espacio topológico]], $S \subseteq X$. $x \in X$ es punto de acumulación si $\forall U \in \mathcal E(x)$, $(U \textrm{\\} \{x\}) \cap S \neq \emptyset$.
 ```
 
 ^4c857c

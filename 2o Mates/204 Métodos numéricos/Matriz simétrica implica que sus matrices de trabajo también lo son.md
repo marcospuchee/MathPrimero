@@ -12,11 +12,11 @@ y la matriz de trabajo $C- \frac{1}{\alpha}vv^T$ es también simétrica.
 Lo vemos por inducción sobre la dimensión de $A$.
 
 **Caso base: $n = 1$.**
-$A = (a_{11}) = 11 \cdot a_{11} = L \cdot U$.
+$A = (a_{11}) = 1 \cdot a_{11} = L \cdot U$.
 
 **Hipótesis de inducción.**
 Supongamos el resultado cierto para $n-1$. Como $A = A^T$, $v=w$ y $C = C^T$. Como $\alpha \neq 0$, aplicamos la eliminación gaussiana:
-$$M_1 A = \left ( \begin{array}{c | c} 1 & 0 \\ \hline - \frac{v}{\alpha} & I_{n-1} \end{array} \right ) = \left ( \begin{array}{c | c} \alpha & v^T \\ \hline v & C \end{array} \right ) = \left ( \begin{array}{c | c} \alpha & v^T \\ \hline 0 & - \frac{1}{\alpha} vv^T + C \end{array} \right ).$$
+$$M_1 A = \left ( \begin{array}{c | c} 1 & 0 \\ \hline - \frac{v}{\alpha} & I_{n-1} \end{array} \right )  \left ( \begin{array}{c | c} \alpha & v^T \\ \hline v & C \end{array} \right ) = \left ( \begin{array}{c | c} \alpha & v^T \\ \hline 0 & - \frac{1}{\alpha} vv^T + C \end{array} \right ).$$
 Veamos que $-\frac{1}{\alpha}vv^T + C$ es simétrica:
 $$(- \frac{1}{\alpha}vv^T + C)^T = -\frac{1}{\alpha}(vv^T)+C^T = -\frac{1}{\alpha}(v^T)^T v^T + C = -\frac{1}{\alpha}vv^T + C.$$
 Por hipótesis de inducción se sigue que el resto lo son.
