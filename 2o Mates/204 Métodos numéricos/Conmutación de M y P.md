@@ -8,7 +8,7 @@ $$M_{n-1} P_{n-1} \dots M_1 P_1 = M_{n-1}^{(n-1)} M_{n-2}^{(n-1)} \dots M_1^{(n-
 donde
 $$M_i^{(n-1)}:= I_n + (P_{n-1} P_{n-2} \dots P_{i+1} v_i)e_i^T, \quad 1 \le i \le n-1$$
 siendo
-$$v_i = \sum_{j = k+1}^n \alpha_{j,k} e_j.$$
+$$v_i = \sum_{j = i+1}^n \alpha_{j,i} e_j.$$
 ```
 
 ```ad-proof

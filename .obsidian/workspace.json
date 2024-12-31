@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "66954735bac451cf",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0996fb81c9e65b9a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Teorema cardinal conjunto con acción sobre p-grupo.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema cardinal conjunto con acción sobre p-grupo"
-            }
-          },
-          {
-            "id": "789859aaa96ee114",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2o Mates/205 Estructuras Algebraicas/Corolario 2 teorema órbita-estabilizador.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corolario 2 teorema órbita-estabilizador"
+              "title": "README"
             }
           }
         ]
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -213,34 +197,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0996fb81c9e65b9a",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "2o Mates/205 Estructuras Algebraicas/205 Estructuras Algebraicas.md",
-    "2o Mates/205 Estructuras Algebraicas/Corolario 2 teorema órbita-estabilizador.md",
-    "Excalidraw/Drawing 2024-12-29 10.14.20.excalidraw.md",
-    "2o Mates/205 Estructuras Algebraicas/Teorema cardinal conjunto con acción sobre p-grupo.md",
+    "2o Mates/204 Métodos numéricos/Conmutación de M y P.md",
+    "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
     "README.md",
+    "Excalidraw/Drawing 2024-12-30 12.39.16.excalidraw.md",
+    "2o Mates/202 Análisis II/Teorema de los multiplicadores de Lagrange.md",
+    "2o Mates/203 Programación matemática/Criterio de factibilidad.md",
     "2o Mates/203 Programación matemática/203 Programación matemática.md",
-    "2o Mates/203 Programación matemática/SBP problema ampliado con variables artificiales triviales sii SBP.md",
-    "2o Mates/203 Programación matemática/Teorema SBP inicial para la Fase II.md",
-    "2o Mates/203 Programación matemática/El método Simplex.md",
-    "2o Mates/203 Programación matemática/Punto con términos independientes en las variables artificiales es SBP del problema ampliado.md",
-    "2o Mates/203 Programación matemática/Variables artificiales.md",
-    "2o Mates/203 Programación matemática/Teorema de caracterización de puntos extremos.md",
-    "2o Mates/203 Programación matemática/Teorema fundamental de la programación lineal.md",
-    "2o Mates/203 Programación matemática/Teorema de representación de poliedros.md",
-    "2o Mates/203 Programación matemática/Valor de un problema es la imagen de la función objetivo de una solución óptima.md",
-    "2o Mates/203 Programación matemática/Relación primal-dual de soluciones básicas.md",
-    "2o Mates/203 Programación matemática/Corolario del teorema de Dualidad Débil (soluciones óptimas).md",
-    "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Valor propio de una matriz.md",
+    "2o Mates/202 Análisis II/202 Análisis II.md",
+    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
+    "2o Mates/202 Análisis II/Función inversa es continua.md",
+    "2o Mates/202 Análisis II/Función de clase C1 con jacobiano no nulo es abierta.md",
+    "2o Mates/202 Análisis II/Imagen bola con jacobiano no trivial es entorno.md",
+    "2o Mates/202 Análisis II/Criterio de Sylvester.md",
+    "2o Mates/202 Análisis II/Derivadas parciales nulas implican que la función es constante.md",
+    "2o Mates/202 Análisis II/Todas las derivadas parciales acotadas implica que la función es lipschitziana.md",
     "2o Mates/202 Análisis II/Teorema del valor medio.md",
-    "Excalidraw/Drawing 2024-12-28 18.18.41.excalidraw.md",
-    "2o Mates/204 Métodos numéricos/Matriz simétrica implica que sus matrices de trabajo también lo son.md",
-    "2o Mates/204 Métodos numéricos/Fundamentos teóricos del método de la potencia.md",
-    "2o Mates/204 Métodos numéricos/Radio espectral.md",
-    "Excalidraw/Drawing 2024-12-28 17.41.04.excalidraw.md",
-    "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
-    "Excalidraw/Drawing 2024-12-28 16.29.18.excalidraw.md",
+    "2o Mates/202 Análisis II/Condición suficiente de diferenciabilidad.md",
+    "2o Mates/202 Análisis II/Regla de la cadena (Rn).md",
+    "2o Mates/202 Análisis II/Teorema de Heine (R^n).md",
+    "2o Mates/202 Análisis II/(ejercicio) Teorema caracterización sucesional de límite multivariable.md",
+    "2o Mates/203 Programación matemática/Teorema solución óptima de PLE según relajación lineal.md",
+    "2o Mates/203 Programación matemática/Programación lineal entera.md",
+    "2o Mates/203 Programación matemática/Dualidad y análisis de sensibilidad.md",
+    "2o Mates/203 Programación matemática/Solución básica primal-óptima.md",
+    "2o Mates/203 Programación matemática/Primal factible no acotado implica dual imposible (viceversa).md",
+    "2o Mates/203 Programación matemática/Teorema de Dualidad Débil.md",
     "Attachements/Pasted Image 20241204192828_478.png",
     "Attachements/Pasted Image 20241206173927_305.png",
     "Attachements/Pasted Image 20241210103347_352.png",
