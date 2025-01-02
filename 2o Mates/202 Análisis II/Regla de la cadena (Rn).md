@@ -26,7 +26,7 @@ $$||Df(a)(x)|| \le M_1 ||x||, \, \forall x \in \mathbb R^n; \quad ||Dg(b)(y)|| \
 Para $x \in \Omega$, $y=f(x)$, sabemos que
 $$\begin{eqnarray}
 0 \le \Lambda(x) &=& ||g(y) - g(b) - Dg(b) \circ Df(a)(x-a)|| \\ &\le& ||g(y) - g(b) - Dg(b)(y-b)|| + ||Dg(b)(y-b) - Dg(b) \circ Df(a)(x-a)|| \\
-&=& ||g(y) - g(b) - Dg(b)(y-b)|| + ||Dg(b)(y-b)-Df(a)(x-a))||.
+&=& ||g(y) - g(b) - Dg(b)(y-b)|| + ||Dg(b)(y-b-Df(a)(x-a))||.
 \end{eqnarray}$$
 
 En el segundo de los sumandos tenemos que
