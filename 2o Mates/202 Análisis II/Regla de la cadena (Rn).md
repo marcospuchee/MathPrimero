@@ -26,7 +26,7 @@ $$||Df(a)(x)|| \le M_1 ||x||, \, \forall x \in \mathbb R^n; \quad ||Dg(b)(y)|| \
 Para $x \in \Omega$, $y=f(x)$, sabemos que
 $$\begin{eqnarray}
 0 \le \Lambda(x) &=& ||g(y) - g(b) - Dg(b) \circ Df(a)(x-a)|| \\ &\le& ||g(y) - g(b) - Dg(b)(y-b)|| + ||Dg(b)(y-b) - Dg(b) \circ Df(a)(x-a)|| \\
-&=& ||g(y) - g(b) - Dg(b)(y-b)|| + ||Dg(b)(y-b-Df(a)(x-a))||.
+&=& ||g(y) - g(b) - Dg(b)(y-b)|| + ||Dg(b)(y-b)-Df(a)(x-a))||.
 \end{eqnarray}$$
 
 En el segundo de los sumandos tenemos que
@@ -41,7 +41,7 @@ $$\begin{eqnarray}
 &=& \Phi(x)||x-a|| + ||Df(a)(x-a)|| \le \Phi(x)||x-a|| + M_1 ||x-a|| \\ &=& (\Phi(x) + M_1)||x-a||
 \end{eqnarray}$$
 lo que implica que
-$$(*) \le \Psi(x)(f(x))(\Phi(x) + M_1)||x-a||.$$
+$$(*) \le \Psi(f(x))(\Phi(x) + M_1)||x-a||.$$
 Por tanto,
 $$0 \le \Lambda(x) \le \Psi(f(x))(\Phi(x) + M_1)||x-a|| + M_2 \Phi(x) ||x-a||.$$
 
