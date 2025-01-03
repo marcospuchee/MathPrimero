@@ -1,7 +1,7 @@
 ### Contenido Principal
 
 ```ad-theorem
-Sean $\Omega \subseteq \mathbb R^n$ abierto, $f,g_1, \dots, g_m: \Omega \longrightarrow \mathbb R^m$ de clase $C^1$, donde $1 \le m < n$. Supongamos que $M = \{x \in \Omega : g_1(x) = 0, \dots, g_m(x) = 0 \}$ es una variedad diferenciable de dimensión $n-m$. Si $a$ es un extremo local de $f$ condicionado a $M$, entonces $\exists \lambda_1, \dots, \lambda_m \in \mathbb R$ tales que $$\nabla f(a) = \lambda_1 \nabla g_1(a) + \dots + \lambda_m \nabla g_m(a).$$
+Sean $\Omega \subseteq \mathbb R^n$ abierto, $f, g = (g_1, \dots, g_m): \Omega \longrightarrow \mathbb R^m$ de clase $C^1$, donde $1 \le m < n$. Supongamos que $M = \{x \in \Omega : g_1(x) = 0, \dots, g_m(x) = 0 \}$ es una variedad diferenciable de dimensión $n-m$. Si $a$ es un extremo local de $f$ condicionado a $M$, entonces $\exists \lambda_1, \dots, \lambda_m \in \mathbb R$ tales que $$\nabla f(a) = \lambda_1 \nabla g_1(a) + \dots + \lambda_m \nabla g_m(a).$$
 ```
 
 ```ad-proof

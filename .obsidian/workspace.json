@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6c060a48fea31737",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "fc352b08de8a7775",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/202 Análisis II/Regla de la cadena (Rn).md",
+                "file": "2o Mates/202 Análisis II/Teorema de los multiplicadores de Lagrange.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regla de la cadena (Rn)"
+              "title": "Teorema de los multiplicadores de Lagrange"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -197,16 +198,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fc352b08de8a7775",
   "lastOpenFiles": [
+    "2o Mates/202 Análisis II/202 Análisis II.md",
     "README.md",
+    "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
+    "2o Mates/202 Análisis II/Teorema de la inyectividad local.md",
+    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
+    "2o Mates/202 Análisis II/Cambio de variable.md",
+    "2o Mates/202 Análisis II/Criterio de Sylvester.md",
+    "2o Mates/202 Análisis II/Imagen bola con jacobiano no trivial es entorno.md",
+    "2o Mates/202 Análisis II/Función de clase C1 con jacobiano no nulo es abierta.md",
+    "2o Mates/202 Análisis II/Función inversa es continua.md",
+    "2o Mates/203 Programación matemática/Envoltura convexa es el conjunto de las combinaciones lineales convexas formadas por puntos de C.md",
     "2o Mates/202 Análisis II/Regla de la cadena (Rn).md",
     "Excalidraw/Drawing 2024-12-30 12.39.16.excalidraw.md",
     "Excalidraw/Ejercicio 3.1 EstrAlg.md",
     "1ero Mates/2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Producto de funciones continuas es continua.md",
     "2o Mates/202 Análisis II/Derivada parcial.md",
     "2o Mates/202 Análisis II/Límites iterados.md",
-    "2o Mates/202 Análisis II/202 Análisis II.md",
     "2o Mates/202 Análisis II/Límites por curvas.md",
     "2o Mates/204 Métodos numéricos/Descomposición PA = LU.md",
     "2o Mates/204 Métodos numéricos/Descomposición LU.md",
@@ -216,15 +226,6 @@
     "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
     "2o Mates/204 Métodos numéricos/Matriz real simétrica definida positiva implica que sus valores propios son estrictamente positivos.md",
     "1ero Mates/2o Cuatri/202 Álgebra Lineal y Geometría/Matriz ortogonal.md",
-    "2o Mates/201 Topología/201 Topología.md",
-    "2o Mates/201 Topología/Caracterización de continuidad (bases de entornos).md",
-    "2o Mates/201 Topología/Caracterización de continuidad global (antiimagen de abiertos).md",
-    "2o Mates/201 Topología/Caracterización de homeomorfismo (imagen abiertos y cerrados).md",
-    "2o Mates/201 Topología/Espacios topológicos.md",
-    "2o Mates/201 Topología/Entorno.md",
-    "2o Mates/202 Análisis II/Teorema de la función implícita.md",
-    "2o Mates/203 Programación matemática/Teorema de caracterización de puntos extremos.md",
-    "2o Mates/204 Métodos numéricos/Conmutación de M y P.md",
     "Attachements/Pasted Image 20241204192828_478.png",
     "Attachements/Pasted Image 20241206173927_305.png",
     "Attachements/Pasted Image 20241210103347_352.png",

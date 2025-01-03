@@ -12,12 +12,12 @@ Sea $\Omega$ un abierto de $\mathbb R^n$ y $f: \Omega \to \mathbb R^n$ función 
 title: Notación
 $\Omega \subset \mathbb R^n$ abierto, 
 $$\Omega^n := \{z = (z^1, z^2, \dots, z^n) : z^j \in \Omega, \, \, \forall j = 1, \dots, n \}; \quad z \in \Omega^n \subset (\mathbb R^n)^n = \mathbb R^{n^2}.$$
-Dado $(a_1, \dots, a) \in \Omega^n$, una base de entornos del punto $(a, \dots, a)$ viene dada por los conjunto de la forma
+Dado $(a_1, \dots, a_n) \in \Omega^n$, una base de entornos del punto $(a, \dots, a)$ viene dada por los conjunto de la forma
 $$B(a; \varepsilon) \times \dots \times B(a; \varepsilon); \quad \varepsilon > 0.$$
 ```
 
 ```ad-proof
-Dado que $\Omega$ abierto, $f \in C^1(\Omega)$ y $J_f(a) \neq 0$, entonces $\exists r_1 > 0$ tal que $B(a; r_1) \subset \Omega$ y $h(z^1, \dots, z^n) = \det(D_j f_i(z^i)) \neq 0$, $\forall (z^1, \dots, z^n) \in B(a; r_1) \times \dots \times B(a; r_1)$ (visto en la demostración del teorema de inyectividad local). Por el teorema de inyectivdad local, $\exists 0 < r_2 < r_1$ tal que $f$ es inyectiva en $B(a; r_2)$.
+Dado que $\Omega$ abierto, $f \in C^1(\Omega)$ y $J_f(a) \neq 0$, entonces $\exists r_1 > 0$ tal que $B(a; r_1) \subset \Omega$ y $h(z^1, \dots, z^n) = \det(D_j f_i(z^i)) \neq 0$, $\forall (z^1, \dots, z^n) \in B(a; r_1) \times \dots \times B(a; r_1)$ (visto en la demostración del teorema de inyectividad local). Por el teorema de inyectividad local, $\exists 0 < r_2 < r_1$ tal que $f$ es inyectiva en $B(a; r_2)$.
 
 Tomamos $U = B(a; r_2)$, y tenemos que
 - $f$ es inyectiva en $U$.
@@ -28,7 +28,7 @@ Tomamos $U = B(a; r_2)$, y tenemos que
 En particular, $\varphi$ es homeomorfismo. Veamos ahora que $g = \varphi^{-1} \in C^1$. Fijados $j \in \{1, \dots, n\}$, $y \in V$, comencemos por ver si $\exists D_jg(y)$. 
 
 Notemos que como $y \in V = f(U)$, entonces $y = f(x)$ para algún $x \in U$. Como $V$ abierto, entonces $\exists \delta > 0$ tal que $B(y; r) \subset V$. Es decir, $y+te_j \in V$ para $t \in \mathbb R$ con $|t| < \delta$, luego $g(y+te_j) \in U$.
-Si fijamos $t$ con $|t| < \delta$, como y $f(g(y)) = y$ y $f(g(y+te_j)) = y+te_j$, tenemos que
+Si fijamos $t$ con $|t| < \delta$, como $f(g(y)) = y$ y $f(g(y+te_j)) = y+te_j$, tenemos que
 $$\begin{array}{l l}
 f_i(g(y+te_j)) - f_i(g(y)) = 0 & \textrm{si } i \neq j \\
 f_i(g(y + te_j)) - f_i(g(y)) = t & \textrm{si } i = j.
