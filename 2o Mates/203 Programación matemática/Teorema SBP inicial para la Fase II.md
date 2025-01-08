@@ -1,6 +1,5 @@
 ### Contenido Principal
 
-
 ```ad-theorem
 Sea $\tilde x := (\overline x^T, \tilde x_a^T)^T \in \mathbb R^{n+m}$, con $\tilde x_a = 0_m$, la SBP óptima de $(\tilde P_a)$ obtenida en la fase I ([[solución óptima de la Fase I]]), y sea $B_a$ la base (de $[A \quad I_m]$) a la que está asociada:
 1. Si todas las variables artificiales son no básicas, entonces $B:= B_a$ es una base de $(P)$ y $\overline x$ es una [[solución básica posible]] asociada a $B$.

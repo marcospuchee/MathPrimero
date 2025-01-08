@@ -4,40 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "6c060a48fea31737",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "fc352b08de8a7775",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/202 Análisis II/Teorema de los multiplicadores de Lagrange.md",
+                "file": "2o Mates/204 Métodos numéricos/Métodos iterativos para resolver sistemas de ecuaciones lineales.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema de los multiplicadores de Lagrange"
+              "title": "Métodos iterativos para resolver sistemas de ecuaciones lineales"
             }
           },
           {
-            "id": "32be20e03535b840",
+            "id": "6e722e1e62b38adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2o Mates/202 Análisis II/Teorema de la función implícita.md",
+                "file": "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema de la función implícita"
+              "title": "204 Métodos numéricos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "52fd0ab846742ad2",
@@ -213,34 +213,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc352b08de8a7775",
+  "active": "6e722e1e62b38adb",
   "lastOpenFiles": [
-    "2o Mates/202 Análisis II/Teorema de la función implícita.md",
-    "2o Mates/202 Análisis II/Teorema de los multiplicadores de Lagrange.md",
-    "2o Mates/202 Análisis II/202 Análisis II.md",
-    "README.md",
-    "2o Mates/202 Análisis II/Los teoremas de la función inversa y de la función implícita.md",
-    "2o Mates/202 Análisis II/Teorema de la inyectividad local.md",
-    "2o Mates/202 Análisis II/Teorema de la función inversa.md",
-    "2o Mates/202 Análisis II/Cambio de variable.md",
-    "2o Mates/202 Análisis II/Criterio de Sylvester.md",
-    "2o Mates/202 Análisis II/Imagen bola con jacobiano no trivial es entorno.md",
-    "2o Mates/202 Análisis II/Función de clase C1 con jacobiano no nulo es abierta.md",
-    "2o Mates/202 Análisis II/Función inversa es continua.md",
-    "2o Mates/203 Programación matemática/Envoltura convexa es el conjunto de las combinaciones lineales convexas formadas por puntos de C.md",
-    "2o Mates/202 Análisis II/Regla de la cadena (Rn).md",
-    "Excalidraw/Drawing 2024-12-30 12.39.16.excalidraw.md",
-    "Excalidraw/Ejercicio 3.1 EstrAlg.md",
-    "1ero Mates/2o Cuatri/201 Análisis I/(POR DEMOSTRAR) Producto de funciones continuas es continua.md",
-    "2o Mates/202 Análisis II/Derivada parcial.md",
-    "2o Mates/202 Análisis II/Límites iterados.md",
-    "2o Mates/202 Análisis II/Límites por curvas.md",
-    "2o Mates/204 Métodos numéricos/Descomposición PA = LU.md",
-    "2o Mates/204 Métodos numéricos/Descomposición LU.md",
-    "2o Mates/204 Métodos numéricos/Descomposición matricial LU.md",
-    "2o Mates/204 Métodos numéricos/Matriz simétrica implica que sus matrices de trabajo también lo son.md",
-    "2o Mates/204 Métodos numéricos/Matriz de pivotaje.md",
+    "2o Mates/204 Métodos numéricos/Métodos iterativos para resolver sistemas de ecuaciones lineales.md",
+    "Método de Gauss-Seidel converge con SDP.md",
+    "2o Mates/204 Métodos numéricos/Método de Gauss-Seidel converge en matriz EDDF.md",
     "2o Mates/204 Métodos numéricos/204 Métodos numéricos.md",
+    "2o Mates/204 Métodos numéricos/Método de Jacobi converge en matriz EDDF.md",
+    "README.md",
+    "2o Mates/204 Métodos numéricos/Cálculo norma matricial subordinada infinito.md",
+    "2o Mates/204 Métodos numéricos/Cálculo norma matricial subordinada 1.md",
+    "2o Mates/204 Métodos numéricos/Descomposición de Choleski.md",
+    "Excalidraw/Seminario 4 PRM.md",
+    "2o Mates/203 Programación matemática/Teorema de Dualidad Fuerte.md",
+    "2o Mates/203 Programación matemática/Dualidad y análisis de sensibilidad.md",
+    "2o Mates/203 Programación matemática/Teorema de Dualidad Débil.md",
+    "2o Mates/203 Programación matemática/203 Programación matemática.md",
+    "2o Mates/203 Programación matemática/Criterio de unicidad de solución óptima.md",
+    "2o Mates/203 Programación matemática/Criterio de optimalidad.md",
+    "2o Mates/203 Programación matemática/Teorema de caracterización de puntos extremos.md",
+    "2o Mates/203 Programación matemática/Teorema fundamental de la programación lineal.md",
+    "2o Mates/201 Topología/201 Topología.md",
+    "2o Mates/202 Análisis II/202 Análisis II.md",
+    "2o Mates/202 Análisis II/Criterio de Sylvester.md",
+    "2o Mates/202 Análisis II/Forma cuadrática.md",
+    "2o Mates/202 Análisis II/Matriz Hessiana.md",
+    "1ero Mates/1er Cuatri/102 Álgebra Lineal y Geometría I/Teorema suma de dimensiones de núcleo e imagen.md",
+    "1ero Mates/1er Cuatri/102 Álgebra Lineal y Geometría I/Teorema suma de dimensiones.md",
+    "1ero Mates/1er Cuatri/102 Álgebra Lineal y Geometría I/Teorema Rouche-Frobenius.md",
     "Attachements/Pasted Image 20241204192828_478.png",
     "Attachements/Pasted Image 20241206173927_305.png",
     "Attachements/Pasted Image 20241210103347_352.png",

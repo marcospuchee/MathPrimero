@@ -97,4 +97,5 @@
 - [$Mx^k = b-Nx^{k-1}$ converge a $x^* {}$ $\iff$ $\rho(Q) < 1$](Caracterización convergencia método iterativo sistemas de ecuaciones lineales (radio espectral matriz de iteración))
 - [$||Q|| < 1$ para alguna norma matricial subordinada $\implies$ $Mx^k = b-Nx^{k-1}$ converge](Norma matriz de iteración menor que uno implica método convergente)
 - [[Método de Jacobi converge en matriz EDDF]]
+- [[Método de Gauss-Seidel converge con SDP]]
 - [[Método de Gauss-Seidel converge en matriz EDDF]]

@@ -75,7 +75,7 @@ Observamos que $A, D$ son [[Matrices congruentes]], por ser matrices coordenadas
 ```ad-cor
 $f: \Omega \subset \mathbb R^2 \to \mathbb R$, $f \in C^2 (\Omega)$ y $a \in \Omega$ punto crítico de $f$.
 $$H_f (a) = \begin{pmatrix} D_{11}f(a) & D_{12}f(a) \\ D_{21}f(a) & D_{22}f(a) \end{pmatrix}.$$
-1. Si $\det(H_f(a)) > 0$ y $D_{11}f(a)$, entonces $f$ tiene mínimo relativo estricto en $a$.
+1. Si $\det(H_f(a)) > 0$ y $D_{11}f(a)>0$, entonces $f$ tiene mínimo relativo estricto en $a$.
 2. Si $\det(H_f(a)) > 0$ y $D_{11}f(a) < 0$, entonces $f$ tiene máximo relativo estricto en $a$.
 3. Si $\det(H_f(a)) < 0$, entonces $f$ tiene un punto de silla en $a$.
 ```

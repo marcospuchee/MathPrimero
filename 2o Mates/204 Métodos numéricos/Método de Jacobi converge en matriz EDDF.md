@@ -1,7 +1,7 @@
 ### Contenido Principal
 
 ```ad-proposition
-Sea $A$ una matriz EDDC, entonces el método de Jacobi aplicado a sistemas $Ax = b$ converge.
+Sea $A$ una matriz EDDF, entonces el método de Jacobi aplicado a sistemas $Ax = b$ converge.
 ```
 
 ```ad-proof

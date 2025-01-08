@@ -21,7 +21,7 @@ $$\begin{array}{c}
 Consideramos $\varphi: [0,1] \to \mathbb R$ con $\varphi(t) = f(a+t(b-a))$, $\forall t \in [0,1]$, $\varphi$ continua en $[0,1]$. Por la [[regla de la cadena (Rn)]], $\varphi$ es derivable en $]0,1[$ y
 $$\varphi'(t) = \langle \nabla f(a+t(b-a)), b-a \rangle.$$
 Por el teorema del valor medio en $\mathbb R$, $\exists \xi \in ]0,1[$ tal que
-$$f(b) - f(a) = \varphi(1) - \varphi(0) = \varphi'(\xi) = \langle \nabla f(a+t(b-a)), b-a \rangle.$$
+$$f(b) - f(a) = \varphi(1) - \varphi(0) = \varphi'(\xi) = \langle \nabla f(a+\xi (b-a)), b-a \rangle.$$
 Luego tomamos $c = a+ \xi(b-a)$.
 ```
 
